@@ -1,0 +1,3 @@
+QC P31 VI: PASS
+counts: {'C': 2, 'E': 1, 'L': 61, 'R': 1}
+ties: 65

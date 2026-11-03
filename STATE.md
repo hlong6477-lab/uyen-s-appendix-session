@@ -37,7 +37,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P28 | New Year resolution | 72/70 | ☐ | ☐ | ☐ | ☐ |
 | P29 | Property prices | 27/21 | ☐ | ☐ | ☐ | ☐ |
 | P30 | Optimistic trends 2025 | 55/44 | ☐ | ☐ | ☐ | ☐ |
-| P31 | Escaped bear Dubai | 15/15 | ⏳ | | | |
+| P31 | Escaped bear Dubai | 15/15 | ✅ | ✅ | ✅ | PASS/PASS (67/65) |
 | P32 | BLM mural | 25/23 | ☐ | ☐ | ☐ | ☐ |
 | P33 | Salt coffee VN | 45/33 | ☐ | ☐ | ☐ | ☐ |
 | P34 | Russia fines Google | 6/6 | ✅ | ✅ | ✅ | PASS/PASS (18/18) |
