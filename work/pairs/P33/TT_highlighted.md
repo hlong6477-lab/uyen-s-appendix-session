@@ -1,0 +1,42 @@
+# P33 — TT (Vietnamese)
+
+**Title:** Báo Mỹ CNN lý giải cách cà phê muối Việt Nam 'xâm chiếm' thế giới
+
+**Legend:** 🟨 R | 🟩 S | 🟦 E (∅ = gap) | 🟧 C | 🟪 L
+
+---
+
+Cà phê muối, trong nhiều tháng qua, trở thành xu hướng đồ uống phổ biến trên các nền tảng mạng xã hội, đến nỗi 'ông lớn' Starbucks cũng làm theo.
+
+Một quán cà phê nhỏ, đơn giản ở thành phố Huế được công nhận rộng rãi vì đã phát minh ra 🟪⟦loại đồ uống⟧ phổ biến hiện nay, được làm bằng cách thêm sữa đặc có đường vào cà phê Việt Nam. 🟨⟦Hỗn hợp này⟧ được phủ 🟪⟦kem muối⟧ lên trên và dùng nóng hoặc đá.
+Starbucks cũng làm cà phê muối
+"🟨⟦Chúng tôi⟧ tạo ra 🟪⟦cà phê muối⟧ vào năm 2010 khi mở quán 🟪⟦Cà phê Muối⟧ đầu tiên tại số 10 đường Nguyễn Lương Bằng", đồng sở hữu Hồ Thị Thanh Hương và Trần Nguyễn Hữu Phong nói với CNN.
+Sự kết hợp giữa 🟪⟦sữa đặc⟧, 🟪⟦muối⟧ và 🟪⟦cà phê đen⟧ 🟨⟦này⟧ tạo ra một 🟪⟦hỗn hợp⟧ kem làm dịu đi vị đắng của cà phê và cân bằng vị ngọt của sữa đặc
+Tên của 🟪⟦quán cà phê⟧ và 🟪⟦đồ uống⟧ nổi tiếng hiện nay đã nói lên điều đó: 🟪⟦cà phê và muối⟧.
+"Khi mở 🟪⟦quán cà phê⟧, 🟨⟦chúng tôi⟧ phải làm khác một chút để thu hút khách hàng, nên vị 🟪⟦cà phê muối⟧ sẽ giữ họ ở lại", 🟨⟦cặp đôi⟧ nói.
+🟨⟦Chiến lược này⟧ đã có hiệu quả. Người dân địa phương và khách du lịch tò mò bắt đầu ghé tới và thích những gì đang uống.
+
+
+Chẳng bao lâu, 🟪⟦cà phê muối⟧ được biết đến như một thức uống đặc sản đại diện cho 🟪⟦Huế⟧ và 🟪⟦các quán cà phê⟧ trên khắp Việt Nam cũng bắt đầu phục vụ món này.
+Những người sáng lập 🟪⟦Cà phê Muối⟧ cho biết: "Sau đại dịch, 🟪⟦cà phê muối⟧ dường như đang trở thành 🟪⟦xu hướng⟧ trên khắp 🟪⟦Việt Nam⟧.
+Ở 🟪⟦Huế⟧, 🟪⟦cà phê muối⟧ trở thành thức uống hàng ngày như 🟪⟦cà phê đen⟧ hay 🟪⟦cà phê sữa⟧ nên 🟨⟦xu hướng này⟧ mang lại nhiều thay đổi cho hoạt động kinh doanh của 🟨⟦chúng tôi⟧".
+Ngày nay, 🟪⟦quán cà phê⟧ của 🟨⟦anh chị⟧ còn đóng chai để bán khắp nơi 🟪⟦Việt Nam⟧,
+đồng thời du khách quốc tế đến 🟪⟦Việt Nam⟧ cũng tìm uống thử 🟨⟦loại cà phê này⟧, như cách họ từng thử cà phê trứng ở Hà Nội.
+Mặc dù 🟪⟦cái tên⟧ có thể khiến mọi người khó chịu nhưng hương vị thực sự có tác dụng. 🟪⟦Sữa⟧ và kem ngọt làm 🟪⟦cân bằng⟧ 🟪⟦vị đắng⟧ của 🟪⟦cà phê⟧, còn 🟪⟦muối⟧ làm tăng 🟪⟦vị ngọt⟧ - giống như một chút muối trong ca ra men 🟪⟦mặn⟧ làm cho 🟪⟦hương vị⟧ ca ra men nổi bật hơn.
+Ngay cả chi nhánh 🟪⟦Starbucks⟧ tại 🟪⟦Việt Nam⟧ cũng tham gia làn sóng 🟪⟦cà phê muối⟧, tung ra phiên bản cà phê muối của riêng mình vào tháng 5 năm nay.
+Cà phê muối đến Mỹ
+
+
+🟪⟦Việt Nam⟧, nơi chủ yếu trồng 🟪⟦cà phê⟧ Robusta, là nước xuất khẩu cà phê lớn thứ hai thế giới sau Brazil. Theo Hội đồng Thương mại Quốc tế, xuất khẩu 🟪⟦cà phê⟧ của 🟪⟦Việt Nam⟧ đạt 2,9 tỉ USD trong 5 tháng đầu năm nay, đánh dấu mức tăng 43,9% so với cùng kỳ năm ngoái.
+Việc 🟪⟦cà phê muối⟧ trở nên phổ biến khắp 🟪⟦các quán cà phê⟧ ở 🟪⟦Huế⟧ và là lựa chọn phổ biến trong thực đơn trên khắp 🟪⟦Việt Nam⟧ hiện nay không có gì đáng ngạc nhiên.
+Lần đầu tiên được thực dân Pháp giới thiệu vào những năm 1850, 🟪⟦cà phê⟧ ngày nay trở nên cực kỳ phổ biến khắp 🟨⟦cả nước⟧. Các 🟪⟦quán cà phê⟧ đa dạng, từ những quầy nhỏ có ghế nhựa trên vỉa hè cho đến những quán cà phê hiện đại, đẹp mắt có 🟪⟦máy rang cà phê⟧ tại chỗ.
+
+🟪⟦Cà phê muối⟧ chỉ là một trong số những 🟪⟦ly cà phê⟧ đặc sản của 🟪⟦Việt Nam⟧ có thể khiến những ai chưa thử chúng phải ngạc nhiên.
+Có lẽ nổi tiếng nhất 🟨⟦trong số đó⟧ là cà phê trứng. Được phát minh ở Hà Nội, công thức giống như món tráng miệng này thêm phần trên là lòng đỏ trứng, đánh bọt 🟪⟦sữa đặc⟧ vào 🟪⟦nền cà phê⟧.
+🟧⟦Và sau đó⟧ là 🟪⟦cà phê⟧ cốt dừa, cà phê sinh tố hay cà phê sữa chua…
+Theo báo cáo của cơ quan nghiên cứu thị trường toàn cầu Mintel công bố vào năm 2023, người tiêu dùng bên ngoài châu Á ngày càng quan tâm đến 🟨⟦những trải nghiệm và hương vị cà phê mới lạ này⟧. Khoảng 71% 🟪⟦người tiêu dùng⟧ Gen Z được 🟪⟦Mintel⟧ tại Mỹ phỏng vấn cho biết họ quan tâm đến việc thử 🟪⟦đồ uống cà phê⟧ lấy cảm hứng từ châu Á như 🟪⟦cà phê Việt Nam⟧.
+🟪⟦Tại Mỹ⟧, 7 Leaves Café, chuỗi 🟪⟦quán cà phê⟧ bán 🟪⟦đồ uống Việt Nam⟧, đã mở rộng tới hơn 40 chi nhánh trên khắp đất nước sau khi mở quán cà phê đầu tiên ở California vào năm 2011.
+🟧⟦Trong khi đó⟧, các 🟪⟦quán cà phê⟧ riêng lẻ của 🟪⟦Việt Nam⟧ đang mọc lên khắp 🟪⟦nước Mỹ⟧, với 🟪⟦Phin Ca Phe⟧ ở Seattle và Càphê Roasters ở Philadelphia trong số những nơi cung cấp các phiên bản 🟪⟦cà phê muối⟧. Bên kia Đại Tây Dương ở London, những địa điểm như 🟪⟦Caphe House⟧ bán nhiều loại 🟪⟦đồ uống cà phê Việt Nam⟧ khác nhau, trong đó có 🟪⟦cà phê trứng⟧...
+
+
+
