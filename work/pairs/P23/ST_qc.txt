@@ -1,0 +1,3 @@
+QC P23 EN: PASS
+counts: {'C': 6, 'E': 1, 'L': 76, 'R': 24, 'S': 1}
+ties: 108

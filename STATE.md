@@ -29,13 +29,13 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 |---|---|---|---|---|---|---|
 | P21 | Bunnings scam | 26/22 | ✅ | ✅ | ✅ | PASS/PASS (75/72) |
 | P22 | Kid screen time | 60/60 | ☐ | ☐ | ☐ | ☐ |
-| P23 | Shopping swap $4,000 | 41/45 | ☐ | ☐ | ☐ | ☐ |
+| P23 | Shopping swap $4,000 | 41/45 | ✅ | ✅ | ✅ | PASS/PASS (108/122) |
 | P24 | Migration 2025 | 118/114 | ☐ | ☐ | ☐ | ☐ |
 | P25 | Inflation / RBA | 51/57 | ☐ | ☐ | ☐ | ☐ |
 | P26 | Fastest-growing jobs | 20/19 | ✅ | ✅ | ✅ | PASS/PASS (74/69) |
 | P27 | Overemployed | 105/84 | ☐ | ☐ | ☐ | ☐ |
 | P28 | New Year resolution | 72/70 | ☐ | ☐ | ☐ | ☐ |
-| P29 | Property prices | 27/21 | ☐ | ☐ | ☐ | ☐ |
+| P29 | Property prices | 27/21 | ✅ | ✅ | ✅ | PASS/PASS (86/65) |
 | P30 | Optimistic trends 2025 | 55/44 | ☐ | ☐ | ☐ | ☐ |
 | P31 | Escaped bear Dubai | 15/15 | ✅ | ✅ | ✅ | PASS/PASS (67/65) |
 | P32 | BLM mural | 25/23 | ☐ | ☐ | ☐ | ☐ |
@@ -44,7 +44,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P35 | Maxar satellite | 8/8 | ✅ | ✅ | ✅ | PASS/PASS (32/34) |
 | P36 | AI breast cancer | 33/32 | ☐ | ☐ | ☐ | ☐ |
 | P37 | Nanoplastics | 41/37 | ☐ | ☐ | ☐ | ☐ |
-| P38 | WHO salt | 25/25 | ☐ | ☐ | ☐ | ☐ |
+| P38 | WHO salt | 25/25 | ✅ | ✅ | ✅ | PASS/PASS (81/84) |
 | P39 | Bangladesh floods | 21/10 | ✅ | ✅ | ✅ | PASS/PASS (60/32) |
 | P40 | Pope funds | 7/6 | ✅ | ✅ | ✅ | PASS/PASS (17/20) |
 
