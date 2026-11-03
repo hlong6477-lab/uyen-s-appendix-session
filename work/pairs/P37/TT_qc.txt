@@ -1,0 +1,3 @@
+QC P37 VI: PASS
+counts: {'C': 3, 'L': 92, 'R': 19}
+ties: 114
