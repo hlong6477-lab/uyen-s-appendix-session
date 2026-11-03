@@ -1,0 +1,25 @@
+# P36 — TT (Vietnamese)
+
+**Title:** AI phát hiện ung thư vú tốt hơn bác sĩ?
+
+**Legend:** 🟨 R | 🟩 S | 🟦 E (∅ = gap) | 🟧 C | 🟪 L
+
+---
+
+Một nghiên cứu của Đức cho thấy tỷ lệ phát hiện ung thư được cải thiện gần 18% khi bác sĩ nhận được sự trợ giúp từ trí tuệ nhân tạo AI.
+Trong 🟨⟦nghiên cứu này⟧, các bác sĩ X quang — những bác sĩ phân tích kết quả chụp nhũ ảnh và các xét nghiệm chẩn đoán khác — đã sử dụng 🟪⟦trí tuệ nhân tạo⟧ để kiểm tra ảnh chụp nhũ ảnh của hơn 460.000 phụ nữ Đức trong độ tuổi từ 50 đến 69. Các nhà nghiên cứu cho biết theo 🟨⟦cách này⟧, cứ một ngàn phụ nữ thì phát hiện thêm một ca ung thư so với cách chỉ có 🟪⟦con người⟧ mà không có 🟪⟦AI⟧ hỗ trợ. 🟨⟦Đây⟧ là cuộc khám phá thực tế lớn nhất cho đến nay về việc sử dụng 🟪⟦AI⟧ để phát hiện 🟪⟦ung thư vú⟧.
+“🟪⟦Tỷ lệ phát hiện ung thư vú⟧ tốt hơn và đây thực sự là bằng chứng mạnh mẽ”, Tiến sĩ Alexander Katalinic, thuộc Đại học Lubeck ở 🟪⟦Đức⟧, nhà nghiên cứu chính 🟪⟦của nghiên cứu⟧, nói. “🟧⟦Và⟧ dựa trên 🟨⟦bằng chứng này⟧, chúng ta nên bắt đầu sử dụng nhiều 🟪⟦AI⟧ hơn trong việc sàng lọc 🟪⟦ung thư vú⟧ và cuối cùng, điều này sẽ trở thành tiêu chuẩn”.
+Chụp 🟪⟦nhũ ảnh⟧ của 463.094 🟪⟦phụ nữ Đức⟧ đã được kiểm tra từ tháng 7 năm 2021 đến tháng 2 năm 2023. Khoảng 🟨⟦một nửa⟧ được hai 🟪⟦bác sĩ X quang⟧ xem xét, đây là quy trình 🟪⟦chuẩn⟧ ở 🟪⟦Đức⟧. Trong hơn 🟪⟦một nửa⟧ số trường hợp, 🟪⟦con người⟧ được 🟪⟦AI⟧ hỗ trợ. Khi 🟪⟦AI⟧ tham gia, 🟪⟦tỷ lệ phát hiện ung thư vú⟧ là 6,7 trên 1.000 🟪⟦phụ nữ⟧, so với 5,7 trên 1.000 phụ nữ chỉ được 🟪⟦sàng lọc⟧ bởi 🟪⟦con người⟧.
+“🟪⟦AI⟧ thực sự phù hợp để thay thế người đọc ở một mức độ nhất định”, ông 🟪⟦Katalinic⟧ cho biết. “🟧⟦Nhưng⟧ bạn muốn đi xa đến đâu? 🟨⟦Đây⟧ không chỉ là vấn đề khoa học mà còn🟦⟦∅⟧ là vấn đề xã hội. Niềm tin của 🟪⟦xã hội⟧ vào 🟪⟦AI⟧ như thế nào?”
+🟪⟦Nghiên cứu⟧ phát hiện ra rằng 🟪⟦AI⟧ cũng 🟪⟦giúp⟧ giảm số lượng kết quả dương tính giả. 🟧⟦Tuy nhiên⟧, 🟪⟦trí tuệ nhân tạo⟧ đã bỏ sót một số bệnh 🟪⟦ung thư⟧.
+“🟪⟦AI⟧ không hoàn hảo giống như 🟪⟦con người⟧ không hoàn hảo”, Stefan Bunk, đồng sáng lập của Vara, một công ty công nghệ chăm sóc sức khỏe tại Berlin đã phát triển 🟪⟦trí tuệ nhân tạo⟧ được sử dụng trong 🟪⟦nghiên cứu⟧, cho biết. “Có 20 🟪⟦trường hợp⟧ trong 🟪⟦nghiên cứu⟧ của 🟨⟦chúng tôi⟧ mà 🟪⟦AI⟧ nói rằng trường hợp này là bình thường nhưng thực tế là một 🟪⟦bác sĩ X quang⟧ lại 🟪⟦phát hiện ra ung thư⟧”.
+🟧⟦Tuy nhiên⟧, theo 🟪⟦kết quả nghiên cứu⟧, 🟪⟦con người⟧ đã 🟪⟦bỏ sót⟧ 🟪⟦khối u ác tính⟧ nhiều hơn 🟪⟦AI⟧ gấp 10 lần.
+“Không giống như 🟪⟦con người⟧, 🟪⟦AI⟧ không biết mệt mỏi, đúng không?” ông 🟪⟦Bunk⟧ nói. “🟪⟦AI⟧ hoạt động theo cùng một cách vào lúc 2 giờ sáng như🟦⟦∅⟧ vào giữa ngày. 🟧⟦Vì vậy⟧, 🟨⟦đây⟧ chắc chắn là một lợi thế và cũng🟦⟦∅⟧ là một trong những lý do tại sao tôi nghĩ 🟪⟦AI⟧ có thể phát hiện ra 🟪⟦ung thư⟧ mà nếu không thì 🟪⟦con người⟧ sẽ 🟪⟦bỏ sót⟧”.
+Theo ông 🟪⟦Bunk⟧, 🟪⟦AI⟧ có thể 🟪⟦giúp giảm⟧ khối lượng công việc cho các 🟪⟦bác sĩ X quang⟧, giúp họ tập trung vào các 🟪⟦trường hợp⟧ phức tạp hơn, đồng thời nói thêm rằng việc ngày càng phụ thuộc vào AI có thể dẫn đến nguy cơ mất đi chuyên môn của 🟪⟦con người⟧ theo thời gian.
+“🟨⟦Những trường hợp phức tạp đó⟧ — những trường hợp mà bạn cần phải tính đến nhiều góc độ, khi bạn cần phải nói chuyện với bệnh nhân, đúng không — là điều mà 🟪⟦chuyên môn⟧ và một 🟪⟦bác sĩ X quang⟧ thực thụ rất quan trọng và cần phải tiếp tục được đào tạo”, ông 🟪⟦Bunk⟧ nói.
+Tiến sĩ Wei Yang, giáo sư về X quang 🟪⟦vú⟧ tại Trung tâm Ung thư MD Anderson thuộc Đại học Texas ở Houston, Texas, tin rằng 🟪⟦việc sử dụng AI⟧ nhiều hơn có thể tiếp thêm sinh lực cho các 🟪⟦bác sĩ X quang⟧.
+“Tôi nghĩ rằng sự ra đời của 🟪⟦AI⟧ là cơ hội và động lực để 🟨⟦chúng ta⟧ trở nên hứng thú hơn với lĩnh vực của mình để các 🟪⟦bác sĩ X quang⟧ được 🟪⟦đào tạo⟧ bài bản có không gian mở, thời gian và sự tập trung để 🟪⟦tập trung vào⟧ các nhiệm vụ 🟪⟦phức tạp⟧ hơn”, bà 🟪⟦Yang⟧ cho biết.
+Theo ông 🟪⟦Katalinic⟧, việc sử dụng 🟪⟦bác sĩ X quang⟧ cùng với 🟪⟦trí tuệ nhân tạo⟧ mang lại lợi ích tốt nhất của cả hai thế giới.
+“Sự kết hợp giữa 🟪⟦con người⟧ và 🟪⟦AI⟧ tốt hơn nhiều so với việc chỉ có 🟪⟦kết quả đọc⟧ của con người”, 🟨⟦ông⟧ nói.
+Bà 🟪⟦Yang⟧, người không tham gia vào 🟪⟦nghiên cứu⟧, rất phấn khởi trước 🟪⟦kết quả⟧.
+“🟪⟦Dữ liệu⟧ rất thuyết phục”, 🟨⟦bà⟧ cho biết. “🟪⟦Tỷ lệ phát hiện ung thư⟧ tăng lên, số 🟪⟦dương tính sai⟧ 🟪⟦giảm⟧ và tác động tiềm tàng mà điều này có thể tạo ra cho lực lượng lao động và tình trạng quá tải nhìn chung, rất, rất tích cực”.

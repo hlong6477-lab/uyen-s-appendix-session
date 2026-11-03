@@ -1,0 +1,3 @@
+QC P36 VI: PASS
+counts: {'C': 5, 'E': 3, 'L': 85, 'R': 12}
+ties: 105
