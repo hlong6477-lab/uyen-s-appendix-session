@@ -1,0 +1,3 @@
+QC P22 EN: PASS
+counts: {'C': 1, 'L': 85, 'R': 18}
+ties: 104
