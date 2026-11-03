@@ -32,7 +32,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P23 | Shopping swap $4,000 | 41/45 | ☐ | ☐ | ☐ | ☐ |
 | P24 | Migration 2025 | 118/114 | ☐ | ☐ | ☐ | ☐ |
 | P25 | Inflation / RBA | 51/57 | ☐ | ☐ | ☐ | ☐ |
-| P26 | Fastest-growing jobs | 20/19 | ⏳ | | | |
+| P26 | Fastest-growing jobs | 20/19 | ✅ | ✅ | ✅ | PASS/PASS (74/69) |
 | P27 | Overemployed | 105/84 | ☐ | ☐ | ☐ | ☐ |
 | P28 | New Year resolution | 72/70 | ☐ | ☐ | ☐ | ☐ |
 | P29 | Property prices | 27/21 | ☐ | ☐ | ☐ | ☐ |
@@ -45,7 +45,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P36 | AI breast cancer | 33/32 | ☐ | ☐ | ☐ | ☐ |
 | P37 | Nanoplastics | 41/37 | ☐ | ☐ | ☐ | ☐ |
 | P38 | WHO salt | 25/25 | ☐ | ☐ | ☐ | ☐ |
-| P39 | Bangladesh floods | 21/10 | ⏳ | | | |
+| P39 | Bangladesh floods | 21/10 | ✅ | ✅ | ✅ | PASS/PASS (60/32) |
 | P40 | Pope funds | 7/6 | ✅ | ✅ | ✅ | PASS/PASS (17/20) |
 
 ## Lệnh chuẩn (chạy từ gốc repo này)

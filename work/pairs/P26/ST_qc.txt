@@ -1,0 +1,3 @@
+QC P26 EN: PASS
+counts: {'C': 4, 'L': 61, 'R': 9}
+ties: 74

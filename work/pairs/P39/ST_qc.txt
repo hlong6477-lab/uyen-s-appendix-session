@@ -1,0 +1,3 @@
+QC P39 EN: PASS
+counts: {'C': 2, 'E': 1, 'L': 46, 'R': 9, 'S': 2}
+ties: 60
