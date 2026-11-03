@@ -163,16 +163,18 @@ Quy tắc: một dấu cho mỗi chuỗi trong mỗi câu, tiền trạm theo nh
 
 | Chỉ số | Đọc tay | Tie table | Ghi chú |
 |---|---:|---:|---|
-| EN — R | 55 | 55 | 17 A (It×4, They/they×2, That, this×2, This×2, those, these×2, He×2, it) + 38 E (you/your 27, we/us 10, đọc theo quy ước 1 dấu/câu) |
+| EN — R | 55 | 54 | 18 A (It×4, They/they×2, That, this×2, This×2, this clarity, those, these×2, He×2, it) + 36 E (you/your 27, we/us 9, đọc theo quy ước 1 dấu/câu) |
 | EN — S | 1 | 1 | "do" (S063) [LC] |
 | EN — E | 2 | 2 | "three" (S045) [TC] + ∅ vị ngữ (S070) [LC] |
 | EN — C | 11 | 11 | But×4, Additionally, And, For example, Instead, For instance, however, In fact |
-| EN — L | 123 | 123 | chuỗi quyết tâm/thất bại/Borland/kế hoạch/SMART/đổi mới/thành công/sức khỏe/nghiên cứu/lối sống/thực hiện/lý tưởng/duy trì… |
-| VI — R | 51 | 51 | 15 A (Ông×2, Chúng/chúng×2, Điều đó/điều đó×2, Điều này, đây, này×5, đó) + 36 E (bạn 27, chúng ta 9) |
+| EN — L | 123 | 100 | chuỗi quyết tâm/thất bại/Borland/kế hoạch/SMART/đổi mới/thành công/sức khỏe/nghiên cứu/lối sống/thực hiện/lý tưởng/duy trì… — khi lập bảng, các mắt xích lần đầu / cụm cố định được loại nhiều hơn ước tính đọc tay |
+| VI — R | 51 | 50 | 14 A (Ông×2, Chúng/chúng×2, Điều đó/điều đó×2, Điều này, đây, này×5, đó) + 36 E (bạn 27, chúng ta 9) |
 | VI — S | 1 | 1 | "làm" (S061) [LC] |
 | VI — E | 3 | 3 | ∅ chủ ngữ (S005, S006, S007) [LC] |
 | VI — C | 11 | 11 | Nhưng×4, Ngoài ra, Và, Ví dụ×2, Thay vào đó, Tuy nhiên, Trên thực tế |
-| VI — L | 124 | 124 | mật độ tương đương EN; VI có 2 tie tự sinh (mục tiêu S022, duy trì S036) và các tie hội tụ do bản dịch đổi từ ít hơn |
+| VI — L | 124 | 105 | mật độ tương đương EN; VI có 2 tie tự sinh (mục tiêu S022, duy trì S036) và các tie hội tụ do bản dịch đổi từ ít hơn |
+
+**Tổng tie table: EN 168 / VI 170 (VI hơn EN 3):** khối cắt EN làm mất 5 hàng EN-only (S012: 1; S039: 4); bù lại VI có 3 hàng E ∅-chủ-ngữ đối xứng với 3 hàng R-A "It" của EN (cân bằng 3–3), 1 hàng "đây" (S030) VI-only (EN time-it không đánh), 1 hàng "mục tiêu" (S022) VI tự sinh, 1 hàng "duy trì" (S036) VI tự sinh, cộng các vị trí VI lặp đậm hơn (lành mạnh hơn S010, rõ ràng tách hàng S052/S055, thất bại/đạt được ở S057–S058/S066) → chênh cuối cùng −3 cho EN. Bảng tie table là chuẩn cuối cùng.
 
 **Kết luận:**
 1. Cặp P28 là feature khuyến nghị nên cấu trúc liên kết bị chi phối bởi **hai chuỗi ngoại quy chiếu liên văn bản** (you/bạn ×27, we-us/chúng ta ×9–10) — khác căn bản các cặp tin tức; toàn bộ ngôi 2 gần như bảo toàn từng vị trí 1–1.
