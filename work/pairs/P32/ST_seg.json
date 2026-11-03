@@ -1,0 +1,194 @@
+{
+ "paras": [
+  "WASHINGTON — Construction crews began removing the large painting of the words “Black Lives Matter” on a street one block from the White House on Monday as Washington Mayor Muriel Bowser struggles to fend off threats of encroachment from both President Donald Trump and the Republican-controlled Congress.",
+  "Bowser pointed to the change on the social platform X last week, writing: “The mural inspired millions of people and helped our city through a painful period, but now we can't afford to be distracted by meaningless congressional interference. The devastating impacts of the federal job cuts must be our number one concern.”",
+  "The move shows Bowser's striking shift in tone toward Trump and congressional Republicans since the president's first term in office.",
+  "Bowser, a Democrat, ordered the painting and renamed the intersection Black Lives Matter Plaza as a public act of defiance in June 2020. It came after days of chaotic protests at that location over police brutality following the killing of George Floyd by a Minneapolis police officer.",
+  "Her approach to the protests brought her into direct conflict with Trump. The president at the time accused Bowser of losing control of her city and threatened to invoke his power to take over the Metropolitan Police Department. He didn't follow through but declared his own multiagency lockdown that included helicopters flying at low altitudes to intimidate protesters.",
+  "In Trump's second stint in the White House, Bowser has worked to avoid conflict and downplay any points of contention. She traveled to Trump's Mar-a-Lago estate to meet with the president after his election and has publicly emphasized their points of agreement, such as a mutual desire to return federal workers back to their offices full time.",
+  "Trump recently revived a frequent campaign talking point about wanting a federal “takeover” of the nation's capital, describing Washington as riddled with crime, graffiti and homeless encampments. Bowser has refused to comment on reports that the White House was preparing an executive order targeting Washington; she publicly said that the greatest threat to the so-called Home Rule autonomy was “some of the people in Congress.”",
+  "Republicans, who control both chambers of Congress, have repeatedly threatened to interfere in city affairs in large and small ways. A measure currently before Congress, named the Bowser Act, seeks to completely revoke the Home Rule Act of 1973 that grants the capital city limited autonomy.",
+  "That would be deeply controversial, likely testing the strength of the three-seat GOP House majority. Some representatives have used budget riders to target Washington policies ranging from marijuana legalization to whether right turns on red lights should be legal. And some in Congress have spoken publicly of their disdain for the Black Lives Matter street painting.",
+  "While Bowser and Trump agreed on returning federal workers to their offices, Trump's push to slash the federal workforce is already roiling city finances. A report last week from the city's chief financial officer predicted a $1 billion budget shortfall over the next three years due to the loss of thousands of workers from the federal government.",
+  "Bowser publicly siding with Black Lives Matter activists in 2020 didn't earn her much credibility with them at the time. The local Black Lives Matter affiliate dismissed the move as “performative wokeness” and decried Bowser as overwhelmingly biased toward police. The same activists heaped scorn on Bowser on Tuesday following her reversal.",
+  "Nee Nee Taylor, a founding member of the D.C. Black Lives Matter affiliate, addressed Bowser on X on Tuesday, saying, “You never cared about Black Lives Mattering. You painting those words were performative.”"
+ ],
+ "flow": "WASHINGTON — Construction crews began removing the large painting of the words “Black Lives Matter” on a street one block from the White House on Monday as Washington Mayor Muriel Bowser struggles to fend off threats of encroachment from both President Donald Trump and the Republican-controlled Congress.\nBowser pointed to the change on the social platform X last week, writing: “The mural inspired millions of people and helped our city through a painful period, but now we can't afford to be distracted by meaningless congressional interference. The devastating impacts of the federal job cuts must be our number one concern.”\nThe move shows Bowser's striking shift in tone toward Trump and congressional Republicans since the president's first term in office.\nBowser, a Democrat, ordered the painting and renamed the intersection Black Lives Matter Plaza as a public act of defiance in June 2020. It came after days of chaotic protests at that location over police brutality following the killing of George Floyd by a Minneapolis police officer.\nHer approach to the protests brought her into direct conflict with Trump. The president at the time accused Bowser of losing control of her city and threatened to invoke his power to take over the Metropolitan Police Department. He didn't follow through but declared his own multiagency lockdown that included helicopters flying at low altitudes to intimidate protesters.\nIn Trump's second stint in the White House, Bowser has worked to avoid conflict and downplay any points of contention. She traveled to Trump's Mar-a-Lago estate to meet with the president after his election and has publicly emphasized their points of agreement, such as a mutual desire to return federal workers back to their offices full time.\nTrump recently revived a frequent campaign talking point about wanting a federal “takeover” of the nation's capital, describing Washington as riddled with crime, graffiti and homeless encampments. Bowser has refused to comment on reports that the White House was preparing an executive order targeting Washington; she publicly said that the greatest threat to the so-called Home Rule autonomy was “some of the people in Congress.”\nRepublicans, who control both chambers of Congress, have repeatedly threatened to interfere in city affairs in large and small ways. A measure currently before Congress, named the Bowser Act, seeks to completely revoke the Home Rule Act of 1973 that grants the capital city limited autonomy.\nThat would be deeply controversial, likely testing the strength of the three-seat GOP House majority. Some representatives have used budget riders to target Washington policies ranging from marijuana legalization to whether right turns on red lights should be legal. And some in Congress have spoken publicly of their disdain for the Black Lives Matter street painting.\nWhile Bowser and Trump agreed on returning federal workers to their offices, Trump's push to slash the federal workforce is already roiling city finances. A report last week from the city's chief financial officer predicted a $1 billion budget shortfall over the next three years due to the loss of thousands of workers from the federal government.\nBowser publicly siding with Black Lives Matter activists in 2020 didn't earn her much credibility with them at the time. The local Black Lives Matter affiliate dismissed the move as “performative wokeness” and decried Bowser as overwhelmingly biased toward police. The same activists heaped scorn on Bowser on Tuesday following her reversal.\nNee Nee Taylor, a founding member of the D.C. Black Lives Matter affiliate, addressed Bowser on X on Tuesday, saying, “You never cared about Black Lives Mattering. You painting those words were performative.”",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "WASHINGTON — Construction crews began removing the large painting of the words “Black Lives Matter” on a street one block from the White House on Monday as Washington Mayor Muriel Bowser struggles to fend off threats of encroachment from both President Donald Trump and the Republican-controlled Congress.",
+   "fa": 0,
+   "fb": 305,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Bowser pointed to the change on the social platform X last week, writing: “The mural inspired millions of people and helped our city through a painful period, but now we can't afford to be distracted by meaningless congressional interference.",
+   "fa": 306,
+   "fb": 548,
+   "id": "S002"
+  },
+  {
+   "para": 1,
+   "text": "The devastating impacts of the federal job cuts must be our number one concern.”",
+   "fa": 549,
+   "fb": 629,
+   "id": "S003"
+  },
+  {
+   "para": 2,
+   "text": "The move shows Bowser's striking shift in tone toward Trump and congressional Republicans since the president's first term in office.",
+   "fa": 630,
+   "fb": 763,
+   "id": "S004"
+  },
+  {
+   "para": 3,
+   "text": "Bowser, a Democrat, ordered the painting and renamed the intersection Black Lives Matter Plaza as a public act of defiance in June 2020.",
+   "fa": 764,
+   "fb": 900,
+   "id": "S005"
+  },
+  {
+   "para": 3,
+   "text": "It came after days of chaotic protests at that location over police brutality following the killing of George Floyd by a Minneapolis police officer.",
+   "fa": 901,
+   "fb": 1049,
+   "id": "S006"
+  },
+  {
+   "para": 4,
+   "text": "Her approach to the protests brought her into direct conflict with Trump.",
+   "fa": 1050,
+   "fb": 1123,
+   "id": "S007"
+  },
+  {
+   "para": 4,
+   "text": "The president at the time accused Bowser of losing control of her city and threatened to invoke his power to take over the Metropolitan Police Department.",
+   "fa": 1124,
+   "fb": 1278,
+   "id": "S008"
+  },
+  {
+   "para": 4,
+   "text": "He didn't follow through but declared his own multiagency lockdown that included helicopters flying at low altitudes to intimidate protesters.",
+   "fa": 1279,
+   "fb": 1421,
+   "id": "S009"
+  },
+  {
+   "para": 5,
+   "text": "In Trump's second stint in the White House, Bowser has worked to avoid conflict and downplay any points of contention.",
+   "fa": 1422,
+   "fb": 1540,
+   "id": "S010"
+  },
+  {
+   "para": 5,
+   "text": "She traveled to Trump's Mar-a-Lago estate to meet with the president after his election and has publicly emphasized their points of agreement, such as a mutual desire to return federal workers back to their offices full time.",
+   "fa": 1541,
+   "fb": 1766,
+   "id": "S011"
+  },
+  {
+   "para": 6,
+   "text": "Trump recently revived a frequent campaign talking point about wanting a federal “takeover” of the nation's capital, describing Washington as riddled with crime, graffiti and homeless encampments.",
+   "fa": 1767,
+   "fb": 1963,
+   "id": "S012"
+  },
+  {
+   "para": 6,
+   "text": "Bowser has refused to comment on reports that the White House was preparing an executive order targeting Washington; she publicly said that the greatest threat to the so-called Home Rule autonomy was “some of the people in Congress.”",
+   "fa": 1964,
+   "fb": 2197,
+   "id": "S013"
+  },
+  {
+   "para": 7,
+   "text": "Republicans, who control both chambers of Congress, have repeatedly threatened to interfere in city affairs in large and small ways.",
+   "fa": 2198,
+   "fb": 2330,
+   "id": "S014"
+  },
+  {
+   "para": 7,
+   "text": "A measure currently before Congress, named the Bowser Act, seeks to completely revoke the Home Rule Act of 1973 that grants the capital city limited autonomy.",
+   "fa": 2331,
+   "fb": 2489,
+   "id": "S015"
+  },
+  {
+   "para": 8,
+   "text": "That would be deeply controversial, likely testing the strength of the three-seat GOP House majority.",
+   "fa": 2490,
+   "fb": 2591,
+   "id": "S016"
+  },
+  {
+   "para": 8,
+   "text": "Some representatives have used budget riders to target Washington policies ranging from marijuana legalization to whether right turns on red lights should be legal.",
+   "fa": 2592,
+   "fb": 2756,
+   "id": "S017"
+  },
+  {
+   "para": 8,
+   "text": "And some in Congress have spoken publicly of their disdain for the Black Lives Matter street painting.",
+   "fa": 2757,
+   "fb": 2859,
+   "id": "S018"
+  },
+  {
+   "para": 9,
+   "text": "While Bowser and Trump agreed on returning federal workers to their offices, Trump's push to slash the federal workforce is already roiling city finances.",
+   "fa": 2860,
+   "fb": 3014,
+   "id": "S019"
+  },
+  {
+   "para": 9,
+   "text": "A report last week from the city's chief financial officer predicted a $1 billion budget shortfall over the next three years due to the loss of thousands of workers from the federal government.",
+   "fa": 3015,
+   "fb": 3208,
+   "id": "S020"
+  },
+  {
+   "para": 10,
+   "text": "Bowser publicly siding with Black Lives Matter activists in 2020 didn't earn her much credibility with them at the time.",
+   "fa": 3209,
+   "fb": 3329,
+   "id": "S021"
+  },
+  {
+   "para": 10,
+   "text": "The local Black Lives Matter affiliate dismissed the move as “performative wokeness” and decried Bowser as overwhelmingly biased toward police.",
+   "fa": 3330,
+   "fb": 3473,
+   "id": "S022"
+  },
+  {
+   "para": 10,
+   "text": "The same activists heaped scorn on Bowser on Tuesday following her reversal.",
+   "fa": 3474,
+   "fb": 3550,
+   "id": "S023"
+  },
+  {
+   "para": 11,
+   "text": "Nee Nee Taylor, a founding member of the D.C. Black Lives Matter affiliate, addressed Bowser on X on Tuesday, saying, “You never cared about Black Lives Mattering.",
+   "fa": 3551,
+   "fb": 3714,
+   "id": "S024"
+  },
+  {
+   "para": 11,
+   "text": "You painting those words were performative.”",
+   "fa": 3715,
+   "fb": 3759,
+   "id": "S025"
+  }
+ ]
+}

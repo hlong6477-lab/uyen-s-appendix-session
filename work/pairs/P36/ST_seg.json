@@ -1,0 +1,255 @@
+{
+ "paras": [
+  "A German study shows that the cancer detection rate improves by almost 18% when doctors get help from artificial intelligence.",
+  "For the study, radiologists — doctors who analyze the results of mammograms and other diagnostic tests — used artificial intelligence to examine the mammograms of more than 460,000 German women between the ages of 50 and 69. They found one more cancer for every 1,000 women than humans alone did, according to researchers. It was the largest real-world exploration to date into the use of AI to help detect breast cancer.",
+  "“The breast cancer detection rate is better, and this is really strong evidence,” said Dr. Alexander Katalinic, of the University of Lubeck in Germany, who was the study’s principal investigator. “And based on this evidence, we should start to use more AI in breast cancer screening, and in the end, this should be standard.”",
+  "The mammograms of 463,094 German women were examined between July 2021 and February 2023. About half were reviewed by two radiologists, which is standard procedure in Germany. In just over half of the cases, the humans were assisted by AI. When AI was involved, the breast cancer detection rate was 6.7 per 1,000 women, compared to 5.7 per 1,000 women screened solely by humans.",
+  "“AI really is suitable for replacing human readers to a certain extent,” Katalinic said. “But how far do you want to go? This is not only a question of science, it's also a social question. How is the society’s trust in AI?”",
+  "The study found that AI also helped reduce the number of false positive results. Artificial intelligence, however, did miss some cancers.",
+  "“The AI is not perfect in the same way that the humans are not perfect,” said Stefan Bunk, cofounder of Vara, a health care technology company in Berlin that developed the artificial intelligence used in the study. “There were 20 cases in our study where the AI said this case is normal but actually a radiologist found cancer.”",
+  "Humans, however, missed a malignancy 10 times more than the AI, according to the study results.",
+  "“AI, unlike humans, doesn't get tired, right?” Bunk said. “AI works in the same way at 2 a.m. in the morning like in the middle of the day. So, it's definitely an advantage, and it's also one of the reasons why I think AI finds cancers that otherwise humans would miss.”",
+  "AI could help reduce the workload for radiologists, freeing them to focus on more complex cases, according to Bunk, who added that increasing reliance on AI could lead to the risk of losing human expertise over time.",
+  "“Those complex cases — those cases where you need to take into account multiple angles, where you need to talk to the patient, right — is something where expertise and an actual radiologist is very important and should continue to be trained,” Bunk said.",
+  "Dr. Wei Yang, a professor in breast radiology at the University of Texas MD Anderson Cancer Center in Houston, Texas, believes increased use of AI could energize radiologists.",
+  "“I think that the advent of AI is an opportunity and a trigger for us to become more excited about our field so that highly trained radiologists will have the open space, the time and the concentration to focus on more complex tasks,” Yang said.",
+  "Using a human radiologist along with artificial intelligence offers the best of both worlds, according to Katalinic.",
+  "“The combination of a human together with AI is much better than only having the human reading,” he said.",
+  "Yang, who was not involved in the study, is encouraged by the results.",
+  "“The data is very compelling,” she said. “The increased cancer detection rate, the reduction in the false positive callbacks and the potential impact this can have on the workforce and burnout. So overall, very, very positive.”"
+ ],
+ "flow": "A German study shows that the cancer detection rate improves by almost 18% when doctors get help from artificial intelligence.\nFor the study, radiologists — doctors who analyze the results of mammograms and other diagnostic tests — used artificial intelligence to examine the mammograms of more than 460,000 German women between the ages of 50 and 69. They found one more cancer for every 1,000 women than humans alone did, according to researchers. It was the largest real-world exploration to date into the use of AI to help detect breast cancer.\n“The breast cancer detection rate is better, and this is really strong evidence,” said Dr. Alexander Katalinic, of the University of Lubeck in Germany, who was the study’s principal investigator. “And based on this evidence, we should start to use more AI in breast cancer screening, and in the end, this should be standard.”\nThe mammograms of 463,094 German women were examined between July 2021 and February 2023. About half were reviewed by two radiologists, which is standard procedure in Germany. In just over half of the cases, the humans were assisted by AI. When AI was involved, the breast cancer detection rate was 6.7 per 1,000 women, compared to 5.7 per 1,000 women screened solely by humans.\n“AI really is suitable for replacing human readers to a certain extent,” Katalinic said. “But how far do you want to go? This is not only a question of science, it's also a social question. How is the society’s trust in AI?”\nThe study found that AI also helped reduce the number of false positive results. Artificial intelligence, however, did miss some cancers.\n“The AI is not perfect in the same way that the humans are not perfect,” said Stefan Bunk, cofounder of Vara, a health care technology company in Berlin that developed the artificial intelligence used in the study. “There were 20 cases in our study where the AI said this case is normal but actually a radiologist found cancer.”\nHumans, however, missed a malignancy 10 times more than the AI, according to the study results.\n“AI, unlike humans, doesn't get tired, right?” Bunk said. “AI works in the same way at 2 a.m. in the morning like in the middle of the day. So, it's definitely an advantage, and it's also one of the reasons why I think AI finds cancers that otherwise humans would miss.”\nAI could help reduce the workload for radiologists, freeing them to focus on more complex cases, according to Bunk, who added that increasing reliance on AI could lead to the risk of losing human expertise over time.\n“Those complex cases — those cases where you need to take into account multiple angles, where you need to talk to the patient, right — is something where expertise and an actual radiologist is very important and should continue to be trained,” Bunk said.\nDr. Wei Yang, a professor in breast radiology at the University of Texas MD Anderson Cancer Center in Houston, Texas, believes increased use of AI could energize radiologists.\n“I think that the advent of AI is an opportunity and a trigger for us to become more excited about our field so that highly trained radiologists will have the open space, the time and the concentration to focus on more complex tasks,” Yang said.\nUsing a human radiologist along with artificial intelligence offers the best of both worlds, according to Katalinic.\n“The combination of a human together with AI is much better than only having the human reading,” he said.\nYang, who was not involved in the study, is encouraged by the results.\n“The data is very compelling,” she said. “The increased cancer detection rate, the reduction in the false positive callbacks and the potential impact this can have on the workforce and burnout. So overall, very, very positive.”",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "A German study shows that the cancer detection rate improves by almost 18% when doctors get help from artificial intelligence.",
+   "fa": 0,
+   "fb": 126,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "For the study, radiologists — doctors who analyze the results of mammograms and other diagnostic tests — used artificial intelligence to examine the mammograms of more than 460,000 German women between the ages of 50 and 69.",
+   "fa": 127,
+   "fb": 351,
+   "id": "S002"
+  },
+  {
+   "para": 1,
+   "text": "They found one more cancer for every 1,000 women than humans alone did, according to researchers.",
+   "fa": 352,
+   "fb": 449,
+   "id": "S003"
+  },
+  {
+   "para": 1,
+   "text": "It was the largest real-world exploration to date into the use of AI to help detect breast cancer.",
+   "fa": 450,
+   "fb": 548,
+   "id": "S004"
+  },
+  {
+   "para": 2,
+   "text": "“The breast cancer detection rate is better, and this is really strong evidence,” said Dr. Alexander Katalinic, of the University of Lubeck in Germany, who was the study’s principal investigator.",
+   "fa": 549,
+   "fb": 744,
+   "id": "S005"
+  },
+  {
+   "para": 2,
+   "text": "“And based on this evidence, we should start to use more AI in breast cancer screening, and in the end, this should be standard.”",
+   "fa": 745,
+   "fb": 874,
+   "id": "S006"
+  },
+  {
+   "para": 3,
+   "text": "The mammograms of 463,094 German women were examined between July 2021 and February 2023.",
+   "fa": 875,
+   "fb": 964,
+   "id": "S007"
+  },
+  {
+   "para": 3,
+   "text": "About half were reviewed by two radiologists, which is standard procedure in Germany.",
+   "fa": 965,
+   "fb": 1050,
+   "id": "S008"
+  },
+  {
+   "para": 3,
+   "text": "In just over half of the cases, the humans were assisted by AI.",
+   "fa": 1051,
+   "fb": 1114,
+   "id": "S009"
+  },
+  {
+   "para": 3,
+   "text": "When AI was involved, the breast cancer detection rate was 6.7 per 1,000 women, compared to 5.7 per 1,000 women screened solely by humans.",
+   "fa": 1115,
+   "fb": 1253,
+   "id": "S010"
+  },
+  {
+   "para": 4,
+   "text": "“AI really is suitable for replacing human readers to a certain extent,” Katalinic said.",
+   "fa": 1254,
+   "fb": 1342,
+   "id": "S011"
+  },
+  {
+   "para": 4,
+   "text": "“But how far do you want to go?",
+   "fa": 1343,
+   "fb": 1374,
+   "id": "S012"
+  },
+  {
+   "para": 4,
+   "text": "This is not only a question of science, it's also a social question.",
+   "fa": 1375,
+   "fb": 1443,
+   "id": "S013"
+  },
+  {
+   "para": 4,
+   "text": "How is the society’s trust in AI?”",
+   "fa": 1444,
+   "fb": 1478,
+   "id": "S014"
+  },
+  {
+   "para": 5,
+   "text": "The study found that AI also helped reduce the number of false positive results.",
+   "fa": 1479,
+   "fb": 1559,
+   "id": "S015"
+  },
+  {
+   "para": 5,
+   "text": "Artificial intelligence, however, did miss some cancers.",
+   "fa": 1560,
+   "fb": 1616,
+   "id": "S016"
+  },
+  {
+   "para": 6,
+   "text": "“The AI is not perfect in the same way that the humans are not perfect,” said Stefan Bunk, cofounder of Vara, a health care technology company in Berlin that developed the artificial intelligence used in the study.",
+   "fa": 1617,
+   "fb": 1831,
+   "id": "S017"
+  },
+  {
+   "para": 6,
+   "text": "“There were 20 cases in our study where the AI said this case is normal but actually a radiologist found cancer.”",
+   "fa": 1832,
+   "fb": 1945,
+   "id": "S018"
+  },
+  {
+   "para": 7,
+   "text": "Humans, however, missed a malignancy 10 times more than the AI, according to the study results.",
+   "fa": 1946,
+   "fb": 2041,
+   "id": "S019"
+  },
+  {
+   "para": 8,
+   "text": "“AI, unlike humans, doesn't get tired, right?”",
+   "fa": 2042,
+   "fb": 2088,
+   "id": "S020"
+  },
+  {
+   "para": 8,
+   "text": "Bunk said.",
+   "fa": 2089,
+   "fb": 2099,
+   "id": "S021"
+  },
+  {
+   "para": 8,
+   "text": "“AI works in the same way at 2 a.m. in the morning like in the middle of the day.",
+   "fa": 2100,
+   "fb": 2181,
+   "id": "S022"
+  },
+  {
+   "para": 8,
+   "text": "So, it's definitely an advantage, and it's also one of the reasons why I think AI finds cancers that otherwise humans would miss.”",
+   "fa": 2182,
+   "fb": 2312,
+   "id": "S023"
+  },
+  {
+   "para": 9,
+   "text": "AI could help reduce the workload for radiologists, freeing them to focus on more complex cases, according to Bunk, who added that increasing reliance on AI could lead to the risk of losing human expertise over time.",
+   "fa": 2313,
+   "fb": 2529,
+   "id": "S024"
+  },
+  {
+   "para": 10,
+   "text": "“Those complex cases — those cases where you need to take into account multiple angles, where you need to talk to the patient, right — is something where expertise and an actual radiologist is very important and should continue to be trained,” Bunk said.",
+   "fa": 2530,
+   "fb": 2784,
+   "id": "S025"
+  },
+  {
+   "para": 11,
+   "text": "Dr. Wei Yang, a professor in breast radiology at the University of Texas MD Anderson Cancer Center in Houston, Texas, believes increased use of AI could energize radiologists.",
+   "fa": 2785,
+   "fb": 2960,
+   "id": "S026"
+  },
+  {
+   "para": 12,
+   "text": "“I think that the advent of AI is an opportunity and a trigger for us to become more excited about our field so that highly trained radiologists will have the open space, the time and the concentration to focus on more complex tasks,” Yang said.",
+   "fa": 2961,
+   "fb": 3206,
+   "id": "S027"
+  },
+  {
+   "para": 13,
+   "text": "Using a human radiologist along with artificial intelligence offers the best of both worlds, according to Katalinic.",
+   "fa": 3207,
+   "fb": 3323,
+   "id": "S028"
+  },
+  {
+   "para": 14,
+   "text": "“The combination of a human together with AI is much better than only having the human reading,” he said.",
+   "fa": 3324,
+   "fb": 3429,
+   "id": "S029"
+  },
+  {
+   "para": 15,
+   "text": "Yang, who was not involved in the study, is encouraged by the results.",
+   "fa": 3430,
+   "fb": 3500,
+   "id": "S030"
+  },
+  {
+   "para": 16,
+   "text": "“The data is very compelling,” she said.",
+   "fa": 3501,
+   "fb": 3541,
+   "id": "S031"
+  },
+  {
+   "para": 16,
+   "text": "“The increased cancer detection rate, the reduction in the false positive callbacks and the potential impact this can have on the workforce and burnout.",
+   "fa": 3542,
+   "fb": 3694,
+   "id": "S032"
+  },
+  {
+   "para": 16,
+   "text": "So overall, very, very positive.”",
+   "fa": 3695,
+   "fb": 3728,
+   "id": "S033"
+  }
+ ]
+}

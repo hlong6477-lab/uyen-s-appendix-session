@@ -1,0 +1,126 @@
+{
+ "paras": [
+  "A bear being transported on an Iraqi Airways flight from Baghdad to Dubai Friday caused delays after it escaped from a crate in the cargo hold.",
+  "Iraqi Airways issued an apology after a video circulated online of a male passenger saying the return flight to Baghdad was delayed for “over an hour due to a bear in the cargo.”",
+  "In another video, a bear cub can be seen roaming outside of its crate on the plane, while people pet and attempt to comfort it.",
+  "The bear was sedated by a specialist team in Dubai and taken off the plane, Iraqi Airways said in a statement shared with CNN.",
+  "The airline issued an apology on Saturday, saying the bear had escaped the crate “upon arrival to Dubai Airport.”",
+  "“The company apologizes to the passengers on the flight from Baghdad International Airport to Dubai Airport for reasons beyond the control of the company,” it said.",
+  "“The delay happened because of a shipment in the cargo hold,” the statement added.",
+  "“Upon arrival to Dubai Airport, the animal escaped the crate specified for its shipment,” the airline said, adding that it was being transported in line with international animal welfare guidelines.",
+  "“The plane crew coordinated with UAE’s authority who sent a specialized team to sedate the animal and take it off the plane. After checking the plane and making sure there is no damage from this incident the flight returned to Baghdad,” the statement added.",
+  "The airline did not reveal why the bear was being transported to the United Arab Emirates, or provide any information on its well-being after it was sedated and taken off the plane.",
+  "Later Monday, the Iraqi transport ministry told CNN there were in fact two bears on board the flight.",
+  "“Two small, endangered bears were shipped from Baghdad, and when the flight arrived in Dubai, one of the bears broke his cage, forcing health and environment authorities at Dubai airport to sedate it,” the statement said.",
+  "CNN has reached out to the Iraqi government for further details on the bears.",
+  "Iraq’s prime minister, Mohammed Shia al-Sudani, directed the country’s ministry of transport to open an investigation into the bear’s escape, the prime minister’s office said on Sunday."
+ ],
+ "flow": "A bear being transported on an Iraqi Airways flight from Baghdad to Dubai Friday caused delays after it escaped from a crate in the cargo hold.\nIraqi Airways issued an apology after a video circulated online of a male passenger saying the return flight to Baghdad was delayed for “over an hour due to a bear in the cargo.”\nIn another video, a bear cub can be seen roaming outside of its crate on the plane, while people pet and attempt to comfort it.\nThe bear was sedated by a specialist team in Dubai and taken off the plane, Iraqi Airways said in a statement shared with CNN.\nThe airline issued an apology on Saturday, saying the bear had escaped the crate “upon arrival to Dubai Airport.”\n“The company apologizes to the passengers on the flight from Baghdad International Airport to Dubai Airport for reasons beyond the control of the company,” it said.\n“The delay happened because of a shipment in the cargo hold,” the statement added.\n“Upon arrival to Dubai Airport, the animal escaped the crate specified for its shipment,” the airline said, adding that it was being transported in line with international animal welfare guidelines.\n“The plane crew coordinated with UAE’s authority who sent a specialized team to sedate the animal and take it off the plane. After checking the plane and making sure there is no damage from this incident the flight returned to Baghdad,” the statement added.\nThe airline did not reveal why the bear was being transported to the United Arab Emirates, or provide any information on its well-being after it was sedated and taken off the plane.\nLater Monday, the Iraqi transport ministry told CNN there were in fact two bears on board the flight.\n“Two small, endangered bears were shipped from Baghdad, and when the flight arrived in Dubai, one of the bears broke his cage, forcing health and environment authorities at Dubai airport to sedate it,” the statement said.\nCNN has reached out to the Iraqi government for further details on the bears.\nIraq’s prime minister, Mohammed Shia al-Sudani, directed the country’s ministry of transport to open an investigation into the bear’s escape, the prime minister’s office said on Sunday.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "A bear being transported on an Iraqi Airways flight from Baghdad to Dubai Friday caused delays after it escaped from a crate in the cargo hold.",
+   "fa": 0,
+   "fb": 143,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Iraqi Airways issued an apology after a video circulated online of a male passenger saying the return flight to Baghdad was delayed for “over an hour due to a bear in the cargo.”",
+   "fa": 144,
+   "fb": 322,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "In another video, a bear cub can be seen roaming outside of its crate on the plane, while people pet and attempt to comfort it.",
+   "fa": 323,
+   "fb": 450,
+   "id": "S003"
+  },
+  {
+   "para": 3,
+   "text": "The bear was sedated by a specialist team in Dubai and taken off the plane, Iraqi Airways said in a statement shared with CNN.",
+   "fa": 451,
+   "fb": 577,
+   "id": "S004"
+  },
+  {
+   "para": 4,
+   "text": "The airline issued an apology on Saturday, saying the bear had escaped the crate “upon arrival to Dubai Airport.”",
+   "fa": 578,
+   "fb": 691,
+   "id": "S005"
+  },
+  {
+   "para": 5,
+   "text": "“The company apologizes to the passengers on the flight from Baghdad International Airport to Dubai Airport for reasons beyond the control of the company,” it said.",
+   "fa": 692,
+   "fb": 856,
+   "id": "S006"
+  },
+  {
+   "para": 6,
+   "text": "“The delay happened because of a shipment in the cargo hold,” the statement added.",
+   "fa": 857,
+   "fb": 939,
+   "id": "S007"
+  },
+  {
+   "para": 7,
+   "text": "“Upon arrival to Dubai Airport, the animal escaped the crate specified for its shipment,” the airline said, adding that it was being transported in line with international animal welfare guidelines.",
+   "fa": 940,
+   "fb": 1138,
+   "id": "S008"
+  },
+  {
+   "para": 8,
+   "text": "“The plane crew coordinated with UAE’s authority who sent a specialized team to sedate the animal and take it off the plane.",
+   "fa": 1139,
+   "fb": 1263,
+   "id": "S009"
+  },
+  {
+   "para": 8,
+   "text": "After checking the plane and making sure there is no damage from this incident the flight returned to Baghdad,” the statement added.",
+   "fa": 1264,
+   "fb": 1396,
+   "id": "S010"
+  },
+  {
+   "para": 9,
+   "text": "The airline did not reveal why the bear was being transported to the United Arab Emirates, or provide any information on its well-being after it was sedated and taken off the plane.",
+   "fa": 1397,
+   "fb": 1578,
+   "id": "S011"
+  },
+  {
+   "para": 10,
+   "text": "Later Monday, the Iraqi transport ministry told CNN there were in fact two bears on board the flight.",
+   "fa": 1579,
+   "fb": 1680,
+   "id": "S012"
+  },
+  {
+   "para": 11,
+   "text": "“Two small, endangered bears were shipped from Baghdad, and when the flight arrived in Dubai, one of the bears broke his cage, forcing health and environment authorities at Dubai airport to sedate it,” the statement said.",
+   "fa": 1681,
+   "fb": 1902,
+   "id": "S013"
+  },
+  {
+   "para": 12,
+   "text": "CNN has reached out to the Iraqi government for further details on the bears.",
+   "fa": 1903,
+   "fb": 1980,
+   "id": "S014"
+  },
+  {
+   "para": 13,
+   "text": "Iraq’s prime minister, Mohammed Shia al-Sudani, directed the country’s ministry of transport to open an investigation into the bear’s escape, the prime minister’s office said on Sunday.",
+   "fa": 1981,
+   "fb": 2166,
+   "id": "S015"
+  }
+ ]
+}

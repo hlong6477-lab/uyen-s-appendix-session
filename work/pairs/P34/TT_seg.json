@@ -1,0 +1,55 @@
+{
+ "paras": [
+  "Một tòa án Nga phạt Google thuộc công ty Alphabet 3,8 triệu ruble (41.530 đôla) vì lưu trữ nội dung trên YouTube có chứa video hướng dẫn binh lính Nga cách đầu hàng, hãng thông tấn TASS của Nga đưa tin ngày thứ Hai.",
+  "Từ nhiều năm qua Nga đã ra lệnh cho các nền tảng công nghệ nước ngoài xóa nội dung mà họ xem là bất hợp pháp, chẳng hạn như điều mà họ gọi là \"thông tin giả\" về cuộc chiến ở Ukraine, áp đặt các khoản tiền phạt nhỏ nhưng liên tục khi họ thấy các hành vi không tuân thủ.",
+  "Google không trả lời ngay lập tức yêu cầu bình luận qua email.",
+  "Những người chỉ trích cáo buộc chính quyền Nga cố tình làm gián đoạn tốc độ tải xuống của YouTube để ngăn người dân Nga xem những nội dung trên đó chỉ trích Tổng thống Vladimir Putin và chính phủ của ông.",
+  "Nga phủ nhận điều đó, nói rằng các vấn đề là do chính Google không nâng cấp thiết bị, một cáo buộc mà công ty và các chuyên gia công nghệ bác bỏ.",
+  "Vào tháng 12, ông Putin cáo buộc Google là công cụ được chính phủ Mỹ sử dụng để ghi điểm chính trị."
+ ],
+ "flow": "Một tòa án Nga phạt Google thuộc công ty Alphabet 3,8 triệu ruble (41.530 đôla) vì lưu trữ nội dung trên YouTube có chứa video hướng dẫn binh lính Nga cách đầu hàng, hãng thông tấn TASS của Nga đưa tin ngày thứ Hai.\nTừ nhiều năm qua Nga đã ra lệnh cho các nền tảng công nghệ nước ngoài xóa nội dung mà họ xem là bất hợp pháp, chẳng hạn như điều mà họ gọi là \"thông tin giả\" về cuộc chiến ở Ukraine, áp đặt các khoản tiền phạt nhỏ nhưng liên tục khi họ thấy các hành vi không tuân thủ.\nGoogle không trả lời ngay lập tức yêu cầu bình luận qua email.\nNhững người chỉ trích cáo buộc chính quyền Nga cố tình làm gián đoạn tốc độ tải xuống của YouTube để ngăn người dân Nga xem những nội dung trên đó chỉ trích Tổng thống Vladimir Putin và chính phủ của ông.\nNga phủ nhận điều đó, nói rằng các vấn đề là do chính Google không nâng cấp thiết bị, một cáo buộc mà công ty và các chuyên gia công nghệ bác bỏ.\nVào tháng 12, ông Putin cáo buộc Google là công cụ được chính phủ Mỹ sử dụng để ghi điểm chính trị.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "Một tòa án Nga phạt Google thuộc công ty Alphabet 3,8 triệu ruble (41.530 đôla) vì lưu trữ nội dung trên YouTube có chứa video hướng dẫn binh lính Nga cách đầu hàng, hãng thông tấn TASS của Nga đưa tin ngày thứ Hai.",
+   "fa": 0,
+   "fb": 215,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Từ nhiều năm qua Nga đã ra lệnh cho các nền tảng công nghệ nước ngoài xóa nội dung mà họ xem là bất hợp pháp, chẳng hạn như điều mà họ gọi là \"thông tin giả\" về cuộc chiến ở Ukraine, áp đặt các khoản tiền phạt nhỏ nhưng liên tục khi họ thấy các hành vi không tuân thủ.",
+   "fa": 216,
+   "fb": 484,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "Google không trả lời ngay lập tức yêu cầu bình luận qua email.",
+   "fa": 485,
+   "fb": 547,
+   "id": "S003"
+  },
+  {
+   "para": 3,
+   "text": "Những người chỉ trích cáo buộc chính quyền Nga cố tình làm gián đoạn tốc độ tải xuống của YouTube để ngăn người dân Nga xem những nội dung trên đó chỉ trích Tổng thống Vladimir Putin và chính phủ của ông.",
+   "fa": 548,
+   "fb": 752,
+   "id": "S004"
+  },
+  {
+   "para": 4,
+   "text": "Nga phủ nhận điều đó, nói rằng các vấn đề là do chính Google không nâng cấp thiết bị, một cáo buộc mà công ty và các chuyên gia công nghệ bác bỏ.",
+   "fa": 753,
+   "fb": 898,
+   "id": "S005"
+  },
+  {
+   "para": 5,
+   "text": "Vào tháng 12, ông Putin cáo buộc Google là công cụ được chính phủ Mỹ sử dụng để ghi điểm chính trị.",
+   "fa": 899,
+   "fb": 998,
+   "id": "S006"
+  }
+ ]
+}

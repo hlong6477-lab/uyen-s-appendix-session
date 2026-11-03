@@ -1,0 +1,71 @@
+{
+ "paras": [
+  "U.S. aerospace firm Maxar Technologies said on Friday it had disabled Ukrainian users' access to satellite imagery on one U.S. government platform, as U.S. President Donald Trump's administration suspends intelligence sharing with Kyiv.",
+  "In a statement, Maxar said it has contracts with the U.S. government and dozens of allied and partner nations, and \"Each customer makes their own decisions on how they use and share that data.\"",
+  "The company said the contract in question is GEGD (the Global Enhanced GEOINT Delivery program), a U.S. government program providing access to commercial satellite imagery collected by the United States.",
+  "\"The U.S. government has decided to temporarily suspend Ukrainian accounts in GEGD,\" Maxar said, referring further questions to the U.S. National Geospatial-Intelligence Agency, which confirmed the action.",
+  "\"In accordance with the administration’s directive on support to Ukraine, NGA has temporarily suspended access to the Global Enhanced GEOINT Delivery system, or GEGD, which is the primary portal for access to U.S. government-purchased commercial imagery,\" a spokesperson for the agency said.",
+  "Maxar's action was first reported by the military news outlet Militarnyi.",
+  "\"We take our contractual commitments very seriously, and there is no change to other Maxar customer programs,\" the company said in a statement.",
+  "John Ratcliffe, director of the Central Intelligence Agency, said on Wednesday that Washington had suspended intelligence-sharing with Ukraine, piling pressure on President Volodymyr Zelenskiy's government to cooperate with the Trump administration in convening peace talks with Russia."
+ ],
+ "flow": "U.S. aerospace firm Maxar Technologies said on Friday it had disabled Ukrainian users' access to satellite imagery on one U.S. government platform, as U.S. President Donald Trump's administration suspends intelligence sharing with Kyiv.\nIn a statement, Maxar said it has contracts with the U.S. government and dozens of allied and partner nations, and \"Each customer makes their own decisions on how they use and share that data.\"\nThe company said the contract in question is GEGD (the Global Enhanced GEOINT Delivery program), a U.S. government program providing access to commercial satellite imagery collected by the United States.\n\"The U.S. government has decided to temporarily suspend Ukrainian accounts in GEGD,\" Maxar said, referring further questions to the U.S. National Geospatial-Intelligence Agency, which confirmed the action.\n\"In accordance with the administration’s directive on support to Ukraine, NGA has temporarily suspended access to the Global Enhanced GEOINT Delivery system, or GEGD, which is the primary portal for access to U.S. government-purchased commercial imagery,\" a spokesperson for the agency said.\nMaxar's action was first reported by the military news outlet Militarnyi.\n\"We take our contractual commitments very seriously, and there is no change to other Maxar customer programs,\" the company said in a statement.\nJohn Ratcliffe, director of the Central Intelligence Agency, said on Wednesday that Washington had suspended intelligence-sharing with Ukraine, piling pressure on President Volodymyr Zelenskiy's government to cooperate with the Trump administration in convening peace talks with Russia.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "U.S. aerospace firm Maxar Technologies said on Friday it had disabled Ukrainian users' access to satellite imagery on one U.S. government platform, as U.S. President Donald Trump's administration suspends intelligence sharing with Kyiv.",
+   "fa": 0,
+   "fb": 236,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "In a statement, Maxar said it has contracts with the U.S. government and dozens of allied and partner nations, and \"Each customer makes their own decisions on how they use and share that data.\"",
+   "fa": 237,
+   "fb": 430,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "The company said the contract in question is GEGD (the Global Enhanced GEOINT Delivery program), a U.S. government program providing access to commercial satellite imagery collected by the United States.",
+   "fa": 431,
+   "fb": 634,
+   "id": "S003"
+  },
+  {
+   "para": 3,
+   "text": "\"The U.S. government has decided to temporarily suspend Ukrainian accounts in GEGD,\" Maxar said, referring further questions to the U.S. National Geospatial-Intelligence Agency, which confirmed the action.",
+   "fa": 635,
+   "fb": 840,
+   "id": "S004"
+  },
+  {
+   "para": 4,
+   "text": "\"In accordance with the administration’s directive on support to Ukraine, NGA has temporarily suspended access to the Global Enhanced GEOINT Delivery system, or GEGD, which is the primary portal for access to U.S. government-purchased commercial imagery,\" a spokesperson for the agency said.",
+   "fa": 841,
+   "fb": 1132,
+   "id": "S005"
+  },
+  {
+   "para": 5,
+   "text": "Maxar's action was first reported by the military news outlet Militarnyi.",
+   "fa": 1133,
+   "fb": 1206,
+   "id": "S006"
+  },
+  {
+   "para": 6,
+   "text": "\"We take our contractual commitments very seriously, and there is no change to other Maxar customer programs,\" the company said in a statement.",
+   "fa": 1207,
+   "fb": 1350,
+   "id": "S007"
+  },
+  {
+   "para": 7,
+   "text": "John Ratcliffe, director of the Central Intelligence Agency, said on Wednesday that Washington had suspended intelligence-sharing with Ukraine, piling pressure on President Volodymyr Zelenskiy's government to cooperate with the Trump administration in convening peace talks with Russia.",
+   "fa": 1351,
+   "fb": 1637,
+   "id": "S008"
+  }
+ ]
+}

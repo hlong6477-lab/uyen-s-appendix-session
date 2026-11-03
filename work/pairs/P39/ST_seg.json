@@ -1,0 +1,164 @@
+{
+ "paras": [
+  "The U.N. Children’s Fund is warning that millions of children at high risk from devastating floods in Bangladesh are in urgent need of lifesaving assistance.",
+  "Dozens of people have been killed and hundreds of thousands left stranded as whole villages have been washed away in the worst flooding to hit Bangladesh in a century.",
+  "UNICEF says the situation caused by flash floods has deteriorated rapidly over the last week, and so has that of the children. UNICEF Representative to Bangladesh Sheldon Yett says 3.5 million children are in urgent need of safe drinking water.",
+  "“That is a staggering number of children, and it has increased over the last couple of days,\" said Yett. \"Huge areas are completely underwater and are disconnected from safe drinking water and food supplies … Preventing water borne diseases is a critical concern. Children are at high risk in this desperate situation. Cases of diarrhea and other deadly diseases are rising.”",
+  "He says some 2,700 cases have been recorded this week. Speaking in the capital, Dakar, the UNICEF official says tens of thousands of water points and toilets have been damaged. He warns water-borne diseases will spread quickly as people are forced to drink contaminated water.",
+  "Yett says 90 percent of health facilities have been flooded, interrupting immunization and other vital services.",
+  "He notes an estimated 2,000 children were suffering from severe acute malnutrition before the floods hit. He says lifesaving treatment for the condition also has been disrupted.",
+  "“The risk of drowning is very high. At least 15 children have tragically lost their lives,\" said Yett. \"Nearly half-a-million people have been evacuated into crowded evacuation centers. And I am particularly concerned for children who have been separated from their family…Children and their families need help now.”",
+  "Yett says UNICEF and partners have been working against time to support the government. He says they have managed to deliver 1,750,000 water purification tablets, thousands of hygiene kits for women and adolescent girls, and thousands of other crucial supplies.",
+  "He says UNICEF urgently needs $2.5 million to pay for its emergency response."
+ ],
+ "flow": "The U.N. Children’s Fund is warning that millions of children at high risk from devastating floods in Bangladesh are in urgent need of lifesaving assistance.\nDozens of people have been killed and hundreds of thousands left stranded as whole villages have been washed away in the worst flooding to hit Bangladesh in a century.\nUNICEF says the situation caused by flash floods has deteriorated rapidly over the last week, and so has that of the children. UNICEF Representative to Bangladesh Sheldon Yett says 3.5 million children are in urgent need of safe drinking water.\n“That is a staggering number of children, and it has increased over the last couple of days,\" said Yett. \"Huge areas are completely underwater and are disconnected from safe drinking water and food supplies … Preventing water borne diseases is a critical concern. Children are at high risk in this desperate situation. Cases of diarrhea and other deadly diseases are rising.”\nHe says some 2,700 cases have been recorded this week. Speaking in the capital, Dakar, the UNICEF official says tens of thousands of water points and toilets have been damaged. He warns water-borne diseases will spread quickly as people are forced to drink contaminated water.\nYett says 90 percent of health facilities have been flooded, interrupting immunization and other vital services.\nHe notes an estimated 2,000 children were suffering from severe acute malnutrition before the floods hit. He says lifesaving treatment for the condition also has been disrupted.\n“The risk of drowning is very high. At least 15 children have tragically lost their lives,\" said Yett. \"Nearly half-a-million people have been evacuated into crowded evacuation centers. And I am particularly concerned for children who have been separated from their family…Children and their families need help now.”\nYett says UNICEF and partners have been working against time to support the government. He says they have managed to deliver 1,750,000 water purification tablets, thousands of hygiene kits for women and adolescent girls, and thousands of other crucial supplies.\nHe says UNICEF urgently needs $2.5 million to pay for its emergency response.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "The U.N. Children’s Fund is warning that millions of children at high risk from devastating floods in Bangladesh are in urgent need of lifesaving assistance.",
+   "fa": 0,
+   "fb": 157,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Dozens of people have been killed and hundreds of thousands left stranded as whole villages have been washed away in the worst flooding to hit Bangladesh in a century.",
+   "fa": 158,
+   "fb": 325,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "UNICEF says the situation caused by flash floods has deteriorated rapidly over the last week, and so has that of the children.",
+   "fa": 326,
+   "fb": 452,
+   "id": "S003"
+  },
+  {
+   "para": 2,
+   "text": "UNICEF Representative to Bangladesh Sheldon Yett says 3.5 million children are in urgent need of safe drinking water.",
+   "fa": 453,
+   "fb": 570,
+   "id": "S004"
+  },
+  {
+   "para": 3,
+   "text": "“That is a staggering number of children, and it has increased over the last couple of days,\" said Yett.",
+   "fa": 571,
+   "fb": 675,
+   "id": "S005"
+  },
+  {
+   "para": 3,
+   "text": "\"Huge areas are completely underwater and are disconnected from safe drinking water and food supplies … Preventing water borne diseases is a critical concern.",
+   "fa": 676,
+   "fb": 834,
+   "id": "S006"
+  },
+  {
+   "para": 3,
+   "text": "Children are at high risk in this desperate situation.",
+   "fa": 835,
+   "fb": 889,
+   "id": "S007"
+  },
+  {
+   "para": 3,
+   "text": "Cases of diarrhea and other deadly diseases are rising.”",
+   "fa": 890,
+   "fb": 946,
+   "id": "S008"
+  },
+  {
+   "para": 4,
+   "text": "He says some 2,700 cases have been recorded this week.",
+   "fa": 947,
+   "fb": 1001,
+   "id": "S009"
+  },
+  {
+   "para": 4,
+   "text": "Speaking in the capital, Dakar, the UNICEF official says tens of thousands of water points and toilets have been damaged.",
+   "fa": 1002,
+   "fb": 1123,
+   "id": "S010"
+  },
+  {
+   "para": 4,
+   "text": "He warns water-borne diseases will spread quickly as people are forced to drink contaminated water.",
+   "fa": 1124,
+   "fb": 1223,
+   "id": "S011"
+  },
+  {
+   "para": 5,
+   "text": "Yett says 90 percent of health facilities have been flooded, interrupting immunization and other vital services.",
+   "fa": 1224,
+   "fb": 1336,
+   "id": "S012"
+  },
+  {
+   "para": 6,
+   "text": "He notes an estimated 2,000 children were suffering from severe acute malnutrition before the floods hit.",
+   "fa": 1337,
+   "fb": 1442,
+   "id": "S013"
+  },
+  {
+   "para": 6,
+   "text": "He says lifesaving treatment for the condition also has been disrupted.",
+   "fa": 1443,
+   "fb": 1514,
+   "id": "S014"
+  },
+  {
+   "para": 7,
+   "text": "“The risk of drowning is very high.",
+   "fa": 1515,
+   "fb": 1550,
+   "id": "S015"
+  },
+  {
+   "para": 7,
+   "text": "At least 15 children have tragically lost their lives,\" said Yett.",
+   "fa": 1551,
+   "fb": 1617,
+   "id": "S016"
+  },
+  {
+   "para": 7,
+   "text": "\"Nearly half-a-million people have been evacuated into crowded evacuation centers.",
+   "fa": 1618,
+   "fb": 1700,
+   "id": "S017"
+  },
+  {
+   "para": 7,
+   "text": "And I am particularly concerned for children who have been separated from their family…Children and their families need help now.”",
+   "fa": 1701,
+   "fb": 1831,
+   "id": "S018"
+  },
+  {
+   "para": 8,
+   "text": "Yett says UNICEF and partners have been working against time to support the government.",
+   "fa": 1832,
+   "fb": 1919,
+   "id": "S019"
+  },
+  {
+   "para": 8,
+   "text": "He says they have managed to deliver 1,750,000 water purification tablets, thousands of hygiene kits for women and adolescent girls, and thousands of other crucial supplies.",
+   "fa": 1920,
+   "fb": 2093,
+   "id": "S020"
+  },
+  {
+   "para": 9,
+   "text": "He says UNICEF urgently needs $2.5 million to pay for its emergency response.",
+   "fa": 2094,
+   "fb": 2171,
+   "id": "S021"
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "paras": [
+  "Sodium is essential for the smooth functioning of muscles and nerves and maintaining the proper balance of water and minerals. But too much sodium in the diet can kill.",
+  "“Almost 2 million deaths each year are associated with excessive sodium intake,” said Tedros Adhanom Ghebreyesus, director-general of the World Health Organization.",
+  "\"Too much sodium can lead to high blood pressure and increase the risk of cardiovascular diseases,” he said. “And yet globally, average sodium intake is more than double the WHO recommendation for adults of less than 2,000 milligrams per day, or 5 grams of salt.”",
+  "That is equivalent to one teaspoon of salt a day.",
+  "A WHO report launched Thursday explores for the first time the progress countries have made in implementing sodium intake reduction policies. A survey of WHO’s 194 member states showed “the world is off track to achieve its global target of reducing sodium intake by 30% by 2025.”",
+  "The report finds that only 5% of WHO member states “are protected by mandatory and comprehensive sodium reduction policies,” and 73% of WHO member states “lack full range of implementation of such policies.”",
+  "Francesco Branca, director of WHO’s Department of Nutrition for Health and Development, noted that reducing sodium intake is one of the most cost-effective ways to improve health and reduce the burden of non-communicable diseases “as it can avert a large number of cardiovascular events and deaths at very low program costs.”",
+  "Cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives. WHO reports that more than four out of five of these deaths are due to heart attacks and strokes, with one-third occurring prematurely in people under age 70.",
+  "9 nations succeed",
+  "The report finds that only nine countries — Brazil, Chile, Czech Republic, Lithuania, Malaysia, Mexico, Saudi Arabia, Spain and Uruguay — have fully enacted WHO’s recommended policies to reduce sodium intake.",
+  "Tom Frieden, CEO of Resolve to Save Lives, cites Chile as a leader in the implementation of lifesaving sodium-reduction policies.",
+  "Speaking in a webinar among fellow experts that followed the report’s launch, Frieden said Chile had “passed the law of food labeling and advertising that simultaneously required mandatory front-of pack warning labels, including on sodium; restricted marketing of products that have those warning labels; and banned the procurement of the sale of those products in schools.”",
+  "He noted that Argentina, Brazil, Mexico and Uruguay had all passed similar policies, following Chile’s lead.",
+  "Branca noted that a significant proportion of sodium in the diet comes from processed and highly processed foods sold in many high-income countries and increasingly in low- and middle-income countries.",
+  "“Government-led mandatory maximum limits for sodium-processed foods promote industrywide reformulations,” he said. “They create a marketplace that restricts the less healthy food options regardless of where people shop, or how much they understand or have access to information on labels.”",
+  "Frieden said self-regulation by the food manufacturing industry has repeatedly proven to be ineffective and “voluntary policies are often ignored.”",
+  "“In fact, a mandatory approach creates a level playing field,\" because it can keep companies that take positive steps from feeling as though they must conduct business at a competitive disadvantage.",
+  "In addition to the existing proven strategies to reduce sodium, Frieden said, countries can consider new, innovative measures, such as increasing the availability and use of sodium and salt substitutes.",
+  "“Recent studies show that these substitutes significantly decrease not only blood pressure, and not only heart attack and strokes, but even death from cardiovascular events,” he said.",
+  "\"Imagine that changing the brand of salt that you use could reduce the risk of death by 10% or 15%.”"
+ ],
+ "flow": "Sodium is essential for the smooth functioning of muscles and nerves and maintaining the proper balance of water and minerals. But too much sodium in the diet can kill.\n“Almost 2 million deaths each year are associated with excessive sodium intake,” said Tedros Adhanom Ghebreyesus, director-general of the World Health Organization.\n\"Too much sodium can lead to high blood pressure and increase the risk of cardiovascular diseases,” he said. “And yet globally, average sodium intake is more than double the WHO recommendation for adults of less than 2,000 milligrams per day, or 5 grams of salt.”\nThat is equivalent to one teaspoon of salt a day.\nA WHO report launched Thursday explores for the first time the progress countries have made in implementing sodium intake reduction policies. A survey of WHO’s 194 member states showed “the world is off track to achieve its global target of reducing sodium intake by 30% by 2025.”\nThe report finds that only 5% of WHO member states “are protected by mandatory and comprehensive sodium reduction policies,” and 73% of WHO member states “lack full range of implementation of such policies.”\nFrancesco Branca, director of WHO’s Department of Nutrition for Health and Development, noted that reducing sodium intake is one of the most cost-effective ways to improve health and reduce the burden of non-communicable diseases “as it can avert a large number of cardiovascular events and deaths at very low program costs.”\nCardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives. WHO reports that more than four out of five of these deaths are due to heart attacks and strokes, with one-third occurring prematurely in people under age 70.\n9 nations succeed\nThe report finds that only nine countries — Brazil, Chile, Czech Republic, Lithuania, Malaysia, Mexico, Saudi Arabia, Spain and Uruguay — have fully enacted WHO’s recommended policies to reduce sodium intake.\nTom Frieden, CEO of Resolve to Save Lives, cites Chile as a leader in the implementation of lifesaving sodium-reduction policies.\nSpeaking in a webinar among fellow experts that followed the report’s launch, Frieden said Chile had “passed the law of food labeling and advertising that simultaneously required mandatory front-of pack warning labels, including on sodium; restricted marketing of products that have those warning labels; and banned the procurement of the sale of those products in schools.”\nHe noted that Argentina, Brazil, Mexico and Uruguay had all passed similar policies, following Chile’s lead.\nBranca noted that a significant proportion of sodium in the diet comes from processed and highly processed foods sold in many high-income countries and increasingly in low- and middle-income countries.\n“Government-led mandatory maximum limits for sodium-processed foods promote industrywide reformulations,” he said. “They create a marketplace that restricts the less healthy food options regardless of where people shop, or how much they understand or have access to information on labels.”\nFrieden said self-regulation by the food manufacturing industry has repeatedly proven to be ineffective and “voluntary policies are often ignored.”\n“In fact, a mandatory approach creates a level playing field,\" because it can keep companies that take positive steps from feeling as though they must conduct business at a competitive disadvantage.\nIn addition to the existing proven strategies to reduce sodium, Frieden said, countries can consider new, innovative measures, such as increasing the availability and use of sodium and salt substitutes.\n“Recent studies show that these substitutes significantly decrease not only blood pressure, and not only heart attack and strokes, but even death from cardiovascular events,” he said.\n\"Imagine that changing the brand of salt that you use could reduce the risk of death by 10% or 15%.”",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "Sodium is essential for the smooth functioning of muscles and nerves and maintaining the proper balance of water and minerals.",
+   "fa": 0,
+   "fb": 126,
+   "id": "S001"
+  },
+  {
+   "para": 0,
+   "text": "But too much sodium in the diet can kill.",
+   "fa": 127,
+   "fb": 168,
+   "id": "S002"
+  },
+  {
+   "para": 1,
+   "text": "“Almost 2 million deaths each year are associated with excessive sodium intake,” said Tedros Adhanom Ghebreyesus, director-general of the World Health Organization.",
+   "fa": 169,
+   "fb": 333,
+   "id": "S003"
+  },
+  {
+   "para": 2,
+   "text": "\"Too much sodium can lead to high blood pressure and increase the risk of cardiovascular diseases,” he said.",
+   "fa": 334,
+   "fb": 442,
+   "id": "S004"
+  },
+  {
+   "para": 2,
+   "text": "“And yet globally, average sodium intake is more than double the WHO recommendation for adults of less than 2,000 milligrams per day, or 5 grams of salt.”",
+   "fa": 443,
+   "fb": 597,
+   "id": "S005"
+  },
+  {
+   "para": 3,
+   "text": "That is equivalent to one teaspoon of salt a day.",
+   "fa": 598,
+   "fb": 647,
+   "id": "S006"
+  },
+  {
+   "para": 4,
+   "text": "A WHO report launched Thursday explores for the first time the progress countries have made in implementing sodium intake reduction policies.",
+   "fa": 648,
+   "fb": 789,
+   "id": "S007"
+  },
+  {
+   "para": 4,
+   "text": "A survey of WHO’s 194 member states showed “the world is off track to achieve its global target of reducing sodium intake by 30% by 2025.”",
+   "fa": 790,
+   "fb": 928,
+   "id": "S008"
+  },
+  {
+   "para": 5,
+   "text": "The report finds that only 5% of WHO member states “are protected by mandatory and comprehensive sodium reduction policies,” and 73% of WHO member states “lack full range of implementation of such policies.”",
+   "fa": 929,
+   "fb": 1136,
+   "id": "S009"
+  },
+  {
+   "para": 6,
+   "text": "Francesco Branca, director of WHO’s Department of Nutrition for Health and Development, noted that reducing sodium intake is one of the most cost-effective ways to improve health and reduce the burden of non-communicable diseases “as it can avert a large number of cardiovascular events and deaths at very low program costs.”",
+   "fa": 1137,
+   "fb": 1462,
+   "id": "S010"
+  },
+  {
+   "para": 7,
+   "text": "Cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives.",
+   "fa": 1463,
+   "fb": 1569,
+   "id": "S011"
+  },
+  {
+   "para": 7,
+   "text": "WHO reports that more than four out of five of these deaths are due to heart attacks and strokes, with one-third occurring prematurely in people under age 70.",
+   "fa": 1570,
+   "fb": 1728,
+   "id": "S012"
+  },
+  {
+   "para": 8,
+   "text": "9 nations succeed",
+   "fa": 1729,
+   "fb": 1746,
+   "id": "S013"
+  },
+  {
+   "para": 9,
+   "text": "The report finds that only nine countries — Brazil, Chile, Czech Republic, Lithuania, Malaysia, Mexico, Saudi Arabia, Spain and Uruguay — have fully enacted WHO’s recommended policies to reduce sodium intake.",
+   "fa": 1747,
+   "fb": 1955,
+   "id": "S014"
+  },
+  {
+   "para": 10,
+   "text": "Tom Frieden, CEO of Resolve to Save Lives, cites Chile as a leader in the implementation of lifesaving sodium-reduction policies.",
+   "fa": 1956,
+   "fb": 2085,
+   "id": "S015"
+  },
+  {
+   "para": 11,
+   "text": "Speaking in a webinar among fellow experts that followed the report’s launch, Frieden said Chile had “passed the law of food labeling and advertising that simultaneously required mandatory front-of pack warning labels, including on sodium; restricted marketing of products that have those warning labels; and banned the procurement of the sale of those products in schools.”",
+   "fa": 2086,
+   "fb": 2460,
+   "id": "S016"
+  },
+  {
+   "para": 12,
+   "text": "He noted that Argentina, Brazil, Mexico and Uruguay had all passed similar policies, following Chile’s lead.",
+   "fa": 2461,
+   "fb": 2569,
+   "id": "S017"
+  },
+  {
+   "para": 13,
+   "text": "Branca noted that a significant proportion of sodium in the diet comes from processed and highly processed foods sold in many high-income countries and increasingly in low- and middle-income countries.",
+   "fa": 2570,
+   "fb": 2771,
+   "id": "S018"
+  },
+  {
+   "para": 14,
+   "text": "“Government-led mandatory maximum limits for sodium-processed foods promote industrywide reformulations,” he said.",
+   "fa": 2772,
+   "fb": 2886,
+   "id": "S019"
+  },
+  {
+   "para": 14,
+   "text": "“They create a marketplace that restricts the less healthy food options regardless of where people shop, or how much they understand or have access to information on labels.”",
+   "fa": 2887,
+   "fb": 3061,
+   "id": "S020"
+  },
+  {
+   "para": 15,
+   "text": "Frieden said self-regulation by the food manufacturing industry has repeatedly proven to be ineffective and “voluntary policies are often ignored.”",
+   "fa": 3062,
+   "fb": 3209,
+   "id": "S021"
+  },
+  {
+   "para": 16,
+   "text": "“In fact, a mandatory approach creates a level playing field,\" because it can keep companies that take positive steps from feeling as though they must conduct business at a competitive disadvantage.",
+   "fa": 3210,
+   "fb": 3408,
+   "id": "S022"
+  },
+  {
+   "para": 17,
+   "text": "In addition to the existing proven strategies to reduce sodium, Frieden said, countries can consider new, innovative measures, such as increasing the availability and use of sodium and salt substitutes.",
+   "fa": 3409,
+   "fb": 3611,
+   "id": "S023"
+  },
+  {
+   "para": 18,
+   "text": "“Recent studies show that these substitutes significantly decrease not only blood pressure, and not only heart attack and strokes, but even death from cardiovascular events,” he said.",
+   "fa": 3612,
+   "fb": 3795,
+   "id": "S024"
+  },
+  {
+   "para": 19,
+   "text": "\"Imagine that changing the brand of salt that you use could reduce the risk of death by 10% or 15%.”",
+   "fa": 3796,
+   "fb": 3896,
+   "id": "S025"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "paras": [
+  "A Russian court has fined Alphabet's Google 3.8 million roubles ($41,530) for hosting content on YouTube that included videos instructing Russian soldiers how to surrender, Russia's TASS news agency reported on Monday.",
+  "Russia has for several years ordered foreign technology platforms to remove content it deems illegal, such as what it calls \"fakes\" about the war in Ukraine, issuing small but persistent fines when it sees failures to comply.",
+  "Google did not immediately respond to an emailed request for comment.",
+  "Critics accuse the Russian authorities of deliberately disrupting YouTube's download speeds to prevent Russians from viewing content on it which is critivcal of President Vladimir Putin and his government.",
+  "Russia denies that, saying the issues are caused by Google's own failure to upgrade equipment, a charge disputed by the company and technology experts.",
+  "Putin in December accused Google of being a tool used by the U.S. government to score political points."
+ ],
+ "flow": "A Russian court has fined Alphabet's Google 3.8 million roubles ($41,530) for hosting content on YouTube that included videos instructing Russian soldiers how to surrender, Russia's TASS news agency reported on Monday.\nRussia has for several years ordered foreign technology platforms to remove content it deems illegal, such as what it calls \"fakes\" about the war in Ukraine, issuing small but persistent fines when it sees failures to comply.\nGoogle did not immediately respond to an emailed request for comment.\nCritics accuse the Russian authorities of deliberately disrupting YouTube's download speeds to prevent Russians from viewing content on it which is critivcal of President Vladimir Putin and his government.\nRussia denies that, saying the issues are caused by Google's own failure to upgrade equipment, a charge disputed by the company and technology experts.\nPutin in December accused Google of being a tool used by the U.S. government to score political points.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "A Russian court has fined Alphabet's Google 3.8 million roubles ($41,530) for hosting content on YouTube that included videos instructing Russian soldiers how to surrender, Russia's TASS news agency reported on Monday.",
+   "fa": 0,
+   "fb": 218,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Russia has for several years ordered foreign technology platforms to remove content it deems illegal, such as what it calls \"fakes\" about the war in Ukraine, issuing small but persistent fines when it sees failures to comply.",
+   "fa": 219,
+   "fb": 444,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "Google did not immediately respond to an emailed request for comment.",
+   "fa": 445,
+   "fb": 514,
+   "id": "S003"
+  },
+  {
+   "para": 3,
+   "text": "Critics accuse the Russian authorities of deliberately disrupting YouTube's download speeds to prevent Russians from viewing content on it which is critivcal of President Vladimir Putin and his government.",
+   "fa": 515,
+   "fb": 720,
+   "id": "S004"
+  },
+  {
+   "para": 4,
+   "text": "Russia denies that, saying the issues are caused by Google's own failure to upgrade equipment, a charge disputed by the company and technology experts.",
+   "fa": 721,
+   "fb": 872,
+   "id": "S005"
+  },
+  {
+   "para": 5,
+   "text": "Putin in December accused Google of being a tool used by the U.S. government to score political points.",
+   "fa": 873,
+   "fb": 976,
+   "id": "S006"
+  }
+ ]
+}

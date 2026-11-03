@@ -1,0 +1,248 @@
+{
+ "paras": [
+  "Một nghiên cứu của Đức cho thấy tỷ lệ phát hiện ung thư được cải thiện gần 18% khi bác sĩ nhận được sự trợ giúp từ trí tuệ nhân tạo AI.",
+  "Trong nghiên cứu này, các bác sĩ X quang — những bác sĩ phân tích kết quả chụp nhũ ảnh và các xét nghiệm chẩn đoán khác — đã sử dụng trí tuệ nhân tạo để kiểm tra ảnh chụp nhũ ảnh của hơn 460.000 phụ nữ Đức trong độ tuổi từ 50 đến 69. Các nhà nghiên cứu cho biết theo cách này, cứ một ngàn phụ nữ thì phát hiện thêm một ca ung thư so với cách chỉ có con người mà không có AI hỗ trợ. Đây là cuộc khám phá thực tế lớn nhất cho đến nay về việc sử dụng AI để phát hiện ung thư vú.",
+  "“Tỷ lệ phát hiện ung thư vú tốt hơn và đây thực sự là bằng chứng mạnh mẽ”, Tiến sĩ Alexander Katalinic, thuộc Đại học Lubeck ở Đức, nhà nghiên cứu chính của nghiên cứu, nói. “Và dựa trên bằng chứng này, chúng ta nên bắt đầu sử dụng nhiều AI hơn trong việc sàng lọc ung thư vú và cuối cùng, điều này sẽ trở thành tiêu chuẩn”.",
+  "Chụp nhũ ảnh của 463.094 phụ nữ Đức đã được kiểm tra từ tháng 7 năm 2021 đến tháng 2 năm 2023. Khoảng một nửa được hai bác sĩ X quang xem xét, đây là quy trình chuẩn ở Đức. Trong hơn một nửa số trường hợp, con người được AI hỗ trợ. Khi AI tham gia, tỷ lệ phát hiện ung thư vú là 6,7 trên 1.000 phụ nữ, so với 5,7 trên 1.000 phụ nữ chỉ được sàng lọc bởi con người.",
+  "“AI thực sự phù hợp để thay thế người đọc ở một mức độ nhất định”, ông Katalinic cho biết. “Nhưng bạn muốn đi xa đến đâu? Đây không chỉ là vấn đề khoa học mà còn là vấn đề xã hội. Niềm tin của xã hội vào AI như thế nào?”",
+  "Nghiên cứu phát hiện ra rằng AI cũng giúp giảm số lượng kết quả dương tính giả. Tuy nhiên, trí tuệ nhân tạo đã bỏ sót một số bệnh ung thư.",
+  "“AI không hoàn hảo giống như con người không hoàn hảo”, Stefan Bunk, đồng sáng lập của Vara, một công ty công nghệ chăm sóc sức khỏe tại Berlin đã phát triển trí tuệ nhân tạo được sử dụng trong nghiên cứu, cho biết. “Có 20 trường hợp trong nghiên cứu của chúng tôi mà AI nói rằng trường hợp này là bình thường nhưng thực tế là một bác sĩ X quang lại phát hiện ra ung thư”.",
+  "Tuy nhiên, theo kết quả nghiên cứu, con người đã bỏ sót khối u ác tính nhiều hơn AI gấp 10 lần.",
+  "“Không giống như con người, AI không biết mệt mỏi, đúng không?” ông Bunk nói. “AI hoạt động theo cùng một cách vào lúc 2 giờ sáng như vào giữa ngày. Vì vậy, đây chắc chắn là một lợi thế và cũng là một trong những lý do tại sao tôi nghĩ AI có thể phát hiện ra ung thư mà nếu không thì con người sẽ bỏ sót”.",
+  "Theo ông Bunk, AI có thể giúp giảm khối lượng công việc cho các bác sĩ X quang, giúp họ tập trung vào các trường hợp phức tạp hơn, đồng thời nói thêm rằng việc ngày càng phụ thuộc vào AI có thể dẫn đến nguy cơ mất đi chuyên môn của con người theo thời gian.",
+  "“Những trường hợp phức tạp đó — những trường hợp mà bạn cần phải tính đến nhiều góc độ, khi bạn cần phải nói chuyện với bệnh nhân, đúng không — là điều mà chuyên môn và một bác sĩ X quang thực thụ rất quan trọng và cần phải tiếp tục được đào tạo”, ông Bunk nói.",
+  "Tiến sĩ Wei Yang, giáo sư về X quang vú tại Trung tâm Ung thư MD Anderson thuộc Đại học Texas ở Houston, Texas, tin rằng việc sử dụng AI nhiều hơn có thể tiếp thêm sinh lực cho các bác sĩ X quang.",
+  "“Tôi nghĩ rằng sự ra đời của AI là cơ hội và động lực để chúng ta trở nên hứng thú hơn với lĩnh vực của mình để các bác sĩ X quang được đào tạo bài bản có không gian mở, thời gian và sự tập trung để tập trung vào các nhiệm vụ phức tạp hơn”, bà Yang cho biết.",
+  "Theo ông Katalinic, việc sử dụng bác sĩ X quang cùng với trí tuệ nhân tạo mang lại lợi ích tốt nhất của cả hai thế giới.",
+  "“Sự kết hợp giữa con người và AI tốt hơn nhiều so với việc chỉ có kết quả đọc của con người”, ông nói.",
+  "Bà Yang, người không tham gia vào nghiên cứu, rất phấn khởi trước kết quả.",
+  "“Dữ liệu rất thuyết phục”, bà cho biết. “Tỷ lệ phát hiện ung thư tăng lên, số dương tính sai giảm và tác động tiềm tàng mà điều này có thể tạo ra cho lực lượng lao động và tình trạng quá tải nhìn chung, rất, rất tích cực”."
+ ],
+ "flow": "Một nghiên cứu của Đức cho thấy tỷ lệ phát hiện ung thư được cải thiện gần 18% khi bác sĩ nhận được sự trợ giúp từ trí tuệ nhân tạo AI.\nTrong nghiên cứu này, các bác sĩ X quang — những bác sĩ phân tích kết quả chụp nhũ ảnh và các xét nghiệm chẩn đoán khác — đã sử dụng trí tuệ nhân tạo để kiểm tra ảnh chụp nhũ ảnh của hơn 460.000 phụ nữ Đức trong độ tuổi từ 50 đến 69. Các nhà nghiên cứu cho biết theo cách này, cứ một ngàn phụ nữ thì phát hiện thêm một ca ung thư so với cách chỉ có con người mà không có AI hỗ trợ. Đây là cuộc khám phá thực tế lớn nhất cho đến nay về việc sử dụng AI để phát hiện ung thư vú.\n“Tỷ lệ phát hiện ung thư vú tốt hơn và đây thực sự là bằng chứng mạnh mẽ”, Tiến sĩ Alexander Katalinic, thuộc Đại học Lubeck ở Đức, nhà nghiên cứu chính của nghiên cứu, nói. “Và dựa trên bằng chứng này, chúng ta nên bắt đầu sử dụng nhiều AI hơn trong việc sàng lọc ung thư vú và cuối cùng, điều này sẽ trở thành tiêu chuẩn”.\nChụp nhũ ảnh của 463.094 phụ nữ Đức đã được kiểm tra từ tháng 7 năm 2021 đến tháng 2 năm 2023. Khoảng một nửa được hai bác sĩ X quang xem xét, đây là quy trình chuẩn ở Đức. Trong hơn một nửa số trường hợp, con người được AI hỗ trợ. Khi AI tham gia, tỷ lệ phát hiện ung thư vú là 6,7 trên 1.000 phụ nữ, so với 5,7 trên 1.000 phụ nữ chỉ được sàng lọc bởi con người.\n“AI thực sự phù hợp để thay thế người đọc ở một mức độ nhất định”, ông Katalinic cho biết. “Nhưng bạn muốn đi xa đến đâu? Đây không chỉ là vấn đề khoa học mà còn là vấn đề xã hội. Niềm tin của xã hội vào AI như thế nào?”\nNghiên cứu phát hiện ra rằng AI cũng giúp giảm số lượng kết quả dương tính giả. Tuy nhiên, trí tuệ nhân tạo đã bỏ sót một số bệnh ung thư.\n“AI không hoàn hảo giống như con người không hoàn hảo”, Stefan Bunk, đồng sáng lập của Vara, một công ty công nghệ chăm sóc sức khỏe tại Berlin đã phát triển trí tuệ nhân tạo được sử dụng trong nghiên cứu, cho biết. “Có 20 trường hợp trong nghiên cứu của chúng tôi mà AI nói rằng trường hợp này là bình thường nhưng thực tế là một bác sĩ X quang lại phát hiện ra ung thư”.\nTuy nhiên, theo kết quả nghiên cứu, con người đã bỏ sót khối u ác tính nhiều hơn AI gấp 10 lần.\n“Không giống như con người, AI không biết mệt mỏi, đúng không?” ông Bunk nói. “AI hoạt động theo cùng một cách vào lúc 2 giờ sáng như vào giữa ngày. Vì vậy, đây chắc chắn là một lợi thế và cũng là một trong những lý do tại sao tôi nghĩ AI có thể phát hiện ra ung thư mà nếu không thì con người sẽ bỏ sót”.\nTheo ông Bunk, AI có thể giúp giảm khối lượng công việc cho các bác sĩ X quang, giúp họ tập trung vào các trường hợp phức tạp hơn, đồng thời nói thêm rằng việc ngày càng phụ thuộc vào AI có thể dẫn đến nguy cơ mất đi chuyên môn của con người theo thời gian.\n“Những trường hợp phức tạp đó — những trường hợp mà bạn cần phải tính đến nhiều góc độ, khi bạn cần phải nói chuyện với bệnh nhân, đúng không — là điều mà chuyên môn và một bác sĩ X quang thực thụ rất quan trọng và cần phải tiếp tục được đào tạo”, ông Bunk nói.\nTiến sĩ Wei Yang, giáo sư về X quang vú tại Trung tâm Ung thư MD Anderson thuộc Đại học Texas ở Houston, Texas, tin rằng việc sử dụng AI nhiều hơn có thể tiếp thêm sinh lực cho các bác sĩ X quang.\n“Tôi nghĩ rằng sự ra đời của AI là cơ hội và động lực để chúng ta trở nên hứng thú hơn với lĩnh vực của mình để các bác sĩ X quang được đào tạo bài bản có không gian mở, thời gian và sự tập trung để tập trung vào các nhiệm vụ phức tạp hơn”, bà Yang cho biết.\nTheo ông Katalinic, việc sử dụng bác sĩ X quang cùng với trí tuệ nhân tạo mang lại lợi ích tốt nhất của cả hai thế giới.\n“Sự kết hợp giữa con người và AI tốt hơn nhiều so với việc chỉ có kết quả đọc của con người”, ông nói.\nBà Yang, người không tham gia vào nghiên cứu, rất phấn khởi trước kết quả.\n“Dữ liệu rất thuyết phục”, bà cho biết. “Tỷ lệ phát hiện ung thư tăng lên, số dương tính sai giảm và tác động tiềm tàng mà điều này có thể tạo ra cho lực lượng lao động và tình trạng quá tải nhìn chung, rất, rất tích cực”.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "Một nghiên cứu của Đức cho thấy tỷ lệ phát hiện ung thư được cải thiện gần 18% khi bác sĩ nhận được sự trợ giúp từ trí tuệ nhân tạo AI.",
+   "fa": 0,
+   "fb": 135,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Trong nghiên cứu này, các bác sĩ X quang — những bác sĩ phân tích kết quả chụp nhũ ảnh và các xét nghiệm chẩn đoán khác — đã sử dụng trí tuệ nhân tạo để kiểm tra ảnh chụp nhũ ảnh của hơn 460.000 phụ nữ Đức trong độ tuổi từ 50 đến 69.",
+   "fa": 136,
+   "fb": 369,
+   "id": "S002"
+  },
+  {
+   "para": 1,
+   "text": "Các nhà nghiên cứu cho biết theo cách này, cứ một ngàn phụ nữ thì phát hiện thêm một ca ung thư so với cách chỉ có con người mà không có AI hỗ trợ.",
+   "fa": 370,
+   "fb": 517,
+   "id": "S003"
+  },
+  {
+   "para": 1,
+   "text": "Đây là cuộc khám phá thực tế lớn nhất cho đến nay về việc sử dụng AI để phát hiện ung thư vú.",
+   "fa": 518,
+   "fb": 611,
+   "id": "S004"
+  },
+  {
+   "para": 2,
+   "text": "“Tỷ lệ phát hiện ung thư vú tốt hơn và đây thực sự là bằng chứng mạnh mẽ”, Tiến sĩ Alexander Katalinic, thuộc Đại học Lubeck ở Đức, nhà nghiên cứu chính của nghiên cứu, nói.",
+   "fa": 612,
+   "fb": 785,
+   "id": "S005"
+  },
+  {
+   "para": 2,
+   "text": "“Và dựa trên bằng chứng này, chúng ta nên bắt đầu sử dụng nhiều AI hơn trong việc sàng lọc ung thư vú và cuối cùng, điều này sẽ trở thành tiêu chuẩn”.",
+   "fa": 786,
+   "fb": 936,
+   "id": "S006"
+  },
+  {
+   "para": 3,
+   "text": "Chụp nhũ ảnh của 463.094 phụ nữ Đức đã được kiểm tra từ tháng 7 năm 2021 đến tháng 2 năm 2023.",
+   "fa": 937,
+   "fb": 1031,
+   "id": "S007"
+  },
+  {
+   "para": 3,
+   "text": "Khoảng một nửa được hai bác sĩ X quang xem xét, đây là quy trình chuẩn ở Đức.",
+   "fa": 1032,
+   "fb": 1109,
+   "id": "S008"
+  },
+  {
+   "para": 3,
+   "text": "Trong hơn một nửa số trường hợp, con người được AI hỗ trợ.",
+   "fa": 1110,
+   "fb": 1168,
+   "id": "S009"
+  },
+  {
+   "para": 3,
+   "text": "Khi AI tham gia, tỷ lệ phát hiện ung thư vú là 6,7 trên 1.000 phụ nữ, so với 5,7 trên 1.000 phụ nữ chỉ được sàng lọc bởi con người.",
+   "fa": 1169,
+   "fb": 1300,
+   "id": "S010"
+  },
+  {
+   "para": 4,
+   "text": "“AI thực sự phù hợp để thay thế người đọc ở một mức độ nhất định”, ông Katalinic cho biết.",
+   "fa": 1301,
+   "fb": 1391,
+   "id": "S011"
+  },
+  {
+   "para": 4,
+   "text": "“Nhưng bạn muốn đi xa đến đâu?",
+   "fa": 1392,
+   "fb": 1422,
+   "id": "S012"
+  },
+  {
+   "para": 4,
+   "text": "Đây không chỉ là vấn đề khoa học mà còn là vấn đề xã hội.",
+   "fa": 1423,
+   "fb": 1480,
+   "id": "S013"
+  },
+  {
+   "para": 4,
+   "text": "Niềm tin của xã hội vào AI như thế nào?”",
+   "fa": 1481,
+   "fb": 1521,
+   "id": "S014"
+  },
+  {
+   "para": 5,
+   "text": "Nghiên cứu phát hiện ra rằng AI cũng giúp giảm số lượng kết quả dương tính giả.",
+   "fa": 1522,
+   "fb": 1601,
+   "id": "S015"
+  },
+  {
+   "para": 5,
+   "text": "Tuy nhiên, trí tuệ nhân tạo đã bỏ sót một số bệnh ung thư.",
+   "fa": 1602,
+   "fb": 1660,
+   "id": "S016"
+  },
+  {
+   "para": 6,
+   "text": "“AI không hoàn hảo giống như con người không hoàn hảo”, Stefan Bunk, đồng sáng lập của Vara, một công ty công nghệ chăm sóc sức khỏe tại Berlin đã phát triển trí tuệ nhân tạo được sử dụng trong nghiên cứu, cho biết.",
+   "fa": 1661,
+   "fb": 1876,
+   "id": "S017"
+  },
+  {
+   "para": 6,
+   "text": "“Có 20 trường hợp trong nghiên cứu của chúng tôi mà AI nói rằng trường hợp này là bình thường nhưng thực tế là một bác sĩ X quang lại phát hiện ra ung thư”.",
+   "fa": 1877,
+   "fb": 2033,
+   "id": "S018"
+  },
+  {
+   "para": 7,
+   "text": "Tuy nhiên, theo kết quả nghiên cứu, con người đã bỏ sót khối u ác tính nhiều hơn AI gấp 10 lần.",
+   "fa": 2034,
+   "fb": 2129,
+   "id": "S019"
+  },
+  {
+   "para": 8,
+   "text": "“Không giống như con người, AI không biết mệt mỏi, đúng không?”",
+   "fa": 2130,
+   "fb": 2193,
+   "id": "S020"
+  },
+  {
+   "para": 8,
+   "text": "ông Bunk nói.",
+   "fa": 2194,
+   "fb": 2207,
+   "id": "S021"
+  },
+  {
+   "para": 8,
+   "text": "“AI hoạt động theo cùng một cách vào lúc 2 giờ sáng như vào giữa ngày.",
+   "fa": 2208,
+   "fb": 2278,
+   "id": "S022"
+  },
+  {
+   "para": 8,
+   "text": "Vì vậy, đây chắc chắn là một lợi thế và cũng là một trong những lý do tại sao tôi nghĩ AI có thể phát hiện ra ung thư mà nếu không thì con người sẽ bỏ sót”.",
+   "fa": 2279,
+   "fb": 2435,
+   "id": "S023"
+  },
+  {
+   "para": 9,
+   "text": "Theo ông Bunk, AI có thể giúp giảm khối lượng công việc cho các bác sĩ X quang, giúp họ tập trung vào các trường hợp phức tạp hơn, đồng thời nói thêm rằng việc ngày càng phụ thuộc vào AI có thể dẫn đến nguy cơ mất đi chuyên môn của con người theo thời gian.",
+   "fa": 2436,
+   "fb": 2693,
+   "id": "S024"
+  },
+  {
+   "para": 10,
+   "text": "“Những trường hợp phức tạp đó — những trường hợp mà bạn cần phải tính đến nhiều góc độ, khi bạn cần phải nói chuyện với bệnh nhân, đúng không — là điều mà chuyên môn và một bác sĩ X quang thực thụ rất quan trọng và cần phải tiếp tục được đào tạo”, ông Bunk nói.",
+   "fa": 2694,
+   "fb": 2955,
+   "id": "S025"
+  },
+  {
+   "para": 11,
+   "text": "Tiến sĩ Wei Yang, giáo sư về X quang vú tại Trung tâm Ung thư MD Anderson thuộc Đại học Texas ở Houston, Texas, tin rằng việc sử dụng AI nhiều hơn có thể tiếp thêm sinh lực cho các bác sĩ X quang.",
+   "fa": 2956,
+   "fb": 3152,
+   "id": "S026"
+  },
+  {
+   "para": 12,
+   "text": "“Tôi nghĩ rằng sự ra đời của AI là cơ hội và động lực để chúng ta trở nên hứng thú hơn với lĩnh vực của mình để các bác sĩ X quang được đào tạo bài bản có không gian mở, thời gian và sự tập trung để tập trung vào các nhiệm vụ phức tạp hơn”, bà Yang cho biết.",
+   "fa": 3153,
+   "fb": 3411,
+   "id": "S027"
+  },
+  {
+   "para": 13,
+   "text": "Theo ông Katalinic, việc sử dụng bác sĩ X quang cùng với trí tuệ nhân tạo mang lại lợi ích tốt nhất của cả hai thế giới.",
+   "fa": 3412,
+   "fb": 3532,
+   "id": "S028"
+  },
+  {
+   "para": 14,
+   "text": "“Sự kết hợp giữa con người và AI tốt hơn nhiều so với việc chỉ có kết quả đọc của con người”, ông nói.",
+   "fa": 3533,
+   "fb": 3635,
+   "id": "S029"
+  },
+  {
+   "para": 15,
+   "text": "Bà Yang, người không tham gia vào nghiên cứu, rất phấn khởi trước kết quả.",
+   "fa": 3636,
+   "fb": 3710,
+   "id": "S030"
+  },
+  {
+   "para": 16,
+   "text": "“Dữ liệu rất thuyết phục”, bà cho biết.",
+   "fa": 3711,
+   "fb": 3750,
+   "id": "S031"
+  },
+  {
+   "para": 16,
+   "text": "“Tỷ lệ phát hiện ung thư tăng lên, số dương tính sai giảm và tác động tiềm tàng mà điều này có thể tạo ra cho lực lượng lao động và tình trạng quá tải nhìn chung, rất, rất tích cực”.",
+   "fa": 3751,
+   "fb": 3933,
+   "id": "S032"
+  }
+ ]
+}

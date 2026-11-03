@@ -1,0 +1,213 @@
+{
+ "paras": [
+  "Australia's consumer watchdog has warned about fake investment bond scams promising returns on investments of up to $250,000, with some falsely claiming to have the backing of hardware giant Bunnings.",
+  "Investment scams are costing Australians millions.",
+  "Now, the consumer watchdog has warned about fraudulent investment bonds — some falsely claiming to have the backing of hardware giant Bunnings.",
+  "The Australian Competition and Consumer Commission's (ACCC) Scamwatch service this week warned scammers are impersonating real businesses and offering fake investment bonds.",
+  "Legitimate bond investments involve lending money to a company or government in exchange for regular interest payments",
+  "But those that are a sham have claimed the fake bonds offer high returns and are protected by the government and in some cases, supported by Bunnings.",
+  "The scammers offered investment options ranging from $50,000 to $250,000 and promised market returns of up to 9 per cent,",
+  "Scamwatch said, adding the Australian Securities and Investments Commission (ASIC) had taken down fake Bunnings websites last year, along with thousands of others.",
+  "SBS News contacted Bunnings for comment, which said it was aware of the scam and pointed to information provided on its website.",
+  "Scammers also offered environmental bonds that they said supported carbon reduction, sustainability and waste reduction, Scamwatch said.",
+  "Bad actors use fake investment bond scams to steal personal details, which they then use for further scams, in addition to stealing money, according to Scamwatch.",
+  "How to spot an investment scam",
+  "Investment scams cost Australians nearly $193 million in 2024, according to Scamwatch.",
+  "It warns they can be difficult to spot, as they set up emails resembling those of legitimate brokers. They also create fake website using a real business' branding, and the fake website will come up during internet searches for investment opportunities.",
+  "The advice from Scamwatch is not to trust any surprise offers to invest, and not to take investment advice from people you have met through social media.",
+  "Always check if the business details match the company's real website via an independent search, and if you are unsure, call the official phone number of the organisation to check.",
+  "You can also check the ASIC website to confirm whether the person offering an investment is licenced, and the Moneysmart investor alert list for companies and websites you should not trust.",
+  "Bunnings' scam warning",
+  "Bunnings has previously warned of scams that are illegally using its brand name and logo to trick people into giving out personal information, claiming they are offering the chance to win gift cards, prizes, or false employment opportunities.",
+  "\"Bunnings is in no way associated with any of the above activities and does not use email or social media for any promotions offering free gift cards,\" it says on its website.",
+  "\"Bunnings will also never ask for personal information, or banking details in unsolicited communications.\"",
+  "What to do if you think you have been scammed",
+  "If you think have had money or personal information stolen, you should contact your bank immediately.",
+  "If you think you may have been scammed, contact IDCARE on 1800 595 160. You can also report scams to Scamwatch."
+ ],
+ "flow": "Australia's consumer watchdog has warned about fake investment bond scams promising returns on investments of up to $250,000, with some falsely claiming to have the backing of hardware giant Bunnings.\nInvestment scams are costing Australians millions.\nNow, the consumer watchdog has warned about fraudulent investment bonds — some falsely claiming to have the backing of hardware giant Bunnings.\nThe Australian Competition and Consumer Commission's (ACCC) Scamwatch service this week warned scammers are impersonating real businesses and offering fake investment bonds.\nLegitimate bond investments involve lending money to a company or government in exchange for regular interest payments\nBut those that are a sham have claimed the fake bonds offer high returns and are protected by the government and in some cases, supported by Bunnings.\nThe scammers offered investment options ranging from $50,000 to $250,000 and promised market returns of up to 9 per cent,\nScamwatch said, adding the Australian Securities and Investments Commission (ASIC) had taken down fake Bunnings websites last year, along with thousands of others.\nSBS News contacted Bunnings for comment, which said it was aware of the scam and pointed to information provided on its website.\nScammers also offered environmental bonds that they said supported carbon reduction, sustainability and waste reduction, Scamwatch said.\nBad actors use fake investment bond scams to steal personal details, which they then use for further scams, in addition to stealing money, according to Scamwatch.\nHow to spot an investment scam\nInvestment scams cost Australians nearly $193 million in 2024, according to Scamwatch.\nIt warns they can be difficult to spot, as they set up emails resembling those of legitimate brokers. They also create fake website using a real business' branding, and the fake website will come up during internet searches for investment opportunities.\nThe advice from Scamwatch is not to trust any surprise offers to invest, and not to take investment advice from people you have met through social media.\nAlways check if the business details match the company's real website via an independent search, and if you are unsure, call the official phone number of the organisation to check.\nYou can also check the ASIC website to confirm whether the person offering an investment is licenced, and the Moneysmart investor alert list for companies and websites you should not trust.\nBunnings' scam warning\nBunnings has previously warned of scams that are illegally using its brand name and logo to trick people into giving out personal information, claiming they are offering the chance to win gift cards, prizes, or false employment opportunities.\n\"Bunnings is in no way associated with any of the above activities and does not use email or social media for any promotions offering free gift cards,\" it says on its website.\n\"Bunnings will also never ask for personal information, or banking details in unsolicited communications.\"\nWhat to do if you think you have been scammed\nIf you think have had money or personal information stolen, you should contact your bank immediately.\nIf you think you may have been scammed, contact IDCARE on 1800 595 160. You can also report scams to Scamwatch.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "Australia's consumer watchdog has warned about fake investment bond scams promising returns on investments of up to $250,000, with some falsely claiming to have the backing of hardware giant Bunnings.",
+   "fa": 0,
+   "fb": 200,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Investment scams are costing Australians millions.",
+   "fa": 201,
+   "fb": 251,
+   "id": "S002"
+  },
+  {
+   "para": 2,
+   "text": "Now, the consumer watchdog has warned about fraudulent investment bonds — some falsely claiming to have the backing of hardware giant Bunnings.",
+   "fa": 252,
+   "fb": 395,
+   "id": "S003"
+  },
+  {
+   "para": 3,
+   "text": "The Australian Competition and Consumer Commission's (ACCC) Scamwatch service this week warned scammers are impersonating real businesses and offering fake investment bonds.",
+   "fa": 396,
+   "fb": 569,
+   "id": "S004"
+  },
+  {
+   "para": 4,
+   "text": "Legitimate bond investments involve lending money to a company or government in exchange for regular interest payments",
+   "fa": 570,
+   "fb": 688,
+   "id": "S005"
+  },
+  {
+   "para": 5,
+   "text": "But those that are a sham have claimed the fake bonds offer high returns and are protected by the government and in some cases, supported by Bunnings.",
+   "fa": 689,
+   "fb": 839,
+   "id": "S006"
+  },
+  {
+   "para": 6,
+   "text": "The scammers offered investment options ranging from $50,000 to $250,000 and promised market returns of up to 9 per cent,",
+   "fa": 840,
+   "fb": 961,
+   "id": "S007"
+  },
+  {
+   "para": 7,
+   "text": "Scamwatch said, adding the Australian Securities and Investments Commission (ASIC) had taken down fake Bunnings websites last year, along with thousands of others.",
+   "fa": 962,
+   "fb": 1125,
+   "id": "S008"
+  },
+  {
+   "para": 8,
+   "text": "SBS News contacted Bunnings for comment, which said it was aware of the scam and pointed to information provided on its website.",
+   "fa": 1126,
+   "fb": 1254,
+   "id": "S009"
+  },
+  {
+   "para": 9,
+   "text": "Scammers also offered environmental bonds that they said supported carbon reduction, sustainability and waste reduction, Scamwatch said.",
+   "fa": 1255,
+   "fb": 1391,
+   "id": "S010"
+  },
+  {
+   "para": 10,
+   "text": "Bad actors use fake investment bond scams to steal personal details, which they then use for further scams, in addition to stealing money, according to Scamwatch.",
+   "fa": 1392,
+   "fb": 1554,
+   "id": "S011"
+  },
+  {
+   "para": 11,
+   "text": "How to spot an investment scam",
+   "fa": 1555,
+   "fb": 1585,
+   "id": "S012"
+  },
+  {
+   "para": 12,
+   "text": "Investment scams cost Australians nearly $193 million in 2024, according to Scamwatch.",
+   "fa": 1586,
+   "fb": 1672,
+   "id": "S013"
+  },
+  {
+   "para": 13,
+   "text": "It warns they can be difficult to spot, as they set up emails resembling those of legitimate brokers.",
+   "fa": 1673,
+   "fb": 1774,
+   "id": "S014"
+  },
+  {
+   "para": 13,
+   "text": "They also create fake website using a real business' branding, and the fake website will come up during internet searches for investment opportunities.",
+   "fa": 1775,
+   "fb": 1926,
+   "id": "S015"
+  },
+  {
+   "para": 14,
+   "text": "The advice from Scamwatch is not to trust any surprise offers to invest, and not to take investment advice from people you have met through social media.",
+   "fa": 1927,
+   "fb": 2080,
+   "id": "S016"
+  },
+  {
+   "para": 15,
+   "text": "Always check if the business details match the company's real website via an independent search, and if you are unsure, call the official phone number of the organisation to check.",
+   "fa": 2081,
+   "fb": 2261,
+   "id": "S017"
+  },
+  {
+   "para": 16,
+   "text": "You can also check the ASIC website to confirm whether the person offering an investment is licenced, and the Moneysmart investor alert list for companies and websites you should not trust.",
+   "fa": 2262,
+   "fb": 2451,
+   "id": "S018"
+  },
+  {
+   "para": 17,
+   "text": "Bunnings' scam warning",
+   "fa": 2452,
+   "fb": 2474,
+   "id": "S019"
+  },
+  {
+   "para": 18,
+   "text": "Bunnings has previously warned of scams that are illegally using its brand name and logo to trick people into giving out personal information, claiming they are offering the chance to win gift cards, prizes, or false employment opportunities.",
+   "fa": 2475,
+   "fb": 2717,
+   "id": "S020"
+  },
+  {
+   "para": 19,
+   "text": "\"Bunnings is in no way associated with any of the above activities and does not use email or social media for any promotions offering free gift cards,\" it says on its website.",
+   "fa": 2718,
+   "fb": 2893,
+   "id": "S021"
+  },
+  {
+   "para": 20,
+   "text": "\"Bunnings will also never ask for personal information, or banking details in unsolicited communications.\"",
+   "fa": 2894,
+   "fb": 3000,
+   "id": "S022"
+  },
+  {
+   "para": 21,
+   "text": "What to do if you think you have been scammed",
+   "fa": 3001,
+   "fb": 3046,
+   "id": "S023"
+  },
+  {
+   "para": 22,
+   "text": "If you think have had money or personal information stolen, you should contact your bank immediately.",
+   "fa": 3047,
+   "fb": 3148,
+   "id": "S024"
+  },
+  {
+   "para": 23,
+   "text": "If you think you may have been scammed, contact IDCARE on 1800 595 160.",
+   "fa": 3149,
+   "fb": 3220,
+   "id": "S025"
+  },
+  {
+   "para": 23,
+   "text": "You can also report scams to Scamwatch.",
+   "fa": 3221,
+   "fb": 3260,
+   "id": "S026"
+  }
+ ]
+}

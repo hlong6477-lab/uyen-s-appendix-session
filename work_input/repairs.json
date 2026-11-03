@@ -1,0 +1,27 @@
+{
+ "repairs": [
+  {
+   "pair": 29,
+   "line": 466,
+   "type": "swap_en_vi_columns",
+   "en_before": "**Giá tại các khu vực nông thôn**",
+   "vi_before": "**Prices in regional areas**"
+  },
+  {
+   "pair": 30,
+   "line": 515,
+   "type": "fix_escape",
+   "side": "en",
+   "before": "\"We've got a generation that has size*,* education, technology and global connection and e",
+   "after": "\"We've got a generation that has size, education, technology and global connection and eve"
+  },
+  {
+   "pair": 33,
+   "line": 586,
+   "type": "swap_en_vi_columns",
+   "en_before": "Mặc dù cái tên có thể khiến mọi người khó chịu nhưng hương vị thực sự có tác dụng. Sữa và ",
+   "vi_before": "Though the name might turn people off, the flavors really do work. The sweetened milk and "
+  }
+ ],
+ "notes": []
+}

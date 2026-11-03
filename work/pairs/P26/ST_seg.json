@@ -1,0 +1,165 @@
+{
+ "paras": [
+  "Care economy and technology roles are expected to be in demand in 2025, with improving economic conditions tipped to fuel hiring in retail and hospitality.",
+  "Key Points The job market is still stabilising following the post-COVID-19 pandemic hiring boom. But hiring in the care economy, including jobs in health care and child care, is unlikely to slow down. Digital transformation, cybersecurity and AI will challenge the private sector in 2025, a survey has shown.",
+  "If you're looking for a job in 2025, economists say retail, tech and the care economy could be a good place to start.",
+  "SEEK senior economist Blair Chapman hopes to see strong hiring in consumer-facing roles this year.",
+  "However, that will depend on widely expected rate cuts from the Reserve Bank of Australia,",
+  "which are anticipated to ease employer concerns about sluggish spending.",
+  "\"If we do see those cost of living pressures continue to ease and interest rate cuts come, then you can expect retail and hospitality demand to pick up in 2025,\" he said.",
+  "Outlining his expectations for the year ahead, Chapman said the job market was still stabilising following the post-COVID-19 pandemic hiring boom.",
+  "Compared to earlier in the year, the number of advertisements for available positions slowed towards the end of 2024, he said, reflecting normalising labour demand easing from a very high base.",
+  "But hiring in the care economy, including jobs in health care and child care, was unlikely to slow down.",
+  "\"That ongoing demand for care workers isn't going away and that's really continuing to drive employment — and that's going to continue well into 2025,\" Chapman said.",
+  "A survey of Australian business leaders released by consultancy KPMG revealed digital transformation, cybersecurity and artificial intelligence (AI) as pressing challenges for the private sector in 2025.",
+  "Skills gaps in areas such as technology and data science were identified as a top concern for CEOs.",
+  "Chapman said that means demand for programmers and data scientists will likely grow as businesses move to make the most of new technologies.",
+  "LinkedIn career expert Cayla Dengate said an increasing reliance on tech like generative AI would, in turn, strengthen demand for \"soft skills\".",
+  "\"As business leaders look for core competencies that AI cannot easily replace, there's now more value than ever in skills such as communication, building relationships, creativity and complex decision-making,\" she said.",
+  "English teachers, fundraising managers and employee relations specialists all earned spots on the career platform's list of jobs on the rise, underscoring the demand for the interpersonal skills such jobs require.",
+  "English teachers topped the ranking, followed by food and beverage servers and travel specialists."
+ ],
+ "flow": "Care economy and technology roles are expected to be in demand in 2025, with improving economic conditions tipped to fuel hiring in retail and hospitality.\nKey Points The job market is still stabilising following the post-COVID-19 pandemic hiring boom. But hiring in the care economy, including jobs in health care and child care, is unlikely to slow down. Digital transformation, cybersecurity and AI will challenge the private sector in 2025, a survey has shown.\nIf you're looking for a job in 2025, economists say retail, tech and the care economy could be a good place to start.\nSEEK senior economist Blair Chapman hopes to see strong hiring in consumer-facing roles this year.\nHowever, that will depend on widely expected rate cuts from the Reserve Bank of Australia,\nwhich are anticipated to ease employer concerns about sluggish spending.\n\"If we do see those cost of living pressures continue to ease and interest rate cuts come, then you can expect retail and hospitality demand to pick up in 2025,\" he said.\nOutlining his expectations for the year ahead, Chapman said the job market was still stabilising following the post-COVID-19 pandemic hiring boom.\nCompared to earlier in the year, the number of advertisements for available positions slowed towards the end of 2024, he said, reflecting normalising labour demand easing from a very high base.\nBut hiring in the care economy, including jobs in health care and child care, was unlikely to slow down.\n\"That ongoing demand for care workers isn't going away and that's really continuing to drive employment — and that's going to continue well into 2025,\" Chapman said.\nA survey of Australian business leaders released by consultancy KPMG revealed digital transformation, cybersecurity and artificial intelligence (AI) as pressing challenges for the private sector in 2025.\nSkills gaps in areas such as technology and data science were identified as a top concern for CEOs.\nChapman said that means demand for programmers and data scientists will likely grow as businesses move to make the most of new technologies.\nLinkedIn career expert Cayla Dengate said an increasing reliance on tech like generative AI would, in turn, strengthen demand for \"soft skills\".\n\"As business leaders look for core competencies that AI cannot easily replace, there's now more value than ever in skills such as communication, building relationships, creativity and complex decision-making,\" she said.\nEnglish teachers, fundraising managers and employee relations specialists all earned spots on the career platform's list of jobs on the rise, underscoring the demand for the interpersonal skills such jobs require.\nEnglish teachers topped the ranking, followed by food and beverage servers and travel specialists.",
+ "sentences": [
+  {
+   "para": 0,
+   "text": "Care economy and technology roles are expected to be in demand in 2025, with improving economic conditions tipped to fuel hiring in retail and hospitality.",
+   "fa": 0,
+   "fb": 155,
+   "id": "S001"
+  },
+  {
+   "para": 1,
+   "text": "Key Points The job market is still stabilising following the post-COVID-19 pandemic hiring boom.",
+   "fa": 156,
+   "fb": 252,
+   "id": "S002"
+  },
+  {
+   "para": 1,
+   "text": "But hiring in the care economy, including jobs in health care and child care, is unlikely to slow down.",
+   "fa": 253,
+   "fb": 356,
+   "id": "S003"
+  },
+  {
+   "para": 1,
+   "text": "Digital transformation, cybersecurity and AI will challenge the private sector in 2025, a survey has shown.",
+   "fa": 357,
+   "fb": 464,
+   "id": "S004"
+  },
+  {
+   "para": 2,
+   "text": "If you're looking for a job in 2025, economists say retail, tech and the care economy could be a good place to start.",
+   "fa": 465,
+   "fb": 582,
+   "id": "S005"
+  },
+  {
+   "para": 3,
+   "text": "SEEK senior economist Blair Chapman hopes to see strong hiring in consumer-facing roles this year.",
+   "fa": 583,
+   "fb": 681,
+   "id": "S006"
+  },
+  {
+   "para": 4,
+   "text": "However, that will depend on widely expected rate cuts from the Reserve Bank of Australia,",
+   "fa": 682,
+   "fb": 772,
+   "id": "S007"
+  },
+  {
+   "para": 5,
+   "text": "which are anticipated to ease employer concerns about sluggish spending.",
+   "fa": 773,
+   "fb": 845,
+   "id": "S008"
+  },
+  {
+   "para": 6,
+   "text": "\"If we do see those cost of living pressures continue to ease and interest rate cuts come, then you can expect retail and hospitality demand to pick up in 2025,\" he said.",
+   "fa": 846,
+   "fb": 1016,
+   "id": "S009"
+  },
+  {
+   "para": 7,
+   "text": "Outlining his expectations for the year ahead, Chapman said the job market was still stabilising following the post-COVID-19 pandemic hiring boom.",
+   "fa": 1017,
+   "fb": 1163,
+   "id": "S010"
+  },
+  {
+   "para": 8,
+   "text": "Compared to earlier in the year, the number of advertisements for available positions slowed towards the end of 2024, he said, reflecting normalising labour demand easing from a very high base.",
+   "fa": 1164,
+   "fb": 1357,
+   "id": "S011"
+  },
+  {
+   "para": 9,
+   "text": "But hiring in the care economy, including jobs in health care and child care, was unlikely to slow down.",
+   "fa": 1358,
+   "fb": 1462,
+   "id": "S012"
+  },
+  {
+   "para": 10,
+   "text": "\"That ongoing demand for care workers isn't going away and that's really continuing to drive employment — and that's going to continue well into 2025,\" Chapman said.",
+   "fa": 1463,
+   "fb": 1628,
+   "id": "S013"
+  },
+  {
+   "para": 11,
+   "text": "A survey of Australian business leaders released by consultancy KPMG revealed digital transformation, cybersecurity and artificial intelligence (AI) as pressing challenges for the private sector in 2025.",
+   "fa": 1629,
+   "fb": 1832,
+   "id": "S014"
+  },
+  {
+   "para": 12,
+   "text": "Skills gaps in areas such as technology and data science were identified as a top concern for CEOs.",
+   "fa": 1833,
+   "fb": 1932,
+   "id": "S015"
+  },
+  {
+   "para": 13,
+   "text": "Chapman said that means demand for programmers and data scientists will likely grow as businesses move to make the most of new technologies.",
+   "fa": 1933,
+   "fb": 2073,
+   "id": "S016"
+  },
+  {
+   "para": 14,
+   "text": "LinkedIn career expert Cayla Dengate said an increasing reliance on tech like generative AI would, in turn, strengthen demand for \"soft skills\".",
+   "fa": 2074,
+   "fb": 2218,
+   "id": "S017"
+  },
+  {
+   "para": 15,
+   "text": "\"As business leaders look for core competencies that AI cannot easily replace, there's now more value than ever in skills such as communication, building relationships, creativity and complex decision-making,\" she said.",
+   "fa": 2219,
+   "fb": 2438,
+   "id": "S018"
+  },
+  {
+   "para": 16,
+   "text": "English teachers, fundraising managers and employee relations specialists all earned spots on the career platform's list of jobs on the rise, underscoring the demand for the interpersonal skills such jobs require.",
+   "fa": 2439,
+   "fb": 2652,
+   "id": "S019"
+  },
+  {
+   "para": 17,
+   "text": "English teachers topped the ranking, followed by food and beverage servers and travel specialists.",
+   "fa": 2653,
+   "fb": 2751,
+   "id": "S020"
+  }
+ ]
+}
