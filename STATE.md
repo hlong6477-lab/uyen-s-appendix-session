@@ -1,7 +1,7 @@
 # SESSION STATE — Appendix 1 (Text 21–40)
 
 Repo này lưu toàn bộ phiên làm việc để sống sót qua các sandbox reset.
-Sau khi reset: `git pull` repo này là lấy lại được toàn bộ trạng thái.
+Sau reset sandbox: `git clone` repo này lại là lấy lại toàn bộ trạng thái; không cần chạy lại prepare/ingest/segment đã commit.
 
 ## Nhiệm vụ
 Chạy toàn bộ quy trình manual-first của skill COHESION EN–VI
@@ -19,7 +19,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | prepare_input (chuẩn hoá 2 kiểu bảng, 3 repairs: swap P29-L466, swap P33-L586, fix `*,*` P30-L515) | ✅ | `work_input/prepared_input.md`, `work_input/repairs.json` |
 | ingest → P01..P20 → renumber → **P21..P40** | ✅ | Text NN ↔ PNN |
 | segment | ✅ | ST 801 câu / TT 731 câu |
-| Phân tích tay + tie table từng cặp | ⏳ | xem bảng dưới |
+| Phân tích tay + tie table từng cặp | ⏳ | P21 ✅ (75 EN / 72 VI, PASS); còn 19 cặp — chạy theo lô 3 agent, commit+push sau mỗi lô |
 | annotate + render từng cặp | ⏳ | |
 | build_appendix → export DOCX/PDF → validate | ⏳ | |
 
@@ -27,7 +27,7 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 
 | Pair | Text | ST/TT câu | Phân tích | Tie table | annotate | render EN/VI |
 |---|---|---|---|---|---|---|
-| P21 | Bunnings scam | 26/22 | ☐ | ☐ | ☐ | ☐ |
+| P21 | Bunnings scam | 26/22 | ✅ | ✅ | ✅ | PASS/PASS (75/72) |
 | P22 | Kid screen time | 60/60 | ☐ | ☐ | ☐ | ☐ |
 | P23 | Shopping swap $4,000 | 41/45 | ☐ | ☐ | ☐ | ☐ |
 | P24 | Migration 2025 | 118/114 | ☐ | ☐ | ☐ | ☐ |
