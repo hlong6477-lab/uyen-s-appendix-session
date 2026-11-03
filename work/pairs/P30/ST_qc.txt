@@ -1,0 +1,3 @@
+QC P30 EN: PASS
+counts: {'C': 2, 'L': 82, 'R': 25, 'S': 1}
+ties: 110
