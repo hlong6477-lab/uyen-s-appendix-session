@@ -1,0 +1,3 @@
+QC P32 EN: PASS
+counts: {'C': 1, 'L': 62, 'R': 14}
+ties: 77
