@@ -32,21 +32,21 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P23 | Shopping swap $4,000 | 41/45 | ☐ | ☐ | ☐ | ☐ |
 | P24 | Migration 2025 | 118/114 | ☐ | ☐ | ☐ | ☐ |
 | P25 | Inflation / RBA | 51/57 | ☐ | ☐ | ☐ | ☐ |
-| P26 | Fastest-growing jobs | 20/19 | ☐ | ☐ | ☐ | ☐ |
+| P26 | Fastest-growing jobs | 20/19 | ⏳ | | | |
 | P27 | Overemployed | 105/84 | ☐ | ☐ | ☐ | ☐ |
 | P28 | New Year resolution | 72/70 | ☐ | ☐ | ☐ | ☐ |
 | P29 | Property prices | 27/21 | ☐ | ☐ | ☐ | ☐ |
 | P30 | Optimistic trends 2025 | 55/44 | ☐ | ☐ | ☐ | ☐ |
-| P31 | Escaped bear Dubai | 15/15 | ☐ | ☐ | ☐ | ☐ |
+| P31 | Escaped bear Dubai | 15/15 | ⏳ | | | |
 | P32 | BLM mural | 25/23 | ☐ | ☐ | ☐ | ☐ |
 | P33 | Salt coffee VN | 45/33 | ☐ | ☐ | ☐ | ☐ |
-| P34 | Russia fines Google | 6/6 | ☐ | ☐ | ☐ | ☐ |
-| P35 | Maxar satellite | 8/8 | ☐ | ☐ | ☐ | ☐ |
+| P34 | Russia fines Google | 6/6 | ✅ | ✅ | ✅ | PASS/PASS (18/18) |
+| P35 | Maxar satellite | 8/8 | ✅ | ✅ | ✅ | PASS/PASS (32/34) |
 | P36 | AI breast cancer | 33/32 | ☐ | ☐ | ☐ | ☐ |
 | P37 | Nanoplastics | 41/37 | ☐ | ☐ | ☐ | ☐ |
 | P38 | WHO salt | 25/25 | ☐ | ☐ | ☐ | ☐ |
-| P39 | Bangladesh floods | 21/10 | ☐ | ☐ | ☐ | ☐ |
-| P40 | Pope funds | 7/6 | ☐ | ☐ | ☐ | ☐ |
+| P39 | Bangladesh floods | 21/10 | ⏳ | | | |
+| P40 | Pope funds | 7/6 | ✅ | ✅ | ✅ | PASS/PASS (17/20) |
 
 ## Lệnh chuẩn (chạy từ gốc repo này)
 

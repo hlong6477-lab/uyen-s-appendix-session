@@ -1,0 +1,3 @@
+QC P40 EN: PASS
+counts: {'E': 2, 'L': 15}
+ties: 17

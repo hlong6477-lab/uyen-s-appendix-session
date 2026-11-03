@@ -1,0 +1,16 @@
+# P35 — TT (Vietnamese)
+
+**Title:** Chính phủ Mỹ cắt không cho Ukraine tiếp cận hình ảnh vệ tinh
+
+**Legend:** 🟨 R | 🟩 S | 🟦 E (∅ = gap) | 🟧 C | 🟪 L
+
+---
+
+Công ty hàng không vũ trụ Mỹ Maxar Technologies cho biết hôm thứ Sáu rằng họ đã vô hiệu hóa quyền tiếp cận của người dùng Ukraine đối với hình ảnh vệ tinh trên một nền tảng của chính phủ Mỹ, vì chính quyền của Tổng thống Mỹ Donald Trump đã đình chỉ việc chia sẻ thông tin tình báo với Kyiv.
+Trong một phát biểu, 🟪⟦Maxar⟧ cho biết họ có những hợp đồng với 🟪⟦chính phủ Mỹ⟧ và hàng chục quốc gia đồng minh và đối tác, và "Mỗi khách hàng tự quyết định cách họ sử dụng và chia sẻ 🟨⟦dữ liệu đó⟧."
+🟪⟦Công ty⟧ cho biết 🟪⟦hợp đồng⟧ được nói tới là GEGD (chương trình Cung cấp Tình báo Địa lý Cải tiến Toàn cầu), một chương trình của 🟪⟦chính phủ Mỹ⟧ cho 🟪⟦người dùng⟧ 🟪⟦tiếp cận⟧ 🟪⟦hình ảnh vệ tinh⟧ thương mại do Mỹ thu thập.
+"🟪⟦Chính phủ Hoa Kỳ⟧ đã quyết định tạm thời 🟪⟦đình chỉ⟧ các 🟪⟦tài khoản của Ukraine⟧ trong 🟪⟦GEGD⟧," 🟪⟦Maxar⟧ nói, và 🟦⟦∅⟧cho biết nên chuyển câu hỏi đến Cơ quan Tình báo Địa không gian Quốc gia Hoa Kỳ, nơi đã xác nhận việc này.
+"🟧⟦Tuân theo⟧ chỉ thị của 🟪⟦chính quyền⟧ về việc hỗ trợ 🟪⟦Ukraine⟧, 🟪⟦Cơ quan Tình báo Địa không gian Quốc gia Hoa Kỳ⟧ đã tạm thời 🟪⟦đình chỉ⟧ khả năng 🟪⟦tiếp cận⟧ 🟪⟦hệ thống Cung cấp Tình báo Địa lý Cải tiến Toàn cầu⟧, hay GEGD, là cổng chính để tiếp cận 🟪⟦hình ảnh thương mại⟧ do chính phủ Hoa Kỳ mua," một phát ngôn viên của cơ quan này cho biết.
+🟪⟦Hành động⟧ của 🟪⟦Maxar⟧ lần đầu tiên được hãng tin quân sự Militarnyi đưa tin.
+"Chúng tôi rất coi trọng các cam kết theo 🟪⟦hợp đồng⟧ của mình và không có thay đổi nào đối với các 🟪⟦chương trình⟧ 🟪⟦khách hàng⟧ khác của 🟪⟦Maxar⟧," công ty nói trong một 🟪⟦phát biểu⟧.
+John Ratcliffe, giám đốc Cơ quan Tình báo Trung ương (CIA), hôm thứ Tư nói rằng 🟪⟦Washington⟧ đã 🟪⟦đình chỉ⟧ việc 🟪⟦chia sẻ thông tin tình báo⟧ với 🟪⟦Ukraine⟧, gây áp lực lên chính phủ của Tổng thống Volodymyr Zelenskyy để buộc họ hợp tác với chính quyền Trump trong việc xúc tiến các cuộc đàm phán hòa bình với Nga.

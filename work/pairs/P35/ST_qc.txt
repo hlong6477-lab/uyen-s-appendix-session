@@ -1,0 +1,3 @@
+QC P35 EN: PASS
+counts: {'C': 1, 'L': 30, 'R': 1}
+ties: 32
