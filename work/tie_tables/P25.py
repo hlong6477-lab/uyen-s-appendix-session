@@ -17,6 +17,13 @@ ST = [
     ("S002", "the lowest rate", "L", "repetition",
      "S001: its lowest rate in three years", "high", None, None, 1, None,
      None, "LC", None),
+    # [Phase-2] eased ← dropped (S001): động từ chuỗi giảm bị sót (H&H §6.2
+    # reiteration; TNT §26 phép lặp) — VI đối ứng "giảm xuống" (S002) lặp
+    # nguyên hình → dịch chuyển EN synonym ↔ VI repetition, ghi §7.
+    ("S002", "eased", "L", "synonym",
+     "S001: Underlying inflation dropped", "high", None,
+     "eased ≈ dropped — đồng nghĩa chuỗi động từ giảm (has eased to 3.2 "
+     "per cent)", 1, None, None, "LC", None),
     # S003
     ("S003", "It", "R", "personal",
      "S002: Underlying inflation", "high", None,
@@ -53,6 +60,13 @@ ST = [
      "S003: the previous quarter", "high", None,
      "khởi tạo chuỗi 'September quarter'; khối cắt", 1, None, None,
      "LC", None),
+    # [Phase-2] rise ← rises (S005): mắt xích chuỗi 'rise' bị sót, được
+    # S007 'These rises' cite làm tiền trạm (nhóm 12 bài học P28) —
+    # H&H §6.2 reiteration; TNT §26; khối cắt, VI none.
+    ("S006", "rise", "L", "repetition",
+     "S005: the lowest quarterly rises", "high", None,
+     "December quarter's rise — lặp rise (rises → rise); khối cắt", 1,
+     None, None, "LC", None),
     ("S006", "she", "R", "personal",
      "S005: Michelle Marquardt", "high", None, "khối cắt, VI none", 1,
      None, None, "LC", "A"),
@@ -66,6 +80,15 @@ ST = [
     ("S007", "the June 2020 quarter", "L", "repetition",
      "S006: the September 2024 quarter", "high", None,
      "lặp 'quarter'", 1, None, None, "LC", None),
+    # [Phase-2] fell ↔ rises (S005): phép đối tăng–giảm liên câu (TNT §30;
+    # H&H §6.4 opposites) — CPI giảm quý 6/2020 đối lập các mức tăng đang
+    # nói; khởi tạo chuỗi fall (S015 falls, S022 the fall…); VI đối ứng
+    # 'CPI giảm' (S006) đọc là lặp chuỗi 'giảm' — dịch chuyển antonym ↔
+    # repetition, ghi §7.
+    ("S007", "fell", "L", "antonym",
+     "S005: the lowest quarterly rises", "high", None,
+     "phép đối tăng↔giảm: when the CPI fell đối lập rises câu trước; "
+     "khởi tạo chuỗi fall", 1, None, None, "LC", None),
     ("S007", "the CPI", "L", "repetition",
      "S004: the Consumer Price Index (CPI)", "high", None, None, 1,
      None, None, "LC", None),
@@ -73,6 +96,11 @@ ST = [
     ("S008", "the December quarter", "L", "repetition",
      "S006: December quarter's rise", "high", None,
      "khối cắt, VI none", 1, None, None, "LC", None),
+    # [Phase-2] rise ← rise (S006): chuỗi 'rise' bị sót (H&H §6.2) —
+    # "the December quarter's rise of 2.4 per cent"; khối cắt.
+    ("S008", "rise", "L", "repetition",
+     "S006: December quarter's rise", "high", None,
+     "lặp rise; khối cắt, VI none", 1, None, None, "LC", None),
     ("S008", "the September quarter", "L", "repetition",
      "S006: the September 2024 quarter", "high", None, "khối cắt", 1,
      None, None, "LC", None),
@@ -157,9 +185,19 @@ ST = [
      "S005: Michelle Marquardt", "high", None, "khối cắt, VI none", 1,
      None, None, "LC", None),
     # S018
+    # [Phase-2] the latest figures ← data (S012): mắt xích chuỗi dữ liệu
+    # bị sót, được S029 'the latest figures' cite (nhóm 12 bài học P28) —
+    # figures ≈ data đồng nghĩa (H&H §6.2); cũng đọc được là bridging tới
+    # số liệu lạm phát vừa công bố (H&H §6.1) — một hình thức một hàng
+    # (mapping §3.13) chọn đồng nghĩa theo chuỗi §6; VI 'những con số mới
+    # nhất' (S014 TT) cũng thêm hàng.
+    ("S018", "the latest figures", "L", "synonym",
+     "S012: data from Australia's capital cities", "med", None,
+     "figures ≈ data — đồng nghĩa chuỗi dữ liệu; ý chỉ số liệu lạm phát "
+     "vừa công bố", 1, None, None, "LC", None),
     ("S018", "a rate cut", "L", "repetition",
      "S001: a pre-election rate cut", "high", None,
-     "'the latest figures' khởi tạo chuỗi figures", 1, None, None,
+     "'the latest figures' có hàng riêng Phase-2", 1, None, None,
      "LC", None),
     # S019
     ("S019", "an interest rate cut", "L", "repetition",
@@ -188,6 +226,30 @@ ST = [
     ("S021", "My", "R", "personal",
      "Bassenese (ngoại văn bản — quote)", "med", None,
      "My expectation — ngoại quy chiếu", 1, None, None, "LC", "E"),
+    # [Phase-2] further ← S020: quy chiếu so sánh (H&H §2.5 "more/
+    # additional") — "two further rate cuts" = thêm hai lần cắt nữa SO
+    # VỚI lần cắt tháng 2 đã nêu ở câu trước; VI 'thêm' (S017 TT) giữ 1-1.
+    # 'further' lần 2 ('further declines') cùng chuỗi trong cùng câu →
+    # không đánh thêm (precedent "không đánh thêm").
+    ("S021", "further", "R", "comparative",
+     "S020: an interest rate cut at the February 17-18 policy meeting",
+     "med", None,
+     "quy chiếu so sánh: further = thêm với lần cắt tháng 2 câu trước "
+     "(H&H §2.5)", 1, None, None, "LC", "A"),
+    # [Phase-2] declines ← eased (S002): mắt xích chuỗi động từ giảm bị
+    # sót, được S026 'decline' cite làm tiền trạm (nhóm 12) — declines ≈
+    # dropped/eased (H&H §6.2); VI 'tiếp tục giảm' (S017 TT) đã có hàng.
+    ("S021", "declines", "L", "synonym",
+     "S002: has eased to 3.2 per cent", "high", None,
+     "declines ≈ eased/dropped — chuỗi động từ giảm; S026 'decline' truy "
+     "hồi mắt xích này", 1, None, None, "LC", None),
+    # [Phase-2] quarterly ← quarterly (S005): mắt xích chuỗi 'quarterly'
+    # bị sót, được S034 'quarterly CPI' cite (nhóm 12) — H&H §6.2; VI
+    # 'quý' (S017 TT) cũng thêm hàng.
+    ("S021", "quarterly", "L", "repetition",
+     "S005: the lowest quarterly rises", "high", None,
+     "lặp quarterly (quarterly CPI reports)", 1, None, None, "LC",
+     None),
     ("S021", "the RBA", "L", "repetition",
      "S013: The Reserve Bank of Australia (RBA)", "high", None, None,
      1, None, None, "LC", None),
@@ -202,6 +264,13 @@ ST = [
     # S022
     ("S022", "He", "R", "personal", "S020: I (Bassenese)", "high",
      None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] also ← S020–S021: nối additive liên câu (H&H §5.4) bị sót
+    # — "He also flagged" bổ sung nhận định thứ hai của Bassenese; VI
+    # 'cũng' (S018 TT) đối xứng 1-1 (bài học P22/P28 nhóm 11).
+    ("S022", "also", "C", "additive",
+     "S021: two further rate cuts this year", "high", None,
+     "also = bổ sung yếu tố thứ hai (the fall) ngoài dự đoán cắt lãi "
+     "suất; H&H §5.4", 1, None, None, "LC", None),
     ("S022", "underlying inflation", "L", "repetition",
      "S021: inflation", "high", None, None, 1, None, None, "LC",
      None),
@@ -227,6 +296,12 @@ ST = [
      None,
      "occ 3 vì 'The/the' chứa 'he'; lần 3 mới là đại từ; khối cắt", 3,
      None, None, "LC", "A"),
+    # [Phase-2] expectation ← expectation (S021): chuỗi động từ expect bị
+    # sót (H&H §6.2) — "the RBA's current expectation"; khối cắt; VI tân
+    # từ phân tán (kỳ vọng/dự kiến) nên không có đối ứng, ghi §7.
+    ("S023", "expectation", "L", "repetition",
+     "S021: My expectation", "high", None,
+     "lặp expectation; khối cắt, VI none", 1, None, None, "LC", None),
     # S024
     ("S024", "economist", "L", "repetition",
      "S018: chief economist David Bassenese", "high", None, None, 1,
@@ -234,6 +309,14 @@ ST = [
     ("S024", "the RBA", "L", "repetition", "S023: the RBA", "high",
      None, "'the cash rate' khởi tạo chuỗi", 1, None, None, "LC",
      None),
+    # [Phase-2] reduce ← rate cuts (S021): động từ chuỗi cắt giảm bị sót
+    # (H&H §6.2 synonym) — "not reduce the cash rate" = không cắt lãi
+    # suất tiền mặt; VI 'giảm lãi suất tiền mặt' (S019 TT) lặp chuỗi
+    # 'giảm' — dịch chuyển EN synonym ↔ VI repetition, ghi §7.
+    ("S024", "reduce", "L", "synonym",
+     "S021: two further rate cuts", "high", None,
+     "reduce the cash rate ≈ cut — đồng nghĩa chuỗi cắt giảm", 1, None,
+     None, "LC", None),
     # S025
     ("S025", "A rate cut", "L", "repetition",
      "S021: rate cuts", "high", None, None, 1, None, None, "LC", None),
@@ -267,6 +350,16 @@ ST = [
     ("S027", "However", "C", "adversative",
      "S026: The RBA would err on the side of caution", "high", None,
      None, 1, None, None, "LC", None),
+    # [Phase-2] broader ← S026: quy chiếu so sánh (H&H §2.5; tiền lệ P24
+    # "broader", P28 "more realistic") — "the broader trend" = rộng hơn
+    # mức giảm trimmed mean câu trước; VI 'rộng hơn' (S022 TT) đối xứng
+    # 1-1; cùng NP có hàng L riêng trên 'disinflationary trend' (tiền lệ
+    # P21 'lừa đảo'+'khác').
+    ("S027", "broader", "R", "comparative",
+     "S026: a 'sustainable' decline in trimmed mean inflation", "med",
+     None,
+     "so sánh phạm vi (H&H §2.5): broader = rộng hơn mức giảm đã nêu "
+     "câu trước", 1, None, None, "LC", "A"),
     ("S027", "disinflationary trend", "L", "repetition",
      "S026: trimmed mean inflation", "high", None,
      "hình vị 'inflation' trong 'disinflationary'", 1, None, None,
@@ -299,6 +392,13 @@ ST = [
      "S028: What are the 'big four' saying — tiểu đề", "high", None,
      "tiểu đề làm tiền trạm, không gán nhãn trên tiểu đề", 1, None,
      None, "LC", None),
+    # [Phase-2] also ← S029–S030: nối additive liên câu (H&H §5.4) bị sót
+    # — "The big four also have varying predictions"; VI 'cũng' (S036
+    # TT) đối xứng 1-1 (nhóm 11 bài học P22/P28).
+    ("S031", "also", "C", "additive",
+     "S030: NAB disagrees and has predicted", "high", None,
+     "bổ sung khía cạnh thứ hai (số lần cắt) ngoài dự đoán thời điểm; "
+     "H&H §5.4", 1, None, None, "LC", None),
     ("S031", "predictions", "L", "repetition",
      "S029: Westpac is predicting", "high", None,
      "predicting → predictions", 1, None, None, "LC", None),
@@ -315,6 +415,32 @@ ST = [
     ("S032", "CBA and Westpac", "L", "repetition",
      "S029: the Commonwealth Bank (CBA) and ANZ — Westpac (S029)",
      "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] ANZ ← ANZ (S029): chuỗi tên riêng ANZ bị sót (H&H §6.2;
+    # TNT §26) — VI 'ANZ' (S037 TT) đối xứng 1-1.
+    ("S032", "ANZ", "L", "repetition",
+     "S029: the Commonwealth Bank (CBA) and ANZ", "high", None,
+     "lặp tên ngân hàng ANZ", 1, None, None, "LC", None),
+    # [Phase-2] expecting ← expectation (S023): mắt xích chuỗi expect bị
+    # sót (H&H §6.2) — VI tân từ phân tán (kỳ vọng S017 / dự kiến S037)
+    # nên VI không có chuỗi lặp — dịch chuyển từ vựng, ghi §7.
+    ("S032", "expecting", "L", "repetition",
+     "S023: the RBA's current expectation", "med", None,
+     "lặp hình vị expect (expectation → expecting)", 1, None, None,
+     "LC", None),
+    # [Phase-2] forecast ← predictions (S031): đồng nghĩa chuỗi dự đoán
+    # bị sót (H&H §6.2) — VI 'dự báo' (S037 TT) đối xứng; 'predicting'
+    # (S029) là lần đầu chuỗi nên không có hàng.
+    ("S032", "forecast", "L", "synonym",
+     "S031: varying predictions", "high", None,
+     "forecast ≈ predicting/predictions — chuỗi dự đoán", 1, None,
+     None, "LC", None),
+    # [Phase-2] ∅ sau 'four' (H&H §4.2 nominal ellipsis: number + zero
+    # head) — "forecast four ∅{cuts}"; VI hiện thực hóa 'bốn lần cắt
+    # giảm' nên VI không có E (nguyên tắc không bịa ∅, NTT 2020 §2).
+    ("S032", None, "E", "nominal",
+     "S032: expecting two cuts (trong câu)", "high", None,
+     "[TC] lược đầu từ sau four ∅ {cuts}; H&H §4.2", 1, "four",
+     "{cuts}", "TC", None),
     # S033
     ("S033", "NAB", "L", "repetition",
      "S030: But NAB disagrees", "high", None, None, 1, None, None,
@@ -324,6 +450,15 @@ ST = [
      None, "LC", None),
     ("S033", "five cuts", "L", "repetition",
      "S032: two cuts", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] ∅ sau 'the most' (H&H §4.2): "predicting the most ∅{cuts}"
+    # — đầu từ bị lược, hồi phục được từ S031–S032 → [LC]; VI 'nhiều
+    # nhất' (S038 TT) cùng tỉnh lược — cặp E↔E hiếm thấy đối xứng 1-1
+    # (NTT 2020 §5: ellipsis khó chuyển nhất nhưng hai đầu cùng chọn ∅).
+    ("S033", None, "E", "nominal",
+     "S032: expecting two cuts, while CBA and Westpac forecast four",
+     "high", None,
+     "[LC] lược đầu từ sau the most ∅ {cuts} — H&H §4.2; VI đối xứng "
+     "'nhiều nhất' ∅ (S038)", 1, "the most", "{cuts}", "LC", None),
     # S034 — KHỐI CẮT (tiểu đề + câu lồng)
     ("S034", "The ABS", "L", "repetition", "S014: the ABS", "high",
      None, "tiểu đề lồng câu; khối cắt, VI none", 1, None, None, "LC",
@@ -441,10 +576,24 @@ ST = [
     ("S043", "beer", "L", "repetition",
      "S042: driven by beer", "high", None, "khối cắt", 1, None, None,
      "LC", None),
+    # [Phase-2] ∅ sau 'beer' (H&H §4.3 verbal ellipsis) — "and beer ∅{is
+    # up} 4.3 per cent": vị ngữ lược trong phép đẳng lập, hồi phục từ vế
+    # 'tobacco is up' cùng câu → [TC]; khối cắt, VI none.
+    ("S043", None, "E", "verbal",
+     "S043: tobacco is up 12.2 per cent (trong câu)", "high", None,
+     "[TC] lược vị ngữ sau beer ∅ {is up}; H&H §4.3", 1, "beer ",
+     "{is up}", "TC", None),
     # S044 — KHỐI CẮT
     ("S044", "Recreation and culture", "L", "repetition",
      "S009: recreation and culture", "high", None, "khối cắt", 1, None,
      None, "LC", None),
+    # [Phase-2] also ← S042–S043: nối additive liên câu (H&H §5.4) bị sót
+    # — "Recreation and culture also witnessed" bổ sung nhóm tăng giá
+    # thứ ba; khối cắt, VI none (nhóm 11 bài học P22/P28).
+    ("S044", "also", "C", "additive",
+     "S043: tobacco is up 12.2 per cent, and beer 4.3 per cent", "high",
+     None, "bổ sung nhóm giá tăng thứ ba; H&H §5.4", 1, None, None,
+     "LC", None),
     ("S044", "an increase", "L", "repetition",
      "S042: a narrower increase", "high", None, "khối cắt", 1, None,
      None, "LC", None),
@@ -483,9 +632,30 @@ ST = [
     ("S047", "inflation", "L", "repetition",
      "S027: disinflationary trend", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] a key factor ← an important factor (S022): chuỗi 'factor'
+    # bị sót (H&H §6.2) — cùng vai trò: lạm phát là yếu tố trong quyết
+    # định lãi suất; VI 'yếu tố chính' (S053 TT) đối xứng 1-1.
+    ("S047", "a key factor", "L", "repetition",
+     "S022: an important factor", "med", None,
+     "lặp factor (an important factor → a key factor)", 1, None, None,
+     "LC", None),
+    # [Phase-2] lower ← reduction (S029): đồng nghĩa chuỗi cắt giảm bị sót
+    # (H&H §6.2) — "to raise or lower interest rates"; cặp raise↔lower
+    # trong câu là phép đối [TC] (TNT §30); VI 'giảm' (S053 TT) lặp chuỗi
+    # 'giảm'; 'raise' là lần đầu chuỗi tăng nên không có hàng.
+    ("S047", "lower", "L", "synonym",
+     "S029: a cash rate reduction", "med", None,
+     "lower interest rates ≈ cut/reduce — đồng nghĩa chuỗi cắt giảm", 1,
+     None, None, "LC", None),
     ("S047", "interest rates", "L", "repetition",
      "S021: rate cuts", "high", None, None, 1, None, None, "LC", None),
     # S048
+    # [Phase-2] Australia's ← Australia's (S012): chuỗi Úc EN bị sót
+    # (H&H §6.2) — VI chuỗi 'Úc' dày hơn; đối xứng VI 'Úc' (S054 TT).
+    ("S048", "Australia's", "L", "repetition",
+     "S012: Australia's capital cities", "high", None,
+     "lặp Australia's (official inflation target)", 1, None, None,
+     "LC", None),
     ("S048", "inflation target", "L", "repetition",
      "S023: inflation target band", "high", None, None, 1, None, None,
      "LC", None),
@@ -510,6 +680,26 @@ ST = [
     ("S049", "kept the rate steady", "L", "repetition",
      "S048: interest rates", "high", None,
      "lặp 'rate' (số ít)", 1, None, None, "LC", None),
+    # [Phase-2] convene ← RBA meeting (S030): đồng nghĩa chuỗi họp bị sót
+    # (H&H §6.2) — "will next convene in February"; VI 'sẽ họp' (S055
+    # TT) đối xứng 1-1.
+    ("S049", "convene", "L", "synonym",
+     "S030: the third RBA meeting in May", "med", None,
+     "convene ≈ hold a meeting — chuỗi họp", 1, None, None, "LC",
+     None),
+    # [Phase-2] Australia ← Australia's (S048): chuỗi Úc EN bị sót — đối
+    # xứng VI 'Úc' (S055 TT).
+    ("S049", "Australia", "L", "repetition",
+     "S048: Australia's official inflation target", "high", None,
+     "lặp Australia (could see a reduction)", 1, None, None, "LC",
+     None),
+    # [Phase-2] a reduction ← a cash rate reduction (S029): mắt xích chuỗi
+    # cắt giảm bị sót (H&H §6.2; §6 liệt kê reduction S049) — VI 'giảm'
+    # (S055 TT) lặp chuỗi 'giảm'.
+    ("S049", "a reduction", "L", "repetition",
+     "S029: a cash rate reduction", "high", None,
+     "lặp reduction (a reduction in the cash rate target)", 1, None,
+     None, "LC", None),
     ("S049", "the cash rate target", "L", "repetition",
      "S030: the cash rate target", "high", None, None, 1, None, None,
      "LC", None),
@@ -523,6 +713,13 @@ ST = [
     ("S051", "inflation", "L", "repetition",
      "S050: taming inflation", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] coming down ← falling (S041): đồng nghĩa chuỗi giảm bị sót
+    # (H&H §6.2) — Phase-1 ghi nhận là paraphrase không đánh; Phase-2 thêm
+    # cho đối xứng VI 'đang giảm' (S057 TT) đã có hàng.
+    ("S051", "coming down", "L", "synonym",
+     "S041: prices falling in recent months", "med", None,
+     "coming down ≈ falling — chuỗi động từ giảm", 1, None, None,
+     "LC", None),
     ("S051", "we", "R", "personal",
      "RBA/Bullock (ngoại văn bản — quote)", "med", None,
      "ngoại quy chiếu; occ 1: lần 2 ('we remain') trong quote cùng "
@@ -531,8 +728,15 @@ ST = [
      "S050: RBA governor Michele Bullock", "high", None, None, 1,
      None, None, "LC", "A"),
     ("S051", "RBA", "L", "repetition", "S050: RBA", "high", None,
-     "RBA's December meeting; 'meeting' lặp (S030)", 1, None, None,
-     "LC", None),
+     "RBA's December meeting; 'meeting' có hàng riêng Phase-2", 1, None,
+     None, "LC", None),
+    # [Phase-2] meeting ← convene/RBA meeting (S049/S030): mắt xích chuỗi
+    # họp bị sót (H&H §6.2) — "RBA's December meeting"; VI 'cuộc họp'
+    # (S057 TT) đã có hàng.
+    ("S051", "meeting", "L", "repetition",
+     "S049: will next convene in February — S030: the third RBA "
+     "meeting", "high", None,
+     "lặp meeting (December meeting)", 1, None, None, "LC", None),
 ]
 
 TT = [
@@ -580,8 +784,9 @@ TT = [
      None, "LC", None),
     ("S006", "CPI giảm", "L", "repetition",
      "S002: giảm xuống", "high", None,
-     "lặp chuỗi 'giảm'; 'CPI' lần đầu VI không đánh", 1, None, None,
-     "LC", None),
+     "lặp chuỗi 'giảm'; 'CPI' lần đầu VI không đánh; đọc phụ: phép đối "
+     "với 'Những mức tăng này' (TNT §30) — EN 'fell' (S007 ST) chọn phép "
+     "đối, Phase-2 ghi §7", 1, None, None, "LC", None),
     # S007 (= EN S009)
     ("S007", "tăng nhiều nhất", "L", "repetition",
      "S005: mức tăng hàng quý thấp nhất", "high", None,
@@ -596,6 +801,13 @@ TT = [
     ("S008", "lạm phát", "L", "repetition",
      "S006: mức tăng — lạm phát (S002)", "high", None, None, 1, None,
      None, "LC", None),
+    # [Phase-2] chi phí ← chi phí (S007): chuỗi 'chi phí' VI bị sót (TNT
+    # §26 phép lặp) — VI tự thêm 'chi phí' ở S007 (EN dùng 'housing');
+    # chuỗi VI: S007 → S008 → S028.
+    ("S008", "chi phí", "L", "repetition",
+     "S007: chi phí nhà ở và giao thông", "med", None,
+     "lặp chi phí (chi phí hàng hóa và dịch vụ)", 1, None, None, "LC",
+     None),
     # S009 (= EN S011)
     ("S009", "ABS", "L", "repetition", "S005: ABS", "high", None,
      None, 1, None, None, "LC", None),
@@ -646,10 +858,18 @@ TT = [
      "S004: trong tháng 12", "high", None,
      "đối ứng EN 'the December quarter'", 1, None, None, "LC", None),
     # S014 (= EN S018)
+    # [Phase-2] những con số mới nhất ← dữ liệu (S010): mắt xích chuỗi
+    # con số/dữ liệu bị sót, được S033 'số liệu mới nhất' cite (nhóm 12
+    # bài học P28) — con số ≈ dữ liệu (H&H §6.2); EN 'the latest figures'
+    # (S018 ST) cũng thêm hàng.
+    ("S014", "những con số mới nhất", "L", "synonym",
+     "S010: dữ liệu từ các thủ phủ của Úc", "med", None,
+     "con số ≈ dữ liệu — đồng nghĩa chuỗi số liệu; ý chỉ toàn bộ số liệu "
+     "lạm phát vừa công bố", 1, None, None, "LC", None),
     ("S014", "cắt giảm lãi suất", "L", "repetition",
      "S001: cắt giảm lãi suất", "high", None,
-     "'những con số mới nhất' khởi tạo chuỗi", 1, None, None, "LC",
-     None),
+     "'những con số mới nhất' có hàng riêng Phase-2", 1, None, None,
+     "LC", None),
     # S015 (= EN S019)
     ("S015", "cắt giảm lãi suất", "L", "repetition",
      "S014: hứa hẹn sẽ cắt giảm lãi suất", "high", None, None, 1,
@@ -683,6 +903,22 @@ TT = [
     ("S017", "cắt giảm lãi suất", "L", "repetition",
      "S016: cắt giảm lãi suất", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] thêm ← S016: quy chiếu so sánh (H&H §2.5 "more") —
+    # "thêm hai lần nữa" = thêm SO VỚI lần cắt tháng 2 đã nêu ở câu trước;
+    # EN 'further' (S021 ST) đối xứng 1-1; 'thêm...nữa' S021 TT là NP hư chỉ
+    # giả định nên không đánh, ghi §4.3.
+    ("S017", "thêm", "R", "comparative",
+     "S016: cắt giảm lãi suất tại cuộc họp chính sách ngày 17-18 tháng 2",
+     "med", None,
+     "quy chiếu so sánh: thêm = thêm với lần cắt tháng 2 câu trước (H&H "
+     "§2.5)", 1, None, None, "LC", "A"),
+    # [Phase-2] quý ← quý trước (S003): mắt xích chuỗi 'quý' VI bị sót —
+    # EN 'quarterly' (S021 ST) cũng thêm hàng; hồi quy xa (liên kết bắc
+    # cầu TNT §8).
+    ("S017", "quý", "L", "repetition",
+     "S003: trong quý trước", "high", None,
+     "lặp quý (báo cáo CPI quý) — hồi quy xa S003", 1, None, None, "LC",
+     None),
     ("S017", "lạm phát", "L", "repetition",
      "S016: những kết quả lạm phát này", "high", None, None, 1, None,
      None, "LC", None),
@@ -690,12 +926,19 @@ TT = [
      "báo cáo CPI quý", 1, None, None, "LC", None),
     ("S017", "tiếp tục giảm", "L", "repetition",
      "S012: đã tăng — chuỗi 'giảm' (S006)", "high", None,
-     "chuỗi 'giảm' (khác 'cắt giảm'); EN dùng 'declines' không đánh "
-     "riêng", 1, None, None, "LC", None),
+     "chuỗi 'giảm' (khác 'cắt giảm'); EN 'declines' có hàng riêng "
+     "Phase-2", 1, None, None, "LC", None),
     # S018 (= EN S022)
     ("S018", "Ông", "R", "personal",
      "S016: Tôi (Bassenese)", "high", None, None, 1, None, None,
      "LC", "A"),
+    # [Phase-2] cũng ← S016–S017: nối additive liên câu (H&H §5.4) bị sót
+    # — "Ông cũng đánh dấu" bổ sung nhận định thứ hai; EN 'also' (S022 ST)
+    # đối xứng 1-1 (nhóm 11 bài học P22/P28).
+    ("S018", "cũng", "C", "additive",
+     "S017: RBA sẽ tiếp tục cắt giảm lãi suất thêm hai lần", "high",
+     None, "bổ sung yếu tố thứ hai (sự sụt giảm); H&H §5.4", 1, None,
+     None, "LC", None),
     ("S018", "lạm phát căn bản", "L", "repetition",
      "S011: lạm phát cơ bản", "high", None,
      "nguồn VI quay lại 'căn bản' sau 'cơ bản' (S011), ghi §8", 1,
@@ -709,6 +952,20 @@ TT = [
      None, None, "LC", None),
     ("S019", "RBA", "L", "repetition", "S017: RBA", "high", None,
      "'lãi suất tiền mặt' khởi tạo chuỗi", 1, None, None, "LC", None),
+    # [Phase-2] giảm ← sụt giảm (S018): mắt xích chuỗi 'giảm' bị sót (TNT
+    # §26) — "không giảm lãi suất tiền mặt"; EN 'reduce' (S024 ST) là
+    # đồng nghĩa chuỗi cut — dịch chuyển EN synonym ↔ VI repetition.
+    ("S019", "giảm", "L", "repetition",
+     "S018: sự sụt giảm", "med", None,
+     "lặp chuỗi 'giảm' (không giảm lãi suất tiền mặt)", 1, None, None,
+     "LC", None),
+    # [Phase-2] lãi suất tiền mặt ← cắt giảm lãi suất (S017): mắt xích
+    # chuỗi lãi suất bị sót, được S020 và S035 cite (nhóm 12 bài học
+    # P28); 'tiền mặt' khởi tạo chuỗi lãi suất tiền mặt.
+    ("S019", "lãi suất tiền mặt", "L", "repetition",
+     "S017: tiếp tục cắt giảm lãi suất thêm hai lần", "high", None,
+     "lặp 'lãi suất', thêm 'tiền mặt' khởi tạo chuỗi; được S020/S035 "
+     "cite làm tiền trạm", 1, None, None, "LC", None),
     # S020 (= EN S025)
     ("S020", "cắt giảm lãi suất", "L", "repetition",
      "S019: không giảm lãi suất tiền mặt", "high", None, None, 1, None,
@@ -719,6 +976,15 @@ TT = [
     ("S020", "RBA", "L", "repetition", "S019: RBA", "high", None,
      "chương trình họp chính sách của RBA", 1, None, None, "LC",
      None),
+    # [Phase-2] giữ nguyên ← không giảm (S019): mắt xích chuỗi 'giữ
+    # nguyên' bị sót, được S055 'giữ nguyên lãi suất' cite (nhóm 12 bài
+    # học P28) — giữ nguyên ≈ không giảm (phép thế đẳng nghĩa TNT §31;
+    # H&H §6.2 synonym); EN 'a hold' (S025 ST) là lần đầu trong câu nên
+    # không có hàng.
+    ("S020", "giữ nguyên", "L", "synonym",
+     "S019: không giảm lãi suất tiền mặt", "med", None,
+     "giữ nguyên ≈ không giảm — đẳng nghĩa; hơi nghiêng về phía giữ "
+     "nguyên", 1, None, None, "LC", None),
     ("S020", "chúng tôi", "R", "personal",
      "Shivadekar + đồng nghiệp (ngoại văn bản — quote)", "med", None,
      "theo quan điểm của chúng tôi — ngoại quy chiếu", 1, None, None,
@@ -750,15 +1016,37 @@ TT = [
      "S021: lạm phát trung bình", "high", None,
      "cùng hình vị 'phát' (lạm phát→giảm phát) + 'giảm' tiếp chuỗi; "
      "đối ứng EN 'disinflationary'", 1, None, None, "LC", None),
+    # [Phase-2] rộng hơn ← S021: quy chiếu so sánh (H&H §2.5; tiền lệ P28
+    # 'thực tế hơn') — "rộng hơn" = rộng hơn mức giảm trimmed mean câu
+    # trước; EN 'broader' (S027 ST) đối xứng 1-1; cùng NP có hàng L riêng
+    # trên 'xu hướng giảm phát' (tiền lệ P21 'lừa đảo'+'khác').
+    ("S022", "rộng hơn", "R", "comparative",
+     "S021: mức giảm 'bền vững' trong lạm phát trung bình", "med", None,
+     "so sánh phạm vi: rộng hơn = rộng hơn mức giảm đã nêu câu trước (H&H "
+     "§2.5)", 1, None, None, "LC", "A"),
     # S023 — VI TỰ SINH (BDO Magnusson)
     ("S023", "tháng 12", "L", "repetition",
      "S012: trong tháng 12", "high", None,
      "câu VI tự sinh — không có EN; 'số liệu' lần đầu VI", 1, None,
      None, "LC", None),
+    # [Phase-2] người nắm giữ thế chấp ← người nắm giữ thế chấp (S016):
+    # chuỗi 'người nắm giữ thế chấp' bị sót (TNT §26 phép lặp) — câu VI
+    # tự sinh bắc cầu về quote Bassenese ở vùng dùng chung.
+    ("S023", "người nắm giữ thế chấp", "L", "repetition",
+     "S016: người nắm giữ thế chấp đang gặp khó khăn", "med", None,
+     "lặp NP người nắm giữ thế chấp; VI tự sinh", 1, None, None, "LC",
+     None),
     ("S023", "cắt giảm lãi suất", "L", "repetition",
      "S020: cắt giảm lãi suất", "high", None, "VI tự sinh", 1, None,
      None, "LC", None),
     # S024 — VI TỰ SINH
+    # [Phase-2] nền kinh tế ← nền kinh tế (S015): mắt xích chuỗi 'nền
+    # kinh tế' bị sót, được S051 cite (nhóm 12 bài học P28) — TNT §26;
+    # S015 là lần đầu chuỗi nên không có hàng.
+    ("S024", "nền kinh tế", "L", "repetition",
+     "S015: nền kinh tế xứng đáng được cắt giảm lãi suất", "high", None,
+     "lặp nền kinh tế (nền kinh tế trong nước); VI tự sinh", 1, None,
+     None, "LC", None),
     ("S024", "tôi", "R", "personal",
      "Magnusson (ngoại văn bản — quote)", "med", None,
      "VI tự sinh; 'chúng ta' hư chỉ chung, không đánh", 1, None, None,
@@ -787,12 +1075,24 @@ TT = [
      "S018: lạm phát căn bản", "high", None,
      "'phạm vi mục tiêu 2-3%' khởi tạo chuỗi mục tiêu; VI tự sinh", 1,
      None, None, "LC", None),
+    # [Phase-2] quý ← quý (S017): mắt xích chuỗi 'quý' bị sót (TNT §26) —
+    # "đợi thêm một quý nữa"; VI tự sinh nên conf med.
+    ("S025", "quý", "L", "repetition",
+     "S017: báo cáo CPI quý tiếp theo", "med", None,
+     "lặp quý (một quý nữa); VI tự sinh", 1, None, None, "LC", None),
     # S026 — VI TỰ SINH
     ("S026", "Nhưng", "C", "adversative",
      "S025: có thể cần đợi thêm một quý", "high", None, "VI tự sinh",
      1, None, None, "LC", None),
     ("S026", "ông", "R", "personal", "S024: ông (Magnusson)", "high",
      None, "VI tự sinh", 1, None, None, "LC", "A"),
+    # [Phase-2] cũng ← S025: nối additive liên câu (H&H §5.4) bị sót —
+    # "Nhưng ông cũng cho biết" bổ sung nhận định thứ hai của Magnusson;
+    # VI tự sinh nên không có đối ứng EN (nhóm 11 bài học P22/P28).
+    ("S026", "cũng", "C", "additive",
+     "S025: có thể cần phải đợi thêm một quý", "med", None,
+     "bổ sung nhận định (bất ổn toàn cầu) ngoài nhận định tích cực; H&H "
+     "§5.4", 1, None, None, "LC", None),
     ("S026", "cắt giảm lãi suất", "L", "repetition",
      "S024: đợt cắt giảm lãi suất", "high", None, "VI tự sinh", 1,
      None, None, "LC", None),
@@ -814,6 +1114,13 @@ TT = [
     ("S029", "CPI", "L", "repetition", "S017: CPI", "high", None,
      "Bản công bố CPI hôm nay; VI tự sinh", 1, None, None, "LC",
      None),
+    # [Phase-2] kết quả ← kết quả (S016): mắt xích chuỗi 'kết quả' bị sót
+    # (TNT §26) — "một kết quả đáng mừng"; S031 'kết quả này' truy hồi
+    # qua S029; VI tự sinh nên conf med.
+    ("S029", "kết quả", "L", "repetition",
+     "S016: những kết quả lạm phát này", "med", None,
+     "lặp kết quả (kết quả đáng mừng); VI tự sinh", 1, None, None,
+     "LC", None),
     ("S029", "RBA", "L", "repetition", "S026: RBA", "high", None,
      "VI tự sinh", 1, None, None, "LC", None),
     # S030 — VI TỰ SINH
@@ -830,6 +1137,11 @@ TT = [
     ("S030", "đợt cắt giảm", "L", "repetition",
      "S024: đợt cắt giảm lãi suất", "high", None,
      "đợt cắt giảm đầu tiên; VI tự sinh", 1, None, None, "LC", None),
+    # [Phase-2] quý ← quý (S025): mắt xích chuỗi 'quý' bị sót (TNT §26) —
+    # "cho đến quý 2 năm nay"; VI tự sinh nên conf med.
+    ("S030", "quý", "L", "repetition",
+     "S025: đợi thêm một quý nữa", "med", None,
+     "lặp quý (quý 2 năm nay); VI tự sinh", 1, None, None, "LC", None),
     # S031 — VI TỰ SINH (IFM)
     ("S031", "nhà kinh tế trưởng", "L", "repetition",
      "S014: Nhà kinh tế trưởng của Betashares", "high", None,
@@ -852,6 +1164,13 @@ TT = [
      "S014: những con số mới nhất", "high", None,
      "lặp 'mới nhất'; 'con số'→'số liệu' — nguồn VI đổi từ, ghi §8", 1,
      None, None, "LC", None),
+    # [Phase-2] dự đoán ← tiểu đề S013: mắt xích chuỗi 'dự đoán' bị sót,
+    # được S036 'dự đoán' cite (nhóm 12 bài học P28) — tiểu đề làm tiền
+    # trạm, không gán nhãn trên tiểu đề (quy ước); TNT §26.
+    ("S033", "dự đoán", "L", "repetition",
+     "S013: 'Dự đoán của các nhà kinh tế' — tiểu đề", "med", None,
+     "lặp dự đoán; tiểu đề làm tiền trạm; được S036 cite", 1, None,
+     None, "LC", None),
     ("S033", "cắt giảm", "L", "repetition",
      "S031: cắt giảm lãi suất (S030)", "high", None,
      "lãi suất sẽ được cắt giảm", 1, None, None, "LC", None),
@@ -895,6 +1214,13 @@ TT = [
     ("S036", "Bốn ngân hàng lớn", "L", "repetition",
      "S032: 'Bốn ngân hàng lớn' — tiểu đề", "high", None,
      "tiểu đề làm tiền trạm", 1, None, None, "LC", None),
+    # [Phase-2] cũng ← S035: nối additive liên câu (H&H §5.4) bị sót —
+    # "Bốn ngân hàng lớn cũng có những dự đoán khác nhau"; EN 'also'
+    # (S031 ST) đối xứng 1-1 (nhóm 11 bài học P22/P28).
+    ("S036", "cũng", "C", "additive",
+     "S035: NAB không đồng ý và dự đoán", "high", None,
+     "bổ sung khía cạnh thứ hai (số lần cắt); H&H §5.4", 1, None, None,
+     "LC", None),
     ("S036", "dự đoán", "L", "repetition",
      "S033: Westpac dự đoán", "high", None, None, 1, None, None,
      "LC", None),
@@ -903,6 +1229,19 @@ TT = [
      "số lần cắt giảm lãi suất vào năm 2025", 1, None, None, "LC",
      None),
     # S037 (= EN S032)
+    # [Phase-2] ANZ ← ANZ (S033): chuỗi tên riêng ANZ bị sót — TNT §26;
+    # EN 'ANZ' (S032 ST) đối xứng 1-1.
+    ("S037", "ANZ", "L", "repetition",
+     "S033: Ngân hàng Khối thịnh vượng chung (CBA) và ANZ", "high",
+     None, "lặp tên ngân hàng ANZ", 1, None, None, "LC", None),
+    # [Phase-2] dự báo ← dự đoán (S036): đồng nghĩa chuỗi dự đoán bị sót,
+    # được S045 'dự báo' cite (nhóm 12 bài học P28) — H&H §6.2; EN
+    # 'forecast' (S032 ST) đối xứng; 'dự kiến' là tân từ khác (không lặp
+    # 'kỳ vọng') nên không đánh, ghi §7.
+    ("S037", "dự báo", "L", "synonym",
+     "S036: những dự đoán khác nhau", "high", None,
+     "dự báo ≈ dự đoán — chuỗi dự đoán; được S045 cite", 1, None, None,
+     "LC", None),
     ("S037", "thận trọng nhất", "L", "repetition",
      "S030: sẽ thận trọng", "high", None, None, 1, None, None, "LC",
      None),
@@ -922,6 +1261,14 @@ TT = [
     ("S038", "cắt giảm", "L", "repetition",
      "S037: cắt giảm", "high", None, "năm lần cắt giảm", 1, None,
      None, "LC", None),
+    # [Phase-2] ∅ sau 'nhiều nhất' (H&H §4.2): "dự đoán nhiều nhất ∅{lần
+    # cắt giảm}" — đầu từ lược hồi phục được từ S036–S037 → [LC] (tỉnh
+    # lược yếu TNT §37); EN 'the most' ∅ (S033 ST) đối xứng 1-1 — cặp
+    # E↔E hiếm (NTT 2020 §5: hai đầu cùng chọn ∅).
+    ("S038", None, "E", "nominal",
+     "S037: hai lần cắt giảm, bốn lần cắt giảm", "high", None,
+     "[LC] lược đầu từ sau nhiều nhất ∅ {lần cắt giảm}; H&H §4.2; TNT "
+     "§37", 1, "nhiều nhất", "{lần cắt giảm}", "LC", None),
     # S039 — VI TỰ SINH (khối Chính phủ; tiểu đề + câu lồng)
     ("S039", "Chính phủ Úc", "L", "repetition",
      "S030: đồng đô la Úc", "high", None,
@@ -1029,6 +1376,13 @@ TT = [
     ("S047", "bầu cử", "L", "repetition",
      "S001: trước bầu cử", "high", None,
      "hồi quy xa về S001; VI tự sinh", 1, None, None, "LC", None),
+    # [Phase-2] quyết định ← quyết định (S046): mắt xích chuỗi 'quyết
+    # định' bị sót (TNT §26) — chuỗi VI tự sinh (S046 → S047 → S053)
+    # không có đối ứng EN (EN chỉ có 'its decisions' trong câu, §4.3).
+    ("S047", "quyết định", "L", "repetition",
+     "S046: Bất kỳ quyết định nào của RBA", "med", None,
+     "lặp quyết định (một quyết định về lãi suất khác); VI tự sinh", 1,
+     None, None, "LC", None),
     # S048 — VI TỰ SINH
     ("S048", "Nhưng", "C", "adversative",
      "S047: hai cơ hội cắt giảm trước bầu cử", "high", None,
@@ -1076,6 +1430,12 @@ TT = [
     ("S051", "nền kinh tế", "L", "repetition",
      "S024: nền kinh tế trong nước", "high", None, "VI tự sinh", 1,
      None, None, "LC", None),
+    # [Phase-2] quý ← quý (S030): mắt xích chuỗi 'quý' bị sót (TNT §26)
+    # — "bảy quý liên tiếp"; VI tự sinh nên conf med.
+    ("S051", "quý", "L", "repetition",
+     "S030: quý 2 năm nay", "med", None,
+     "lặp quý (bảy quý liên tiếp); VI tự sinh", 1, None, None, "LC",
+     None),
     # S053 (= EN S047)
     ("S053", "RBA", "L", "repetition", "S048: RBA", "high", None,
      None, 1, None, None, "LC", None),
@@ -1086,11 +1446,43 @@ TT = [
     ("S053", "lãi suất", "L", "repetition",
      "S047: cắt giảm lãi suất", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] yếu tố chính ← yếu tố quan trọng (S018): chuỗi 'yếu tố' bị
+    # sót (H&H §6.2) — EN 'a key factor' (S047 ST) đối xứng 1-1.
+    ("S053", "yếu tố chính", "L", "repetition",
+     "S018: một yếu tố quan trọng", "med", None,
+     "lặp yếu tố (quan trọng → chính)", 1, None, None, "LC", None),
+    # [Phase-2] quyết định ← quyết định (S047): mắt xích chuỗi 'quyết
+    # định' (nhóm 4) — tiếp chuỗi khối tự sinh; EN 'its decisions' trong
+    # câu → [TC], ghi §4.3.
+    ("S053", "quyết định", "L", "repetition",
+     "S047: một quyết định về lãi suất khác", "med", None,
+     "lặp quyết định (quyết định tăng hoặc giảm lãi suất)", 1, None,
+     None, "LC", None),
+    # [Phase-2] tăng ← tăng (S043): mắt xích chuỗi 'tăng' bị sót, được
+    # S054 'tăng lãi suất' cite (nhóm 12 bài học P28) — TNT §26; cặp
+    # tăng↔giảm trong câu là phép đối [TC] (TNT §30).
+    ("S053", "tăng", "L", "repetition",
+     "S043: Lạm phát cao hơn và tăng", "high", None,
+     "lặp chuỗi 'tăng' (tăng hoặc giảm lãi suất)", 1, None, None, "LC",
+     None),
+    # [Phase-2] giảm ← đang giảm (S045): mắt xích chuỗi 'giảm' bị sót
+    # (TNT §26) — EN 'lower' (S047 ST) là đồng nghĩa chuỗi cut; dịch
+    # chuyển EN synonym ↔ VI repetition, ghi §7.
+    ("S053", "giảm", "L", "repetition",
+     "S045: lạm phát đang giảm nhanh hơn", "med", None,
+     "lặp chuỗi 'giảm' (tăng hoặc giảm lãi suất)", 1, None, None, "LC",
+     None),
     # S054 (= EN S048)
     ("S054", "Mục tiêu lạm phát", "L", "repetition",
      "S031: phạm vi mục tiêu + S053: lạm phát", "high", None,
      "kết chuỗi mục tiêu + lạm phát; tiền trạm trong khối VI tự sinh "
      "(S025, S031)", 1, None, None, "LC", None),
+    # [Phase-2] Úc ← người Úc (S050): mắt xích chuỗi 'Úc' bị sót (TNT
+    # §26) — EN 'Australia's' (S048 ST) đối xứng 1-1.
+    ("S054", "Úc", "L", "repetition",
+     "S050: mức sống của người Úc", "high", None,
+     "lặp Úc (Mục tiêu lạm phát chính thức của Úc)", 1, None, None,
+     "LC", None),
     ("S054", "giảm lạm phát", "L", "repetition",
      "S053: lạm phát", "high", None, "nỗ lực giảm lạm phát", 1, None,
      None, "LC", None),
@@ -1114,6 +1506,24 @@ TT = [
      "S054: Mục tiêu lạm phát + S035: lãi suất tiền mặt", "high",
      None, "kết chuỗi mục tiêu + lãi suất tiền mặt", 1, None, None,
      "LC", None),
+    # [Phase-2] họp ← cuộc họp (S035): mắt xích chuỗi 'họp' bị sót (TNT
+    # §26) — "sẽ họp vào tháng 2"; EN 'convene' (S049 ST) đối xứng 1-1.
+    ("S055", "họp", "L", "repetition",
+     "S035: cuộc họp thứ ba của RBA", "high", None,
+     "lặp 'họp' (sẽ họp vào tháng 2)", 1, None, None, "LC", None),
+    # [Phase-2] Úc ← Úc (S054): mắt xích chuỗi 'Úc' bị sót — EN
+    # 'Australia' (S049 ST) đối xứng 1-1.
+    ("S055", "Úc", "L", "repetition",
+     "S054: Mục tiêu lạm phát chính thức của Úc", "high", None,
+     "lặp Úc (mà Úc có thể thấy)", 1, None, None, "LC", None),
+    # [Phase-2] giảm ← giảm lạm phát (S054): mắt xích chuỗi 'giảm' bị sót
+    # (TNT §26) — "mục tiêu lãi suất tiền mặt giảm" = đợt cắt giảm; EN 'a
+    # reduction' (S049 ST) lặp chuỗi reduction — VI gom nghĩa 'cắt giảm'
+    # vào hình vị 'giảm', ghi §7.
+    ("S055", "giảm", "L", "repetition",
+     "S054: nỗ lực giảm lạm phát", "med", None,
+     "lặp chuỗi 'giảm' (mục tiêu lãi suất tiền mặt giảm)", 1, None,
+     None, "LC", None),
     # S056 (= EN S050)
     ("S056", "RBA", "L", "repetition", "S055: RBA", "high", None,
      "Thống đốc RBA", 1, None, None, "LC", None),
@@ -1139,6 +1549,13 @@ TT = [
      None, 1, None, None, "LC", None),
     ("S057", "đang giảm", "L", "repetition",
      "S045: đang giảm", "high", None,
-     "chuỗi 'giảm'; EN 'coming down' paraphrase không đánh riêng", 1,
+     "chuỗi 'giảm'; EN 'coming down' có hàng riêng Phase-2", 1,
+     None, None, "LC", None),
+    # [Phase-2] tăng ← tăng lãi suất (S055): mắt xích chuỗi 'tăng' bị sót
+    # (TNT §26) — "việc làm tăng" mở rộng chuỗi sang tham số mới (việc
+    # làm); EN 'growing' là lần đầu nên không có hàng.
+    ("S057", "tăng", "L", "repetition",
+     "S055: tăng lãi suất lên 4,35 phần trăm", "med", None,
+     "lặp chuỗi 'tăng' (việc làm tăng) — tham số mới, cùng hình vị", 1,
      None, None, "LC", None),
 ]

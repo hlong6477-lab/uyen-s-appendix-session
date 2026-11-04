@@ -170,7 +170,7 @@
    "ante": "S002: giảm xuống",
    "conf": "high",
    "alt": null,
-   "note": "lặp chuỗi 'giảm'; 'CPI' lần đầu VI không đánh"
+   "note": "lặp chuỗi 'giảm'; 'CPI' lần đầu VI không đánh; đọc phụ: phép đối với 'Những mức tăng này' (TNT §30) — EN 'fell' (S007 ST) chọn phép đối, Phase-2 ghi §7"
   },
   {
    "id": "P25-VI-013",
@@ -230,6 +230,20 @@
   },
   {
    "id": "P25-VI-017",
+   "sent": "S008",
+   "text": "chi phí",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: chi phí nhà ở và giao thông",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chi phí (chi phí hàng hóa và dịch vụ)"
+  },
+  {
+   "id": "P25-VI-018",
    "sent": "S009",
    "text": "ABS",
    "occ": 1,
@@ -243,7 +257,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-018",
+   "id": "P25-VI-019",
    "sent": "S009",
    "text": "giá cả",
    "occ": 1,
@@ -257,7 +271,7 @@
    "note": "biến động giá cả — lặp 'giá'"
   },
   {
-   "id": "P25-VI-019",
+   "id": "P25-VI-020",
    "sent": "S009",
    "text": "hộ gia đình",
    "occ": 1,
@@ -271,7 +285,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-020",
+   "id": "P25-VI-021",
    "sent": "S009",
    "text": "nhà ở",
    "occ": 1,
@@ -285,7 +299,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-021",
+   "id": "P25-VI-022",
    "sent": "S009",
    "text": "phương tiện giao thông công cộng",
    "occ": 1,
@@ -299,7 +313,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-022",
+   "id": "P25-VI-023",
    "sent": "S010",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -313,7 +327,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-023",
+   "id": "P25-VI-024",
    "sent": "S010",
    "text": "CPI",
    "occ": 1,
@@ -327,7 +341,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-024",
+   "id": "P25-VI-025",
    "sent": "S010",
    "text": "dữ liệu",
    "occ": 1,
@@ -341,7 +355,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-025",
+   "id": "P25-VI-026",
    "sent": "S010",
    "text": "giá cả",
    "occ": 1,
@@ -355,7 +369,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-026",
+   "id": "P25-VI-027",
    "sent": "S010",
    "text": "thay đổi",
    "occ": 1,
@@ -369,7 +383,7 @@
    "note": "những thay đổi về giá cả — hàng VI tách (EN gộp trong 'price changes')"
   },
   {
-   "id": "P25-VI-027",
+   "id": "P25-VI-028",
    "sent": "S011",
    "text": "lạm phát cơ bản",
    "occ": 1,
@@ -383,7 +397,7 @@
    "note": "nguồn VI đổi 'căn bản'→'cơ bản', ghi §8"
   },
   {
-   "id": "P25-VI-028",
+   "id": "P25-VI-029",
    "sent": "S011",
    "text": "biến động giá",
    "occ": 1,
@@ -397,7 +411,7 @@
    "note": "lặp 'biến động giá' — đối ứng EN 'price swings'"
   },
   {
-   "id": "P25-VI-029",
+   "id": "P25-VI-030",
    "sent": "S012",
    "text": "mức này",
    "occ": 1,
@@ -412,7 +426,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-030",
+   "id": "P25-VI-031",
    "sent": "S012",
    "text": "ABS",
    "occ": 1,
@@ -426,7 +440,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-031",
+   "id": "P25-VI-032",
    "sent": "S012",
    "text": "tháng 12",
    "occ": 1,
@@ -440,7 +454,21 @@
    "note": "đối ứng EN 'the December quarter'"
   },
   {
-   "id": "P25-VI-032",
+   "id": "P25-VI-033",
+   "sent": "S014",
+   "text": "những con số mới nhất",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: dữ liệu từ các thủ phủ của Úc",
+   "conf": "med",
+   "alt": null,
+   "note": "con số ≈ dữ liệu — đồng nghĩa chuỗi số liệu; ý chỉ toàn bộ số liệu lạm phát vừa công bố"
+  },
+  {
+   "id": "P25-VI-034",
    "sent": "S014",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -451,10 +479,10 @@
    "ante": "S001: cắt giảm lãi suất",
    "conf": "high",
    "alt": null,
-   "note": "'những con số mới nhất' khởi tạo chuỗi"
+   "note": "'những con số mới nhất' có hàng riêng Phase-2"
   },
   {
-   "id": "P25-VI-033",
+   "id": "P25-VI-035",
    "sent": "S015",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -468,7 +496,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-034",
+   "id": "P25-VI-036",
    "sent": "S015",
    "text": "ông",
    "occ": 1,
@@ -483,7 +511,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-035",
+   "id": "P25-VI-037",
    "sent": "S016",
    "text": "Tôi",
    "occ": 1,
@@ -498,7 +526,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-036",
+   "id": "P25-VI-038",
    "sent": "S016",
    "text": "Ngân hàng trữ kim Úc",
    "occ": 1,
@@ -512,7 +540,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-037",
+   "id": "P25-VI-039",
    "sent": "S016",
    "text": "những kết quả lạm phát này",
    "occ": 1,
@@ -527,7 +555,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-038",
+   "id": "P25-VI-040",
    "sent": "S016",
    "text": "hộ gia đình",
    "occ": 1,
@@ -541,7 +569,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-039",
+   "id": "P25-VI-041",
    "sent": "S016",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -555,7 +583,7 @@
    "note": "câu quote kết bằng dấu phẩy như nguồn EN (S020), ghi §8"
   },
   {
-   "id": "P25-VI-040",
+   "id": "P25-VI-042",
    "sent": "S017",
    "text": "Tôi",
    "occ": 1,
@@ -570,7 +598,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-041",
+   "id": "P25-VI-043",
    "sent": "S017",
    "text": "RBA",
    "occ": 1,
@@ -584,7 +612,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-042",
+   "id": "P25-VI-044",
    "sent": "S017",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -598,7 +626,36 @@
    "note": null
   },
   {
-   "id": "P25-VI-043",
+   "id": "P25-VI-045",
+   "sent": "S017",
+   "text": "thêm",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: cắt giảm lãi suất tại cuộc họp chính sách ngày 17-18 tháng 2",
+   "conf": "med",
+   "alt": null,
+   "note": "quy chiếu so sánh: thêm = thêm với lần cắt tháng 2 câu trước (H&H §2.5)",
+   "ref": "A"
+  },
+  {
+   "id": "P25-VI-046",
+   "sent": "S017",
+   "text": "quý",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: trong quý trước",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp quý (báo cáo CPI quý) — hồi quy xa S003"
+  },
+  {
+   "id": "P25-VI-047",
    "sent": "S017",
    "text": "lạm phát",
    "occ": 1,
@@ -612,7 +669,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-044",
+   "id": "P25-VI-048",
    "sent": "S017",
    "text": "CPI",
    "occ": 1,
@@ -626,7 +683,7 @@
    "note": "báo cáo CPI quý"
   },
   {
-   "id": "P25-VI-045",
+   "id": "P25-VI-049",
    "sent": "S017",
    "text": "tiếp tục giảm",
    "occ": 1,
@@ -637,10 +694,10 @@
    "ante": "S012: đã tăng — chuỗi 'giảm' (S006)",
    "conf": "high",
    "alt": null,
-   "note": "chuỗi 'giảm' (khác 'cắt giảm'); EN dùng 'declines' không đánh riêng"
+   "note": "chuỗi 'giảm' (khác 'cắt giảm'); EN 'declines' có hàng riêng Phase-2"
   },
   {
-   "id": "P25-VI-046",
+   "id": "P25-VI-050",
    "sent": "S018",
    "text": "Ông",
    "occ": 1,
@@ -655,7 +712,21 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-047",
+   "id": "P25-VI-051",
+   "sent": "S018",
+   "text": "cũng",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: RBA sẽ tiếp tục cắt giảm lãi suất thêm hai lần",
+   "conf": "high",
+   "alt": null,
+   "note": "bổ sung yếu tố thứ hai (sự sụt giảm); H&H §5.4"
+  },
+  {
+   "id": "P25-VI-052",
    "sent": "S018",
    "text": "lạm phát căn bản",
    "occ": 1,
@@ -669,7 +740,7 @@
    "note": "nguồn VI quay lại 'căn bản' sau 'cơ bản' (S011), ghi §8"
   },
   {
-   "id": "P25-VI-048",
+   "id": "P25-VI-053",
    "sent": "S018",
    "text": "sụt giảm",
    "occ": 1,
@@ -683,7 +754,7 @@
    "note": "chuỗi 'giảm'"
   },
   {
-   "id": "P25-VI-049",
+   "id": "P25-VI-054",
    "sent": "S019",
    "text": "Nhà kinh tế",
    "occ": 1,
@@ -697,7 +768,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-050",
+   "id": "P25-VI-055",
    "sent": "S019",
    "text": "RBA",
    "occ": 1,
@@ -711,7 +782,35 @@
    "note": "'lãi suất tiền mặt' khởi tạo chuỗi"
   },
   {
-   "id": "P25-VI-051",
+   "id": "P25-VI-056",
+   "sent": "S019",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: sự sụt giảm",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chuỗi 'giảm' (không giảm lãi suất tiền mặt)"
+  },
+  {
+   "id": "P25-VI-057",
+   "sent": "S019",
+   "text": "lãi suất tiền mặt",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: tiếp tục cắt giảm lãi suất thêm hai lần",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp 'lãi suất', thêm 'tiền mặt' khởi tạo chuỗi; được S020/S035 cite làm tiền trạm"
+  },
+  {
+   "id": "P25-VI-058",
    "sent": "S020",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -725,7 +824,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-052",
+   "id": "P25-VI-059",
    "sent": "S020",
    "text": "họp chính sách",
    "occ": 1,
@@ -739,7 +838,7 @@
    "note": "lặp 'họp chính sách'"
   },
   {
-   "id": "P25-VI-053",
+   "id": "P25-VI-060",
    "sent": "S020",
    "text": "RBA",
    "occ": 1,
@@ -753,7 +852,21 @@
    "note": "chương trình họp chính sách của RBA"
   },
   {
-   "id": "P25-VI-054",
+   "id": "P25-VI-061",
+   "sent": "S020",
+   "text": "giữ nguyên",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: không giảm lãi suất tiền mặt",
+   "conf": "med",
+   "alt": null,
+   "note": "giữ nguyên ≈ không giảm — đẳng nghĩa; hơi nghiêng về phía giữ nguyên"
+  },
+  {
+   "id": "P25-VI-062",
    "sent": "S020",
    "text": "chúng tôi",
    "occ": 1,
@@ -768,7 +881,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-055",
+   "id": "P25-VI-063",
    "sent": "S020",
    "text": "bà",
    "occ": 1,
@@ -783,7 +896,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-056",
+   "id": "P25-VI-064",
    "sent": "S021",
    "text": "RBA",
    "occ": 1,
@@ -797,7 +910,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-057",
+   "id": "P25-VI-065",
    "sent": "S021",
    "text": "lạm phát",
    "occ": 1,
@@ -811,7 +924,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-058",
+   "id": "P25-VI-066",
    "sent": "S021",
    "text": "trung bình được cắt giảm",
    "occ": 1,
@@ -825,7 +938,7 @@
    "note": "VI đảo cụm 'mức trung bình cắt giảm' → 'trung bình được cắt giảm', ghi §8"
   },
   {
-   "id": "P25-VI-059",
+   "id": "P25-VI-067",
    "sent": "S021",
    "text": "điểm dữ liệu",
    "occ": 1,
@@ -839,7 +952,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-060",
+   "id": "P25-VI-068",
    "sent": "S021",
    "text": "mức giảm",
    "occ": 1,
@@ -853,7 +966,7 @@
    "note": "mức giảm 'bền vững' — chuỗi giảm; chủ ngữ vế 'thích chờ' bị lược (ngữ pháp bắt buộc), không đánh"
   },
   {
-   "id": "P25-VI-061",
+   "id": "P25-VI-069",
    "sent": "S022",
    "text": "Nhưng",
    "occ": 1,
@@ -867,7 +980,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-062",
+   "id": "P25-VI-070",
    "sent": "S022",
    "text": "xu hướng giảm phát",
    "occ": 1,
@@ -881,7 +994,22 @@
    "note": "cùng hình vị 'phát' (lạm phát→giảm phát) + 'giảm' tiếp chuỗi; đối ứng EN 'disinflationary'"
   },
   {
-   "id": "P25-VI-063",
+   "id": "P25-VI-071",
+   "sent": "S022",
+   "text": "rộng hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: mức giảm 'bền vững' trong lạm phát trung bình",
+   "conf": "med",
+   "alt": null,
+   "note": "so sánh phạm vi: rộng hơn = rộng hơn mức giảm đã nêu câu trước (H&H §2.5)",
+   "ref": "A"
+  },
+  {
+   "id": "P25-VI-072",
    "sent": "S023",
    "text": "tháng 12",
    "occ": 1,
@@ -895,7 +1023,21 @@
    "note": "câu VI tự sinh — không có EN; 'số liệu' lần đầu VI"
   },
   {
-   "id": "P25-VI-064",
+   "id": "P25-VI-073",
+   "sent": "S023",
+   "text": "người nắm giữ thế chấp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: người nắm giữ thế chấp đang gặp khó khăn",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp NP người nắm giữ thế chấp; VI tự sinh"
+  },
+  {
+   "id": "P25-VI-074",
    "sent": "S023",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -909,7 +1051,21 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-065",
+   "id": "P25-VI-075",
+   "sent": "S024",
+   "text": "nền kinh tế",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: nền kinh tế xứng đáng được cắt giảm lãi suất",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nền kinh tế (nền kinh tế trong nước); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-076",
    "sent": "S024",
    "text": "tôi",
    "occ": 1,
@@ -924,7 +1080,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-066",
+   "id": "P25-VI-077",
    "sent": "S024",
    "text": "RBA",
    "occ": 1,
@@ -938,7 +1094,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-067",
+   "id": "P25-VI-078",
    "sent": "S024",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -952,7 +1108,7 @@
    "note": "đợt cắt giảm lãi suất đầu tiên; VI tự sinh"
   },
   {
-   "id": "P25-VI-068",
+   "id": "P25-VI-079",
    "sent": "S024",
    "text": "cuộc họp",
    "occ": 1,
@@ -966,7 +1122,7 @@
    "note": "cuộc họp sắp tới; VI tự sinh"
   },
   {
-   "id": "P25-VI-069",
+   "id": "P25-VI-080",
    "sent": "S024",
    "text": "ông",
    "occ": 2,
@@ -981,7 +1137,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-070",
+   "id": "P25-VI-081",
    "sent": "S025",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -995,7 +1151,7 @@
    "note": "VI tự sinh; 'chúng ta' hư chỉ, không đánh"
   },
   {
-   "id": "P25-VI-071",
+   "id": "P25-VI-082",
    "sent": "S025",
    "text": "RBA",
    "occ": 1,
@@ -1009,7 +1165,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-072",
+   "id": "P25-VI-083",
    "sent": "S025",
    "text": "lạm phát căn bản",
    "occ": 1,
@@ -1023,7 +1179,21 @@
    "note": "'phạm vi mục tiêu 2-3%' khởi tạo chuỗi mục tiêu; VI tự sinh"
   },
   {
-   "id": "P25-VI-073",
+   "id": "P25-VI-084",
+   "sent": "S025",
+   "text": "quý",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: báo cáo CPI quý tiếp theo",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp quý (một quý nữa); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-085",
    "sent": "S026",
    "text": "Nhưng",
    "occ": 1,
@@ -1037,7 +1207,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-074",
+   "id": "P25-VI-086",
    "sent": "S026",
    "text": "ông",
    "occ": 1,
@@ -1052,7 +1222,21 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-075",
+   "id": "P25-VI-087",
+   "sent": "S026",
+   "text": "cũng",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: có thể cần phải đợi thêm một quý",
+   "conf": "med",
+   "alt": null,
+   "note": "bổ sung nhận định (bất ổn toàn cầu) ngoài nhận định tích cực; H&H §5.4"
+  },
+  {
+   "id": "P25-VI-088",
    "sent": "S026",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -1066,7 +1250,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-076",
+   "id": "P25-VI-089",
    "sent": "S027",
    "text": "ông",
    "occ": 1,
@@ -1081,7 +1265,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-077",
+   "id": "P25-VI-090",
    "sent": "S027",
    "text": "Úc",
    "occ": 1,
@@ -1095,7 +1279,7 @@
    "note": "Sự phụ thuộc của Úc; VI tự sinh"
   },
   {
-   "id": "P25-VI-078",
+   "id": "P25-VI-091",
    "sent": "S028",
    "text": "Úc",
    "occ": 1,
@@ -1109,7 +1293,7 @@
    "note": "nền kinh tế Úc; VI tự sinh; 'những yếu tố này' trong câu không đánh"
   },
   {
-   "id": "P25-VI-079",
+   "id": "P25-VI-092",
    "sent": "S028",
    "text": "tăng chi phí",
    "occ": 1,
@@ -1123,7 +1307,7 @@
    "note": "chuỗi 'tăng' — ngữ cảnh mới (chi phí nhập khẩu); VI tự sinh"
   },
   {
-   "id": "P25-VI-080",
+   "id": "P25-VI-093",
    "sent": "S029",
    "text": "CPI",
    "occ": 1,
@@ -1137,7 +1321,21 @@
    "note": "Bản công bố CPI hôm nay; VI tự sinh"
   },
   {
-   "id": "P25-VI-081",
+   "id": "P25-VI-094",
+   "sent": "S029",
+   "text": "kết quả",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: những kết quả lạm phát này",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp kết quả (kết quả đáng mừng); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-095",
    "sent": "S029",
    "text": "RBA",
    "occ": 1,
@@ -1151,7 +1349,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-082",
+   "id": "P25-VI-096",
    "sent": "S030",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -1165,7 +1363,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-083",
+   "id": "P25-VI-097",
    "sent": "S030",
    "text": "Úc",
    "occ": 1,
@@ -1179,7 +1377,7 @@
    "note": "đồng đô la Úc; VI tự sinh"
   },
   {
-   "id": "P25-VI-084",
+   "id": "P25-VI-098",
    "sent": "S030",
    "text": "RBA",
    "occ": 1,
@@ -1193,7 +1391,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-085",
+   "id": "P25-VI-099",
    "sent": "S030",
    "text": "thận trọng",
    "occ": 1,
@@ -1207,7 +1405,7 @@
    "note": "RBA sẽ thận trọng; VI tự sinh"
   },
   {
-   "id": "P25-VI-086",
+   "id": "P25-VI-100",
    "sent": "S030",
    "text": "đợt cắt giảm",
    "occ": 1,
@@ -1221,7 +1419,21 @@
    "note": "đợt cắt giảm đầu tiên; VI tự sinh"
   },
   {
-   "id": "P25-VI-087",
+   "id": "P25-VI-101",
+   "sent": "S030",
+   "text": "quý",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: đợi thêm một quý nữa",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp quý (quý 2 năm nay); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-102",
    "sent": "S031",
    "text": "nhà kinh tế trưởng",
    "occ": 1,
@@ -1235,7 +1447,7 @@
    "note": "VI tự sinh (IFM Joiner)"
   },
   {
-   "id": "P25-VI-088",
+   "id": "P25-VI-103",
    "sent": "S031",
    "text": "kết quả này",
    "occ": 1,
@@ -1250,7 +1462,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-089",
+   "id": "P25-VI-104",
    "sent": "S031",
    "text": "lạm phát",
    "occ": 1,
@@ -1264,7 +1476,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-090",
+   "id": "P25-VI-105",
    "sent": "S031",
    "text": "phạm vi mục tiêu",
    "occ": 1,
@@ -1278,7 +1490,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-091",
+   "id": "P25-VI-106",
    "sent": "S031",
    "text": "bền vững",
    "occ": 1,
@@ -1292,7 +1504,7 @@
    "note": "echo từ quote Shivadekar; VI tự sinh"
   },
   {
-   "id": "P25-VI-092",
+   "id": "P25-VI-107",
    "sent": "S033",
    "text": "số liệu mới nhất",
    "occ": 1,
@@ -1306,7 +1518,21 @@
    "note": "lặp 'mới nhất'; 'con số'→'số liệu' — nguồn VI đổi từ, ghi §8"
   },
   {
-   "id": "P25-VI-093",
+   "id": "P25-VI-108",
+   "sent": "S033",
+   "text": "dự đoán",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: 'Dự đoán của các nhà kinh tế' — tiểu đề",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp dự đoán; tiểu đề làm tiền trạm; được S036 cite"
+  },
+  {
+   "id": "P25-VI-109",
    "sent": "S033",
    "text": "cắt giảm",
    "occ": 1,
@@ -1320,7 +1546,7 @@
    "note": "lãi suất sẽ được cắt giảm"
   },
   {
-   "id": "P25-VI-094",
+   "id": "P25-VI-110",
    "sent": "S033",
    "text": "lãi suất",
    "occ": 1,
@@ -1334,7 +1560,7 @@
    "note": "occ 1: lần 2 ('lãi suất tiền mặt') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P25-VI-095",
+   "id": "P25-VI-111",
    "sent": "S033",
    "text": "RBA",
    "occ": 1,
@@ -1348,7 +1574,7 @@
    "note": "lần họp tiếp theo của RBA"
   },
   {
-   "id": "P25-VI-096",
+   "id": "P25-VI-112",
    "sent": "S034",
    "text": "Westpac",
    "occ": 1,
@@ -1362,7 +1588,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-097",
+   "id": "P25-VI-113",
    "sent": "S034",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -1376,7 +1602,7 @@
    "note": "occ 1: lần 2 ('cắt giảm lãi suất tiền mặt') trong câu cùng chuỗi, không đánh; 'bà' trong câu chỉ Ellis, không đánh; VI tự sinh"
   },
   {
-   "id": "P25-VI-098",
+   "id": "P25-VI-114",
    "sent": "S034",
    "text": "Ngân hàng Dự trữ",
    "occ": 1,
@@ -1390,7 +1616,7 @@
    "note": "biến thể tên (trữ kim → Dự trữ), ghi §8; VI tự sinh"
   },
   {
-   "id": "P25-VI-099",
+   "id": "P25-VI-115",
    "sent": "S034",
    "text": "cuộc họp",
    "occ": 1,
@@ -1404,7 +1630,7 @@
    "note": "cuộc họp hội đồng quản trị; VI tự sinh"
   },
   {
-   "id": "P25-VI-100",
+   "id": "P25-VI-116",
    "sent": "S035",
    "text": "Nhưng",
    "occ": 1,
@@ -1418,7 +1644,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-101",
+   "id": "P25-VI-117",
    "sent": "S035",
    "text": "cuộc họp thứ ba",
    "occ": 1,
@@ -1432,7 +1658,7 @@
    "note": "lặp 'họp'; hàng VI tách (EN gộp trong 'RBA meeting')"
   },
   {
-   "id": "P25-VI-102",
+   "id": "P25-VI-118",
    "sent": "S035",
    "text": "RBA",
    "occ": 1,
@@ -1446,7 +1672,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-103",
+   "id": "P25-VI-119",
    "sent": "S035",
    "text": "lãi suất tiền mặt",
    "occ": 1,
@@ -1460,7 +1686,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-104",
+   "id": "P25-VI-120",
    "sent": "S036",
    "text": "Bốn ngân hàng lớn",
    "occ": 1,
@@ -1474,7 +1700,21 @@
    "note": "tiểu đề làm tiền trạm"
   },
   {
-   "id": "P25-VI-105",
+   "id": "P25-VI-121",
+   "sent": "S036",
+   "text": "cũng",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S035: NAB không đồng ý và dự đoán",
+   "conf": "high",
+   "alt": null,
+   "note": "bổ sung khía cạnh thứ hai (số lần cắt); H&H §5.4"
+  },
+  {
+   "id": "P25-VI-122",
    "sent": "S036",
    "text": "dự đoán",
    "occ": 1,
@@ -1488,7 +1728,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-106",
+   "id": "P25-VI-123",
    "sent": "S036",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -1502,7 +1742,35 @@
    "note": "số lần cắt giảm lãi suất vào năm 2025"
   },
   {
-   "id": "P25-VI-107",
+   "id": "P25-VI-124",
+   "sent": "S037",
+   "text": "ANZ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: Ngân hàng Khối thịnh vượng chung (CBA) và ANZ",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp tên ngân hàng ANZ"
+  },
+  {
+   "id": "P25-VI-125",
+   "sent": "S037",
+   "text": "dự báo",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S036: những dự đoán khác nhau",
+   "conf": "high",
+   "alt": null,
+   "note": "dự báo ≈ dự đoán — chuỗi dự đoán; được S045 cite"
+  },
+  {
+   "id": "P25-VI-126",
    "sent": "S037",
    "text": "thận trọng nhất",
    "occ": 1,
@@ -1516,7 +1784,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-108",
+   "id": "P25-VI-127",
    "sent": "S037",
    "text": "cắt giảm",
    "occ": 1,
@@ -1530,7 +1798,7 @@
    "note": "occ 1: lần 2 ('bốn lần cắt giảm') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P25-VI-109",
+   "id": "P25-VI-128",
    "sent": "S037",
    "text": "CBA và Westpac",
    "occ": 1,
@@ -1544,7 +1812,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-110",
+   "id": "P25-VI-129",
    "sent": "S038",
    "text": "NAB",
    "occ": 1,
@@ -1558,7 +1826,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-111",
+   "id": "P25-VI-130",
    "sent": "S038",
    "text": "dự đoán",
    "occ": 1,
@@ -1572,7 +1840,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-112",
+   "id": "P25-VI-131",
    "sent": "S038",
    "text": "cắt giảm",
    "occ": 1,
@@ -1586,7 +1854,23 @@
    "note": "năm lần cắt giảm"
   },
   {
-   "id": "P25-VI-113",
+   "id": "P25-VI-132",
+   "sent": "S038",
+   "text": null,
+   "occ": 1,
+   "gap_after": "nhiều nhất",
+   "recovered": "{lần cắt giảm}",
+   "cat": "E",
+   "sub": "nominal",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S037: hai lần cắt giảm, bốn lần cắt giảm",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] lược đầu từ sau nhiều nhất ∅ {lần cắt giảm}; H&H §4.2; TNT §37"
+  },
+  {
+   "id": "P25-VI-133",
    "sent": "S039",
    "text": "Chính phủ Úc",
    "occ": 1,
@@ -1600,7 +1884,7 @@
    "note": "lặp 'Úc'; tiểu đề lồng 'Chính phủ hoan nghênh…'; VI tự sinh"
   },
   {
-   "id": "P25-VI-114",
+   "id": "P25-VI-134",
    "sent": "S039",
    "text": "lạm phát giảm",
    "occ": 1,
@@ -1614,7 +1898,7 @@
    "note": "kết chuỗi lạm phát + giảm; chọn phần câu sau tiểu đề; VI tự sinh"
   },
   {
-   "id": "P25-VI-115",
+   "id": "P25-VI-135",
    "sent": "S039",
    "text": "mức thấp nhất",
    "occ": 1,
@@ -1628,7 +1912,7 @@
    "note": "hồi quy xa về S002; đối ứng EN 'its lowest rate' (S001); VI tự sinh"
   },
   {
-   "id": "P25-VI-116",
+   "id": "P25-VI-136",
    "sent": "S040",
    "text": "dữ liệu",
    "occ": 1,
@@ -1642,7 +1926,7 @@
    "note": "dữ liệu từ ABS; VI tự sinh"
   },
   {
-   "id": "P25-VI-117",
+   "id": "P25-VI-137",
    "sent": "S040",
    "text": "ABS",
    "occ": 1,
@@ -1656,7 +1940,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-118",
+   "id": "P25-VI-138",
    "sent": "S040",
    "text": "bền vững",
    "occ": 1,
@@ -1670,7 +1954,7 @@
    "note": "echo quote Joiner/Shivadekar; VI tự sinh"
   },
   {
-   "id": "P25-VI-119",
+   "id": "P25-VI-139",
    "sent": "S040",
    "text": "chống lạm phát",
    "occ": 1,
@@ -1684,7 +1968,7 @@
    "note": "lặp 'lạm phát'; VI tự sinh"
   },
   {
-   "id": "P25-VI-120",
+   "id": "P25-VI-140",
    "sent": "S040",
    "text": "chúng tôi",
    "occ": 1,
@@ -1699,7 +1983,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-121",
+   "id": "P25-VI-141",
    "sent": "S041",
    "text": "Ông Chalmers",
    "occ": 1,
@@ -1713,7 +1997,7 @@
    "note": "lặp tên riêng + danh xưng; VI tự sinh"
   },
   {
-   "id": "P25-VI-122",
+   "id": "P25-VI-142",
    "sent": "S041",
    "text": "các con số này",
    "occ": 1,
@@ -1728,7 +2012,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-123",
+   "id": "P25-VI-143",
    "sent": "S042",
    "text": "Đây",
    "occ": 1,
@@ -1743,7 +2027,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-124",
+   "id": "P25-VI-144",
    "sent": "S042",
    "text": "tiến bộ",
    "occ": 1,
@@ -1757,7 +2041,7 @@
    "note": "nhiều tiến bộ hơn; VI tự sinh"
   },
   {
-   "id": "P25-VI-125",
+   "id": "P25-VI-145",
    "sent": "S042",
    "text": "ông",
    "occ": 1,
@@ -1772,7 +2056,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-126",
+   "id": "P25-VI-146",
    "sent": "S043",
    "text": "Lạm phát",
    "occ": 1,
@@ -1786,7 +2070,7 @@
    "note": "VI tự sinh; câu quote chính trị so sánh hai đảng"
   },
   {
-   "id": "P25-VI-127",
+   "id": "P25-VI-147",
    "sent": "S043",
    "text": "tăng",
    "occ": 1,
@@ -1800,7 +2084,7 @@
    "note": "chuỗi 'tăng'; VI tự sinh"
   },
   {
-   "id": "P25-VI-128",
+   "id": "P25-VI-148",
    "sent": "S043",
    "text": "giảm",
    "occ": 1,
@@ -1814,7 +2098,7 @@
    "note": "thấp hơn và giảm; VI tự sinh"
   },
   {
-   "id": "P25-VI-129",
+   "id": "P25-VI-149",
    "sent": "S044",
    "text": "Lạm phát",
    "occ": 1,
@@ -1828,7 +2112,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-130",
+   "id": "P25-VI-150",
    "sent": "S045",
    "text": "Ông",
    "occ": 1,
@@ -1843,7 +2127,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-131",
+   "id": "P25-VI-151",
    "sent": "S045",
    "text": "lạm phát",
    "occ": 1,
@@ -1857,7 +2141,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-132",
+   "id": "P25-VI-152",
    "sent": "S045",
    "text": "đang giảm",
    "occ": 1,
@@ -1871,7 +2155,7 @@
    "note": "chuỗi 'giảm'; EN paraphrase 'coming down' không đánh riêng; VI tự sinh"
   },
   {
-   "id": "P25-VI-133",
+   "id": "P25-VI-153",
    "sent": "S045",
    "text": "dự báo",
    "occ": 1,
@@ -1885,7 +2169,7 @@
    "note": "dự báo của Bộ Tài chính; VI tự sinh"
   },
   {
-   "id": "P25-VI-134",
+   "id": "P25-VI-154",
    "sent": "S045",
    "text": "Úc",
    "occ": 1,
@@ -1899,7 +2183,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-135",
+   "id": "P25-VI-155",
    "sent": "S045",
    "text": "đi đúng hướng",
    "occ": 1,
@@ -1913,7 +2197,7 @@
    "note": "echo quote Magnusson; VI tự sinh"
   },
   {
-   "id": "P25-VI-136",
+   "id": "P25-VI-156",
    "sent": "S046",
    "text": "RBA",
    "occ": 1,
@@ -1927,7 +2211,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-137",
+   "id": "P25-VI-157",
    "sent": "S046",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -1941,7 +2225,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-138",
+   "id": "P25-VI-158",
    "sent": "S046",
    "text": "Đảng Lao động",
    "occ": 1,
@@ -1955,7 +2239,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-139",
+   "id": "P25-VI-159",
    "sent": "S047",
    "text": "Đảng Lao động",
    "occ": 1,
@@ -1969,7 +2253,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-140",
+   "id": "P25-VI-160",
    "sent": "S047",
    "text": "cắt giảm lãi suất",
    "occ": 1,
@@ -1983,7 +2267,7 @@
    "note": "occ 1: lần 2 ('lãi suất khác') trong câu cùng chuỗi lãi suất, không đánh; VI tự sinh"
   },
   {
-   "id": "P25-VI-141",
+   "id": "P25-VI-161",
    "sent": "S047",
    "text": "bầu cử",
    "occ": 1,
@@ -1997,7 +2281,21 @@
    "note": "hồi quy xa về S001; VI tự sinh"
   },
   {
-   "id": "P25-VI-142",
+   "id": "P25-VI-162",
+   "sent": "S047",
+   "text": "quyết định",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S046: Bất kỳ quyết định nào của RBA",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp quyết định (một quyết định về lãi suất khác); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-163",
    "sent": "S048",
    "text": "Nhưng",
    "occ": 1,
@@ -2011,7 +2309,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-143",
+   "id": "P25-VI-164",
    "sent": "S048",
    "text": "dữ liệu",
    "occ": 1,
@@ -2025,7 +2323,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-144",
+   "id": "P25-VI-165",
    "sent": "S048",
    "text": "tháng 12",
    "occ": 1,
@@ -2039,7 +2337,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-145",
+   "id": "P25-VI-166",
    "sent": "S048",
    "text": "lạm phát cơ bản",
    "occ": 1,
@@ -2053,7 +2351,7 @@
    "note": "nguồn VI đổi 'căn bản'→'cơ bản', ghi §8; VI tự sinh"
   },
   {
-   "id": "P25-VI-146",
+   "id": "P25-VI-167",
    "sent": "S048",
    "text": "mục tiêu",
    "occ": 1,
@@ -2067,7 +2365,7 @@
    "note": "vượt mục tiêu; VI tự sinh"
   },
   {
-   "id": "P25-VI-147",
+   "id": "P25-VI-168",
    "sent": "S049",
    "text": "Nó",
    "occ": 1,
@@ -2082,7 +2380,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-148",
+   "id": "P25-VI-169",
    "sent": "S049",
    "text": "người Úc",
    "occ": 1,
@@ -2096,7 +2394,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-149",
+   "id": "P25-VI-170",
    "sent": "S049",
    "text": "thay đổi",
    "occ": 1,
@@ -2110,7 +2408,7 @@
    "note": "không thay đổi nhiều; VI tự sinh"
   },
   {
-   "id": "P25-VI-150",
+   "id": "P25-VI-171",
    "sent": "S049",
    "text": "ông Taylor",
    "occ": 1,
@@ -2124,7 +2422,7 @@
    "note": "lặp tên riêng + danh xưng; VI tự sinh"
   },
   {
-   "id": "P25-VI-151",
+   "id": "P25-VI-172",
    "sent": "S050",
    "text": "người Úc",
    "occ": 1,
@@ -2138,7 +2436,7 @@
    "note": "mức sống của người Úc; 'chúng ta' hư chỉ, 'nỗi đau đó' trong câu không đánh; VI tự sinh"
   },
   {
-   "id": "P25-VI-152",
+   "id": "P25-VI-173",
    "sent": "S051",
    "text": "quốc gia ngang hàng",
    "occ": 1,
@@ -2152,7 +2450,7 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-153",
+   "id": "P25-VI-174",
    "sent": "S051",
    "text": "chứng kiến",
    "occ": 1,
@@ -2166,7 +2464,7 @@
    "note": "chứng kiến tình trạng đó — 'đó' trong câu không đánh; VI tự sinh"
   },
   {
-   "id": "P25-VI-154",
+   "id": "P25-VI-175",
    "sent": "S051",
    "text": "nền kinh tế",
    "occ": 1,
@@ -2180,7 +2478,21 @@
    "note": "VI tự sinh"
   },
   {
-   "id": "P25-VI-155",
+   "id": "P25-VI-176",
+   "sent": "S051",
+   "text": "quý",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S030: quý 2 năm nay",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp quý (bảy quý liên tiếp); VI tự sinh"
+  },
+  {
+   "id": "P25-VI-177",
    "sent": "S053",
    "text": "RBA",
    "occ": 1,
@@ -2194,7 +2506,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-156",
+   "id": "P25-VI-178",
    "sent": "S053",
    "text": "lạm phát",
    "occ": 1,
@@ -2208,7 +2520,7 @@
    "note": "'đây' và 'của họ' trong câu không đánh"
   },
   {
-   "id": "P25-VI-157",
+   "id": "P25-VI-179",
    "sent": "S053",
    "text": "lãi suất",
    "occ": 1,
@@ -2222,7 +2534,63 @@
    "note": null
   },
   {
-   "id": "P25-VI-158",
+   "id": "P25-VI-180",
+   "sent": "S053",
+   "text": "yếu tố chính",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: một yếu tố quan trọng",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp yếu tố (quan trọng → chính)"
+  },
+  {
+   "id": "P25-VI-181",
+   "sent": "S053",
+   "text": "quyết định",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S047: một quyết định về lãi suất khác",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp quyết định (quyết định tăng hoặc giảm lãi suất)"
+  },
+  {
+   "id": "P25-VI-182",
+   "sent": "S053",
+   "text": "tăng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S043: Lạm phát cao hơn và tăng",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp chuỗi 'tăng' (tăng hoặc giảm lãi suất)"
+  },
+  {
+   "id": "P25-VI-183",
+   "sent": "S053",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S045: lạm phát đang giảm nhanh hơn",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chuỗi 'giảm' (tăng hoặc giảm lãi suất)"
+  },
+  {
+   "id": "P25-VI-184",
    "sent": "S054",
    "text": "Mục tiêu lạm phát",
    "occ": 1,
@@ -2236,7 +2604,21 @@
    "note": "kết chuỗi mục tiêu + lạm phát; tiền trạm trong khối VI tự sinh (S025, S031)"
   },
   {
-   "id": "P25-VI-159",
+   "id": "P25-VI-185",
+   "sent": "S054",
+   "text": "Úc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S050: mức sống của người Úc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Úc (Mục tiêu lạm phát chính thức của Úc)"
+  },
+  {
+   "id": "P25-VI-186",
    "sent": "S054",
    "text": "giảm lạm phát",
    "occ": 1,
@@ -2250,7 +2632,7 @@
    "note": "nỗ lực giảm lạm phát"
   },
   {
-   "id": "P25-VI-160",
+   "id": "P25-VI-187",
    "sent": "S054",
    "text": "RBA",
    "occ": 1,
@@ -2264,7 +2646,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-161",
+   "id": "P25-VI-188",
    "sent": "S054",
    "text": "tăng lãi suất",
    "occ": 1,
@@ -2278,7 +2660,7 @@
    "note": "kết chuỗi tăng + lãi suất; EN 'raising' có hàng riêng"
   },
   {
-   "id": "P25-VI-162",
+   "id": "P25-VI-189",
    "sent": "S055",
    "text": "tăng lãi suất",
    "occ": 1,
@@ -2292,7 +2674,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-163",
+   "id": "P25-VI-190",
    "sent": "S055",
    "text": "RBA",
    "occ": 1,
@@ -2306,7 +2688,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-164",
+   "id": "P25-VI-191",
    "sent": "S055",
    "text": "giữ nguyên lãi suất",
    "occ": 1,
@@ -2320,7 +2702,7 @@
    "note": "kết chuỗi giữ nguyên (S020) + lãi suất"
   },
   {
-   "id": "P25-VI-165",
+   "id": "P25-VI-192",
    "sent": "S055",
    "text": "mục tiêu lãi suất tiền mặt",
    "occ": 1,
@@ -2334,7 +2716,49 @@
    "note": "kết chuỗi mục tiêu + lãi suất tiền mặt"
   },
   {
-   "id": "P25-VI-166",
+   "id": "P25-VI-193",
+   "sent": "S055",
+   "text": "họp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S035: cuộc họp thứ ba của RBA",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp 'họp' (sẽ họp vào tháng 2)"
+  },
+  {
+   "id": "P25-VI-194",
+   "sent": "S055",
+   "text": "Úc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S054: Mục tiêu lạm phát chính thức của Úc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Úc (mà Úc có thể thấy)"
+  },
+  {
+   "id": "P25-VI-195",
+   "sent": "S055",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S054: nỗ lực giảm lạm phát",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chuỗi 'giảm' (mục tiêu lãi suất tiền mặt giảm)"
+  },
+  {
+   "id": "P25-VI-196",
    "sent": "S056",
    "text": "RBA",
    "occ": 1,
@@ -2348,7 +2772,7 @@
    "note": "Thống đốc RBA"
   },
   {
-   "id": "P25-VI-167",
+   "id": "P25-VI-197",
    "sent": "S056",
    "text": "lạm phát",
    "occ": 1,
@@ -2362,7 +2786,7 @@
    "note": "kiềm chế lạm phát"
   },
   {
-   "id": "P25-VI-168",
+   "id": "P25-VI-198",
    "sent": "S057",
    "text": "lạm phát",
    "occ": 1,
@@ -2376,7 +2800,7 @@
    "note": "Với lạm phát đang giảm"
   },
   {
-   "id": "P25-VI-169",
+   "id": "P25-VI-199",
    "sent": "S057",
    "text": "chúng tôi",
    "occ": 1,
@@ -2391,7 +2815,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-VI-170",
+   "id": "P25-VI-200",
    "sent": "S057",
    "text": "bà",
    "occ": 1,
@@ -2406,7 +2830,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-VI-171",
+   "id": "P25-VI-201",
    "sent": "S057",
    "text": "cuộc họp",
    "occ": 1,
@@ -2420,7 +2844,7 @@
    "note": "cuộc họp tháng 12 của RBA; EN gộp trong hàng 'RBA meeting'"
   },
   {
-   "id": "P25-VI-172",
+   "id": "P25-VI-202",
    "sent": "S057",
    "text": "RBA",
    "occ": 1,
@@ -2434,7 +2858,7 @@
    "note": null
   },
   {
-   "id": "P25-VI-173",
+   "id": "P25-VI-203",
    "sent": "S057",
    "text": "đang giảm",
    "occ": 1,
@@ -2445,7 +2869,21 @@
    "ante": "S045: đang giảm",
    "conf": "high",
    "alt": null,
-   "note": "chuỗi 'giảm'; EN 'coming down' paraphrase không đánh riêng"
+   "note": "chuỗi 'giảm'; EN 'coming down' có hàng riêng Phase-2"
+  },
+  {
+   "id": "P25-VI-204",
+   "sent": "S057",
+   "text": "tăng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S055: tăng lãi suất lên 4,35 phần trăm",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chuỗi 'tăng' (việc làm tăng) — tham số mới, cùng hình vị"
   }
  ]
 }

@@ -46,6 +46,20 @@
   },
   {
    "id": "P25-EN-004",
+   "sent": "S002",
+   "text": "eased",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Underlying inflation dropped",
+   "conf": "high",
+   "alt": null,
+   "note": "eased ≈ dropped — đồng nghĩa chuỗi động từ giảm (has eased to 3.2 per cent)"
+  },
+  {
+   "id": "P25-EN-005",
    "sent": "S003",
    "text": "It",
    "occ": 1,
@@ -60,7 +74,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-005",
+   "id": "P25-EN-006",
    "sent": "S003",
    "text": "the previous quarter",
    "occ": 1,
@@ -74,7 +88,7 @@
    "note": "VI 'quý trước' là lần đầu xuất hiện 'quý'"
   },
   {
-   "id": "P25-EN-006",
+   "id": "P25-EN-007",
    "sent": "S004",
    "text": "Meanwhile",
    "occ": 1,
@@ -88,7 +102,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-007",
+   "id": "P25-EN-008",
    "sent": "S004",
    "text": "the December quarter",
    "occ": 1,
@@ -102,7 +116,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-008",
+   "id": "P25-EN-009",
    "sent": "S005",
    "text": "ABS",
    "occ": 1,
@@ -116,7 +130,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-009",
+   "id": "P25-EN-010",
    "sent": "S005",
    "text": "it",
    "occ": 1,
@@ -131,7 +145,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-010",
+   "id": "P25-EN-011",
    "sent": "S005",
    "text": "the lowest quarterly rises",
    "occ": 1,
@@ -145,7 +159,7 @@
    "note": "lặp 'the lowest'; 'quarterly/rises' khởi tạo chuỗi"
   },
   {
-   "id": "P25-EN-011",
+   "id": "P25-EN-012",
    "sent": "S006",
    "text": "December quarter",
    "occ": 1,
@@ -159,7 +173,7 @@
    "note": "trong 'December quarter's rise'; khối cắt, VI none"
   },
   {
-   "id": "P25-EN-012",
+   "id": "P25-EN-013",
    "sent": "S006",
    "text": "the September 2024 quarter",
    "occ": 1,
@@ -173,7 +187,21 @@
    "note": "khởi tạo chuỗi 'September quarter'; khối cắt"
   },
   {
-   "id": "P25-EN-013",
+   "id": "P25-EN-014",
+   "sent": "S006",
+   "text": "rise",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: the lowest quarterly rises",
+   "conf": "high",
+   "alt": null,
+   "note": "December quarter's rise — lặp rise (rises → rise); khối cắt"
+  },
+  {
+   "id": "P25-EN-015",
    "sent": "S006",
    "text": "she",
    "occ": 1,
@@ -188,7 +216,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-014",
+   "id": "P25-EN-016",
    "sent": "S007",
    "text": "These rises",
    "occ": 1,
@@ -203,7 +231,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-015",
+   "id": "P25-EN-017",
    "sent": "S007",
    "text": "the lowest",
    "occ": 1,
@@ -217,7 +245,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-016",
+   "id": "P25-EN-018",
    "sent": "S007",
    "text": "the June 2020 quarter",
    "occ": 1,
@@ -231,7 +259,21 @@
    "note": "lặp 'quarter'"
   },
   {
-   "id": "P25-EN-017",
+   "id": "P25-EN-019",
+   "sent": "S007",
+   "text": "fell",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: the lowest quarterly rises",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối tăng↔giảm: when the CPI fell đối lập rises câu trước; khởi tạo chuỗi fall"
+  },
+  {
+   "id": "P25-EN-020",
    "sent": "S007",
    "text": "the CPI",
    "occ": 1,
@@ -245,7 +287,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-018",
+   "id": "P25-EN-021",
    "sent": "S008",
    "text": "the December quarter",
    "occ": 1,
@@ -259,7 +301,21 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-019",
+   "id": "P25-EN-022",
+   "sent": "S008",
+   "text": "rise",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: December quarter's rise",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp rise; khối cắt, VI none"
+  },
+  {
+   "id": "P25-EN-023",
    "sent": "S008",
    "text": "the September quarter",
    "occ": 1,
@@ -273,7 +329,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-020",
+   "id": "P25-EN-024",
    "sent": "S009",
    "text": "price rises",
    "occ": 1,
@@ -287,7 +343,7 @@
    "note": "kết chuỗi price + rise"
   },
   {
-   "id": "P25-EN-021",
+   "id": "P25-EN-025",
    "sent": "S009",
    "text": "the increase",
    "occ": 1,
@@ -301,7 +357,7 @@
    "note": "mạo từ tóm chỉ mức tăng vừa kể + lặp từ"
   },
   {
-   "id": "P25-EN-022",
+   "id": "P25-EN-026",
    "sent": "S010",
    "text": "The CPI",
    "occ": 1,
@@ -315,7 +371,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-023",
+   "id": "P25-EN-027",
    "sent": "S010",
    "text": "inflation",
    "occ": 1,
@@ -329,7 +385,7 @@
    "note": "hình vị 'inflation' trong 'underlying inflation'"
   },
   {
-   "id": "P25-EN-024",
+   "id": "P25-EN-028",
    "sent": "S011",
    "text": "The ABS",
    "occ": 1,
@@ -343,7 +399,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-025",
+   "id": "P25-EN-029",
    "sent": "S011",
    "text": "price fluctuations",
    "occ": 1,
@@ -357,7 +413,7 @@
    "note": "lặp 'price'"
   },
   {
-   "id": "P25-EN-026",
+   "id": "P25-EN-030",
    "sent": "S011",
    "text": "household",
    "occ": 1,
@@ -371,7 +427,7 @@
    "note": "household spending"
   },
   {
-   "id": "P25-EN-027",
+   "id": "P25-EN-031",
    "sent": "S011",
    "text": "housing",
    "occ": 1,
@@ -385,7 +441,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-028",
+   "id": "P25-EN-032",
    "sent": "S011",
    "text": "public transport",
    "occ": 1,
@@ -399,7 +455,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-029",
+   "id": "P25-EN-033",
    "sent": "S012",
    "text": "However",
    "occ": 1,
@@ -413,7 +469,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-030",
+   "id": "P25-EN-034",
    "sent": "S012",
    "text": "the CPI",
    "occ": 1,
@@ -427,7 +483,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-031",
+   "id": "P25-EN-035",
    "sent": "S012",
    "text": "data",
    "occ": 1,
@@ -441,7 +497,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-032",
+   "id": "P25-EN-036",
    "sent": "S012",
    "text": "price changes",
    "occ": 1,
@@ -455,7 +511,7 @@
    "note": "lặp 'price'"
   },
   {
-   "id": "P25-EN-033",
+   "id": "P25-EN-037",
    "sent": "S013",
    "text": "underlying inflation",
    "occ": 1,
@@ -469,7 +525,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-034",
+   "id": "P25-EN-038",
    "sent": "S013",
    "text": "price swings",
    "occ": 1,
@@ -483,7 +539,7 @@
    "note": "lặp 'price'; swings ≈ fluctuations đồng nghĩa, ghi nhận"
   },
   {
-   "id": "P25-EN-035",
+   "id": "P25-EN-039",
    "sent": "S014",
    "text": "It",
    "occ": 1,
@@ -498,7 +554,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-036",
+   "id": "P25-EN-040",
    "sent": "S014",
    "text": "the December quarter",
    "occ": 1,
@@ -512,7 +568,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-037",
+   "id": "P25-EN-041",
    "sent": "S014",
    "text": "the ABS",
    "occ": 1,
@@ -526,7 +582,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-038",
+   "id": "P25-EN-042",
    "sent": "S015",
    "text": "The trimmed mean",
    "occ": 1,
@@ -540,7 +596,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-039",
+   "id": "P25-EN-043",
    "sent": "S015",
    "text": "price falls",
    "occ": 1,
@@ -554,7 +610,7 @@
    "note": "fell → falls; khởi tạo chuỗi fall; khối cắt"
   },
   {
-   "id": "P25-EN-040",
+   "id": "P25-EN-044",
    "sent": "S015",
    "text": "price rises",
    "occ": 1,
@@ -568,7 +624,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-041",
+   "id": "P25-EN-045",
    "sent": "S016",
    "text": "As a result",
    "occ": 1,
@@ -582,7 +638,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-042",
+   "id": "P25-EN-046",
    "sent": "S016",
    "text": "trimmed mean",
    "occ": 1,
@@ -596,7 +652,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-043",
+   "id": "P25-EN-047",
    "sent": "S016",
    "text": "inflation",
    "occ": 1,
@@ -610,7 +666,7 @@
    "note": "occ 1: lần 2 ('CPI inflation' — hàng riêng) không đánh; khối cắt"
   },
   {
-   "id": "P25-EN-044",
+   "id": "P25-EN-048",
    "sent": "S016",
    "text": "CPI inflation",
    "occ": 1,
@@ -624,7 +680,7 @@
    "note": "kết chuỗi CPI + inflation; khối cắt"
   },
   {
-   "id": "P25-EN-045",
+   "id": "P25-EN-049",
    "sent": "S016",
    "text": "Marquardt",
    "occ": 1,
@@ -638,7 +694,21 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-046",
+   "id": "P25-EN-050",
+   "sent": "S018",
+   "text": "the latest figures",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: data from Australia's capital cities",
+   "conf": "med",
+   "alt": null,
+   "note": "figures ≈ data — đồng nghĩa chuỗi dữ liệu; ý chỉ số liệu lạm phát vừa công bố"
+  },
+  {
+   "id": "P25-EN-051",
    "sent": "S018",
    "text": "a rate cut",
    "occ": 1,
@@ -649,10 +719,10 @@
    "ante": "S001: a pre-election rate cut",
    "conf": "high",
    "alt": null,
-   "note": "'the latest figures' khởi tạo chuỗi figures"
+   "note": "'the latest figures' có hàng riêng Phase-2"
   },
   {
-   "id": "P25-EN-047",
+   "id": "P25-EN-052",
    "sent": "S019",
    "text": "an interest rate cut",
    "occ": 1,
@@ -666,7 +736,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-048",
+   "id": "P25-EN-053",
    "sent": "S019",
    "text": "he",
    "occ": 1,
@@ -681,7 +751,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-049",
+   "id": "P25-EN-054",
    "sent": "S020",
    "text": "the Reserve Bank",
    "occ": 1,
@@ -695,7 +765,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-050",
+   "id": "P25-EN-055",
    "sent": "S020",
    "text": "these inflation results",
    "occ": 1,
@@ -710,7 +780,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-051",
+   "id": "P25-EN-056",
    "sent": "S020",
    "text": "households",
    "occ": 1,
@@ -724,7 +794,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-052",
+   "id": "P25-EN-057",
    "sent": "S020",
    "text": "an interest rate cut",
    "occ": 1,
@@ -738,7 +808,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-053",
+   "id": "P25-EN-058",
    "sent": "S020",
    "text": "I",
    "occ": 1,
@@ -753,7 +823,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-EN-054",
+   "id": "P25-EN-059",
    "sent": "S021",
    "text": "My",
    "occ": 1,
@@ -768,7 +838,50 @@
    "ref": "E"
   },
   {
-   "id": "P25-EN-055",
+   "id": "P25-EN-060",
+   "sent": "S021",
+   "text": "further",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: an interest rate cut at the February 17-18 policy meeting",
+   "conf": "med",
+   "alt": null,
+   "note": "quy chiếu so sánh: further = thêm với lần cắt tháng 2 câu trước (H&H §2.5)",
+   "ref": "A"
+  },
+  {
+   "id": "P25-EN-061",
+   "sent": "S021",
+   "text": "declines",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: has eased to 3.2 per cent",
+   "conf": "high",
+   "alt": null,
+   "note": "declines ≈ eased/dropped — chuỗi động từ giảm; S026 'decline' truy hồi mắt xích này"
+  },
+  {
+   "id": "P25-EN-062",
+   "sent": "S021",
+   "text": "quarterly",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: the lowest quarterly rises",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp quarterly (quarterly CPI reports)"
+  },
+  {
+   "id": "P25-EN-063",
    "sent": "S021",
    "text": "the RBA",
    "occ": 1,
@@ -782,7 +895,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-056",
+   "id": "P25-EN-064",
    "sent": "S021",
    "text": "rate cuts",
    "occ": 1,
@@ -796,7 +909,7 @@
    "note": "two further rate cuts"
   },
   {
-   "id": "P25-EN-057",
+   "id": "P25-EN-065",
    "sent": "S021",
    "text": "inflation",
    "occ": 1,
@@ -810,7 +923,7 @@
    "note": "declines in inflation"
   },
   {
-   "id": "P25-EN-058",
+   "id": "P25-EN-066",
    "sent": "S021",
    "text": "CPI",
    "occ": 1,
@@ -824,7 +937,7 @@
    "note": "quarterly CPI reports"
   },
   {
-   "id": "P25-EN-059",
+   "id": "P25-EN-067",
    "sent": "S022",
    "text": "He",
    "occ": 1,
@@ -839,7 +952,21 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-060",
+   "id": "P25-EN-068",
+   "sent": "S022",
+   "text": "also",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: two further rate cuts this year",
+   "conf": "high",
+   "alt": null,
+   "note": "also = bổ sung yếu tố thứ hai (the fall) ngoài dự đoán cắt lãi suất; H&H §5.4"
+  },
+  {
+   "id": "P25-EN-069",
    "sent": "S022",
    "text": "underlying inflation",
    "occ": 1,
@@ -853,7 +980,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-061",
+   "id": "P25-EN-070",
    "sent": "S022",
    "text": "the fall",
    "occ": 1,
@@ -867,7 +994,7 @@
    "note": "fall in underlying inflation"
   },
   {
-   "id": "P25-EN-062",
+   "id": "P25-EN-071",
    "sent": "S023",
    "text": "trimmed mean",
    "occ": 1,
@@ -881,7 +1008,7 @@
    "note": "nguồn lỗi 'fall back to with' + ngoặc kép lồng, ghi §8; khối cắt"
   },
   {
-   "id": "P25-EN-063",
+   "id": "P25-EN-072",
    "sent": "S023",
    "text": "inflation",
    "occ": 1,
@@ -895,7 +1022,7 @@
    "note": "occ 1: lần 2 ('inflation target band' — hàng riêng) không đánh; khối cắt"
   },
   {
-   "id": "P25-EN-064",
+   "id": "P25-EN-073",
    "sent": "S023",
    "text": "the RBA",
    "occ": 1,
@@ -909,7 +1036,7 @@
    "note": "occ 1: lần 2 ('the RBA's current expectation') trong câu cùng chuỗi, không đánh; khối cắt"
   },
   {
-   "id": "P25-EN-065",
+   "id": "P25-EN-074",
    "sent": "S023",
    "text": "fall back",
    "occ": 1,
@@ -923,7 +1050,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-066",
+   "id": "P25-EN-075",
    "sent": "S023",
    "text": "he",
    "occ": 3,
@@ -938,7 +1065,21 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-067",
+   "id": "P25-EN-076",
+   "sent": "S023",
+   "text": "expectation",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: My expectation",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp expectation; khối cắt, VI none"
+  },
+  {
+   "id": "P25-EN-077",
    "sent": "S024",
    "text": "economist",
    "occ": 1,
@@ -952,7 +1093,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-068",
+   "id": "P25-EN-078",
    "sent": "S024",
    "text": "the RBA",
    "occ": 1,
@@ -966,7 +1107,21 @@
    "note": "'the cash rate' khởi tạo chuỗi"
   },
   {
-   "id": "P25-EN-069",
+   "id": "P25-EN-079",
+   "sent": "S024",
+   "text": "reduce",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: two further rate cuts",
+   "conf": "high",
+   "alt": null,
+   "note": "reduce the cash rate ≈ cut — đồng nghĩa chuỗi cắt giảm"
+  },
+  {
+   "id": "P25-EN-080",
    "sent": "S025",
    "text": "A rate cut",
    "occ": 1,
@@ -980,7 +1135,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-070",
+   "id": "P25-EN-081",
    "sent": "S025",
    "text": "policy meeting",
    "occ": 1,
@@ -994,7 +1149,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-071",
+   "id": "P25-EN-082",
    "sent": "S025",
    "text": "RBA",
    "occ": 1,
@@ -1008,7 +1163,7 @@
    "note": "trong 'the February RBA policy meeting'"
   },
   {
-   "id": "P25-EN-072",
+   "id": "P25-EN-083",
    "sent": "S025",
    "text": "our",
    "occ": 1,
@@ -1023,7 +1178,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-EN-073",
+   "id": "P25-EN-084",
    "sent": "S025",
    "text": "she",
    "occ": 1,
@@ -1038,7 +1193,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-074",
+   "id": "P25-EN-085",
    "sent": "S026",
    "text": "The RBA",
    "occ": 1,
@@ -1052,7 +1207,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-075",
+   "id": "P25-EN-086",
    "sent": "S026",
    "text": "decline",
    "occ": 1,
@@ -1066,7 +1221,7 @@
    "note": "a 'sustainable' decline"
   },
   {
-   "id": "P25-EN-076",
+   "id": "P25-EN-087",
    "sent": "S026",
    "text": "trimmed mean inflation",
    "occ": 1,
@@ -1080,7 +1235,7 @@
    "note": "kết 2 chuỗi trimmed mean + inflation"
   },
   {
-   "id": "P25-EN-077",
+   "id": "P25-EN-088",
    "sent": "S026",
    "text": "data point",
    "occ": 1,
@@ -1094,7 +1249,7 @@
    "note": "'that one additional data point' — 'that' hư chỉ giả định, không đánh"
   },
   {
-   "id": "P25-EN-078",
+   "id": "P25-EN-089",
    "sent": "S027",
    "text": "However",
    "occ": 1,
@@ -1108,7 +1263,22 @@
    "note": null
   },
   {
-   "id": "P25-EN-079",
+   "id": "P25-EN-090",
+   "sent": "S027",
+   "text": "broader",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: a 'sustainable' decline in trimmed mean inflation",
+   "conf": "med",
+   "alt": null,
+   "note": "so sánh phạm vi (H&H §2.5): broader = rộng hơn mức giảm đã nêu câu trước",
+   "ref": "A"
+  },
+  {
+   "id": "P25-EN-091",
    "sent": "S027",
    "text": "disinflationary trend",
    "occ": 1,
@@ -1122,7 +1292,7 @@
    "note": "hình vị 'inflation' trong 'disinflationary'"
   },
   {
-   "id": "P25-EN-080",
+   "id": "P25-EN-092",
    "sent": "S029",
    "text": "the latest figures",
    "occ": 1,
@@ -1136,7 +1306,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-081",
+   "id": "P25-EN-093",
    "sent": "S029",
    "text": "a rate cut",
    "occ": 1,
@@ -1150,7 +1320,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-082",
+   "id": "P25-EN-094",
    "sent": "S029",
    "text": "a cash rate reduction",
    "occ": 1,
@@ -1164,7 +1334,7 @@
    "note": "lặp 'cash rate'; 'reduction' ≈ 'cut' đồng nghĩa, ghi nhận"
   },
   {
-   "id": "P25-EN-083",
+   "id": "P25-EN-095",
    "sent": "S029",
    "text": "the RBA",
    "occ": 1,
@@ -1178,7 +1348,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-084",
+   "id": "P25-EN-096",
    "sent": "S030",
    "text": "But",
    "occ": 1,
@@ -1192,7 +1362,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-085",
+   "id": "P25-EN-097",
    "sent": "S030",
    "text": "the cash rate target",
    "occ": 1,
@@ -1206,7 +1376,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-086",
+   "id": "P25-EN-098",
    "sent": "S030",
    "text": "RBA meeting",
    "occ": 1,
@@ -1220,7 +1390,7 @@
    "note": "kết chuỗi RBA + meeting"
   },
   {
-   "id": "P25-EN-087",
+   "id": "P25-EN-099",
    "sent": "S031",
    "text": "The big four",
    "occ": 1,
@@ -1234,7 +1404,21 @@
    "note": "tiểu đề làm tiền trạm, không gán nhãn trên tiểu đề"
   },
   {
-   "id": "P25-EN-088",
+   "id": "P25-EN-100",
+   "sent": "S031",
+   "text": "also",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S030: NAB disagrees and has predicted",
+   "conf": "high",
+   "alt": null,
+   "note": "bổ sung khía cạnh thứ hai (số lần cắt) ngoài dự đoán thời điểm; H&H §5.4"
+  },
+  {
+   "id": "P25-EN-101",
    "sent": "S031",
    "text": "predictions",
    "occ": 1,
@@ -1248,7 +1432,7 @@
    "note": "predicting → predictions"
   },
   {
-   "id": "P25-EN-089",
+   "id": "P25-EN-102",
    "sent": "S031",
    "text": "rate cuts",
    "occ": 1,
@@ -1262,7 +1446,7 @@
    "note": "the number of rate cuts in 2025"
   },
   {
-   "id": "P25-EN-090",
+   "id": "P25-EN-103",
    "sent": "S032",
    "text": "the most cautious",
    "occ": 1,
@@ -1276,7 +1460,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-091",
+   "id": "P25-EN-104",
    "sent": "S032",
    "text": "two cuts",
    "occ": 1,
@@ -1290,7 +1474,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-092",
+   "id": "P25-EN-105",
    "sent": "S032",
    "text": "CBA and Westpac",
    "occ": 1,
@@ -1304,7 +1488,65 @@
    "note": null
   },
   {
-   "id": "P25-EN-093",
+   "id": "P25-EN-106",
+   "sent": "S032",
+   "text": "ANZ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S029: the Commonwealth Bank (CBA) and ANZ",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp tên ngân hàng ANZ"
+  },
+  {
+   "id": "P25-EN-107",
+   "sent": "S032",
+   "text": "expecting",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: the RBA's current expectation",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị expect (expectation → expecting)"
+  },
+  {
+   "id": "P25-EN-108",
+   "sent": "S032",
+   "text": "forecast",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S031: varying predictions",
+   "conf": "high",
+   "alt": null,
+   "note": "forecast ≈ predicting/predictions — chuỗi dự đoán"
+  },
+  {
+   "id": "P25-EN-109",
+   "sent": "S032",
+   "text": null,
+   "occ": 1,
+   "gap_after": "four",
+   "recovered": "{cuts}",
+   "cat": "E",
+   "sub": "nominal",
+   "dir": "ana",
+   "level": "TC",
+   "ante": "S032: expecting two cuts (trong câu)",
+   "conf": "high",
+   "alt": null,
+   "note": "[TC] lược đầu từ sau four ∅ {cuts}; H&H §4.2"
+  },
+  {
+   "id": "P25-EN-110",
    "sent": "S033",
    "text": "NAB",
    "occ": 1,
@@ -1318,7 +1560,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-094",
+   "id": "P25-EN-111",
    "sent": "S033",
    "text": "predicting",
    "occ": 1,
@@ -1332,7 +1574,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-095",
+   "id": "P25-EN-112",
    "sent": "S033",
    "text": "five cuts",
    "occ": 1,
@@ -1346,7 +1588,23 @@
    "note": null
   },
   {
-   "id": "P25-EN-096",
+   "id": "P25-EN-113",
+   "sent": "S033",
+   "text": null,
+   "occ": 1,
+   "gap_after": "the most",
+   "recovered": "{cuts}",
+   "cat": "E",
+   "sub": "nominal",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S032: expecting two cuts, while CBA and Westpac forecast four",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] lược đầu từ sau the most ∅ {cuts} — H&H §4.2; VI đối xứng 'nhiều nhất' ∅ (S038)"
+  },
+  {
+   "id": "P25-EN-114",
    "sent": "S034",
    "text": "The ABS",
    "occ": 1,
@@ -1360,7 +1618,7 @@
    "note": "tiểu đề lồng câu; khối cắt, VI none"
   },
   {
-   "id": "P25-EN-097",
+   "id": "P25-EN-115",
    "sent": "S034",
    "text": "the dip in quarterly CPI",
    "occ": 1,
@@ -1374,7 +1632,7 @@
    "note": "tiểu đề lồng 'in quarterly CPI' — chọn phần câu; khối cắt"
   },
   {
-   "id": "P25-EN-098",
+   "id": "P25-EN-116",
    "sent": "S034",
    "text": "to electricity and fuel prices falling",
    "occ": 1,
@@ -1388,7 +1646,7 @@
    "note": "kết chuỗi electricity + fuel + falling (S015 price falls); khối cắt"
   },
   {
-   "id": "P25-EN-099",
+   "id": "P25-EN-117",
    "sent": "S035",
    "text": "Electricity prices",
    "occ": 1,
@@ -1402,7 +1660,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-100",
+   "id": "P25-EN-118",
    "sent": "S035",
    "text": "fell",
    "occ": 1,
@@ -1416,7 +1674,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-101",
+   "id": "P25-EN-119",
    "sent": "S035",
    "text": "the December quarter",
    "occ": 1,
@@ -1430,7 +1688,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-102",
+   "id": "P25-EN-120",
    "sent": "S035",
    "text": "it",
    "occ": 2,
@@ -1445,7 +1703,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-103",
+   "id": "P25-EN-121",
    "sent": "S036",
    "text": "the fall in electricity prices",
    "occ": 1,
@@ -1459,7 +1717,7 @@
    "note": "kết 2 chuỗi fall + electricity prices; khối cắt"
   },
   {
-   "id": "P25-EN-104",
+   "id": "P25-EN-122",
    "sent": "S036",
    "text": "this quarter",
    "occ": 1,
@@ -1473,7 +1731,7 @@
    "note": "hậu chỉ 'this' + lặp 'quarter'; khối cắt"
   },
   {
-   "id": "P25-EN-105",
+   "id": "P25-EN-123",
    "sent": "S037",
    "text": "Automotive fuel prices",
    "occ": 1,
@@ -1487,7 +1745,7 @@
    "note": "kết chuỗi Automotive fuel (S015) + prices; khối cắt"
   },
   {
-   "id": "P25-EN-106",
+   "id": "P25-EN-124",
    "sent": "S037",
    "text": "fell",
    "occ": 1,
@@ -1501,7 +1759,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-107",
+   "id": "P25-EN-125",
    "sent": "S037",
    "text": "the December quarter",
    "occ": 1,
@@ -1515,7 +1773,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-108",
+   "id": "P25-EN-126",
    "sent": "S037",
    "text": "global oil prices",
    "occ": 1,
@@ -1529,7 +1787,7 @@
    "note": "lặp 'prices'; 'oil' từ mới; khối cắt"
   },
   {
-   "id": "P25-EN-109",
+   "id": "P25-EN-127",
    "sent": "S038",
    "text": "Food prices",
    "occ": 1,
@@ -1543,7 +1801,7 @@
    "note": "lặp 'prices'; tiểu đề lồng 'fruit and vegetable prices'; khối cắt"
   },
   {
-   "id": "P25-EN-110",
+   "id": "P25-EN-128",
    "sent": "S038",
    "text": "increased",
    "occ": 1,
@@ -1557,7 +1815,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-111",
+   "id": "P25-EN-129",
    "sent": "S038",
    "text": "the December quarter",
    "occ": 1,
@@ -1571,7 +1829,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-112",
+   "id": "P25-EN-130",
    "sent": "S038",
    "text": "the September quarter",
    "occ": 1,
@@ -1585,7 +1843,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-113",
+   "id": "P25-EN-131",
    "sent": "S039",
    "text": "Price hikes",
    "occ": 1,
@@ -1599,7 +1857,7 @@
    "note": "lặp 'price'; 'hikes' ≈ 'rises' đồng nghĩa; khối cắt"
   },
   {
-   "id": "P25-EN-114",
+   "id": "P25-EN-132",
    "sent": "S039",
    "text": "food categories",
    "occ": 1,
@@ -1613,7 +1871,7 @@
    "note": "lặp 'food'; khối cắt"
   },
   {
-   "id": "P25-EN-115",
+   "id": "P25-EN-133",
    "sent": "S039",
    "text": "lamb prices",
    "occ": 1,
@@ -1627,7 +1885,7 @@
    "note": "lặp 'prices'; khối cắt"
   },
   {
-   "id": "P25-EN-116",
+   "id": "P25-EN-134",
    "sent": "S040",
    "text": "fruit and vegetable prices",
    "occ": 1,
@@ -1641,7 +1899,7 @@
    "note": "'they' trong câu chỉ prices (trong câu), không đánh; khối cắt"
   },
   {
-   "id": "P25-EN-117",
+   "id": "P25-EN-135",
    "sent": "S040",
    "text": "dropped",
    "occ": 1,
@@ -1655,7 +1913,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-118",
+   "id": "P25-EN-136",
    "sent": "S040",
    "text": "the latest quarter",
    "occ": 1,
@@ -1669,7 +1927,7 @@
    "note": "kết chuỗi latest + quarter; khối cắt"
   },
   {
-   "id": "P25-EN-119",
+   "id": "P25-EN-137",
    "sent": "S041",
    "text": "prices falling",
    "occ": 1,
@@ -1683,7 +1941,7 @@
    "note": "lặp 'prices'; 'falling' tiếp chuỗi fall (S036); khối cắt"
   },
   {
-   "id": "P25-EN-120",
+   "id": "P25-EN-138",
    "sent": "S041",
    "text": "the ABS",
    "occ": 1,
@@ -1697,7 +1955,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-121",
+   "id": "P25-EN-139",
    "sent": "S042",
    "text": "Tobacco prices",
    "occ": 1,
@@ -1711,7 +1969,7 @@
    "note": "kết chuỗi Tobacco + prices; tiểu đề lồng 'Alcohol, tobacco and travel prices increase'; khối cắt"
   },
   {
-   "id": "P25-EN-122",
+   "id": "P25-EN-140",
    "sent": "S042",
    "text": "rose",
    "occ": 1,
@@ -1725,7 +1983,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-123",
+   "id": "P25-EN-141",
    "sent": "S042",
    "text": "the quarter",
    "occ": 1,
@@ -1739,7 +1997,7 @@
    "note": "over the quarter; khối cắt"
   },
   {
-   "id": "P25-EN-124",
+   "id": "P25-EN-142",
    "sent": "S042",
    "text": "alcoholic beverages",
    "occ": 1,
@@ -1753,7 +2011,7 @@
    "note": "alcohol → alcoholic; khối cắt"
   },
   {
-   "id": "P25-EN-125",
+   "id": "P25-EN-143",
    "sent": "S042",
    "text": "a narrower increase",
    "occ": 1,
@@ -1767,7 +2025,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-126",
+   "id": "P25-EN-144",
    "sent": "S043",
    "text": "tobacco",
    "occ": 1,
@@ -1781,7 +2039,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P25-EN-127",
+   "id": "P25-EN-145",
    "sent": "S043",
    "text": "beer",
    "occ": 1,
@@ -1795,7 +2053,23 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-128",
+   "id": "P25-EN-146",
+   "sent": "S043",
+   "text": null,
+   "occ": 1,
+   "gap_after": "beer ",
+   "recovered": "{is up}",
+   "cat": "E",
+   "sub": "verbal",
+   "dir": "ana",
+   "level": "TC",
+   "ante": "S043: tobacco is up 12.2 per cent (trong câu)",
+   "conf": "high",
+   "alt": null,
+   "note": "[TC] lược vị ngữ sau beer ∅ {is up}; H&H §4.3"
+  },
+  {
+   "id": "P25-EN-147",
    "sent": "S044",
    "text": "Recreation and culture",
    "occ": 1,
@@ -1809,7 +2083,21 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-129",
+   "id": "P25-EN-148",
+   "sent": "S044",
+   "text": "also",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S043: tobacco is up 12.2 per cent, and beer 4.3 per cent",
+   "conf": "high",
+   "alt": null,
+   "note": "bổ sung nhóm giá tăng thứ ba; H&H §5.4"
+  },
+  {
+   "id": "P25-EN-149",
    "sent": "S044",
    "text": "an increase",
    "occ": 1,
@@ -1823,7 +2111,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-130",
+   "id": "P25-EN-150",
    "sent": "S044",
    "text": "the December quarter",
    "occ": 1,
@@ -1837,7 +2125,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-131",
+   "id": "P25-EN-151",
    "sent": "S044",
    "text": "the ABS",
    "occ": 1,
@@ -1851,7 +2139,7 @@
    "note": "'the holiday period' khởi tạo chuỗi; khối cắt"
   },
   {
-   "id": "P25-EN-132",
+   "id": "P25-EN-152",
    "sent": "S045",
    "text": "the rise",
    "occ": 1,
@@ -1865,7 +2153,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-133",
+   "id": "P25-EN-153",
    "sent": "S045",
    "text": "holiday travel",
    "occ": 1,
@@ -1879,7 +2167,7 @@
    "note": "lặp 'travel'; khối cắt"
   },
   {
-   "id": "P25-EN-134",
+   "id": "P25-EN-154",
    "sent": "S045",
    "text": "an increase",
    "occ": 1,
@@ -1893,7 +2181,7 @@
    "note": "an increase in travel demand; khối cắt"
   },
   {
-   "id": "P25-EN-135",
+   "id": "P25-EN-155",
    "sent": "S045",
    "text": "school holiday period",
    "occ": 1,
@@ -1907,7 +2195,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P25-EN-136",
+   "id": "P25-EN-156",
    "sent": "S045",
    "text": "prices for airfares",
    "occ": 1,
@@ -1921,7 +2209,7 @@
    "note": "lặp 'prices'; 'accommodation' lặp 2 lần trong câu (TC) không đánh; khối cắt"
   },
   {
-   "id": "P25-EN-137",
+   "id": "P25-EN-157",
    "sent": "S045",
    "text": "it",
    "occ": 1,
@@ -1936,7 +2224,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-138",
+   "id": "P25-EN-158",
    "sent": "S047",
    "text": "The RBA",
    "occ": 1,
@@ -1950,7 +2238,7 @@
    "note": "'its' trong câu không đánh"
   },
   {
-   "id": "P25-EN-139",
+   "id": "P25-EN-159",
    "sent": "S047",
    "text": "inflation",
    "occ": 1,
@@ -1964,7 +2252,35 @@
    "note": null
   },
   {
-   "id": "P25-EN-140",
+   "id": "P25-EN-160",
+   "sent": "S047",
+   "text": "a key factor",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: an important factor",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp factor (an important factor → a key factor)"
+  },
+  {
+   "id": "P25-EN-161",
+   "sent": "S047",
+   "text": "lower",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S029: a cash rate reduction",
+   "conf": "med",
+   "alt": null,
+   "note": "lower interest rates ≈ cut/reduce — đồng nghĩa chuỗi cắt giảm"
+  },
+  {
+   "id": "P25-EN-162",
    "sent": "S047",
    "text": "interest rates",
    "occ": 1,
@@ -1978,7 +2294,21 @@
    "note": null
   },
   {
-   "id": "P25-EN-141",
+   "id": "P25-EN-163",
+   "sent": "S048",
+   "text": "Australia's",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Australia's capital cities",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Australia's (official inflation target)"
+  },
+  {
+   "id": "P25-EN-164",
    "sent": "S048",
    "text": "inflation target",
    "occ": 1,
@@ -1992,7 +2322,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-142",
+   "id": "P25-EN-165",
    "sent": "S048",
    "text": "reduce inflation",
    "occ": 1,
@@ -2006,7 +2336,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-143",
+   "id": "P25-EN-166",
    "sent": "S048",
    "text": "the RBA",
    "occ": 1,
@@ -2020,7 +2350,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-144",
+   "id": "P25-EN-167",
    "sent": "S048",
    "text": "raising",
    "occ": 1,
@@ -2034,7 +2364,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-145",
+   "id": "P25-EN-168",
    "sent": "S048",
    "text": "interest rates",
    "occ": 1,
@@ -2048,7 +2378,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-146",
+   "id": "P25-EN-169",
    "sent": "S049",
    "text": "increasing rates",
    "occ": 1,
@@ -2062,7 +2392,7 @@
    "note": "lặp 'rates'; increasing ≈ raising"
   },
   {
-   "id": "P25-EN-147",
+   "id": "P25-EN-170",
    "sent": "S049",
    "text": "the RBA",
    "occ": 1,
@@ -2076,7 +2406,7 @@
    "note": "'in February' mốc thời gian, không đánh"
   },
   {
-   "id": "P25-EN-148",
+   "id": "P25-EN-171",
    "sent": "S049",
    "text": "kept the rate steady",
    "occ": 1,
@@ -2090,7 +2420,49 @@
    "note": "lặp 'rate' (số ít)"
   },
   {
-   "id": "P25-EN-149",
+   "id": "P25-EN-172",
+   "sent": "S049",
+   "text": "convene",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S030: the third RBA meeting in May",
+   "conf": "med",
+   "alt": null,
+   "note": "convene ≈ hold a meeting — chuỗi họp"
+  },
+  {
+   "id": "P25-EN-173",
+   "sent": "S049",
+   "text": "Australia",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S048: Australia's official inflation target",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Australia (could see a reduction)"
+  },
+  {
+   "id": "P25-EN-174",
+   "sent": "S049",
+   "text": "a reduction",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S029: a cash rate reduction",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp reduction (a reduction in the cash rate target)"
+  },
+  {
+   "id": "P25-EN-175",
    "sent": "S049",
    "text": "the cash rate target",
    "occ": 1,
@@ -2104,7 +2476,7 @@
    "note": null
   },
   {
-   "id": "P25-EN-150",
+   "id": "P25-EN-176",
    "sent": "S050",
    "text": "RBA",
    "occ": 1,
@@ -2118,7 +2490,7 @@
    "note": "RBA governor"
   },
   {
-   "id": "P25-EN-151",
+   "id": "P25-EN-177",
    "sent": "S050",
    "text": "inflation",
    "occ": 1,
@@ -2132,7 +2504,7 @@
    "note": "taming inflation"
   },
   {
-   "id": "P25-EN-152",
+   "id": "P25-EN-178",
    "sent": "S051",
    "text": "inflation",
    "occ": 1,
@@ -2146,7 +2518,21 @@
    "note": null
   },
   {
-   "id": "P25-EN-153",
+   "id": "P25-EN-179",
+   "sent": "S051",
+   "text": "coming down",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S041: prices falling in recent months",
+   "conf": "med",
+   "alt": null,
+   "note": "coming down ≈ falling — chuỗi động từ giảm"
+  },
+  {
+   "id": "P25-EN-180",
    "sent": "S051",
    "text": "we",
    "occ": 1,
@@ -2161,7 +2547,7 @@
    "ref": "E"
   },
   {
-   "id": "P25-EN-154",
+   "id": "P25-EN-181",
    "sent": "S051",
    "text": "she",
    "occ": 1,
@@ -2176,7 +2562,7 @@
    "ref": "A"
   },
   {
-   "id": "P25-EN-155",
+   "id": "P25-EN-182",
    "sent": "S051",
    "text": "RBA",
    "occ": 1,
@@ -2187,7 +2573,21 @@
    "ante": "S050: RBA",
    "conf": "high",
    "alt": null,
-   "note": "RBA's December meeting; 'meeting' lặp (S030)"
+   "note": "RBA's December meeting; 'meeting' có hàng riêng Phase-2"
+  },
+  {
+   "id": "P25-EN-183",
+   "sent": "S051",
+   "text": "meeting",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S049: will next convene in February — S030: the third RBA meeting",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp meeting (December meeting)"
   }
  ]
 }

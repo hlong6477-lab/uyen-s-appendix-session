@@ -1,3 +1,3 @@
 QC P25 EN: PASS
-counts: {'C': 5, 'L': 133, 'R': 17}
-ties: 155
+counts: {'C': 8, 'E': 3, 'L': 153, 'R': 19}
+ties: 183

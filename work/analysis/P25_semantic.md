@@ -4,6 +4,19 @@
 **ST (EN):** 51 câu — tin tức kinh tế, nhiều trích dẫn (Marquardt/ABS, Bassenese, Shivadekar, 4 ngân hàng lớn), 4 tiểu đề lồng.
 **TT (VI):** 57 câu — VI cắt 17 câu EN (S006, S008, S015–S016, S023, khối S034–S045) nhưng TỰ SINH 23 câu (khối BDO Magnusson + VanEck + IFM: S023–S031; Westpac Luci Ellis: S034; khối Chính phủ/Chalmers/Taylor: S039–S051) → VI nhiều hơn EN.
 
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (§6.2) + collocation gồm cặp đối nghĩa
+> (§6.4). VI — Trần Ngọc Thêm, *Hệ thống liên kết văn bản tiếng Việt* (1985;
+> tái bản 2006) (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép
+> đối (§30), phép thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ
+> khiếm diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối
+> (§38, §43). Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định
+> references/en-vi-mapping.md §3 (14 phép thử).
+
 ---
 
 ## 1. Tổng quan nội dung, thể loại, bản đồ câu
@@ -59,11 +72,20 @@ Trường nghĩa chính: (1) lạm phát căn bản/cơ bản/underlying inflati
 
 ## 2. Phép tỉnh lược (ellipsis)
 
-Không có lỗ trống thật nào ở EN lẫn VI — 0 hàng E. (Các vế "while housing and transport offset the increase" (S009) đã đầy đủ chủ vị; VI S007 tái cấu trúc thành chủ động.)
+**[Phase-2 theo H&H §4 (substitution by zero) + TNT §37 (tỉnh lược yếu)]** — 4 hàng E (3 EN + 1 VI), phần lớn ở vùng tiểu mục "big four":
+
+| # | Vị trí | Nguyên văn | Phân tích | Cấp |
+|---|---|---|---|---|
+| E-EN1 | ST S032 | "CBA and Westpac forecast four ∅" | tỉnh lược danh từ (H&H §4.2): four ∅ {cuts} — tiền trạm "two cuts" trong cùng câu | [TC] |
+| E-EN2 | ST S033 | "NAB is predicting the most ∅" | tỉnh lược danh từ: the most ∅ {cuts} — tiền trạm "two cuts / four" ở câu trước (S032) → liên câu | [LC] |
+| E-EN3 | ST S043 | "and beer ∅ 4.3 per cent" | tỉnh lược động từ (H&H §4.3): beer ∅ {is up} — tiền trạm "tobacco is up" trong cùng câu | [TC] |
+| E-VI1 | TT S038 | "dự đoán nhiều nhất ∅" | tỉnh lược danh từ: nhiều nhất ∅ {lần cắt giảm} — tiền trạm "bốn lần cắt giảm" (S037) câu trước → liên câu; đối xứng 1–1 với E-EN2 | [LC] |
+
+Nhận định: điểm đáng chú ý nhất là cặp "the most ∅ (cuts)" (EN S033) ↔ "nhiều nhất ∅ {lần cắt giảm}" (VI S038): hai bản giữ cùng một lỗ tỉnh lược ở cùng vị trí đối đáp — hiếm gặp vì NTT (2020) §2.4 ghi nhận ellipsis là nơi chuyển dịch khó nhất (VI thường lấp đầy); đây là lỗ danh từ sau từ tối ưu hóa (most/nhiều nhất), đúng dạng "two ∅ of them" của H&H §4.2. Các vế "while housing and transport offset the increase" (S009) đã đầy đủ chủ vị (không phải tỉnh lược diễn ngôn).
 
 ## 3. Phép thế (substitution)
 
-Không có pro-form thế (one/ones/do/so) — 0 hàng S. Đề mục "underlying" trong ngoặc kép (S023 EN) là nhắc lại tên gọi, không phải phép thế.
+Không có pro-form thế (one/ones/do/so) — 0 hàng S. Đề mục "underlying" trong ngoặc kép (S023 EN) là nhắc lại tên gọi, không phải phép thế. **Theo TNT (§31 + mapping §3):** phép thế đẳng nghĩa là liên kết TỪ VỰNG (L) — chuỗi "dự đoán/dự báo/forecasts/expectation" ở §6 xử lý toàn bộ bằng L, không có S; hai bản đều né pro-form thế (NTT 2020 §2.1: EN theo dõi bằng đại từ, VI lặp danh từ).
 
 ## 4. Phép quy chiếu (reference)
 
@@ -109,8 +131,16 @@ Không có pro-form thế (one/ones/do/so) — 0 hàng S. Đề mục "underlyin
 | R-VI21 | S049 | "Nó" | personal | S048: lạm phát cơ bản | A |
 | R-VI22 | S057 | "chúng tôi" | personal | RBA/Bullock (ngoại văn bản) | E |
 | R-VI23 | S057 | "bà" | personal | S056: Michele Bullock | A |
+| R-EN18 | S021 | "further" | comparative | S020: an interest rate cut at the February 17-18 policy meeting | A |
+| R-EN19 | S027 | "broader" | comparative | S026: a 'sustainable' decline in trimmed mean inflation | A |
+| R-VI24 | S017 | "thêm" | comparative | S016: cắt giảm lãi suất tại cuộc họp 17-18/2 | A |
+| R-VI25 | S022 | "rộng hơn" | comparative | S021: mức giảm 'bền vững' trong lạm phát trung bình | A |
+
+**[Phase-2] Quy chiếu so sánh (H&H §2.5):** 2 cặp đối xứng 1–1 — "two further rate cuts" (EN S021) ↔ "thêm hai lần nữa" (VI S017) so với lần cắt 17–18/2 đã nêu ở câu trước; "broader" (EN S027) ↔ "rộng hơn" (VI S022) so với mức giảm bền vững của trimmed mean câu trước — cả bốn đều hồi quy A. Đây là nhóm R khó thấy nhất vì không phải đại từ (H&H §2.5: identity/similarity/difference and quantity).
 
 ### 4.3 Đại từ/tín hiệu quy chiếu TRONG CÂU (không lập hàng)
+
+**[Phase-2] Ứng viên so sánh bị loại vì trong câu:** EN S021 "further declines" (lần 2 của further trong cùng câu — precedent "không đánh thêm"); VI S017 "nữa" ("hai lần nữa" — cùng cụm với "thêm" đã đánh, không đánh thêm); EN S032 "the most cautious" (tối ưu, tiền trạm trong câu); VI S037 "thận trọng nhất" như trên.
 
 EN: S023 "that one additional data point" (hư chỉ giả định); S026 "preferring to wait for that…" như trên; S047 "its decisions" (RBA trong câu); S049 "After increasing…" (money subject); S040 "they dropped" (fruit and vegetable prices trong câu); S011 "providing insight" (v.ngữ). VI: S009 "cung cấp thông tin chi tiết"; S020 "giữ nguyên theo quan điểm của chúng tôi" có hàng riêng cho "chúng tôi"; S021 "thích chờ thêm" (chủ ngữ lược vế — tỉnh lược ngữ pháp bắt buộc, không đánh); S028 "những yếu tố này" (trong câu); S030 "xét đến việc" (v.ngữ); S034 "dự đoán của bà" (Ellis trong câu); S042 "điều đó" (trong câu); S049 "bên dưới đó" (trong câu); S050 "nỗi đau đó" (trong câu); S051 "tình trạng đó" (trong câu); S053 "đây là yếu tố chính" (lạm phát trong câu); S053 "của họ" (RBA trong câu); S057 "chúng ta vẫn đang đi" (hư chỉ chung — VI tách "chúng tôi nghĩ rằng chúng ta…", chỉ "chúng tôi" được đánh).
 
@@ -126,6 +156,11 @@ EN: S023 "that one additional data point" (hư chỉ giả định); S026 "prefe
 | C-EN4 | S027 | "However" | adversative | "Nhưng" (VI có) |
 | C-EN5 | S030 | "But NAB disagrees" | adversative | "Nhưng NAB không đồng ý" (VI có) |
 | C-VI thêm | S025, S026, S030, S035, S048 | "Tuy nhiên"/"Nhưng" | adversative | trong khối VI tự sinh — EN không có |
+| C-EN6 | S022 | "also" | additive (H&H §5.4) | "cũng" (VI S018 có, 1–1) — [Phase-2] bổ sung nhận định thứ hai của Bassenese |
+| C-EN7 | S031 | "also" | additive | "cũng" (VI S036 có, 1–1) — [Phase-2] "The big four also have varying predictions" |
+| C-EN8 | S044 | "also" | additive | [Phase-2] liệt kê tăng của nhóm Recreation and culture — VI câu tương ứng bị cắt |
+
+**[Phase-2] Nhóm 11 (nối liên câu sót):** 3 cặp also/cũng đối xứng (S022/S018, S031/S036) + 1 EN-only trong khối cắt (S044); VI S026 "cũng" ("ông cũng cho biết") tự sinh trong khối VI-added. **Theo H&H §5:** nối là quan hệ nghĩa giữa câu — also/cũng bổ sung luận điểm/báo cáo thứ hai của cùng nguồn nói (internal additive); Meanwhile (S004) theo §5.7 là temporal (giữ nguyên, đúng precedent P29).
 
 **Trong câu (không lập hàng):** EN S009 "while housing and transport offset" (trong câu); S021 "not immediately but likely" (trong câu); S026 "preferring" (v.ngữ); S032 "while CBA and Westpac" (trong câu); S040 "While fruit and vegetable prices" (trong câu); S048 "and the RBA has been working" (trong câu). VI tương ứng "trong khi", "nhưng", "và" trong câu. Động từ dẫn nguồn (said/nói/cho biết/theo/according to) không đánh C.
 
@@ -150,7 +185,15 @@ Chuỗi chính:
 - **Úc:** EN Australia's (S012 → S048 → S049); VI Úc (S010 thủ phủ của Úc → S027 → S028 → S030 đồng đô la Úc → S039 Chính phủ Úc → S045 → S049 người Úc → S050).
 - **Tên riêng người:** EN Marquardt (S005 → S016), Bassenese (S018), Shivadekar (S024), Bullock (S050), (VI-added: Magnusson S023, McCormack S029, Joiner S031, Ellis S034, Chalmers S040 → S041 Ông Chalmers, Taylor S048 → S049 ông Taylor).
 
-Không lập hàng: số liệu phần trăm (3,2%, 0,2%, 4,35%…); mốc thời "tháng 2/February" (ngày họp tương lai — thuần thời gian); "12 tháng qua"; "2023/2024/2025"; "tháng 5/May"; các tiểu đề (S017/S028/S046 EN; S013/S032/S052 VI + tiểu đề lồng S034/S038/S039/S042/S046-en lồng) chỉ dùng làm tiền trạm, không gán nhãn trên tiểu đề; "chúng ta" hư chỉ chung (S024, S025, S042, S043, S050, S051 VI; S023-en không có); "coming down" (S051 EN — diễn đạt paraphrase của giảm, chỉ VI "đang giảm" có hàng).
+Không lập hàng: số liệu phần trăm (3,2%, 0,2%, 4,35%…); mốc thời "tháng 2/February" (ngày họp tương lai — thuần thời gian); "12 tháng qua"; "2023/2024/2025"; "tháng 5/May"; các tiểu đề (S017/S028/S046 EN; S013/S032/S052 VI + tiểu đề lồng S034/S038/S039/S042/S046-en lồng) chỉ dùng làm tiền trạm, không gán nhãn trên tiểu đề; "chúng ta" hư chỉ chung (S024, S025, S042, S043, S050, S051 VI; S023-en không có).
+
+**[Phase-2] Bổ sung chuỗi mới (H&H §6.2 reiteration; TNT §26 phép lặp, §30 phép đối, §31 thế đẳng nghĩa):**
+- **Chuỗi động từ giảm (mở rộng):** EN dropped (S001) → eased (S002, đồng nghĩa mới) → fell (S007 — đồng thời phép đối tăng↔giảm với rises S005, TNT §30) → falls/fall… → declines (S021) → reduce (S024) → lower (S047) → coming down (S051); VI giảm bền thêm 4 mắt xích (S019 sụt giảm, S043, S045 đang giảm, S054, S055, S057).
+- **Chuỗi rise/tăng:** EN rises (S005) → rise (S006, S008 — mắt xích trong khối cắt được S007 "These rises" truy hồi, nhóm 12) → quarterly (S005 → S021); VI tăng thêm S043, S053, S057 (khối tự sinh + dùng chung).
+- **Figures/dữ liệu:** EN data (S012) → the latest figures (S018) → S029; VI những con số mới nhất (S014) — đồng nghĩa figures ≈ data (H&H §6.2).
+- **Kỳ vọng/dự đoán:** EN expectation (S021 → S023) → expecting (S032) → predictions (S031) → forecast (S032); VI dự đoán (S033 tiểu đề → S036 → S038) → dự báo (S037) — danh hóa/đồng nghĩa hai đầu.
+- **Yếu tố:** EN an important factor (S022) → a key factor (S047) — đồng nghĩa important ↔ key; VI yếu tố quan trọng (S018) → yếu tố chính (S053) — đối xứng đẹp qua 2 lần dịch.
+- **Khác:** ANZ (S029 → S032 ↔ S033 → S037); convene (S049) ↔ họp (S055); Australia's/Australia (S048–S049) ↔ Úc (S054–S055); a reduction (S049) — lặp reduction chuỗi cắt giảm; quyết định (VI S046 → S053); lãi suất tiền mặt (VI S035 → S055); người nắm giữ thế chấp (S016 → S023); nền kinh tế (S015 → S024); chi phí (S007 → S008); kết quả (S016 → S029); giữ nguyên (S020 — đồng nghĩa "không giảm").
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
 
@@ -163,6 +206,10 @@ Không lập hàng: số liệu phần trăm (3,2%, 0,2%, 4,35%…); mốc thờ
 7. **Chuỗi "giảm" VI đậm hơn EN:** VI đánh "giảm" ở nhiều vị trí paraphrase EN ("coming down", "eased") không đánh.
 8. **VI S034 "Ngân hàng Dự trữ"** — biến thể tên so với "Ngân hàng trữ kim Úc" (S011) — hàng L med, ghi §8.
 9. **EN S034/S038/S042/S046 tiểu đề lồng câu** — "the dip in quarterly CPI" trong S034 dùng chuỗi từ S021; "Food prices" khởi tạo chuỗi trong chính câu bị cắt.
+10. **[Phase-2] R so sánh đối xứng 1–1:** further ↔ thêm (S021/S017), broader ↔ rộng hơn (S027/S022) — H&H §2.5; đúng dạng "EN quantified comparative ↔ VI từ hóa" (NTT 2020 §2.3: nghĩa ngữ pháp EN thường được VI hiện thực hóa bằng từ vựng — nhưng ở đây VI giữ cùng loại quan hệ).
+11. **[Phase-2] Lỗ tỉnh lược đối xứng hiếm:** the most ∅ (S033 EN) ↔ nhiều nhất ∅ (S038 VI) — cùng giữ lỗ danh từ liên câu (ngược quy luật "VI lấp đầy" của NTT 2020 §2.4).
+12. **[Phase-2] Phép đối tăng–giảm:** EN fell (S007) ↔ rises (S005) — TNT §30; VI đọc chuỗi giảm là lặp (giảm S006) — dịch chuyển antonym ↔ repetition.
+13. **[Phase-2] also/cũng 3 cặp 1–1** (S022/S018, S031/S036, S044 EN-only trong khối cắt) + VI tự sinh cũng (S026) — nhóm 11 H&H §5.4.
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -176,19 +223,21 @@ Không lập hàng: số liệu phần trăm (3,2%, 0,2%, 4,35%…); mốc thờ
 - VI S057 "chúng tôi nghĩ rằng chúng ta" — một "we" EN tách thành hai đại từ khác kiểu.
 - "Trump mới" (S028 VI) — cách diễn đạt dị của nguồn ("chính quyền Trump mới").
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Thể loại | EN (ST) | VI (TT) |
 |---|---|---|
-| R — quy chiếu | 17 (13 A + 4 E) | 23 (17 A + 6 E) |
+| R — quy chiếu | 19 (15 A + 4 E) | 25 (19 A + 6 E) |
 | S — phép thế | 0 | 0 |
-| E — tỉnh lược | 0 | 0 |
-| C — phép nối | 5 (1 temporal, 3 adversative, 1 causal) | 8 (1 temporal, 7 adversative) |
-| L — liên kết từ vựng | 133 | 142 |
-| **Tổng** | **155** | **173** |
+| E — tỉnh lược | 3 (1 [LC] + 2 [TC]) | 1 ([LC]) |
+| C — phép nối | 8 (1 temporal, 3 adversative, 1 causal, 3 additive) | 11 (1 temporal, 7 adversative, 3 additive) |
+| L — liên kết từ vựng | 153 | 167 |
+| **Tổng** | **183** | **204** |
 
-Chênh lệch VI − EN = +18, tái lập theo từng vùng:
-- Khối VI tự sinh (S023–S031: 29 hàng; S034: 4; S039–S051: 39) = 72 hàng VI-only.
-- Khối EN bị cắt (S006: 3; S008: 2; S015: 3; S016: 5; S023: 5; S034–S045: 42) = 60 hàng EN-only.
-- Vùng dùng chung: EN 95 hàng vs VI 101 hàng → VI +6 (các chuỗi "giảm/tăng" VI đánh ở vị trí EN paraphrase — "đang giảm" S057, "làm giảm" S007, "tiếp tục giảm" S017; VI tách hàng kép "lạm phát"+"trung bình được cắt giảm" S021, "thay đổi" S010, "cuộc họp" S035; EN bù "It" S003 và "raising" S054 là EN-only trong vùng dùng chung).
-Kiểm: −72 + 60 − 6 = −18 = 155 − 173 ✓
+**[Phase-2] +59 hàng (EN 28 / VI 31):** EN +2 R comparative (further, broader — H&H §2.5) + 3 E (lỗ tỉnh lược big four/beer — H&H §4) + 3 C additive (also — H&H §5.4) + 20 L (chuỗi giảm/rise/figures/expectation/yếu tố…); VI +2 R comparative (thêm, rộng hơn — đối xứng 1–1) + 1 E (nhiều nhất ∅) + 3 C additive (cũng) + 25 L (quý/giảm/decisions/cắt giảm…).
+
+Chênh lệch VI − EN = +21, tái lập theo từng vùng:
+- Khối VI tự sinh (S023–S031, S034, S039–S051): 83 hàng VI-only (75 cũ + 8 Phase-2).
+- Khối EN bị cắt (S006, S008, S015–S016, S023, S034–S045): 65 hàng EN-only (60 cũ + 5 Phase-2: rise ×2 khối S006/S008, also S044, E S043, cùng 2 mắt xích khác).
+- Vùng dùng chung: EN 118 hàng vs VI 121 hàng → VI +3 (2 cặp R comparative + E-VI1 đối xứng E-EN2; các mắt xích L mới phần lớn 1–1).
+Kiểm: −83 + 65 − 3 = −21 = 183 − 204 ✓
