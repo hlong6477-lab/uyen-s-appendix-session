@@ -75,6 +75,34 @@
   },
   {
    "id": "P30-EN-006",
+   "sent": "S006",
+   "text": "confidence",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: a lot of uncertainty about the future",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối: increase confidence đối lập uncertainty về tương lai; TNT §30, H&H §6.4 opposites"
+  },
+  {
+   "id": "P30-EN-007",
+   "sent": "S006",
+   "text": "the years ahead",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: uncertainty about the future",
+   "conf": "high",
+   "alt": null,
+   "note": "đồng nghĩa the years ahead ≈ the future"
+  },
+  {
+   "id": "P30-EN-008",
    "sent": "S007",
    "text": "we can",
    "occ": 1,
@@ -89,7 +117,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-007",
+   "id": "P30-EN-009",
    "sent": "S007",
    "text": "McCrindle said",
    "occ": 1,
@@ -103,7 +131,7 @@
    "note": "VI S007 bỏ attribution — chỉ EN có hàng"
   },
   {
-   "id": "P30-EN-008",
+   "id": "P30-EN-010",
    "sent": "S009",
    "text": "McCrindle said",
    "occ": 1,
@@ -117,7 +145,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-009",
+   "id": "P30-EN-011",
    "sent": "S010",
    "text": "workforce participation",
    "occ": 1,
@@ -131,7 +159,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-010",
+   "id": "P30-EN-012",
    "sent": "S011",
    "text": "not more work",
    "occ": 1,
@@ -145,7 +173,7 @@
    "note": "'they're' trong câu chỉ People, không đánh"
   },
   {
-   "id": "P30-EN-011",
+   "id": "P30-EN-013",
    "sent": "S012",
    "text": "They're",
    "occ": 1,
@@ -160,7 +188,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-012",
+   "id": "P30-EN-014",
    "sent": "S012",
    "text": "a workplace",
    "occ": 1,
@@ -174,7 +202,7 @@
    "note": "spend longer and longer in a workplace"
   },
   {
-   "id": "P30-EN-013",
+   "id": "P30-EN-015",
    "sent": "S013",
    "text": "McCrindle",
    "occ": 1,
@@ -182,13 +210,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S010: McCrindle — S009",
+   "ante": "S009: McCrindle said",
    "conf": "high",
    "alt": null,
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P30-EN-014",
+   "id": "P30-EN-016",
    "sent": "S013",
    "text": "the emergence of more AI technologies",
    "occ": 1,
@@ -202,7 +230,7 @@
    "note": "lặp 'emergence' + AI; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-015",
+   "id": "P30-EN-017",
    "sent": "S013",
    "text": "this pursuit",
    "occ": 1,
@@ -217,7 +245,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-016",
+   "id": "P30-EN-018",
    "sent": "S014",
    "text": "McCrindle Research",
    "occ": 1,
@@ -231,7 +259,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-017",
+   "id": "P30-EN-019",
    "sent": "S014",
    "text": "AI",
    "occ": 1,
@@ -245,7 +273,7 @@
    "note": "uses AI to assist with their tasks at work"
   },
   {
-   "id": "P30-EN-018",
+   "id": "P30-EN-020",
    "sent": "S014",
    "text": "tasks at work",
    "occ": 1,
@@ -259,7 +287,21 @@
    "note": "'workers' lần 1 trong câu cùng chuỗi work, không đánh"
   },
   {
-   "id": "P30-EN-019",
+   "id": "P30-EN-021",
+   "sent": "S014",
+   "text": "assist",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: starting to help with this pursuit",
+   "conf": "med",
+   "alt": null,
+   "note": "assist ≈ help; chuỗi AI hỗ trợ con người (uses AI to assist with their tasks)"
+  },
+  {
+   "id": "P30-EN-022",
    "sent": "S015",
    "text": "that has emerged",
    "occ": 1,
@@ -274,7 +316,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-020",
+   "id": "P30-EN-023",
    "sent": "S015",
    "text": "young workers",
    "occ": 1,
@@ -288,7 +330,7 @@
    "note": "occ 1: lần 2 ('knowledge economy workers') trong câu không đánh"
   },
   {
-   "id": "P30-EN-021",
+   "id": "P30-EN-024",
    "sent": "S015",
    "text": "he said",
    "occ": 1,
@@ -303,7 +345,21 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-022",
+   "id": "P30-EN-025",
+   "sent": "S015",
+   "text": "assist",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: uses AI to assist with their tasks",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp assist (assist with productivity)"
+  },
+  {
+   "id": "P30-EN-026",
    "sent": "S016",
    "text": "McCrindle said",
    "occ": 1,
@@ -317,7 +373,36 @@
    "note": null
   },
   {
-   "id": "P30-EN-023",
+   "id": "P30-EN-027",
+   "sent": "S016",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013–S015: AI technologies / uses AI to assist with tasks",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = ngoài các ứng dụng AI đã nêu; H&H §2.5; VI S015 'khác' giữ 1-1",
+   "ref": "A"
+  },
+  {
+   "id": "P30-EN-028",
+   "sent": "S016",
+   "text": "helped",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: where it can assist with productivity",
+   "conf": "high",
+   "alt": null,
+   "note": "helped ≈ assist; helped people add more time"
+  },
+  {
+   "id": "P30-EN-029",
    "sent": "S017",
    "text": "productivity",
    "occ": 1,
@@ -331,7 +416,7 @@
    "note": "occ 1: 'more productivity' lần 2 trong câu cùng chuỗi, không đánh; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-024",
+   "id": "P30-EN-030",
    "sent": "S017",
    "text": "we",
    "occ": 1,
@@ -346,7 +431,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-025",
+   "id": "P30-EN-031",
    "sent": "S017",
    "text": "work longer",
    "occ": 1,
@@ -360,7 +445,7 @@
    "note": "we don't want to work longer and harder; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-026",
+   "id": "P30-EN-032",
    "sent": "S018",
    "text": "technology",
    "occ": 1,
@@ -374,7 +459,7 @@
    "note": "through technology and innovation; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-027",
+   "id": "P30-EN-033",
    "sent": "S018",
    "text": "we're",
    "occ": 1,
@@ -389,7 +474,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-028",
+   "id": "P30-EN-034",
    "sent": "S018",
    "text": "McCrindle said",
    "occ": 1,
@@ -403,7 +488,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P30-EN-029",
+   "id": "P30-EN-035",
    "sent": "S019",
    "text": "He said",
    "occ": 1,
@@ -418,7 +503,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-030",
+   "id": "P30-EN-036",
    "sent": "S019",
    "text": "technology",
    "occ": 1,
@@ -432,7 +517,7 @@
    "note": "technology and the pandemic"
   },
   {
-   "id": "P30-EN-031",
+   "id": "P30-EN-037",
    "sent": "S019",
    "text": "the pandemic",
    "occ": 1,
@@ -446,7 +531,7 @@
    "note": "the pandemic ≈ COVID-19 pandemic"
   },
   {
-   "id": "P30-EN-032",
+   "id": "P30-EN-038",
    "sent": "S019",
    "text": "workplaces",
    "occ": 1,
@@ -460,7 +545,7 @@
    "note": "the structure of workplaces"
   },
   {
-   "id": "P30-EN-033",
+   "id": "P30-EN-039",
    "sent": "S019",
    "text": "dramatic changes",
    "occ": 1,
@@ -474,7 +559,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-034",
+   "id": "P30-EN-040",
    "sent": "S019",
    "text": "workers",
    "occ": 1,
@@ -488,7 +573,21 @@
    "note": "to benefit workers"
   },
   {
-   "id": "P30-EN-035",
+   "id": "P30-EN-041",
+   "sent": "S019",
+   "text": "benefit",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: have all helped people",
+   "conf": "med",
+   "alt": null,
+   "note": "benefit ≈ help; to benefit workers"
+  },
+  {
+   "id": "P30-EN-042",
    "sent": "S020",
    "text": "We've",
    "occ": 1,
@@ -503,7 +602,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-036",
+   "id": "P30-EN-043",
    "sent": "S020",
    "text": "work from home",
    "occ": 1,
@@ -517,7 +616,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-037",
+   "id": "P30-EN-044",
    "sent": "S023",
    "text": "polling",
    "occ": 1,
@@ -531,7 +630,7 @@
    "note": "Global polling from IPSOS"
   },
   {
-   "id": "P30-EN-038",
+   "id": "P30-EN-045",
    "sent": "S023",
    "text": "IPSOS",
    "occ": 1,
@@ -545,7 +644,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-039",
+   "id": "P30-EN-046",
    "sent": "S023",
    "text": "climate change",
    "occ": 1,
@@ -559,7 +658,7 @@
    "note": "mitigate the effects of climate change"
   },
   {
-   "id": "P30-EN-040",
+   "id": "P30-EN-047",
    "sent": "S023",
    "text": "rapid climate action",
    "occ": 1,
@@ -573,7 +672,7 @@
    "note": "without rapid climate action; VI tách hàng 'hành động vì khí hậu' tương ứng"
   },
   {
-   "id": "P30-EN-041",
+   "id": "P30-EN-048",
    "sent": "S024",
    "text": "environmental disaster",
    "occ": 1,
@@ -587,7 +686,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-042",
+   "id": "P30-EN-049",
    "sent": "S024",
    "text": "rapid climate action",
    "occ": 1,
@@ -601,7 +700,21 @@
    "note": null
   },
   {
-   "id": "P30-EN-043",
+   "id": "P30-EN-050",
+   "sent": "S024",
+   "text": "agree",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: broad agreement ... 80 per cent agreeing",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp động từ agree (agreeing) — kết quả thăm dò IPSOS thứ hai"
+  },
+  {
+   "id": "P30-EN-051",
    "sent": "S025",
    "text": "inequality",
    "occ": 1,
@@ -615,7 +728,7 @@
    "note": "health and wealth inequality; 'it also found' trong câu không đánh; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-044",
+   "id": "P30-EN-052",
    "sent": "S025",
    "text": "climate change",
    "occ": 1,
@@ -629,7 +742,21 @@
    "note": "the effects of climate change; 'climate resilience' lần 2 trong câu cùng trường, không đánh; khối cắt"
   },
   {
-   "id": "P30-EN-045",
+   "id": "P30-EN-053",
+   "sent": "S025",
+   "text": "the report",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: Global polling from IPSOS published in September",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát tóm kết quả thăm dò (polling → the report); khối cắt, VI none"
+  },
+  {
+   "id": "P30-EN-054",
    "sent": "S026",
    "text": "IPSOS",
    "occ": 1,
@@ -643,7 +770,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-046",
+   "id": "P30-EN-055",
    "sent": "S026",
    "text": "climate and the environment",
    "occ": 1,
@@ -657,7 +784,7 @@
    "note": "trường 'climate'"
   },
   {
-   "id": "P30-EN-047",
+   "id": "P30-EN-056",
    "sent": "S026",
    "text": "strongest shifts",
    "occ": 1,
@@ -671,7 +798,7 @@
    "note": "shift ≈ change trong trường thay đổi"
   },
   {
-   "id": "P30-EN-048",
+   "id": "P30-EN-057",
    "sent": "S026",
    "text": "global trends",
    "occ": 1,
@@ -685,7 +812,7 @@
    "note": "'its' trong câu chỉ IPSOS, không đánh"
   },
   {
-   "id": "P30-EN-049",
+   "id": "P30-EN-058",
    "sent": "S027",
    "text": "climate change",
    "occ": 1,
@@ -699,7 +826,7 @@
    "note": "whether climate change is really happening"
   },
   {
-   "id": "P30-EN-050",
+   "id": "P30-EN-059",
    "sent": "S027",
    "text": "we meet",
    "occ": 1,
@@ -714,7 +841,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-051",
+   "id": "P30-EN-060",
    "sent": "S028",
    "text": "a significant shift",
    "occ": 1,
@@ -725,10 +852,10 @@
    "ante": "S026: strongest shifts",
    "conf": "high",
    "alt": null,
-   "note": "khối cắt, VI none"
+   "note": "có bản dịch TT S024 (một sự thay đổi đáng kể) — sửa bản đồ Phase-2"
   },
   {
-   "id": "P30-EN-052",
+   "id": "P30-EN-061",
    "sent": "S028",
    "text": "environmental disaster",
    "occ": 1,
@@ -739,10 +866,10 @@
    "ante": "S024: environmental disaster",
    "conf": "high",
    "alt": null,
-   "note": "headed for (≈ heading for); khối cắt"
+   "note": "headed for (≈ heading for); có bản dịch TT S024 (thảm họa môi trường)"
   },
   {
-   "id": "P30-EN-053",
+   "id": "P30-EN-062",
    "sent": "S028",
    "text": "we change habits",
    "occ": 1,
@@ -753,11 +880,25 @@
    "ante": "cộng đồng (ngoại văn bản)",
    "conf": "med",
    "alt": null,
-   "note": "khối cắt, VI none",
+   "note": "có bản dịch TT S024 (chúng ta nhanh chóng thay đổi thói quen) — giữ pro-form 1-1",
    "ref": "E"
   },
   {
-   "id": "P30-EN-054",
+   "id": "P30-EN-063",
+   "sent": "S028",
+   "text": "an agreement",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: 77 per cent of people agree",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp danh từ agreement (danh hóa của agree); có bản dịch TT S024 (thỏa thuận)"
+  },
+  {
+   "id": "P30-EN-064",
    "sent": "S029",
    "text": "IPSOS",
    "occ": 1,
@@ -771,7 +912,7 @@
    "note": "a director at IPSOS — phần 'not just Nordic countries' bị VI cắt"
   },
   {
-   "id": "P30-EN-055",
+   "id": "P30-EN-065",
    "sent": "S029",
    "text": "tackling climate change",
    "occ": 1,
@@ -785,7 +926,21 @@
    "note": "'it's not just' là cleft-it, không đánh; phần này bị VI cắt"
   },
   {
-   "id": "P30-EN-056",
+   "id": "P30-EN-066",
+   "sent": "S029",
+   "text": "SBS News",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: Mark McCrindle told SBS News",
+   "conf": "high",
+   "alt": null,
+   "note": "tên riêng lặp (told SBS News)"
+  },
+  {
+   "id": "P30-EN-067",
    "sent": "S030",
    "text": "Hyde",
    "occ": 1,
@@ -799,7 +954,7 @@
    "note": "Hyde said; 'It's all around the world' cleft-it; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-057",
+   "id": "P30-EN-068",
    "sent": "S031",
    "text": "we all",
    "occ": 1,
@@ -814,7 +969,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-058",
+   "id": "P30-EN-069",
    "sent": "S031",
    "text": "change our daily lives",
    "occ": 1,
@@ -828,7 +983,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-059",
+   "id": "P30-EN-070",
    "sent": "S031",
    "text": "do the same",
    "occ": 1,
@@ -842,7 +997,7 @@
    "note": "[TC] pro-form thế động từ; VI giữ 'làm như vậy' 1–1"
   },
   {
-   "id": "P30-EN-060",
+   "id": "P30-EN-071",
    "sent": "S031",
    "text": "climate change",
    "occ": 1,
@@ -856,7 +1011,7 @@
    "note": "if climate change is an issue"
   },
   {
-   "id": "P30-EN-061",
+   "id": "P30-EN-072",
    "sent": "S033",
    "text": "McCrindle said",
    "occ": 1,
@@ -870,7 +1025,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-062",
+   "id": "P30-EN-073",
    "sent": "S033",
    "text": "dramatic changes",
    "occ": 1,
@@ -884,7 +1039,7 @@
    "note": "to social media usage — 'social media' lần đầu không đánh"
   },
   {
-   "id": "P30-EN-063",
+   "id": "P30-EN-074",
    "sent": "S033",
    "text": "positive trend",
    "occ": 1,
@@ -898,7 +1053,22 @@
    "note": "another positive trend"
   },
   {
-   "id": "P30-EN-064",
+   "id": "P30-EN-075",
+   "sent": "S033",
+   "text": "another",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: some positive trends (S026: global trends)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: another = thêm một so với chuỗi xu hướng tích cực đã nêu; H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P30-EN-076",
    "sent": "S034",
    "text": "McCrindle Research",
    "occ": 1,
@@ -912,7 +1082,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-065",
+   "id": "P30-EN-077",
    "sent": "S034",
    "text": "trends report",
    "occ": 1,
@@ -926,7 +1096,7 @@
    "note": "2025 trends report"
   },
   {
-   "id": "P30-EN-066",
+   "id": "P30-EN-078",
    "sent": "S034",
    "text": "social media",
    "occ": 1,
@@ -940,7 +1110,7 @@
    "note": "occ 1: lần 2 ('reduce social media usage') trong câu không đánh"
   },
   {
-   "id": "P30-EN-067",
+   "id": "P30-EN-079",
    "sent": "S035",
    "text": "He said",
    "occ": 1,
@@ -955,7 +1125,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-068",
+   "id": "P30-EN-080",
    "sent": "S035",
    "text": "social media",
    "occ": 1,
@@ -969,7 +1139,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-069",
+   "id": "P30-EN-081",
    "sent": "S036",
    "text": "social media platforms",
    "occ": 1,
@@ -983,7 +1153,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-070",
+   "id": "P30-EN-082",
    "sent": "S037",
    "text": "The law",
    "occ": 1,
@@ -998,7 +1168,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-071",
+   "id": "P30-EN-083",
    "sent": "S037",
    "text": "changes",
    "occ": 1,
@@ -1012,7 +1182,7 @@
    "note": "proposed legislations and changes; 'big tech' lần đầu không đánh"
   },
   {
-   "id": "P30-EN-072",
+   "id": "P30-EN-084",
    "sent": "S037",
    "text": "misinformation",
    "occ": 1,
@@ -1026,7 +1196,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-073",
+   "id": "P30-EN-085",
    "sent": "S037",
    "text": "AI",
    "occ": 1,
@@ -1040,7 +1210,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-074",
+   "id": "P30-EN-086",
    "sent": "S038",
    "text": "McCrindle said",
    "occ": 1,
@@ -1054,7 +1224,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P30-EN-075",
+   "id": "P30-EN-087",
    "sent": "S038",
    "text": "social media",
    "occ": 1,
@@ -1068,7 +1238,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P30-EN-076",
+   "id": "P30-EN-088",
    "sent": "S038",
    "text": "the research",
    "occ": 1,
@@ -1082,7 +1252,7 @@
    "note": "hình vị research; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-077",
+   "id": "P30-EN-089",
    "sent": "S038",
    "text": "a shift",
    "occ": 1,
@@ -1096,7 +1266,7 @@
    "note": "shift in public opinion; khối cắt"
   },
   {
-   "id": "P30-EN-078",
+   "id": "P30-EN-090",
    "sent": "S039",
    "text": "we talk",
    "occ": 1,
@@ -1111,7 +1281,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-079",
+   "id": "P30-EN-091",
    "sent": "S039",
    "text": "big tech",
    "occ": 1,
@@ -1125,22 +1295,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P30-EN-080",
-   "sent": "S039",
-   "text": "the same way",
-   "occ": 1,
-   "cat": "R",
-   "sub": "comparative",
-   "dir": "ana",
-   "level": "LC",
-   "ante": "so sánh với diễn ngôn xã hội về big tobacco (ngoại văn bản)",
-   "conf": "high",
-   "alt": null,
-   "note": "'the same' = quy chiếu so sánh; 'they're predatory…they are toxic' trong câu không đánh; khối cắt",
-   "ref": "E"
-  },
-  {
-   "id": "P30-EN-081",
+   "id": "P30-EN-092",
    "sent": "S039",
    "text": "misinformation",
    "occ": 1,
@@ -1154,7 +1309,7 @@
    "note": "disseminating misinformation; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-082",
+   "id": "P30-EN-093",
    "sent": "S040",
    "text": "we are getting",
    "occ": 1,
@@ -1169,7 +1324,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-083",
+   "id": "P30-EN-094",
    "sent": "S040",
    "text": "McCrindle said",
    "occ": 1,
@@ -1183,7 +1338,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P30-EN-084",
+   "id": "P30-EN-095",
    "sent": "S043",
    "text": "ABS",
    "occ": 1,
@@ -1197,7 +1352,21 @@
    "note": "2021 ABS data"
   },
   {
-   "id": "P30-EN-085",
+   "id": "P30-EN-096",
+   "sent": "S043",
+   "text": "postgraduate degrees",
+   "occ": 1,
+   "cat": "L",
+   "sub": "superordinate",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S042: formal and post-school education",
+   "conf": "high",
+   "alt": null,
+   "note": "sau phổ thông hiện thực hóa thành bằng sau đại học (post-school → postgraduate); mắt xích chuỗi giáo dục S042→S043→S044"
+  },
+  {
+   "id": "P30-EN-097",
    "sent": "S044",
    "text": "McCrindle said",
    "occ": 1,
@@ -1211,7 +1380,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-086",
+   "id": "P30-EN-098",
    "sent": "S044",
    "text": "these trends",
    "occ": 1,
@@ -1226,7 +1395,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-087",
+   "id": "P30-EN-099",
    "sent": "S044",
    "text": "education",
    "occ": 1,
@@ -1240,7 +1409,7 @@
    "note": "these trends in education — VI gộp trong hàng R, chỉ EN có hàng riêng"
   },
   {
-   "id": "P30-EN-088",
+   "id": "P30-EN-100",
    "sent": "S045",
    "text": "We know",
    "occ": 1,
@@ -1255,7 +1424,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-089",
+   "id": "P30-EN-101",
    "sent": "S045",
    "text": "education",
    "occ": 1,
@@ -1269,7 +1438,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-090",
+   "id": "P30-EN-102",
    "sent": "S046",
    "text": "the education",
    "occ": 1,
@@ -1283,7 +1452,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-091",
+   "id": "P30-EN-103",
    "sent": "S046",
    "text": "he",
    "occ": 3,
@@ -1298,7 +1467,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-EN-092",
+   "id": "P30-EN-104",
    "sent": "S047",
    "text": "We've",
    "occ": 1,
@@ -1313,7 +1482,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-093",
+   "id": "P30-EN-105",
    "sent": "S047",
    "text": "education",
    "occ": 1,
@@ -1327,7 +1496,7 @@
    "note": "a generation that has size, education, technology"
   },
   {
-   "id": "P30-EN-094",
+   "id": "P30-EN-106",
    "sent": "S047",
    "text": "technology",
    "occ": 1,
@@ -1341,7 +1510,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-095",
+   "id": "P30-EN-107",
    "sent": "S049",
    "text": "IPSOS",
    "occ": 1,
@@ -1355,7 +1524,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-096",
+   "id": "P30-EN-108",
    "sent": "S049",
    "text": "polling",
    "occ": 1,
@@ -1369,7 +1538,49 @@
    "note": null
   },
   {
-   "id": "P30-EN-097",
+   "id": "P30-EN-109",
+   "sent": "S049",
+   "text": "health decisions",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S048 (tiểu đề): Evolving significance of mental health",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị health từ tiểu đề S048 (tiểu đề raw, không đánh dấu trên chữ)"
+  },
+  {
+   "id": "P30-EN-110",
+   "sent": "S050",
+   "text": "also",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S049: more people are becoming aware of health decisions",
+   "conf": "high",
+   "alt": null,
+   "note": "bổ sung kết quả thăm dò IPSOS thứ hai (importance on mental wellbeing); khối cắt, VI none"
+  },
+  {
+   "id": "P30-EN-111",
+   "sent": "S050",
+   "text": "mental wellbeing",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S049: health choices — tiểu đề S048: mental health",
+   "conf": "med",
+   "alt": null,
+   "note": "đồng nghĩa mental health (tiểu đề) → mental wellbeing; khối cắt, VI none"
+  },
+  {
+   "id": "P30-EN-112",
    "sent": "S051",
    "text": "Hyde",
    "occ": 1,
@@ -1383,7 +1594,7 @@
    "note": "Hyde said; khối cắt, VI none"
   },
   {
-   "id": "P30-EN-098",
+   "id": "P30-EN-113",
    "sent": "S051",
    "text": "mental wellbeing",
    "occ": 1,
@@ -1397,7 +1608,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P30-EN-099",
+   "id": "P30-EN-114",
    "sent": "S052",
    "text": "IPSOS",
    "occ": 1,
@@ -1411,7 +1622,7 @@
    "note": "'they need' trong câu chỉ Australians, không đánh"
   },
   {
-   "id": "P30-EN-100",
+   "id": "P30-EN-115",
    "sent": "S052",
    "text": "mental wellbeing",
    "occ": 1,
@@ -1425,7 +1636,7 @@
    "note": "care for their mental wellbeing"
   },
   {
-   "id": "P30-EN-101",
+   "id": "P30-EN-116",
    "sent": "S053",
    "text": "In addition to this",
    "occ": 1,
@@ -1439,7 +1650,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-102",
+   "id": "P30-EN-117",
    "sent": "S053",
    "text": "Australians",
    "occ": 1,
@@ -1453,7 +1664,7 @@
    "note": null
   },
   {
-   "id": "P30-EN-103",
+   "id": "P30-EN-118",
    "sent": "S053",
    "text": "mental health",
    "occ": 1,
@@ -1467,7 +1678,7 @@
    "note": "their mental health will be better"
   },
   {
-   "id": "P30-EN-104",
+   "id": "P30-EN-119",
    "sent": "S054",
    "text": "we've seen",
    "occ": 1,
@@ -1482,7 +1693,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-105",
+   "id": "P30-EN-120",
    "sent": "S054",
    "text": "mental health",
    "occ": 1,
@@ -1496,22 +1707,7 @@
    "note": "importance…on their mental health"
   },
   {
-   "id": "P30-EN-106",
-   "sent": "S054",
-   "text": "the same level",
-   "occ": 1,
-   "cat": "R",
-   "sub": "comparative",
-   "dir": "ana",
-   "level": "LC",
-   "ante": "S052: mental wellbeing",
-   "conf": "high",
-   "alt": null,
-   "note": "so sánh mức quan tâm sức khỏe tâm thần ↔ thể chất; VI 'cùng mức' đối xứng",
-   "ref": "A"
-  },
-  {
-   "id": "P30-EN-107",
+   "id": "P30-EN-121",
    "sent": "S054",
    "text": "Hyde said",
    "occ": 1,
@@ -1525,7 +1721,7 @@
    "note": "VI thêm 'giám đốc IPSOS' vào attribution → hàng IPSOS VI-only"
   },
   {
-   "id": "P30-EN-108",
+   "id": "P30-EN-122",
    "sent": "S054",
    "text": "physical health",
    "occ": 1,
@@ -1539,7 +1735,7 @@
    "note": "lặp 'health'; chuỗi sức khỏe"
   },
   {
-   "id": "P30-EN-109",
+   "id": "P30-EN-123",
    "sent": "S055",
    "text": "of us",
    "occ": 1,
@@ -1554,7 +1750,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-EN-110",
+   "id": "P30-EN-124",
    "sent": "S055",
    "text": "mental wellbeing",
    "occ": 1,

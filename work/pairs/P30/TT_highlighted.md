@@ -11,7 +11,7 @@ Vào tháng 1, Diễn đàn Kinh tế Thế giới đã xếp hạng 🟪⟦thô
 Theo cuộc thăm dò của công ty nghiên cứu thị trường IPSOS, trên toàn cầu, 65% người dân đồng ý rằng năm 2024 là một năm tồi tệ đối với đất nước họ.
 Bất chấp 🟨⟦những xu hướng đáng lo ngại này⟧, các nhà nghiên cứu cho biết có một số xu hướng tích cực có khả năng sẽ tiếp tục đến năm 2025 và sau đó.
 Nhà nghiên cứu xã hội và nhà tương lai học Mark McCrindle nói với SBS News rằng mọi người có rất nhiều điều không chắc chắn về tương lai và cũng đang trải qua "sự mệt mỏi vì thay đổi", sau khi trải qua rất nhiều thay đổi lớn trên toàn cầu gần đây, bao gồm đại dịch COVID-19, cuộc khủng hoảng chi phí sinh hoạt và sự xuất hiện của trí tuệ nhân tạo (AI).
-🟧⟦Tuy nhiên⟧, 🟪⟦McCrindle⟧ cho biết mọi người vẫn có thể thích nghi và tăng sự tự tin của mình về những năm tới.
+🟧⟦Tuy nhiên⟧, 🟪⟦McCrindle⟧ cho biết mọi người vẫn có thể thích nghi và tăng sự 🟪⟦tự tin⟧ của mình về 🟪⟦những năm tới⟧.
 "Vẫn còn nhiều thách thức ở phía trước, nhưng 🟨⟦chúng ta⟧ có thể chủ động ứng phó và đối mặt với tương lai với một mức độ đổi mới".
 Sự xuất hiện của AI đang chuyển đổi công việc và hạnh phúc
 🟪⟦McCrindle⟧ cho biết trong khi tỷ lệ tham gia lực lượng lao động đang ở mức cao nhất mọi thời đại, nhiều người đang đánh giá lại vai trò của công việc trong cuộc sống của họ và ngày càng tìm cách cải thiện chất lượng cuộc sống.
@@ -19,36 +19,36 @@ Theo Cục Thống kê Úc (ABS), vào tháng 7 năm nay, 🟪⟦tỷ lệ tham 
 "Mọi người đã cảm thấy sự căng thẳng, họ đang tìm kiếm sự cân bằng giữa 🟪⟦công việc⟧ và cuộc sống, chứ không phải là 🟪⟦làm thêm việc⟧. 🟨⟦Họ đang⟧ tìm cách quản lý sức khỏe của mình, chứ không chỉ dành ngày càng nhiều thời gian ở 🟪⟦nơi làm việc⟧.”
 
 🟪⟦McCrindle Research⟧ phát hiện ra rằng cứ năm người lao động ở độ tuổi 20 thì có một người sử dụng 🟪⟦AI⟧ để hỗ trợ các nhiệm vụ tại 🟪⟦nơi làm việc⟧ của họ ít nhất là hàng ngày.
-"Chỉ trong vòng hai năm, 🟪⟦AI⟧ đã trở nên phổ biến đối với những 🟪⟦người lao động⟧ trẻ, những người làm việc trong nền kinh tế tri thức và là một ví dụ về nơi mà công nghệ có thể hỗ trợ năng suất,” 🟨⟦ông cho biết⟧.
-🟪⟦McCrindle⟧ cho biết các ứng dụng 🟪⟦công nghệ⟧ khác, chẳng hạn như đặt hàng tạp hóa trực tuyến, lập trình trước các thiết bị gia dụng hoặc sử dụng ứng dụng để sắp xếp lịch trình, đều giúp mọi người có thêm thời gian trong ngày.
+"Chỉ trong vòng hai năm, 🟪⟦AI⟧ đã trở nên phổ biến đối với những 🟪⟦người lao động⟧ trẻ, những người làm việc trong nền kinh tế tri thức và là một ví dụ về nơi mà công nghệ có thể 🟪⟦hỗ trợ⟧ năng suất,” 🟨⟦ông cho biết⟧.
+🟪⟦McCrindle⟧ cho biết các ứng dụng 🟪⟦công nghệ⟧ 🟨⟦khác⟧, chẳng hạn như đặt hàng tạp hóa trực tuyến, lập trình trước các thiết bị gia dụng hoặc sử dụng ứng dụng để sắp xếp lịch trình, đều 🟪⟦giúp⟧ mọi người có thêm thời gian trong ngày.
 
-🟨⟦Ông cho biết⟧ 🟪⟦công nghệ⟧ và 🟪⟦đại dịch⟧ đã thúc đẩy những 🟪⟦thay đổi⟧ mạnh mẽ đối với cấu trúc 🟪⟦nơi làm việc⟧ để mang lại lợi ích cho 🟪⟦người lao động⟧ trong những năm gần đây, chẳng hạn như tăng tính linh hoạt và sắp xếp làm việc tại nhà.
+🟨⟦Ông cho biết⟧ 🟪⟦công nghệ⟧ và 🟪⟦đại dịch⟧ đã thúc đẩy những 🟪⟦thay đổi⟧ mạnh mẽ đối với cấu trúc 🟪⟦nơi làm việc⟧ để mang lại 🟪⟦lợi ích⟧ cho 🟪⟦người lao động⟧ trong những năm gần đây, chẳng hạn như tăng tính linh hoạt và sắp xếp làm việc tại nhà.
 "🟨⟦Chúng ta⟧ có nhiều tự do hơn trong tuần để 🟪⟦làm việc tại nhà⟧ hoặc bất cứ nơi nào vào một số ngày đó, và điều đó không chỉ 🟪⟦thay đổi⟧ nơi chúng ta làm việc mà còn thay đổi thời gian làm việc. 🟪⟦Giờ làm việc⟧ đã trở nên linh hoạt hơn để phù hợp với nhu cầu và trách nhiệm của từng gia đình hoặc cá nhân.”
 Sự đồng thuận toàn cầu ngày càng tăng về nhu cầu hành động vì khí hậu
 Cuộc 🟪⟦thăm dò⟧ toàn cầu của 🟪⟦IPSOS⟧ được công bố vào tháng 9 cho thấy sự đồng thuận rộng rãi rằng cần phải làm nhiều hơn nữa để giảm thiểu tác động của 🟪⟦biến đổi khí hậu⟧, với 80% đồng ý rằng thế giới đang hướng tới thảm họa môi trường nếu không có 🟪⟦hành động nhanh chóng vì khí hậu⟧.
-Tại Úc, 77% người dân đồng ý rằng thế giới đang hướng đến 🟪⟦thảm họa môi trường⟧ nếu không có hành động ứng phó nhanh chóng với 🟪⟦biến đổi khí hậu⟧.
+Tại Úc, 77% người dân 🟪⟦đồng ý⟧ rằng thế giới đang hướng đến 🟪⟦thảm họa môi trường⟧ nếu không có hành động ứng phó nhanh chóng với 🟪⟦biến đổi khí hậu⟧.
 
 🟪⟦IPSOS⟧ cho biết thái độ đối với 🟪⟦khí hậu⟧ và môi trường là một trong những 🟪⟦thay đổi mạnh mẽ nhất⟧ được ghi nhận trong báo cáo kéo dài một thập kỷ về 🟪⟦các xu hướng toàn cầu⟧ của tổ chức này.
 "Trong khoảng thời gian từ năm 2014 đến năm 2024, thế giới đã chuyển từ việc đặt câu hỏi liệu 🟪⟦biến đổi khí hậu⟧ có thực sự xảy ra hay không sang tranh luận về cách tốt nhất để 🟨⟦chúng ta đạt được⟧ mục tiêu toàn cầu ràng buộc của mình ets cho lượng khí thải carbon.”
-Đức, Anh và Hoa Kỳ đều đã trải qua một sự thay đổi đáng kể kể từ năm 2023 theo hướng thỏa thuận rằng thế giới đang hướng đến thảm họa môi trường trừ khi chúng ta nhanh chóng thay đổi thói quen.
-Brad Hyde, giám đốc 🟪⟦IPSOS⟧, nói với SBS News "Câu hỏi thực sự là 🟨⟦chúng ta có thể⟧ 🟪⟦thay đổi⟧ cuộc sống hàng ngày và thói quen hàng ngày của mình nhanh như thế nào và liệu chúng ta có mong đợi các doanh nghiệp và tổ chức cũng 🟩⟦làm như vậy⟧ nếu 🟪⟦biến đổi khí hậu⟧ là một vấn đề?"
+Đức, Anh và Hoa Kỳ đều đã trải qua một 🟪⟦sự thay đổi đáng kể⟧ kể từ năm 2023 theo hướng 🟪⟦thỏa thuận⟧ rằng thế giới đang hướng đến 🟪⟦thảm họa môi trường⟧ trừ khi 🟨⟦chúng ta⟧ nhanh chóng thay đổi thói quen.
+Brad Hyde, giám đốc 🟪⟦IPSOS⟧, nói với 🟪⟦SBS News⟧ "Câu hỏi thực sự là 🟨⟦chúng ta có thể⟧ 🟪⟦thay đổi⟧ cuộc sống hàng ngày và thói quen hàng ngày của mình nhanh như thế nào và liệu chúng ta có mong đợi các doanh nghiệp và tổ chức cũng 🟩⟦làm như vậy⟧ nếu 🟪⟦biến đổi khí hậu⟧ là một vấn đề?"
 Sự hoài nghi ngày càng tăng đối với phương tiện truyền thông xã hội
-🟪⟦McCrindle⟧ cho biết các cuộc khảo sát gần đây của ông đã cho thấy những 🟪⟦thay đổi đáng kể⟧ trong việc sử dụng phương tiện truyền thông xã hội và sự hoài nghi ngày càng tăng cũng như thời gian dành cho các ứng dụng phương tiện truyền thông xã hội bắt đầu giảm là một 🟪⟦xu hướng tích cực⟧ khác.
+🟪⟦McCrindle⟧ cho biết các cuộc khảo sát gần đây của ông đã cho thấy những 🟪⟦thay đổi đáng kể⟧ trong việc sử dụng phương tiện truyền thông xã hội và sự hoài nghi ngày càng tăng cũng như thời gian dành cho các ứng dụng phương tiện truyền thông xã hội bắt đầu giảm là một 🟪⟦xu hướng tích cực⟧ 🟨⟦khác⟧.
 Theo 🟪⟦báo cáo xu hướng⟧ năm 2025 của 🟪⟦McCrindle Research⟧, 57% thế hệ Z mong muốn 🟪⟦phương tiện truyền thông xã hội⟧ chưa bao giờ được tạo ra và 86% đã thực hiện các bước để cố gắng giảm việc sử dụng phương tiện truyền thông xã hội.
 🟨⟦Ông cho biết⟧ ngày càng có nhiều nhận thức rằng 🟪⟦phương tiện truyền thông xã hội⟧ không phải là thứ đã hứa hẹn và mọi người ngày càng đặt ra ranh giới trong cuộc sống của họ để ngăn mình dành quá nhiều thời gian cho nó.
 Vào cuối tháng 11, chính phủ Úc đã thông qua một đạo luật mang tính bước ngoặt nhằm cấm trẻ em dưới 16 tuổi sử dụng 🟪⟦các nền tảng truyền thông xã hội⟧.
-🟨⟦Luật này⟧ là một phần trong một loạt các dự luật và 🟪⟦thay đổi⟧ được đề xuất nhằm giải quyết những thách thức do công nghệ lớn gây ra, chẳng hạn như 🟪⟦thông tin sai lệch⟧, 🟪⟦AI⟧ và hành vi chống cạnh tranh.
+🟨⟦Luật này⟧ là một phần trong một loạt các dự luật và 🟪⟦thay đổi⟧ được đề xuất nhằm giải quyết những thách thức do 🟪⟦công nghệ⟧ lớn gây ra, chẳng hạn như 🟪⟦thông tin sai lệch⟧, 🟪⟦AI⟧ và hành vi chống cạnh tranh.
 
 Tỷ lệ giáo dục đại học ngày càng tăng
 Tỷ lệ giáo dục đang tăng lên qua các thế hệ, với giáo dục chính quy và sau phổ thông ngày càng trở nên phổ biến đối với những người rời trường.
-Theo dữ liệu của 🟪⟦ABS⟧ năm 2021, tỷ lệ thế hệ Millenniums lấy bằng sau đại học cao hơn so với thế hệ X (11% so với 8%) và số thế hệ Millenniums có bằng cử nhân cao gấp đôi so với thế hệ Baby Boomers (27% so với 13%).
+Theo dữ liệu của 🟪⟦ABS⟧ năm 2021, tỷ lệ thế hệ Millenniums lấy 🟪⟦bằng sau đại học⟧ cao hơn so với thế hệ X (11% so với 8%) và số thế hệ Millenniums có bằng cử nhân cao gấp đôi so với thế hệ Baby Boomers (27% so với 13%).
 🟪⟦McCrindle⟧ cho biết 🟨⟦những xu hướng giáo dục này⟧ có khả năng tiếp tục phát triển đối với thế hệ Z và thế hệ alpha (những người sinh sau năm 2010).
 "🟨⟦Chúng tôi⟧ biết rằng 🟪⟦giáo dục⟧ có thể dẫn đến sự trao quyền, việc làm và kết quả sức khỏe tốt hơn, và đó là thế hệ này — và điều đó đúng trên toàn cầu. Tỷ lệ 🟪⟦học vấn⟧ và duy trì của sinh viên đang tăng lên trên toàn thế giới,” 🟨⟦ông nói⟧.
 "🟨⟦Chúng ta⟧ có một thế hệ có quy mô, 🟪⟦trình độ học vấn⟧, 🟪⟦công nghệ⟧ và kết nối toàn cầu và thậm chí là tuổi thọ cao hơn, điều đó có nghĩa là họ có thể tận dụng những cơ hội tuyệt vời đó để đưa ra các giải pháp và thay đổi mọi thứ trên thế giới này.”
 Tầm quan trọng ngày càng tăng của sức khỏe tâm thần
-🟪⟦IPSOS⟧ 🟪⟦polling⟧ shows more people are becoming aware of health decisions and want more power over their health choices.
+🟪⟦IPSOS⟧ 🟪⟦polling⟧ shows more people are becoming aware of 🟪⟦health decisions⟧ and want more power over their health choices.
 
 Theo 🟪⟦IPSOS⟧, 75% người Úc cảm thấy như họ cần phải làm nhiều hơn nữa để chăm sóc 🟪⟦sức khỏe tâm thần⟧ của mình, với 72% nam giới và 77% phụ nữ đồng ý.
 🟧⟦Ngoài ra⟧, 69% 🟪⟦người Úc⟧ tin rằng 🟪⟦sức khỏe tâm thần⟧ của họ sẽ tốt hơn vào năm 2025 so với năm 2024.
-"Lần đầu tiên trên toàn cầu, 🟨⟦chúng tôi⟧ thấy tầm quan trọng mà mọi người dành cho 🟪⟦sức khỏe tâm thần⟧ của họ đã tăng lên 🟨⟦cùng mức⟧ với tầm quan trọng mà mọi người dành cho 🟪⟦sức khỏe thể chất⟧ của họ,” 🟪⟦Brad Hyde⟧, giám đốc 🟪⟦IPSOS⟧ cho biết.
+"Lần đầu tiên trên toàn cầu, 🟨⟦chúng tôi⟧ thấy tầm quan trọng mà mọi người dành cho 🟪⟦sức khỏe tâm thần⟧ của họ đã tăng lên cùng mức với tầm quan trọng mà mọi người dành cho 🟪⟦sức khỏe thể chất⟧ của họ,” 🟪⟦Brad Hyde⟧, giám đốc 🟪⟦IPSOS⟧ cho biết.
 “Nhiều người trong 🟨⟦chúng ta⟧ đồng ý rằng chúng ta cần phải làm nhiều hơn nữa cho 🟪⟦sức khỏe tâm thần⟧ của chính mình."

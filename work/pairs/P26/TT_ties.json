@@ -60,6 +60,20 @@
   },
   {
    "id": "P26-VI-005",
+   "sent": "S003",
+   "text": "chăm sóc sức khoẻ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: lĩnh vực y tế và công nghệ",
+   "conf": "med",
+   "alt": null,
+   "note": "y tế → chăm sóc sức khoẻ (EN giữ nguyên the care economy) — lần đổi tên đầu tiên, chuỗi VI dao động hai cái tên"
+  },
+  {
+   "id": "P26-VI-006",
    "sent": "S005",
    "text": "bạn",
    "occ": 1,
@@ -74,7 +88,21 @@
    "ref": "E"
   },
   {
-   "id": "P26-VI-006",
+   "id": "P26-VI-007",
+   "sent": "S005",
+   "text": "việc làm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Các ngành nghề thuộc lĩnh vực y tế và công nghệ",
+   "conf": "med",
+   "alt": null,
+   "note": "chuỗi việc làm VI: ngành nghề (S001) → thị trường lao động (S002) → việc làm → công việc (S006)"
+  },
+  {
+   "id": "P26-VI-008",
    "sent": "S005",
    "text": "bán lẻ",
    "occ": 1,
@@ -88,7 +116,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-007",
+   "id": "P26-VI-009",
    "sent": "S005",
    "text": "công nghệ",
    "occ": 1,
@@ -102,7 +130,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-008",
+   "id": "P26-VI-010",
    "sent": "S005",
    "text": "chăm sóc sức khoẻ",
    "occ": 1,
@@ -116,7 +144,7 @@
    "note": "đối ứng EN the care economy (S005)"
   },
   {
-   "id": "P26-VI-009",
+   "id": "P26-VI-011",
    "sent": "S006",
    "text": "kinh tế",
    "occ": 1,
@@ -130,7 +158,7 @@
    "note": "Chapman là hiện thân của các nhà kinh tế (S005); nằm trong Chuyên gia kinh tế cao cấp"
   },
   {
-   "id": "P26-VI-010",
+   "id": "P26-VI-012",
    "sent": "S006",
    "text": "nhu cầu tuyển dụng",
    "occ": 1,
@@ -144,7 +172,7 @@
    "note": "lặp nguyên cụm (đặc trưng VI: gom cụm cố định)"
   },
   {
-   "id": "P26-VI-011",
+   "id": "P26-VI-013",
    "sent": "S006",
    "text": "công việc",
    "occ": 1,
@@ -158,7 +186,7 @@
    "note": "công việc ≈ việc làm (lặp hình vị việc)"
   },
   {
-   "id": "P26-VI-012",
+   "id": "P26-VI-014",
    "sent": "S006",
    "text": "kỳ vọng",
    "occ": 1,
@@ -172,7 +200,7 @@
    "note": "kỳ vọng ≈ dự đoán — chuỗi động từ dự báo; đối ứng EN hopes (S006)"
   },
   {
-   "id": "P26-VI-013",
+   "id": "P26-VI-015",
    "sent": "S007",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -186,7 +214,7 @@
    "note": "đối ứng EN However (S007)"
   },
   {
-   "id": "P26-VI-014",
+   "id": "P26-VI-016",
    "sent": "S007",
    "text": "điều này",
    "occ": 1,
@@ -201,7 +229,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-VI-015",
+   "id": "P26-VI-017",
    "sent": "S008",
    "text": "lãi suất",
    "occ": 1,
@@ -215,7 +243,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-016",
+   "id": "P26-VI-018",
    "sent": "S008",
    "text": "kỳ vọng",
    "occ": 1,
@@ -229,7 +257,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-017",
+   "id": "P26-VI-019",
    "sent": "S008",
    "text": "nhu cầu tuyển dụng",
    "occ": 1,
@@ -243,7 +271,7 @@
    "note": "VI tự sinh cụm này trong quote (EN chỉ có retail and hospitality demand)"
   },
   {
-   "id": "P26-VI-018",
+   "id": "P26-VI-020",
    "sent": "S008",
    "text": "bán lẻ và nhà hàng khách sạn",
    "occ": 1,
@@ -257,7 +285,21 @@
    "note": "echo nguyên văn lede; EN those cost of living pressures mất chỉ từ phía VI"
   },
   {
-   "id": "P26-VI-019",
+   "id": "P26-VI-021",
+   "sent": "S008",
+   "text": "mạnh",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: nhu cầu tuyển dụng mạnh mẽ",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị mạnh (tăng mạnh ← mạnh mẽ); EN đối ứng dùng pick up nên không có hình vị strong lặp phía EN"
+  },
+  {
+   "id": "P26-VI-022",
    "sent": "S008",
    "text": "ông",
    "occ": 1,
@@ -272,7 +314,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-VI-020",
+   "id": "P26-VI-023",
    "sent": "S009",
    "text": "thị trường lao động",
    "occ": 1,
@@ -286,7 +328,7 @@
    "note": "VI tách thành đề tài (Nói về thị trường lao động); echo Key Points"
   },
   {
-   "id": "P26-VI-021",
+   "id": "P26-VI-024",
    "sent": "S009",
    "text": "Chapman",
    "occ": 1,
@@ -300,7 +342,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-022",
+   "id": "P26-VI-025",
    "sent": "S009",
    "text": "tuyển dụng",
    "occ": 1,
@@ -314,7 +356,7 @@
    "note": "việc tuyển dụng"
   },
   {
-   "id": "P26-VI-023",
+   "id": "P26-VI-026",
    "sent": "S009",
    "text": "ổn định",
    "occ": 1,
@@ -328,7 +370,21 @@
    "note": "echo nguyên văn Key Points; VI thêm dần"
   },
   {
-   "id": "P26-VI-024",
+   "id": "P26-VI-027",
+   "sent": "S009",
+   "text": "thời kỳ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: sau giai đoạn tuyển dụng ồ ạt",
+   "conf": "med",
+   "alt": null,
+   "note": "thời kỳ ≈ giai đoạn — echo từng phần Key Points (EN lặp nguyên văn post-COVID-19 pandemic hiring boom)"
+  },
+  {
+   "id": "P26-VI-028",
    "sent": "S009",
    "text": "bùng nổ",
    "occ": 1,
@@ -342,7 +398,7 @@
    "note": "bùng nổ ≈ ồ ạt (boom); VI dụ lại thay vì lặp nguyên văn như EN"
   },
   {
-   "id": "P26-VI-025",
+   "id": "P26-VI-029",
    "sent": "S009",
    "text": "COVID-19",
    "occ": 1,
@@ -356,7 +412,7 @@
    "note": "hậu COVID-19; tên riêng lặp"
   },
   {
-   "id": "P26-VI-026",
+   "id": "P26-VI-030",
    "sent": "S010",
    "text": "tuyển dụng",
    "occ": 1,
@@ -370,7 +426,7 @@
    "note": "quảng cáo tuyển dụng; VI lược attribution"
   },
   {
-   "id": "P26-VI-027",
+   "id": "P26-VI-031",
    "sent": "S010",
    "text": "nhu cầu",
    "occ": 1,
@@ -384,7 +440,7 @@
    "note": "lao động là bổ sung (nhu cầu lao động)"
   },
   {
-   "id": "P26-VI-028",
+   "id": "P26-VI-032",
    "sent": "S010",
    "text": "giảm",
    "occ": 1,
@@ -398,7 +454,7 @@
    "note": "phép đối giảm ↔ tăng"
   },
   {
-   "id": "P26-VI-029",
+   "id": "P26-VI-033",
    "sent": "S010",
    "text": "bình thường",
    "occ": 1,
@@ -412,7 +468,7 @@
    "note": "trở lại mức bình thường ≈ ổn định; đối ứng EN normalising ← stabilising; lỗi chính tả nguồn: phản ảnh (đúng: phản ánh)"
   },
   {
-   "id": "P26-VI-030",
+   "id": "P26-VI-034",
    "sent": "S011",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -426,7 +482,7 @@
    "note": "đối ứng EN But (S012)"
   },
   {
-   "id": "P26-VI-031",
+   "id": "P26-VI-035",
    "sent": "S011",
    "text": "ông",
    "occ": 1,
@@ -441,7 +497,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-VI-032",
+   "id": "P26-VI-036",
    "sent": "S011",
    "text": "dự đoán",
    "occ": 1,
@@ -455,7 +511,7 @@
    "note": "trùng nguyên văn S001 dự đoán; chuỗi dự báo"
   },
   {
-   "id": "P26-VI-033",
+   "id": "P26-VI-037",
    "sent": "S011",
    "text": "nhu cầu tuyển dụng",
    "occ": 1,
@@ -469,7 +525,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-034",
+   "id": "P26-VI-038",
    "sent": "S011",
    "text": "y tế",
    "occ": 1,
@@ -483,7 +539,7 @@
    "note": "đổi tên so với chăm sóc sức khoẻ (S003/S005) — chuỗi chăm sóc phân rã, dao động hai tên"
   },
   {
-   "id": "P26-VI-035",
+   "id": "P26-VI-039",
    "sent": "S011",
    "text": "giữ trẻ",
    "occ": 1,
@@ -497,7 +553,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-036",
+   "id": "P26-VI-040",
    "sent": "S011",
    "text": "tăng",
    "occ": 1,
@@ -511,7 +567,7 @@
    "note": "EN phủ định (unlikely to slow down) → VI khẳng định (sẽ tiếp tục tăng)"
   },
   {
-   "id": "P26-VI-037",
+   "id": "P26-VI-041",
    "sent": "S012",
    "text": "nhu cầu",
    "occ": 1,
@@ -525,7 +581,7 @@
    "note": "EN dùng chỉ từ That (S013) — VI lược chỉ từ, đặt lại bằng số nhiều Những; dài hạn thay ongoing"
   },
   {
-   "id": "P26-VI-038",
+   "id": "P26-VI-042",
    "sent": "S012",
    "text": "nhân lực",
    "occ": 1,
@@ -539,7 +595,7 @@
    "note": "nhân lực ≈ lao động; đối ứng EN care workers"
   },
   {
-   "id": "P26-VI-039",
+   "id": "P26-VI-043",
    "sent": "S012",
    "text": "chăm sóc sức khoẻ",
    "occ": 1,
@@ -553,7 +609,7 @@
    "note": "S011 gọi là y tế — chuỗi đổi tên qua lại trong hai câu liền"
   },
   {
-   "id": "P26-VI-040",
+   "id": "P26-VI-044",
    "sent": "S012",
    "text": "tiếp tục",
    "occ": 1,
@@ -567,7 +623,21 @@
    "note": "vẫn + tiếp tục gom nghĩa EN isn't going away / continuing / continue (3 hình thức trong 1 câu)"
   },
   {
-   "id": "P26-VI-041",
+   "id": "P26-VI-045",
+   "sent": "S012",
+   "text": "động lực",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: nền kinh tế phục hồi cũng thúc đẩy nhu cầu tuyển dụng",
+   "conf": "med",
+   "alt": null,
+   "note": "động lực lớn ← thúc đẩy: quá trình (động từ) → sản phẩm (danh từ); EN giữ động từ drive"
+  },
+  {
+   "id": "P26-VI-046",
    "sent": "S012",
    "text": "thị trường việc làm",
    "occ": 1,
@@ -581,7 +651,7 @@
    "note": "ghép lại thị trường (S009) + việc làm (S005); đối ứng EN employment"
   },
   {
-   "id": "P26-VI-042",
+   "id": "P26-VI-047",
    "sent": "S013",
    "text": "Blair Chapman",
    "occ": 1,
@@ -595,7 +665,7 @@
    "note": "attribution bị tách khỏi quote; tên đầy đủ quay lại như S006"
   },
   {
-   "id": "P26-VI-043",
+   "id": "P26-VI-048",
    "sent": "S013",
    "text": "chuyên gia kinh tế cao cấp",
    "occ": 1,
@@ -609,7 +679,7 @@
    "note": "echo nguyên văn danh hiệu"
   },
   {
-   "id": "P26-VI-044",
+   "id": "P26-VI-049",
    "sent": "S013",
    "text": "SEEK",
    "occ": 1,
@@ -623,7 +693,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-045",
+   "id": "P26-VI-050",
    "sent": "S014",
    "text": "chuyển đổi số",
    "occ": 1,
@@ -637,7 +707,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-VI-046",
+   "id": "P26-VI-051",
    "sent": "S014",
    "text": "an ninh mạng",
    "occ": 1,
@@ -651,7 +721,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-VI-047",
+   "id": "P26-VI-052",
    "sent": "S014",
    "text": "trí tuệ nhân tạo (AI)",
    "occ": 1,
@@ -665,7 +735,7 @@
    "note": "echo Key Points; S004 chưa có (AI), câu này thêm"
   },
   {
-   "id": "P26-VI-048",
+   "id": "P26-VI-053",
    "sent": "S014",
    "text": "thách thức",
    "occ": 1,
@@ -679,7 +749,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-049",
+   "id": "P26-VI-054",
    "sent": "S014",
    "text": "khu vực tư nhân",
    "occ": 1,
@@ -693,7 +763,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-050",
+   "id": "P26-VI-055",
    "sent": "S015",
    "text": "công nghệ",
    "occ": 1,
@@ -707,7 +777,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-051",
+   "id": "P26-VI-056",
    "sent": "S016",
    "text": "Chapman",
    "occ": 1,
@@ -721,7 +791,7 @@
    "note": "attribution đảo lên đầu (Theo ông Chapman); ông kèm tên trong câu không đánh"
   },
   {
-   "id": "P26-VI-052",
+   "id": "P26-VI-057",
    "sent": "S016",
    "text": "điều này",
    "occ": 1,
@@ -736,7 +806,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-VI-053",
+   "id": "P26-VI-058",
    "sent": "S016",
    "text": "nhu cầu",
    "occ": 1,
@@ -750,7 +820,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-054",
+   "id": "P26-VI-059",
    "sent": "S016",
    "text": "khoa học dữ liệu",
    "occ": 1,
@@ -764,7 +834,7 @@
    "note": "trong nhà khoa học dữ liệu (= data scientists; EN data scientists ← data science)"
   },
   {
-   "id": "P26-VI-055",
+   "id": "P26-VI-060",
    "sent": "S016",
    "text": "doanh nghiệp",
    "occ": 1,
@@ -778,7 +848,7 @@
    "note": "liên tưởng CEO → doanh nghiệp (cùng trường phía doanh nghiệp); EN nối thẳng business leaders (S014) nhưng VI lược ở S014"
   },
   {
-   "id": "P26-VI-056",
+   "id": "P26-VI-061",
    "sent": "S016",
    "text": "công nghệ",
    "occ": 1,
@@ -792,7 +862,7 @@
    "note": "mới là bổ sung (công nghệ mới)"
   },
   {
-   "id": "P26-VI-057",
+   "id": "P26-VI-062",
    "sent": "S016",
    "text": "tăng",
    "occ": 1,
@@ -806,7 +876,7 @@
    "note": "tăng lên; EN dùng grow — VI giữ chuỗi tăng nguyên vẹn"
   },
   {
-   "id": "P26-VI-058",
+   "id": "P26-VI-063",
    "sent": "S017",
    "text": "công nghệ",
    "occ": 1,
@@ -820,7 +890,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-059",
+   "id": "P26-VI-064",
    "sent": "S017",
    "text": "AI",
    "occ": 1,
@@ -834,7 +904,7 @@
    "note": "VI lược hạn định generative của EN"
   },
   {
-   "id": "P26-VI-060",
+   "id": "P26-VI-065",
    "sent": "S017",
    "text": "tăng",
    "occ": 1,
@@ -848,7 +918,7 @@
    "note": "làm tăng giá trị; EN dùng strengthen — VI giữ chuỗi tăng"
   },
   {
-   "id": "P26-VI-061",
+   "id": "P26-VI-066",
    "sent": "S017",
    "text": "kỹ năng",
    "occ": 1,
@@ -862,7 +932,7 @@
    "note": "mềm là hạn định mới (= soft, trong ngoặc kép); EN in turn bị VI lược nên không có tie C ở câu này"
   },
   {
-   "id": "P26-VI-062",
+   "id": "P26-VI-067",
    "sent": "S018",
    "text": "lãnh đạo doanh nghiệp",
    "occ": 1,
@@ -876,7 +946,7 @@
    "note": "lãnh đạo doanh nghiệp = business leaders; EN nối S014 business leaders nhưng VI lược ở S014 nên chuỗi đi vòng qua CEO"
   },
   {
-   "id": "P26-VI-063",
+   "id": "P26-VI-068",
    "sent": "S018",
    "text": "AI",
    "occ": 1,
@@ -890,7 +960,7 @@
    "note": null
   },
   {
-   "id": "P26-VI-064",
+   "id": "P26-VI-069",
    "sent": "S018",
    "text": "kỹ năng",
    "occ": 1,
@@ -904,7 +974,7 @@
    "note": "occ 1 (những kỹ năng cốt lõi ≈ EN core competencies); kỹ năng lần 2 trong câu không đánh thêm"
   },
   {
-   "id": "P26-VI-065",
+   "id": "P26-VI-070",
    "sent": "S018",
    "text": "giá trị",
    "occ": 1,
@@ -918,7 +988,7 @@
    "note": "chuỗi giá trị do VI tự sinh (EN S017 là strengthen demand, không có value)"
   },
   {
-   "id": "P26-VI-066",
+   "id": "P26-VI-071",
    "sent": "S018",
    "text": "bà",
    "occ": 1,
@@ -933,7 +1003,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-VI-067",
+   "id": "P26-VI-072",
    "sent": "S019",
    "text": "công việc",
    "occ": 1,
@@ -947,7 +1017,7 @@
    "note": "VI lược career platform's của EN nên chuỗi LinkedIn đứt"
   },
   {
-   "id": "P26-VI-068",
+   "id": "P26-VI-073",
    "sent": "S019",
    "text": "nhu cầu",
    "occ": 1,
@@ -961,7 +1031,7 @@
    "note": "nhu cầu cao"
   },
   {
-   "id": "P26-VI-069",
+   "id": "P26-VI-074",
    "sent": "S019",
    "text": "kỹ năng",
    "occ": 1,

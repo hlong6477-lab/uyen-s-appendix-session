@@ -4,7 +4,22 @@
 **TT (VI):** Những ngành nghề được dự đoán sẽ phát triển trong năm 2025 (SBS Tiếng Việt)
 
 - Quy ước: `[LC]` liên câu; `[TC]` trong câu; `[TD]` tiêu đề (không render — tiêu đề hai đầu không nằm trong flow, không gán nhãn). `∅` = thành phần bị lược; `{…}` = phần bù hồi phục.
-- Khung: EN — Halliday & Hasan (1976); VI — Trần Ngọc Thêm (2006, dẫn theo Nguyễn Thanh Tùng 2020).
+
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; H&H §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (repetition/synonym/superordinate/general
+> word, §6.2) + collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ
+> thống liên kết văn bản tiếng Việt* (1985; tái bản 2006)
+> (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối (§30), phép
+> thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ khiếm
+> diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối (§38, §43).
+> Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L. Phase-2: các hàng mới
+> theo PHASE2_PROTOCOL.md (checklist 12 nhóm), mỗi hàng có trích dẫn mục lý thuyết.
+
 - Nhãn tóm tắt in đậm **"Key Points"** ở S002 hai đầu là NỘI DUNG được dịch, không phải subhead: nó đứng dính vào đầu câu S002 và lặp lại các luận điểm của thân bài (tự xoáy: thân bài S010/S012/S014 lặp ngược về S002/S003/S004). Cả ba cặp xoáy này đều được đánh dấu L bình thường.
 
 ## 1. Tổng quan nội dung, thể loại, bản đồ câu
@@ -52,6 +67,8 @@ Câu VI tự sinh hoàn chỉnh: không có; S013 VI là attribution bị tách 
 
 Nhận định: VI là ngôn ngữ pro-drop nhưng trong cặp này mọi vị trí chủ ngữ đều được hiện thực hóa (ông/bà/nhà kinh tế/NP đầy đủ); EN không có vế lặp để lược. Nguyên tắc "không bịia ∅" được giữ triệt để: mọi chỗ EN dùng pro-form mà VI không giữ đều là **lược bỏ/đặt lại từ vựng**, ghi ở §4 và §7, không ghi E.
 
+**Theo H&H §4 + TNT (§23, §37):** tỉnh lược là *substitution by zero* — chỉ tính ∅ khi CHỮ NGHĨA bị lược mà hồi phục được từ đồng văn (TNT gọi là liên kết khiếm diện). Các that-phụ trống sau say/said (E-EN0b) là complementizer — biến thể ngữ pháp, không phải ∅; chỗ VI hiện thực hóa (E-EN0c) không bịia ∅ bù theo mapping §3.5 (một hình thức một hàng) → E=0/0 hai đầu là kết quả rà lại theo đúng chuẩn này.
+
 ## 3. Phép thế (substitution)
 
 | # | Ngôn ngữ | Nguyên văn | Phân tích | Cấp |
@@ -60,6 +77,8 @@ Nhận định: VI là ngôn ngữ pro-drop nhưng trong cặp này mọi vị t
 | — | VI | S008 "áp lực chi phí sinh hoạt" | EN giữ "those" → VI bỏ hẳn chỉ từ, giữ NP; không có pro-form VI nào ("như vậy", "làm vậy", "cái đó") xuất hiện trong cặp | — |
 
 Nhận định: cả hai đầu đều **không có phép thế** (S = 0/0). EN không dùng one/do so; VI không dùng pro-form thế. Điểm đáng chú ý là chiều ngược: khi EN dùng đại từ/chỉ từ (those, That, he, she), VI hoặc giữ bằng danh xưng (ông/bà), hoặc quy chiếu bằng "điều này", hoặc **hiện thực hóa/bỏ hẳn** — ghi như dịch chuyển ở §7, không ghi S.
+
+**Theo H&H §3.1.1 (phép thử thế/quy chiếu):** *those* trong "those cost of living pressures" không lấp đầy được nguyên văn danh ngữ (không phải kiểu *those of X*) mà đi ĐỊNH NGỮ trước NP → quy chiếu chỉ từ (H&H §2.4 demonstrative), không phải thế danh từ; VI không có pro-form thế nào (mapping §4: *như vậy/làm vậy/thế/vậy* không xuất hiện trong cặp) nên S=0 hai đầu — VI đặt lại bằng NP đầy đủ, đúng hiện tượng "English tracks participants with pronouns; Vietnamese repeats the noun" của NTT (2020) §2.1.
 
 ## 4. Phép quy chiếu (reference)
 
@@ -94,6 +113,8 @@ Nhận định: cả hai đầu đều **không có phép thế** (S = 0/0). EN 
 - VI S005 "đây" (vì đây là những lĩnh vực tiềm năng) — chỉ về 3 ngành vừa liệt kê trong cùng câu; VI S012 "đây" (và đây sẽ là động lực lớn) — chỉ về "Những nhu cầu dài hạn về nhân lực…vẫn sẽ tiếp tục" trong cùng câu: cả hai đều quy chiếu trong câu, không đánh.
 - VI S009/S016 "ông" trong "ông Chapman" — danh xưng kèm tên riêng (không phải đại từ độc lập).
 - Hệ [±người]: EN phân biệt ngôi 3 he/she; VI thay bằng danh xưng gia đình-honorific ông/bà (giống được lưu bằng "bà" cho Dengate). Danh từ tổng quát "career platform" (EN S019) quy chiếu LinkedIn nhưng VI lược hẳn ("danh sách các công việc…"), nên chuỗi này đứt phía VI.
+- **[Phase-2] Ứng viên so sánh/quy chiếu bị loại vì [TC] hoặc chuẩn ngoài văn bản (R/C/L chỉ [LC]; H&H §2.5):** EN S019 "such jobs" — *such* trỏ về "list of jobs on the rise"/danh sách 3 nghề TRONG CÂU → [TC]; EN S018 "more value than ever" ↔ VI S018 "có giá trị hơn bao giờ hết" — more/hơn so với chuẩn "bao giờ hết" ngoài văn bản (tình huống), trong câu → không đánh; EN S011 "Compared to earlier in the year" — chuẩn so sánh là mốc thời gian tình huống, không truy hồi câu trước (VI lược cả vế) → không đánh; EN S016 "likely" ↔ S003/S012 "unlikely" — cặp đối lập phủ định nhưng là từ tình thái, và "unlikely to slow down" (S012) đã có hàng lặp echo → theo mapping §3.13 (một hình thức một hàng) không thêm hàng.
+- **[Phase-2] Rà nhóm 8 (the + rename, mapping §3.6):** các NP "the care economy" (S003/S005/S012), "the job market" (S010) đã thâu mạo từ the VÀO span L (echo nguyên NP) — một hình thức một hàng nên không thêm alt "R: the" thứ hai; span không chứa the (career platform, ranking) đã có alt "R: the" từ Phase-1. Không phát hiện NP "the X" rename tham chiếu đã nêu nào thiếu hàng.
 
 ## 5. Phép nối (conjunction)
 
@@ -108,6 +129,8 @@ Nhận định: cả hai đầu đều **không có phép thế** (S = 0/0). EN 
 | — | — | S001 "và…cũng thúc đẩy" | additive | VI tự sinh trong câu (EN dùng "with…tipped to"), không đánh |
 
 Nhận định: phép nối đối lập giữ 1–1 chặt ("But/However" ↔ "Tuy nhiên" ×3); lệch duy nhất là "in turn" (S017) bị VI lược bỏ — EN đánh dấu tường minh quan hệ hệ quả giữa chuỗi kỹ năng cứng và kỹ năng mềm, VI để ngầm. VI không tự sinh nối liên câu nào.
+
+**Theo H&H §5.8:** rà continuatives (EN Now/Well/Anyway/Still/Indeed/In fact/Of course/After all; VI Thế là/Vậy là/Dù sao/Trên thực tế/Theo đó) — cặp này không xuất hiện ở đầu câu nào nên không có điều chỉnh sub nào (khác precedent P21 "Now," → continuative); "in turn" (S017) giữ causal vì nối hệ quả dây chuyền giữa hai câu (H&H §5.6); nhóm 11 (For example/Ví dụ, though cuối câu, In fact/Trên thực tế) cũng rỗng. Theo TNT §38, ba cặp adversative liên câu của cặp là phép nối lỏng của câu hợp nghĩa.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -124,6 +147,16 @@ Nhận định: phép nối đối lập giữ 1–1 chặt ("But/However" ↔ "
 - **Chuỗi danh xưng người nói**: EN Blair Chapman (S006) → Chapman (S010, S013, S016) ↔ VI Blair Chapman (S006) → Chapman (S009, S016) → Blair Chapman (S013, tên đầy đủ trở lại trong attribution tách câu). Cayla Dengate (S017) một mình, không lặp tên.
 - Số liệu (2025, 2024, COVID-19 là tên riêng bệnh) — 2025/2024 không đưa vào L theo quy ước; COVID-19 đánh dấu như danh riêng lặp (S002→S009 EN; S002→S009 VI).
 - Động từ chức năng báo chí (said, told, cho biết, nói, khuyên) không đánh; động từ nội dung (expected/anticipated/expect, stabilising/normalising, tăng/giảm) có đánh.
+- **[Phase-2] Chuỗi ease (EN-only):** ease (S008, khối cắt) → ease (S009) → easing (S011) — H&H §6.2 reiteration; TNT §26 phép lặp. VI không có đối ứng (S010 VI đổi thành "trở lại mức bình thường"), chuỗi chỉ phía EN.
+- **[Phase-2] Chuỗi động từ dự báo thêm danh hóa:** expectations (S010) ← expect (S009) — mắt xích sót của chuỗi expected (S001, S007) → anticipated (S008) → expect (S009) (H&H §6.2; precedent P21 promised ← promising; TNT §26); VI lược cả vế "Outlining his expectations for the year ahead".
+- **[Phase-2] Chuỗi động từ tăng EN (đồng nghĩa phân tán) + phép đối mở đầu:** pick up (S009) ↔ slow down (S003) là phép đối liên câu tăng/giảm (TNT §30; H&H §6.4 opposites — nhóm 2); chuỗi tiếp bằng đồng nghĩa grow (S016) ← pick up, strengthen (S017) ← grow (H&H §6.2; tiền trạm = nhắc gần nhất) — EN luân chuyển từ nơi VI lặp nguyên từ "tăng" (S008→S011→S016→S017), đúng NTT (2020) §2.1 chiều ngược.
+- **[Phase-2] Chuỗi thúc đẩy:** EN fuel (S001) → drive (S013) — đồng nghĩa (H&H §6.2; TNT §31); VI thúc đẩy (S001, vế tự sinh) → động lực (S012) — quá trình–sản phẩm (H&H §6.4 collocation; TNT §32 phép liên tưởng): EN giữ động từ, VI danh hóa.
+- **[Phase-2] Chuỗi việc làm thêm mắt xích giữa (nhóm 12):** EN job (S005) ← job market (S002, lặp hình vị job); VI việc làm (S005) ← ngành nghề (S001, đồng nghĩa) — hai mắt xích được cite làm tiền trạm (S006 TT công việc; chuỗi roles S006 ST) nhưng trước Phase-2 chưa có hàng.
+- **[Phase-2] Chuỗi chăm sóc VI thêm mắt xích S003 (nhóm 12):** chăm sóc sức khoẻ (S003) ← y tế (S001, đặt lại tên — TNT §31) — lần đổi tên đầu tiên của dao động hai cái tên; trước Phase-2 mắt xích này bị sót dù S005 cite nó làm tiền trạm.
+- **[Phase-2] Chuỗi mạnh VI (tự sinh):** mạnh mẽ (S006) → mạnh (S008, trong "tăng mạnh" tự sinh) — TNT §26 lặp hình vị; EN đối ứng pick up không lặp strong nên không có hàng EN.
+- **[Phase-2] Echo một phần Key Points đủ cửa sổ:** S009←S002 thêm thời kỳ ← giai đoạn (TNT §31 đồng nghĩa) bên cạnh ổn định/bùng nổ/COVID-19 đã có từ Phase-1.
+- **[Phase-2] Chuỗi phía doanh nghiệp EN thêm mắt xích S014 (nhóm 12):** employer (S008) → business leaders (S014) — liên tưởng (TNT §32; H&H §6.4); mắt xích S014 được cite làm tiền trạm 3 lần (S015 CEOs, S016 businesses, S018 business leaders) nhưng trước Phase-2 chưa có hàng; VI lược S014 nên chuỗi VI đi vòng qua CEO (S015).
+- **[Phase-2] Chuỗi specialists (EN, khối cắt):** specialists (S019) → specialists (S020) — H&H §6.2; TNT §26; tie chỉ phía EN.
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
 
@@ -144,6 +177,14 @@ Nhận định: phép nối đối lập giữ 1–1 chặt ("But/However" ↔ "
 | EN cắt khối | 2 dòng | S008 (mệnh đề which…), S020 (English teachers topped…) |
 | Chuỗi hội tụ VI nguyên cụm | 2 chuỗi | "nhu cầu tuyển dụng" ×4; "tuyển dụng" ×8 |
 | Chuỗi phân rã VI | 2 chuỗi | chăm sóc: y tế ↔ chăm sóc sức khoẻ dao động; doanh nghiệp: lược employer/business leaders |
+| **[Phase-2]** EN chuỗi đồng nghĩa tăng (pick up→grow→strengthen) ↔ VI lặp nguyên từ "tăng" | 3 mắt | S009/S016/S017 EN ↔ S008/S016/S017 VI — NTT (2020) §2.1 |
+| **[Phase-2]** EN drive ← fuel (động từ) ↔ VI động lực ← thúc đẩy (danh hóa, vế S001 tự sinh) | 1 cặp | S013←S001 EN; S012←S001 VI — quá trình → sản phẩm (H&H §6.4) |
+| **[Phase-2]** EN expectations (danh hóa expect) → VI lược vế | 1 | S010 — tie EN-only |
+| **[Phase-2]** EN chuỗi ease (S008→S009→S011 easing) mất đối ứng VI | 3 hàng | VI S010 đổi thành "trở lại mức bình thường" |
+| **[Phase-2]** EN business leaders ← employer (chuỗi liền) ↔ VI lược → đi vòng qua CEO | 1 | S014 EN — mắt xích được cite 3 lần, Phase-2 mới có hàng |
+| **[Phase-2]** EN job ← job market (lặp hình vị) ↔ VI việc làm ← ngành nghề (đồng nghĩa) | 1 cặp | S005 hai đầu — cùng chuỗi việc làm, khác kiểu liên kết |
+| **[Phase-2]** EN pick up ↔ slow down (phép đối) — VI đánh phép đối giảm↔tăng ở S010 | 1 | S009↔S003 EN; S010 TT |
+| **[Phase-2]** VI tự sinh/dụ lại không đối ứng hình vị EN: mạnh ← mạnh mẽ; thời kỳ ← giai đoạn | 2 | S008←S006; S009←S002 TT |
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -157,7 +198,7 @@ Nhận định: phép nối đối lập giữ 1–1 chặt ("But/However" ↔ "
 8. **Tiêu đề hai đầu không nằm trong flow** và không đánh dấu: "These are the fastest-growing jobs in Australia" ↔ "Những ngành nghề được dự đoán sẽ phát triển trong năm 2025" (VI thêm khung dự báo, khác nhịp EN) — không dùng làm bằng chứng cấp câu.
 9. VI S005, S011, S017 có phần tự sinh (xem §7) — khi đếm so sánh hai đầu phải loại các tie không có đối ứng trước khi suy luận về mật độ.
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Đã ghi tie table | Ghi chú |
 |---|---:|---:|---|
@@ -165,16 +206,17 @@ Nhận định: phép nối đối lập giữ 1–1 chặt ("But/However" ↔ "
 | EN — S | 0 | 0 | không có pro-form thế |
 | EN — E | 0 | 0 | không có ∅ thật (xem §2) |
 | EN — C | 4 | 4 | But ×2, However, in turn |
-| EN — L | 61 | 61 | xoáy Key Points 3 cụm + chuỗi việc làm/chăm sóc/công nghệ/nhu cầu/kỹ năng |
+| EN — L | 71 | 71 | +10 hàng Phase-2: job (S005), ease + pick up (S009), expectations (S010), easing (S011), drive (S013), business leaders (S014), grow (S016), strengthen (S017), specialists (S020) — xoáy Key Points 3 cụm + chuỗi việc làm/chăm sóc/công nghệ/nhu cầu/kỹ năng/thúc đẩy/ease |
 | VI — R | 6 | 6 | 5 A (điều này ×2, ông ×2, bà) + 1 E (bạn) |
 | VI — S | 0 | 0 | — |
 | VI — E | 0 | 0 | — |
 | VI — C | 3 | 3 | Tuy nhiên ×3 (đối ứng But/However/But) |
-| VI — L | 60 | 60 | "nhu cầu tuyển dụng" ×4, "tuyển dụng" ×6 sau lần đầu, chuỗi tăng/giá trị tự sinh |
+| VI — L | 65 | 65 | +5 hàng Phase-2: chăm sóc sức khoẻ (S003), việc làm (S005), mạnh (S008), thời kỳ (S009), động lực (S012) — "nhu cầu tuyển dụng" ×4, "tuyển dụng" ×6 sau lần đầu, chuỗi tăng/giá trị tự sinh |
 
 **Kết luận:**
-1. Cặp này **không có tie [TC] nào** — lớp bổ sung S/E trống; mọi dấu hiệu quy chiếu trong câu (his, that's ×2, đây ×2, we/you trong quote có attribution cùng câu) đều được loại theo quy ước và liệt kê ở §4.3, nên toàn bộ 143 dấu là bằng chứng liên câu thật.
+1. Cặp này **không có tie [TC] nào** — lớp bổ sung S/E trống; mọi dấu hiệu quy chiếu trong câu (his, that's ×2, đây ×2, we/you trong quote có attribution cùng câu) đều được loại theo quy ước và liệt kê ở §4.3, nên toàn bộ 158 dấu là bằng chứng liên câu thật.
 2. Điểm nhấn của P26 là **chiềuEN→VI của quy chiếu**: EN dùng đại từ/chỉ từ thì VI hoặc giữ bằng danh xưng ông/bà, hoặc quy chiếu mệnh đề bằng "điều này" (giữ 1–1 ở S007/S016), hoặc **lược/đặt lại danh từ** (those, That) — không một lần nào VI dùng pro-form thế.
-3. **Xoáy Key Points**: thân bài EN lặp gần nguyên văn 3 câu tóm tắt (3 cụm echo nguyên văn); phía VI echo một phần (giữ "ổn định", "chuyển đổi số/an ninh mạng/trí tuệ nhân tạo", nhưng đổi tên chuỗi chăm sóc và đổi phủ định thành khẳng định) → L phía VI (60) vẫn dày nhưng mủn hơn về độ nguyên khối.
-4. **VI lặp nhiều hơn ở tầng cụm cố định** ("nhu cầu tuyển dụng" ×4, "tuyển dụng", "tăng", "công nghệ") trong khi EN phân tán từ vựng (hiring/demand/job market/positions; pick up/grow/strengthen) — ngược với P21 ở chỗ: bên VI giàu phép lặp nguyên cụm, bên EN giàu phép đồng nghĩa.
+3. **Xoáy Key Points**: thân bài EN lặp gần nguyên văn 3 câu tóm tắt (3 cụm echo nguyên văn); phía VI echo một phần (giữ "ổn định", "chuyển đổi số/an ninh mạng/trí tuệ nhân tạo", nhưng đổi tên chuỗi chăm sóc và đổi phủ định thành khẳng định) → L phía VI (65) vẫn dày nhưng mủn hơn về độ nguyên khối.
+4. **VI lặp nhiều hơn ở tầng cụm cố định** ("nhu cầu tuyển dụng" ×4, "tuyển dụng", "tăng", "công nghệ") trong khi EN phân tán từ vựng (hiring/demand/job market/positions; pick up/grow/strengthen — Phase-2 đánh từng mắt xích đồng nghĩa) — ngược với P21 ở chỗ: bên VI giàu phép lặp nguyên cụm, bên EN giàu phép đồng nghĩa.
 5. Hai khối cắt (S008, S020) và câu tách S013 VI không phá chuỗi chính (tuyển dụng, nhu cầu, kỹ năng vẫn liền mạch); riêng việc lược "business leaders" ở VI S014 khiến chuỗi phía doanh nghiệp VI đi vòng qua "các CEO" (S015) thay vì S014 như EN.
+6. **Phase-2 (theo references):** 15 tie mới (EN 10 / VI 5) gồm: 1 phép đối liên câu pick up ↔ slow down (TNT §30; H&H §6.4 — nhóm 2), các mắt xích chuỗi lặp/danh hóa sót theo H&H §6.2 + TNT §26 (ease→easing, expectations←expect, job, specialists, mạnh, thời kỳ) — nhóm 4, ba mắt xích "được cite làm tiền trạm nhưng chưa có hàng" của nhóm 12 (việc làm ← ngành nghề; chăm sóc sức khoẻ ← y tế; business leaders ← employer), chuỗi đồng nghĩa động từ thúc đẩy/tăng (drive←fuel, grow←pick up, strengthen←grow; TNT §31) và collocation quá trình–sản phẩm (động lực←thúc đẩy — H&H §6.4 — nhóm 9); các đối xứng EN↔VI mới (job↔việc làm, drive↔động lực, chuỗi tăng↔pick up/grow/strengthen) đều đúng bảng dịch chuyển của NTT (2020) §5. Tổng tie table: EN 84 / VI 74 (trước Phase-2: EN 74 / VI 69).

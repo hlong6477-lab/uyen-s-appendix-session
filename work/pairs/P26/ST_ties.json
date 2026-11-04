@@ -76,6 +76,20 @@
   {
    "id": "P26-EN-006",
    "sent": "S005",
+   "text": "job",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: The job market is still stabilising",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị job (looking for a job) — chuỗi EN roles → job market → a job; đối ứng VI việc làm (S005 TT)"
+  },
+  {
+   "id": "P26-EN-007",
+   "sent": "S005",
    "text": "retail",
    "occ": 1,
    "cat": "L",
@@ -88,7 +102,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-007",
+   "id": "P26-EN-008",
    "sent": "S005",
    "text": "tech",
    "occ": 1,
@@ -102,7 +116,7 @@
    "note": "tech là dạng rút gọn của technology"
   },
   {
-   "id": "P26-EN-008",
+   "id": "P26-EN-009",
    "sent": "S005",
    "text": "the care economy",
    "occ": 1,
@@ -116,7 +130,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-009",
+   "id": "P26-EN-010",
    "sent": "S006",
    "text": "economist",
    "occ": 1,
@@ -130,7 +144,7 @@
    "note": "Chapman là hiện thân của economists nêu ở S005"
   },
   {
-   "id": "P26-EN-010",
+   "id": "P26-EN-011",
    "sent": "S006",
    "text": "hopes",
    "occ": 1,
@@ -144,7 +158,7 @@
    "note": "hopes ≈ expected — chuỗi động từ dự báo; đối ứng VI kỳ vọng (S006)"
   },
   {
-   "id": "P26-EN-011",
+   "id": "P26-EN-012",
    "sent": "S006",
    "text": "hiring",
    "occ": 1,
@@ -158,7 +172,7 @@
    "note": "strong hiring"
   },
   {
-   "id": "P26-EN-012",
+   "id": "P26-EN-013",
    "sent": "S006",
    "text": "roles",
    "occ": 1,
@@ -172,7 +186,7 @@
    "note": "consumer-facing là thông tin mới"
   },
   {
-   "id": "P26-EN-013",
+   "id": "P26-EN-014",
    "sent": "S007",
    "text": "However",
    "occ": 1,
@@ -186,7 +200,7 @@
    "note": "kỳ vọng mạnh ↔ phụ thuộc điều kiện; đối ứng VI Tuy nhiên"
   },
   {
-   "id": "P26-EN-014",
+   "id": "P26-EN-015",
    "sent": "S007",
    "text": "that",
    "occ": 1,
@@ -201,7 +215,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-015",
+   "id": "P26-EN-016",
    "sent": "S007",
    "text": "expected",
    "occ": 1,
@@ -215,7 +229,7 @@
    "note": "chuỗi động từ dự báo (widely expected)"
   },
   {
-   "id": "P26-EN-016",
+   "id": "P26-EN-017",
    "sent": "S008",
    "text": "which",
    "occ": 1,
@@ -230,7 +244,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-017",
+   "id": "P26-EN-018",
    "sent": "S008",
    "text": "anticipated",
    "occ": 1,
@@ -244,7 +258,7 @@
    "note": "anticipated ≈ expected; dòng không có bản dịch"
   },
   {
-   "id": "P26-EN-018",
+   "id": "P26-EN-019",
    "sent": "S009",
    "text": "those",
    "occ": 1,
@@ -259,7 +273,21 @@
    "ref": "E"
   },
   {
-   "id": "P26-EN-019",
+   "id": "P26-EN-020",
+   "sent": "S009",
+   "text": "ease",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: anticipated to ease employer concerns",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp ease (continue to ease) — chuỗi ease (S008) → ease (S009) → easing (S011); dòng S008 không có bản dịch"
+  },
+  {
+   "id": "P26-EN-021",
    "sent": "S009",
    "text": "expect",
    "occ": 1,
@@ -273,7 +301,7 @@
    "note": "chuỗi dự báo expected→anticipated→expect"
   },
   {
-   "id": "P26-EN-020",
+   "id": "P26-EN-022",
    "sent": "S009",
    "text": "rate cuts",
    "occ": 1,
@@ -287,7 +315,7 @@
    "note": "interest là bổ sung (interest rate cuts)"
   },
   {
-   "id": "P26-EN-021",
+   "id": "P26-EN-023",
    "sent": "S009",
    "text": "retail and hospitality",
    "occ": 1,
@@ -301,7 +329,7 @@
    "note": "lặp nguyên cặp; đối ứng VI bán lẻ và nhà hàng khách sạn (S008)"
   },
   {
-   "id": "P26-EN-022",
+   "id": "P26-EN-024",
    "sent": "S009",
    "text": "demand",
    "occ": 1,
@@ -315,7 +343,21 @@
    "note": null
   },
   {
-   "id": "P26-EN-023",
+   "id": "P26-EN-025",
+   "sent": "S009",
+   "text": "pick up",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: is unlikely to slow down",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối pick up ↔ slow down — nhu cầu tăng đối lập nhịp chậm đã nêu ở S003"
+  },
+  {
+   "id": "P26-EN-026",
    "sent": "S009",
    "text": "he",
    "occ": 2,
@@ -330,7 +372,21 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-024",
+   "id": "P26-EN-027",
+   "sent": "S010",
+   "text": "expectations",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: you can expect retail and hospitality demand",
+   "conf": "high",
+   "alt": null,
+   "note": "expect → expectations (danh hóa động từ) — chuỗi expected (S001, S007) → anticipated (S008) → expect (S009) → expectations; VI lược cả vế"
+  },
+  {
+   "id": "P26-EN-028",
    "sent": "S010",
    "text": "Chapman",
    "occ": 1,
@@ -344,7 +400,7 @@
    "note": "họ lặp; his trong câu không đánh (tiền trạm cùng câu)"
   },
   {
-   "id": "P26-EN-025",
+   "id": "P26-EN-029",
    "sent": "S010",
    "text": "the job market",
    "occ": 1,
@@ -358,7 +414,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-026",
+   "id": "P26-EN-030",
    "sent": "S010",
    "text": "still stabilising",
    "occ": 1,
@@ -372,7 +428,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-027",
+   "id": "P26-EN-031",
    "sent": "S010",
    "text": "post-COVID-19 pandemic hiring boom",
    "occ": 1,
@@ -386,7 +442,7 @@
    "note": "echo nguyên văn Key Points; hiring trong span cũng nối chuỗi S006"
   },
   {
-   "id": "P26-EN-028",
+   "id": "P26-EN-032",
    "sent": "S011",
    "text": "he",
    "occ": 4,
@@ -401,7 +457,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-029",
+   "id": "P26-EN-033",
    "sent": "S011",
    "text": "positions",
    "occ": 1,
@@ -415,7 +471,7 @@
    "note": "available là bổ sung; positions ≈ roles trong chuỗi việc làm"
   },
   {
-   "id": "P26-EN-030",
+   "id": "P26-EN-034",
    "sent": "S011",
    "text": "slowed",
    "occ": 1,
@@ -429,7 +485,7 @@
    "note": "lặp hình vị slow"
   },
   {
-   "id": "P26-EN-031",
+   "id": "P26-EN-035",
    "sent": "S011",
    "text": "normalising",
    "occ": 1,
@@ -443,7 +499,7 @@
    "note": "normalising ≈ stabilising; VI bình thường (S010)"
   },
   {
-   "id": "P26-EN-032",
+   "id": "P26-EN-036",
    "sent": "S011",
    "text": "demand",
    "occ": 1,
@@ -457,7 +513,21 @@
    "note": "labour là bổ sung (labour demand)"
   },
   {
-   "id": "P26-EN-033",
+   "id": "P26-EN-037",
+   "sent": "S011",
+   "text": "easing",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: continue to ease",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị ease (easing) — tiền trạm = nhắc gần nhất S009; EN-only không có đối ứng VI"
+  },
+  {
+   "id": "P26-EN-038",
    "sent": "S012",
    "text": "But",
    "occ": 1,
@@ -471,7 +541,7 @@
    "note": "đối lập quảng cáo giảm ↔ nhu cầu chăm sóc không chậm; đối ứng VI Tuy nhiên (S011)"
   },
   {
-   "id": "P26-EN-034",
+   "id": "P26-EN-039",
    "sent": "S012",
    "text": "hiring",
    "occ": 1,
@@ -485,7 +555,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-035",
+   "id": "P26-EN-040",
    "sent": "S012",
    "text": "the care economy",
    "occ": 1,
@@ -499,7 +569,7 @@
    "note": "echo nguyên văn S003 (Key Points)"
   },
   {
-   "id": "P26-EN-036",
+   "id": "P26-EN-041",
    "sent": "S012",
    "text": "jobs",
    "occ": 1,
@@ -513,7 +583,7 @@
    "note": "chuỗi việc làm jobs/roles/positions"
   },
   {
-   "id": "P26-EN-037",
+   "id": "P26-EN-042",
    "sent": "S012",
    "text": "health care",
    "occ": 1,
@@ -527,7 +597,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-038",
+   "id": "P26-EN-043",
    "sent": "S012",
    "text": "child care",
    "occ": 1,
@@ -541,7 +611,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-039",
+   "id": "P26-EN-044",
    "sent": "S012",
    "text": "unlikely to slow down",
    "occ": 1,
@@ -555,7 +625,7 @@
    "note": "echo nguyên văn Key Points; slow cũng nối slowed (S011); VI đổi thành khẳng định"
   },
   {
-   "id": "P26-EN-040",
+   "id": "P26-EN-045",
    "sent": "S013",
    "text": "That",
    "occ": 1,
@@ -570,7 +640,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-041",
+   "id": "P26-EN-046",
    "sent": "S013",
    "text": "demand",
    "occ": 1,
@@ -584,7 +654,7 @@
    "note": "ongoing là bổ sung"
   },
   {
-   "id": "P26-EN-042",
+   "id": "P26-EN-047",
    "sent": "S013",
    "text": "care workers",
    "occ": 1,
@@ -598,7 +668,21 @@
    "note": "lặp hình vị care; workers nối chuỗi jobs (S012)"
   },
   {
-   "id": "P26-EN-043",
+   "id": "P26-EN-048",
+   "sent": "S013",
+   "text": "drive",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: tipped to fuel hiring in retail and hospitality",
+   "conf": "med",
+   "alt": null,
+   "note": "drive employment ← fuel hiring: động từ thúc đẩy; VI hiện thực hóa bằng danh từ động lực"
+  },
+  {
+   "id": "P26-EN-049",
    "sent": "S013",
    "text": "employment",
    "occ": 1,
@@ -612,7 +696,7 @@
    "note": "employment ≈ hiring/jobs trong chuỗi việc làm; VI thị trường việc làm"
   },
   {
-   "id": "P26-EN-044",
+   "id": "P26-EN-050",
    "sent": "S013",
    "text": "Chapman",
    "occ": 1,
@@ -626,7 +710,7 @@
    "note": "attribution cuối quote; VI tách attribution thành câu riêng (S013 VI)"
   },
   {
-   "id": "P26-EN-045",
+   "id": "P26-EN-051",
    "sent": "S014",
    "text": "survey",
    "occ": 1,
@@ -640,7 +724,21 @@
    "note": "Key Points nói chung, câu này lộ diện KPMG; VI lược khảo sát ở S004 nên phía VI đây là lần đầu"
   },
   {
-   "id": "P26-EN-046",
+   "id": "P26-EN-052",
+   "sent": "S014",
+   "text": "business leaders",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: employer concerns about sluggish spending",
+   "conf": "med",
+   "alt": null,
+   "note": "liên tưởng employer → business leaders — mở lại chuỗi phía doanh nghiệp bằng tên gọi mới; VI lược ở S014 nên chuỗi VI đi vòng qua CEO (S015 TT)"
+  },
+  {
+   "id": "P26-EN-053",
    "sent": "S014",
    "text": "digital transformation",
    "occ": 1,
@@ -654,7 +752,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-047",
+   "id": "P26-EN-054",
    "sent": "S014",
    "text": "cybersecurity",
    "occ": 1,
@@ -668,7 +766,7 @@
    "note": "echo nguyên văn Key Points"
   },
   {
-   "id": "P26-EN-048",
+   "id": "P26-EN-055",
    "sent": "S014",
    "text": "artificial intelligence (AI)",
    "occ": 1,
@@ -682,7 +780,7 @@
    "note": "AI lần đầu (S004) nay viết đầy đủ + viết tắt"
   },
   {
-   "id": "P26-EN-049",
+   "id": "P26-EN-056",
    "sent": "S014",
    "text": "challenges",
    "occ": 1,
@@ -696,7 +794,7 @@
    "note": "động từ → danh từ; pressing là bổ sung"
   },
   {
-   "id": "P26-EN-050",
+   "id": "P26-EN-057",
    "sent": "S014",
    "text": "private sector",
    "occ": 1,
@@ -710,7 +808,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-051",
+   "id": "P26-EN-058",
    "sent": "S015",
    "text": "technology",
    "occ": 1,
@@ -724,7 +822,7 @@
    "note": "chuỗi technology/tech"
   },
   {
-   "id": "P26-EN-052",
+   "id": "P26-EN-059",
    "sent": "S015",
    "text": "concern",
    "occ": 1,
@@ -738,7 +836,7 @@
    "note": "top concern; S008 là dòng không có bản dịch nên chuỗi concern không có phía VI"
   },
   {
-   "id": "P26-EN-053",
+   "id": "P26-EN-060",
    "sent": "S015",
    "text": "CEOs",
    "occ": 1,
@@ -752,7 +850,7 @@
    "note": "CEO = nhóm lãnh đạo doanh nghiệp được khảo sát"
   },
   {
-   "id": "P26-EN-054",
+   "id": "P26-EN-061",
    "sent": "S016",
    "text": "Chapman",
    "occ": 1,
@@ -766,7 +864,7 @@
    "note": "attribution đầu câu"
   },
   {
-   "id": "P26-EN-055",
+   "id": "P26-EN-062",
    "sent": "S016",
    "text": "that",
    "occ": 1,
@@ -781,7 +879,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-056",
+   "id": "P26-EN-063",
    "sent": "S016",
    "text": "demand",
    "occ": 1,
@@ -795,7 +893,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-057",
+   "id": "P26-EN-064",
    "sent": "S016",
    "text": "data scientists",
    "occ": 1,
@@ -809,7 +907,21 @@
    "note": "data science → data scientists"
   },
   {
-   "id": "P26-EN-058",
+   "id": "P26-EN-065",
+   "sent": "S016",
+   "text": "grow",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: demand to pick up in 2025",
+   "conf": "med",
+   "alt": null,
+   "note": "will likely grow ≈ pick up — mắt xích chuỗi tăng EN; VI giữ nguyên từ tăng (tăng lên, S016 TT)"
+  },
+  {
+   "id": "P26-EN-066",
    "sent": "S016",
    "text": "businesses",
    "occ": 1,
@@ -823,7 +935,7 @@
    "note": "lặp hình vị business (phía doanh nghiệp)"
   },
   {
-   "id": "P26-EN-059",
+   "id": "P26-EN-067",
    "sent": "S016",
    "text": "technologies",
    "occ": 1,
@@ -837,7 +949,7 @@
    "note": "new là bổ sung (new technologies)"
   },
   {
-   "id": "P26-EN-060",
+   "id": "P26-EN-068",
    "sent": "S017",
    "text": "tech",
    "occ": 1,
@@ -851,7 +963,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-061",
+   "id": "P26-EN-069",
    "sent": "S017",
    "text": "generative AI",
    "occ": 1,
@@ -865,7 +977,7 @@
    "note": "generative là hạn định mới; VI lược generative"
   },
   {
-   "id": "P26-EN-062",
+   "id": "P26-EN-070",
    "sent": "S017",
    "text": "in turn",
    "occ": 1,
@@ -879,7 +991,21 @@
    "note": "nối hệ quả dây chuyền từ S016; VI lược bỏ (không có tie C đối ứng)"
   },
   {
-   "id": "P26-EN-063",
+   "id": "P26-EN-071",
+   "sent": "S017",
+   "text": "strengthen",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: will likely grow",
+   "conf": "med",
+   "alt": null,
+   "note": "strengthen demand ≈ grow — Phase-1 ghi EN đổi từ nên khó thành chuỗi liền; Phase-2 đánh từng mắt xích đồng nghĩa, tiền trạm = nhắc gần nhất"
+  },
+  {
+   "id": "P26-EN-072",
    "sent": "S017",
    "text": "demand",
    "occ": 1,
@@ -893,7 +1019,7 @@
    "note": "VI thay bằng làm tăng giá trị nên mất đối ứng từ vựng"
   },
   {
-   "id": "P26-EN-064",
+   "id": "P26-EN-073",
    "sent": "S017",
    "text": "skills",
    "occ": 1,
@@ -907,7 +1033,7 @@
    "note": "soft là hạn định mới (thuật ngữ trong ngoặc kép)"
   },
   {
-   "id": "P26-EN-065",
+   "id": "P26-EN-074",
    "sent": "S018",
    "text": "business leaders",
    "occ": 1,
@@ -921,7 +1047,7 @@
    "note": "trong quote"
   },
   {
-   "id": "P26-EN-066",
+   "id": "P26-EN-075",
    "sent": "S018",
    "text": "AI",
    "occ": 1,
@@ -935,7 +1061,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-067",
+   "id": "P26-EN-076",
    "sent": "S018",
    "text": "skills",
    "occ": 1,
@@ -949,7 +1075,7 @@
    "note": "core competencies trong câu là đồng nghĩa cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P26-EN-068",
+   "id": "P26-EN-077",
    "sent": "S018",
    "text": "she",
    "occ": 1,
@@ -964,7 +1090,7 @@
    "ref": "A"
   },
   {
-   "id": "P26-EN-069",
+   "id": "P26-EN-078",
    "sent": "S019",
    "text": "career platform",
    "occ": 1,
@@ -978,7 +1104,7 @@
    "note": "career platform = LinkedIn (tổng quát hóa); VI lược hẳn"
   },
   {
-   "id": "P26-EN-070",
+   "id": "P26-EN-079",
    "sent": "S019",
    "text": "jobs",
    "occ": 1,
@@ -992,7 +1118,7 @@
    "note": "list of jobs on the rise; such jobs cuối câu là lặp trong câu (occ 2) không đánh dấu riêng"
   },
   {
-   "id": "P26-EN-071",
+   "id": "P26-EN-080",
    "sent": "S019",
    "text": "demand",
    "occ": 1,
@@ -1006,7 +1132,7 @@
    "note": null
   },
   {
-   "id": "P26-EN-072",
+   "id": "P26-EN-081",
    "sent": "S019",
    "text": "skills",
    "occ": 1,
@@ -1020,7 +1146,7 @@
    "note": "trong interpersonal skills; interpersonal ≈ soft"
   },
   {
-   "id": "P26-EN-073",
+   "id": "P26-EN-082",
    "sent": "S020",
    "text": "English teachers",
    "occ": 1,
@@ -1034,7 +1160,7 @@
    "note": "dòng không có bản dịch"
   },
   {
-   "id": "P26-EN-074",
+   "id": "P26-EN-083",
    "sent": "S020",
    "text": "ranking",
    "occ": 1,
@@ -1046,6 +1172,20 @@
    "conf": "med",
    "alt": "R: the",
    "note": "ranking ≈ list; dòng không có bản dịch"
+  },
+  {
+   "id": "P26-EN-084",
+   "sent": "S020",
+   "text": "specialists",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: employee relations specialists",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp specialists (travel specialists); dòng không có bản dịch"
   }
  ]
 }

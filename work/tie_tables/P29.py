@@ -13,6 +13,8 @@
 #   "mức tăng" S017 ×3, "giảm" S021 ×2 → occ=1 (lần đầu).
 # - Động từ khung reveals/shows/cho thấy và experienced KHÔNG lập tie (§6).
 # - Subhead (EN S007/S016/S023, VI S007/S018) raw, không tie.
+# - [Phase-2] theo PHASE2_PROTOCOL.md: +6 hàng EN / +6 hàng VI (mỗi hàng có
+#   comment [Phase-2] kèm căn cứ references ngay phía trên).
 
 ST = [
     # S002 — dòng cắt (ô VI trống): nội dung "Nearly two years ... ended"
@@ -31,12 +33,20 @@ ST = [
     # S003
     ("S003", "home values", "L", "repetition",
      "S002: home prices", "high", None,
-     "chuỗi GIÁ luân phiên values/prices; 'price increases' và "
-     "'prices stalling' trong câu không đánh thêm", 1, None, None,
-     "LC", None),
+     "chuỗi GIÁ luân phiên values/prices; 'prices stalling' trong câu "
+     "không đánh thêm ('price increases' có hàng riêng chuỗi TĂNG — "
+     "Phase-2)", 1, None, None, "LC", None),
     ("S003", "dropped", "L", "synonym",
      "S002: a national decline", "high", None,
      "chuỗi GIẢM: decline → dropped", 1, None, None, "LC", None),
+    # [Phase-2] price increases ← rising (S002): mắt xích chuỗi TĂNG bị sót
+    # (H&H §6.2 reiteration; TNT §26 phép lặp) — danh từ hóa "increases"
+    # nối rising (S002) → Growth (S006); VI đối ứng "tăng" (S003 TT) đã có
+    # hàng riêng, thêm hàng này để chuỗi TĂNG liền mạch hai đầu.
+    ("S003", "price increases", "L", "synonym",
+     "S002: rising home prices", "high", None,
+     "chuỗi TĂNG: rising → price increases (danh từ hóa); đầu từ là TĂNG "
+     "nên tách khỏi chuỗi GIÁ trong câu", 1, None, None, "LC", None),
     # S004
     ("S004", "CoreLogic", "L", "repetition",
      "S003: property analytics provider CoreLogic", "high", None,
@@ -74,6 +84,15 @@ ST = [
     ("S008", "CoreLogic", "L", "repetition",
      "S004: CoreLogic's research director", "high", None,
      "không có bản dịch", 1, None, None, "LC", None),
+    # [Phase-2] data ← the latest data (S004): mắt xích chuỗi data được
+    # "The data" (S017) cite làm tiền trạm nhưng chính nó chưa có hàng —
+    # rà chuỗi ngược "ante không có hàng" (bài học P28, nhóm 12 checklist;
+    # H&H §6.2 reiteration; TNT §26 phép lặp).
+    ("S008", "data", "L", "repetition",
+     "S004: the latest data", "high", None,
+     "không có bản dịch; chuỗi data: new data (S001) → new data (S002) → "
+     "the latest data (S004) → data (S008) → The data (S017)", 1, None,
+     None, "LC", None),
     ("S008", "house prices", "L", "synonym",
      "S006: housing values", "high", None,
      "không có bản dịch; chuỗi GIÁ quay về 'prices'", 1, None, None,
@@ -153,6 +172,19 @@ ST = [
     ("S013", "buyers", "L", "repetition",
      "S006: buyer demand", "high", None,
      "chuỗi người mua: buyer → buyers", 1, None, None, "LC", None),
+    # [Phase-2] more ← S012: quy chiếu so sánh lượng (H&H §2.5 more/less) —
+    # chuẩn so sánh là tình trạng nguồn cung cực thấp đã nêu ở CÂU TRƯỚC
+    # (S012), không nằm trong câu; VI đối ứng "nhiều ... hơn" (S012 TT).
+    ("S013", "more", "R", "comparative",
+     "S012: Extremely low advertised stock levels", "med", None,
+     "[LC] more choice = nhiều lựa chọn hơn so với khi nguồn cung cực "
+     "thấp (S012); H&H §2.5", 1, None, None, "LC", "A"),
+    # [Phase-2] less ← S012: quy chiếu so sánh lượng (H&H §2.5) — cùng
+    # chuẩn so sánh với hàng "more" trên; VI đối ứng "ít ... hơn".
+    ("S013", "less", "R", "comparative",
+     "S012: Extremely low advertised stock levels", "med", None,
+     "[LC] less urgency = ít cấp bách hơn so với khi nguồn cung cực thấp "
+     "(S012); H&H §2.5", 1, None, None, "LC", "A"),
     ("S013", "value growth", "L", "repetition",
      "S012: strong growth conditions", "high", None,
      "chuỗi TĂNG; 'slowdown' là nghĩa GIẢM kề bên, không đánh", 1,
@@ -162,6 +194,14 @@ ST = [
     ("S013", "Lawless", "L", "repetition", "S012: Lawless said", "high",
      None, "lặp tên trong attribution", 1, None, None, "LC", None),
     # S014
+    # [Phase-2] another ← S010: quy chiếu so sánh "other" (H&H §2.5) —
+    # Darwin là thành phố KHÁC với nhóm thành phố tăng giá đã nêu ở câu
+    # trước; VI đối ứng "một thành phố khác" (S013 TT).
+    ("S014", "another", "R", "comparative",
+     "S010: values increased in Adelaide, Brisbane and Perth", "high",
+     None,
+     "[LC] another city = một thành phố khác (ngoài Adelaide/Brisbane/"
+     "Perth tăng giá ở S010); H&H §2.5 other", 1, None, None, "LC", "A"),
     ("S014", "city", "L", "repetition",
      "S011: capital city rankings", "med", None,
      "'another city' nối chuỗi city; câu EN gãy bằng dấu phẩy (xem §8)",
@@ -264,6 +304,14 @@ ST = [
     ("S022", "growth", "L", "repetition", "S021: gains", "high", None,
      "không có bản dịch; lần 2 'peak rate of growth' trong câu không "
      "đánh thêm", 1, None, None, "LC", None),
+    # [Phase-2] peak ← peaking (S001): chuỗi danh từ hóa peaking → peak
+    # (H&H §6.2 reiteration; TNT §26 phép lặp) — khoảng cách xa (S001 →
+    # S022), referent khác (đỉnh giá toàn quốc ↔ đỉnh tăng trưởng của các
+    # thủ phủ vừa) nên conf med; S022 là dòng cắt → tie EN-only.
+    ("S022", "peak", "L", "repetition",
+     "S001: after peaking in October", "med", None,
+     "không có bản dịch; lặp hình vị peak qua danh từ hóa (passed their "
+     "peak)", 1, None, None, "LC", None),
     ("S022", "CoreLogic", "L", "repetition",
      "S018: CoreLogic's report", "high", None,
      "không có bản dịch; 'said' là attribution không đánh; 'these "
@@ -331,6 +379,14 @@ TT = [
      "VI tự sinh cả câu lẫn nối; phản chiếu vế 'rise in others' của "
      "subhead EN S007 nhưng đẩy lên đầu bài (xem §1)", 1, None, None,
      "LC", None),
+    # [Phase-2] xu hướng ← S001: danh từ tổng quát trỏ về tình huống câu
+    # trước (H&H §6.1 general word; checklist nhóm 3) — "xu hướng" = xu
+    # hướng giảm giá vừa nêu; câu tự sinh nên conf med.
+    ("S002", "xu hướng", "L", "general word",
+     "S001: giá nhà trung bình đã bắt đầu giảm", "med", None,
+     "danh từ tổng quát tóm xu hướng giảm giá của S001 (đi ngược xu "
+     "hướng); EN đối ứng là subhead S007 raw nên không có tie EN", 1,
+     None, None, "LC", None),
     # S003
     ("S003", "giá nhà trung bình", "L", "repetition",
      "S001: giá nhà trung bình", "high", None,
@@ -431,9 +487,11 @@ TT = [
      "danh xưng 'ông' + tên; 'cho biết' là attribution không đánh", 1,
      None, None, "LC", None),
     # S012
+    # [retry] ante viết lại theo nguyên văn VI S011 (bản cũ trích "Extremely
+    # low" — cụm tiếng Anh không có trong câu VI).
     ("S012", "Mặt khác", "C", "adversative",
-     "S011: Extremely low ... điều kiện tăng trưởng mạnh mẽ trên khắp "
-     "Adelaide", "high", None,
+     "S011: Số lượng nhà rao bán ... cực kỳ thấp ... điều kiện tăng "
+     "trưởng mạnh mẽ trên khắp Adelaide", "high", None,
      "song song EN 'on the other hand' (S013); VI cắt attribution "
      "'Lawless said'", 1, None, None, "LC", None),
     ("S012", "Perth", "L", "repetition", "S010: Perth", "high", None,
@@ -445,6 +503,20 @@ TT = [
      None),
     ("S012", "người mua", "L", "repetition", "S006: người mua", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] hơn (lần 1, "nhiều sự lựa chọn hơn") ← S011: quy chiếu so
+    # sánh lượng (H&H §2.5; mapping §1 "hơn") — chuẩn so sánh là tình trạng
+    # nguồn cung "cực kỳ thấp" của câu trước; đối xứng EN more (S013 ST).
+    ("S012", "hơn", "R", "comparative",
+     "S011: Số lượng nhà rao bán ... quảng cáo cực kỳ thấp", "med", None,
+     "[LC] nhiều sự lựa chọn hơn = nhiều hơn so với khi cung cực kỳ thấp "
+     "(S011); H&H §2.5", 1, None, None, "LC", "A"),
+    # [Phase-2] hơn (lần 2, "ít cấp bách hơn") ← S011: cùng chuẩn so sánh;
+    # lần 3 ("chậm hơn so với Adelaide") so sánh trong câu → [TC] không
+    # đánh (ghi §4.3 analysis).
+    ("S012", "hơn", "R", "comparative",
+     "S011: Số lượng nhà rao bán ... quảng cáo cực kỳ thấp", "med", None,
+     "[LC] ít cấp bách hơn = ít hơn so với khi cung cực kỳ thấp (S011); "
+     "H&H §2.5; EN đối ứng less (S013 ST)", 2, None, None, "LC", "A"),
     ("S012", "giá nhà", "L", "repetition", "S010: giá nhà", "high", None,
      "chuỗi GIÁ", 1, None, None, "LC", None),
     ("S012", "tăng chậm hơn", "L", "repetition",
@@ -462,6 +534,13 @@ TT = [
      "S002: một số thành phố", "high", None,
      "chuỗi thành phố ('một thành phố khác'); tiền trạm là câu VI tự "
      "sinh", 1, None, None, "LC", None),
+    # [Phase-2] khác ← S010: quy chiếu so sánh (H&H §2.5 "other"; precedent
+    # P21 VI S010 "khác") — "thành phố khác" = khác với các thành phố tăng
+    # giá đã nêu; đối xứng EN another (S014 ST).
+    ("S013", "khác", "R", "comparative",
+     "S010: giá nhà tăng tại Adelaide, Brisbane và Perth", "high", None,
+     "[LC] một thành phố khác = ngoài các thành phố tăng giá của S010; "
+     "H&H §2.5 other", 1, None, None, "LC", "A"),
     # S014 — gộp EN S017+S018, đảo trật tự 2023/2024
     ("S014", "CoreLogic", "L", "repetition",
      "S004: giám đốc nghiên cứu của CoreLogic", "high", None,
@@ -472,6 +551,14 @@ TT = [
      "chuỗi GIÁ; 'giá trị trung bình' cuối câu cùng chuỗi, không đánh "
      "thêm; 'In contrast' của EN mất do gộp câu", 1, None, None, "LC",
      None),
+    # [Phase-2] toàn quốc ← S003: lặp cụm "toàn quốc" trong chuỗi quốc gia
+    # (H&H §6.2 reiteration; TNT §26 phép lặp) — cùng trường với "cả nước"
+    # (S016); EN đối ứng "nationally" (S017) là trạng từ nên không đánh
+    # bên EN (dịch chuyển lớp từ, ghi §7 analysis).
+    ("S014", "toàn quốc", "L", "repetition",
+     "S003: giá nhà trung bình toàn quốc", "high", None,
+     "lặp cụm toàn quốc (S003 → S014); chuỗi quốc gia: Úc (S008) → cả "
+     "nước (S016) → toàn quốc", 1, None, None, "LC", None),
     ("S014", "tăng", "L", "repetition", "S013: tăng trưởng", "high",
      None,
      "chuỗi TĂNG; lần 2 'tăng thêm' trong câu không đánh thêm", 1,
@@ -544,6 +631,13 @@ TT = [
     ("S020", "giá", "L", "repetition", "S019: giá trị", "high", None,
      "chuỗi GIÁ — VI dùng 'giá' đơn lẻ; Tây Úc/Nam Úc/Queensland lần "
      "đầu (tên bang, không tính chuỗi Úc)", 1, None, None, "LC", None),
+    # [Phase-2] tăng ← S019 (mức tăng): mắt xích chuỗi TĂNG bị sót — đối
+    # xứng EN "increased" (S026 ST) đã đánh và VI S010 "tăng" đã đánh cùng
+    # cấu trúc (H&H §6.2; TNT §26); "tăng" đồng thời là động từ chung cho
+    # các vế tọa hợp sau (∅ đã có hàng E riêng [TC]).
+    ("S020", "tăng", "L", "repetition", "S019: mức tăng", "high", None,
+     "chuỗi TĂNG (giá tăng tại ...); ∅ sau 'Nam Úc'/'Queensland' đã có "
+     "hàng E riêng", 1, None, None, "LC", None),
     ("S020", "vùng nông thôn", "L", "repetition",
      "S019: vùng nông thôn", "high", None, "chuỗi vùng", 1, None, None,
      "LC", None),

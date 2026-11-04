@@ -11,6 +11,11 @@
 # - Hai khối cắt phía EN (S008 — mệnh đề "which..."; S020) đánh dấu ở EN, ghi chú
 #   "không có bản dịch"; VI S013 là attribution tách câu (không ép đối ứng EN).
 # - Từ khung "lĩnh vực" chỉ đánh 1 lần (VI S003); số năm (2025/2024) không là tie L.
+# [Phase-2] Bổ sung theo PHASE2_PROTOCOL.md: 10 hàng mới EN / 5 hàng mới VI
+# (nhóm 2 phép đối liên câu; nhóm 4 chuỗi lặp/danh hóa/đồng nghĩa sót; nhóm 9
+# collocation quá trình–sản phẩm; nhóm 12 mắt xích "được cite làm tiền trạm
+# nhưng chưa có hàng"). occ giữ tiền lệ cặp P26: đếm case-sensitive chuỗi con
+# kể cả nằm trong từ khác, ghi chú vị trí — mọi hàng mới occ=1.
 
 ST = [
     # S002 — Key Points 1: chỉ hiring lặp về S001
@@ -36,6 +41,14 @@ ST = [
      "độc giả/người tìm việc (ngoại văn bản — khung lời khuyên)", "high", None,
      "ngoại quy chiếu; nằm trong you're; không phải quote nên được đánh dấu; "
      "đối ứng VI bạn", 1, None, None, "LC", "E"),
+    # [Phase-2] job ← job market (S002): mắt xích giữa bị sót của chuỗi việc
+    # làm (H&H §6.2 reiteration; TNT §26 phép lặp từ vựng) — lặp hình vị job;
+    # VI đối ứng việc làm (S005 TT) cũng được bổ sung vì S006 TT cite nó làm
+    # tiền trạm (nhóm 12, bài học P28).
+    ("S005", "job", "L", "repetition",
+     "S002: The job market is still stabilising", "med", None,
+     "lặp hình vị job (looking for a job) — chuỗi EN roles → job market → "
+     "a job; đối ứng VI việc làm (S005 TT)", 1, None, None, "LC", None),
     ("S005", "retail", "L", "repetition",
      "S001: retail and hospitality", "high", None, None, 1, None, None,
      "LC", None),
@@ -87,6 +100,13 @@ ST = [
      "sluggish spending ở S008)", "med", None,
      "ngoại quy chiếu, chỉ từ định ngữ; VI lược hẳn chỉ từ, giữ NP",
      1, None, None, "LC", "E"),
+    # [Phase-2] ease ← ease (S008): chuỗi ease (H&H §6.2 reiteration; TNT
+    # §26) — S008 thuộc khối cắt nên chuỗi không có đối ứng VI.
+    ("S009", "ease", "L", "repetition",
+     "S008: anticipated to ease employer concerns", "high", None,
+     "lặp ease (continue to ease) — chuỗi ease (S008) → ease (S009) → "
+     "easing (S011); dòng S008 không có bản dịch", 1, None, None, "LC",
+     None),
     ("S009", "expect", "L", "synonym",
      "S008: anticipated", "med", None,
      "chuỗi dự báo expected→anticipated→expect", 1, None, None, "LC", None),
@@ -100,12 +120,28 @@ ST = [
     ("S009", "demand", "L", "repetition",
      "S001: are expected to be in demand", "med", None, None, 1, None,
      None, "LC", None),
+    # [Phase-2] pick up ↔ slow down (S003): phép đối liên câu (TNT §30; H&H
+    # §6.4 opposites) — tăng ↔ giảm; VI không có hàng đối ứng ở S008 vì
+    # "tăng mạnh" là lần đầu chuỗi tăng (phép đối VI giảm ↔ tăng nằm ở
+    # S010 TT).
+    ("S009", "pick up", "L", "antonym",
+     "S003: is unlikely to slow down", "med", None,
+     "phép đối pick up ↔ slow down — nhu cầu tăng đối lập nhịp chậm đã nêu "
+     "ở S003", 1, None, None, "LC", None),
     ("S009", "he", "R", "personal",
      "S006: SEEK senior economist Blair Chapman", "high", None,
      "he said — truy hồi Chapman; occ 2 vì he gặp trước đó trong then; "
      "we/you trong quote không đánh (attribution cùng câu)",
      2, None, None, "LC", "A"),
     # S010 — echo nguyên văn Key Points S002
+    # [Phase-2] expectations ← expect (S009): chuỗi động từ dự báo thêm mắt
+    # xích danh hóa (H&H §6.2 reiteration — precedent P21 promised ←
+    # promising; TNT §26); vế "Outlining his expectations..." bị VI lược.
+    ("S010", "expectations", "L", "repetition",
+     "S009: you can expect retail and hospitality demand", "high", None,
+     "expect → expectations (danh hóa động từ) — chuỗi expected (S001, S007) "
+     "→ anticipated (S008) → expect (S009) → expectations; VI lược cả vế",
+     1, None, None, "LC", None),
     ("S010", "Chapman", "L", "repetition",
      "S006: Blair Chapman", "high", None,
      "họ lặp; his trong câu không đánh (tiền trạm cùng câu)",
@@ -139,6 +175,13 @@ ST = [
     ("S011", "demand", "L", "repetition",
      "S009: retail and hospitality demand", "high", None,
      "labour là bổ sung (labour demand)", 1, None, None, "LC", None),
+    # [Phase-2] easing ← ease (S009): mắt xích cuối chuỗi ease (H&H §6.2;
+    # TNT §26) — "labour demand easing from a very high base"; VI lược
+    # (đổi thành trở lại mức bình thường).
+    ("S011", "easing", "L", "repetition",
+     "S009: continue to ease", "med", None,
+     "lặp hình vị ease (easing) — tiền trạm = nhắc gần nhất S009; EN-only "
+     "không có đối ứng VI", 1, None, None, "LC", None),
     # S012 — echo nguyên văn Key Points S003
     ("S012", "But", "C", "adversative",
      "S011: the number of advertisements ... slowed towards the end of 2024",
@@ -178,6 +221,14 @@ ST = [
      "S012: jobs in health care and child care", "med", None,
      "lặp hình vị care; workers nối chuỗi jobs (S012)", 1, None, None,
      "LC", None),
+    # [Phase-2] drive ← fuel (S001): chuỗi động từ thúc đẩy (H&H §6.2
+    # reiteration — synonym; TNT §31 phép thế đẳng nghĩa) — drive ≈ fuel;
+    # VI đối ứng động lực (S012 TT) ← thúc đẩy (S001 TT, danh hóa).
+    ("S013", "drive", "L", "synonym",
+     "S001: tipped to fuel hiring in retail and hospitality", "med",
+     None,
+     "drive employment ← fuel hiring: động từ thúc đẩy; VI hiện thực hóa "
+     "bằng danh từ động lực", 1, None, None, "LC", None),
     ("S013", "employment", "L", "synonym",
      "S012: hiring in the care economy", "med", None,
      "employment ≈ hiring/jobs trong chuỗi việc làm; VI thị trường việc làm",
@@ -191,6 +242,16 @@ ST = [
      "S004: a survey has shown", "high", None,
      "Key Points nói chung, câu này lộ diện KPMG; VI lược khảo sát ở S004 "
      "nên phía VI đây là lần đầu", 1, None, None, "LC", None),
+    # [Phase-2] business leaders ← employer (S008): mắt xích được cite làm
+    # tiền trạm 3 lần (S015 CEOs, S016 businesses, S018 business leaders)
+    # nhưng trước đây chưa có hàng (nhóm 12, bài học P28) — TNT §32 phép
+    # liên tưởng + H&H §6.4: employer ≈ business, cùng trường phía doanh
+    # nghiệp.
+    ("S014", "business leaders", "L", "collocation",
+     "S008: employer concerns about sluggish spending", "med", None,
+     "liên tưởng employer → business leaders — mở lại chuỗi phía doanh "
+     "nghiệp bằng tên gọi mới; VI lược ở S014 nên chuỗi VI đi vòng qua "
+     "CEO (S015 TT)", 1, None, None, "LC", None),
     ("S014", "digital transformation", "L", "repetition",
      "S004: Digital transformation", "high", None,
      "echo nguyên văn Key Points", 1, None, None, "LC", None),
@@ -233,6 +294,13 @@ ST = [
     ("S016", "data scientists", "L", "repetition",
      "S015: data science", "high", None,
      "data science → data scientists", 1, None, None, "LC", None),
+    # [Phase-2] grow ← pick up (S009): chuỗi động từ tăng (H&H §6.2
+    # reiteration — synonym; TNT §31) — grow ≈ pick up; EN phân tán từ
+    # vựng nơi VI lặp nguyên từ tăng (NTT 2020 §2.1 chiều ngược).
+    ("S016", "grow", "L", "synonym",
+     "S009: demand to pick up in 2025", "med", None,
+     "will likely grow ≈ pick up — mắt xích chuỗi tăng EN; VI giữ nguyên "
+     "từ tăng (tăng lên, S016 TT)", 1, None, None, "LC", None),
     ("S016", "businesses", "L", "repetition",
      "S014: business leaders", "med", None,
      "lặp hình vị business (phía doanh nghiệp)", 1, None, None, "LC", None),
@@ -251,6 +319,14 @@ ST = [
      "med", None,
      "nối hệ quả dây chuyền từ S016; VI lược bỏ (không có tie C đối ứng)",
      1, None, None, "LC", None),
+    # [Phase-2] strengthen ← grow (S016): tiếp chuỗi động từ tăng bằng đồng
+    # nghĩa (H&H §6.2; TNT §31) — strengthen ≈ grow; VI làm tăng (giữ
+    # chuỗi tăng nguyên vẹn).
+    ("S017", "strengthen", "L", "synonym",
+     "S016: will likely grow", "med", None,
+     "strengthen demand ≈ grow — Phase-1 ghi EN đổi từ nên khó thành chuỗi "
+     "liền; Phase-2 đánh từng mắt xích đồng nghĩa, tiền trạm = nhắc gần "
+     "nhất", 1, None, None, "LC", None),
     ("S017", "demand", "L", "repetition",
      "S016: demand for programmers", "high", None,
      "VI thay bằng làm tăng giá trị nên mất đối ứng từ vựng",
@@ -297,6 +373,13 @@ ST = [
      "S019: the career platform's list of jobs on the rise", "med",
      "R: the", "ranking ≈ list; dòng không có bản dịch", 1, None, None,
      "LC", None),
+    # [Phase-2] specialists ← specialists (S019): lặp danh từ chức danh
+    # (H&H §6.2 reiteration; TNT §26 phép lặp từ vựng) — dòng không có
+    # bản dịch (khối cắt S020).
+    ("S020", "specialists", "L", "repetition",
+     "S019: employee relations specialists", "med", None,
+     "lặp specialists (travel specialists); dòng không có bản dịch",
+     1, None, None, "LC", None),
 ]
 
 TT = [
@@ -317,12 +400,30 @@ TT = [
      "lặp từ khung lĩnh vực; nội dung đổi tên (chăm sóc sức khoẻ lần đầu); "
      "các lần lĩnh vực sau là chuỗi khung, không đánh dấu riêng",
      1, None, None, "LC", None),
+    # [Phase-2] chăm sóc sức khoẻ ← y tế (S001): mắt xích được cite làm tiền
+    # trạm ở S005 nhưng trước đây chưa có hàng (nhóm 12, bài học P28) — VI
+    # đặt lại tên trong chuỗi chăm sóc (TNT §31 phép thế đẳng nghĩa; H&H
+    # §6.2 synonym); đây là điểm phân rã chuỗi đặc trưng của cặp.
+    ("S003", "chăm sóc sức khoẻ", "L", "synonym",
+     "S001: lĩnh vực y tế và công nghệ", "med", None,
+     "y tế → chăm sóc sức khoẻ (EN giữ nguyên the care economy) — lần đổi "
+     "tên đầu tiên, chuỗi VI dao động hai cái tên", 1, None, None,
+     "LC", None),
     # S005
     ("S005", "bạn", "R", "personal",
      "độc giả/người tìm việc (ngoại văn bản — khung lời khuyên)", "high",
      None,
      "ngoại quy chiếu; đối ứng EN you (S005); đây trong vế tự sinh cuối câu "
      "là quy chiếu trong câu, không đánh", 1, None, None, "LC", "E"),
+    # [Phase-2] việc làm ← ngành nghề (S001): mắt xích được cite làm tiền trạm
+    # ở S006 (công việc) nhưng trước đây chưa có hàng (nhóm 12, bài học
+    # P28) — việc làm ≈ ngành nghề (TNT §31; H&H §6.2 synonym); đối ứng
+    # EN job (S005 ST).
+    ("S005", "việc làm", "L", "synonym",
+     "S001: Các ngành nghề thuộc lĩnh vực y tế và công nghệ", "med",
+     None,
+     "chuỗi việc làm VI: ngành nghề (S001) → thị trường lao động (S002) → "
+     "việc làm → công việc (S006)", 1, None, None, "LC", None),
     ("S005", "bán lẻ", "L", "repetition",
      "S001: ngành bán lẻ và nhà hàng khách sạn", "high", None, None,
      1, None, None, "LC", None),
@@ -370,6 +471,14 @@ TT = [
      "S001: ngành bán lẻ và nhà hàng khách sạn", "high", None,
      "echo nguyên văn lede; EN those cost of living pressures mất chỉ từ "
      "phía VI", 1, None, None, "LC", None),
+    # [Phase-2] mạnh ← mạnh mẽ (S006): lặp hình vị mạnh (TNT §26 phép lặp từ
+    # vựng; H&H §6.2) — VI tự sinh cụm tăng mạnh echo tính từ mạnh mẽ; tăng
+    # trong cụm là lần đầu chuỗi tăng nên không có hàng riêng (occ 1: mạnh
+    # nằm trong tăng mạnh).
+    ("S008", "mạnh", "L", "repetition",
+     "S006: nhu cầu tuyển dụng mạnh mẽ", "med", None,
+     "lặp hình vị mạnh (tăng mạnh ← mạnh mẽ); EN đối ứng dùng pick up nên "
+     "không có hình vị strong lặp phía EN", 1, None, None, "LC", None),
     ("S008", "ông", "R", "personal",
      "S006: ông Blair Chapman", "high", None,
      "ông nói — danh xưng đại từ truy hồi Chapman; đối ứng EN he said "
@@ -388,6 +497,13 @@ TT = [
     ("S009", "ổn định", "L", "repetition",
      "S002: vẫn đang ổn định", "high", None,
      "echo nguyên văn Key Points; VI thêm dần", 1, None, None, "LC", None),
+    # [Phase-2] thời kỳ ← giai đoạn (S002): echo một phần Key Points — VI dụ
+    # lại thay vì lặp nguyên văn (TNT §31 đồng nghĩa; H&H §6.2) — hoàn tất
+    # cửa sổ echo S009←S002 (ổn định, bùng nổ, COVID-19 đã có từ Phase-1).
+    ("S009", "thời kỳ", "L", "synonym",
+     "S002: sau giai đoạn tuyển dụng ồ ạt", "med", None,
+     "thời kỳ ≈ giai đoạn — echo từng phần Key Points (EN lặp nguyên văn "
+     "post-COVID-19 pandemic hiring boom)", 1, None, None, "LC", None),
     ("S009", "bùng nổ", "L", "synonym",
      "S002: tuyển dụng ồ ạt", "med", None,
      "bùng nổ ≈ ồ ạt (boom); VI dụ lại thay vì lặp nguyên văn như EN",
@@ -453,6 +569,15 @@ TT = [
      "S011: sẽ tiếp tục tăng", "high", None,
      "vẫn + tiếp tục gom nghĩa EN isn't going away / continuing / continue "
      "(3 hình thức trong 1 câu)", 1, None, None, "LC", None),
+    # [Phase-2] động lực ← thúc đẩy (S001): cặp quá trình–sản phẩm (H&H §6.4
+    # collocation; TNT §32 phép liên tưởng) — động lực ≈ cái thúc đẩy, danh
+    # hóa động từ; đối xứng EN drive (S013 ST) ← fuel (S001 ST); vế S001
+    # VI tự sinh nên đây là chuỗi VI-only.
+    ("S012", "động lực", "L", "collocation",
+     "S001: nền kinh tế phục hồi cũng thúc đẩy nhu cầu tuyển dụng", "med",
+     None,
+     "động lực lớn ← thúc đẩy: quá trình (động từ) → sản phẩm (danh từ); "
+     "EN giữ động từ drive", 1, None, None, "LC", None),
     ("S012", "thị trường việc làm", "L", "repetition",
      "S009: thị trường lao động", "med", None,
      "ghép lại thị trường (S009) + việc làm (S005); đối ứng EN employment",

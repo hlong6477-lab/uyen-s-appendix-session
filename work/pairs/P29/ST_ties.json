@@ -56,7 +56,7 @@
    "ante": "S002: home prices",
    "conf": "high",
    "alt": null,
-   "note": "chuỗi GIÁ luân phiên values/prices; 'price increases' và 'prices stalling' trong câu không đánh thêm"
+   "note": "chuỗi GIÁ luân phiên values/prices; 'prices stalling' trong câu không đánh thêm ('price increases' có hàng riêng chuỗi TĂNG — Phase-2)"
   },
   {
    "id": "P29-EN-005",
@@ -74,6 +74,20 @@
   },
   {
    "id": "P29-EN-006",
+   "sent": "S003",
+   "text": "price increases",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: rising home prices",
+   "conf": "high",
+   "alt": null,
+   "note": "chuỗi TĂNG: rising → price increases (danh từ hóa); đầu từ là TĂNG nên tách khỏi chuỗi GIÁ trong câu"
+  },
+  {
+   "id": "P29-EN-007",
    "sent": "S004",
    "text": "CoreLogic",
    "occ": 1,
@@ -87,7 +101,7 @@
    "note": "lần đầu là S003; 'he' trong câu (Tim Lawless cùng câu) không đánh theo quy ước liên câu"
   },
   {
-   "id": "P29-EN-007",
+   "id": "P29-EN-008",
    "sent": "S004",
    "text": "the latest data",
    "occ": 1,
@@ -101,7 +115,7 @@
    "note": "chuỗi data: 'new' đổi thành 'the latest'"
   },
   {
-   "id": "P29-EN-008",
+   "id": "P29-EN-009",
    "sent": "S005",
    "text": "This result",
    "occ": 1,
@@ -116,7 +130,7 @@
    "ref": "A"
   },
   {
-   "id": "P29-EN-009",
+   "id": "P29-EN-010",
    "sent": "S005",
    "text": "he",
    "occ": 3,
@@ -131,7 +145,7 @@
    "ref": "A"
   },
   {
-   "id": "P29-EN-010",
+   "id": "P29-EN-011",
    "sent": "S005",
    "text": "the housing market",
    "occ": 1,
@@ -145,7 +159,7 @@
    "note": "đầu ngữ 'market' lặp từ quote mở bài (thêm 'housing'); VI không có vì VI S001 đã cắt quote"
   },
   {
-   "id": "P29-EN-011",
+   "id": "P29-EN-012",
    "sent": "S005",
    "text": "the reality of market dynamics",
    "occ": 1,
@@ -159,7 +173,7 @@
    "note": "echo gần nguyên văn cụm quote mở bài"
   },
   {
-   "id": "P29-EN-012",
+   "id": "P29-EN-013",
    "sent": "S006",
    "text": "housing values",
    "occ": 1,
@@ -173,7 +187,7 @@
    "note": "chuỗi GIÁ (values); 'housing' lặp từ S005 'housing market'"
   },
   {
-   "id": "P29-EN-013",
+   "id": "P29-EN-014",
    "sent": "S006",
    "text": "Growth",
    "occ": 1,
@@ -187,7 +201,7 @@
    "note": "chuỗi TĂNG: rising → Growth"
   },
   {
-   "id": "P29-EN-014",
+   "id": "P29-EN-015",
    "sent": "S008",
    "text": "CoreLogic",
    "occ": 1,
@@ -201,7 +215,21 @@
    "note": "không có bản dịch"
   },
   {
-   "id": "P29-EN-015",
+   "id": "P29-EN-016",
+   "sent": "S008",
+   "text": "data",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: the latest data",
+   "conf": "high",
+   "alt": null,
+   "note": "không có bản dịch; chuỗi data: new data (S001) → new data (S002) → the latest data (S004) → data (S008) → The data (S017)"
+  },
+  {
+   "id": "P29-EN-017",
    "sent": "S008",
    "text": "house prices",
    "occ": 1,
@@ -215,7 +243,7 @@
    "note": "không có bản dịch; chuỗi GIÁ quay về 'prices'"
   },
   {
-   "id": "P29-EN-016",
+   "id": "P29-EN-018",
    "sent": "S008",
    "text": "fell",
    "occ": 1,
@@ -229,7 +257,7 @@
    "note": "không có bản dịch; chuỗi GIẢM"
   },
   {
-   "id": "P29-EN-017",
+   "id": "P29-EN-019",
    "sent": "S009",
    "text": "drop",
    "occ": 1,
@@ -243,7 +271,7 @@
    "note": "'decreasing' và 'decline' trong câu cùng chuỗi GIẢM, không đánh thêm"
   },
   {
-   "id": "P29-EN-018",
+   "id": "P29-EN-020",
    "sent": "S009",
    "text": "home values",
    "occ": 1,
@@ -257,7 +285,7 @@
    "note": "chuỗi GIÁ: prices → values"
   },
   {
-   "id": "P29-EN-019",
+   "id": "P29-EN-021",
    "sent": "S009",
    "text": "housing market",
    "occ": 1,
@@ -271,7 +299,7 @@
    "note": "appositive 'Australia's largest housing market'"
   },
   {
-   "id": "P29-EN-020",
+   "id": "P29-EN-022",
    "sent": "S009",
    "text": "Australia's",
    "occ": 1,
@@ -285,7 +313,7 @@
    "note": "chuỗi nước Úc (khác chuỗi tên bang Western/South Australia)"
   },
   {
-   "id": "P29-EN-021",
+   "id": "P29-EN-023",
    "sent": "S010",
    "text": "Meanwhile",
    "occ": 1,
@@ -299,7 +327,7 @@
    "note": "đối lập giảm (S009) với tăng (S010); VI 'Trong khi đó' song song"
   },
   {
-   "id": "P29-EN-022",
+   "id": "P29-EN-024",
    "sent": "S010",
    "text": "values",
    "occ": 1,
@@ -313,7 +341,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-023",
+   "id": "P29-EN-025",
    "sent": "S010",
    "text": "increased",
    "occ": 1,
@@ -327,7 +355,7 @@
    "note": "chuỗi TĂNG; liệt kê dùng chung một động từ nên EN không có ∅"
   },
   {
-   "id": "P29-EN-024",
+   "id": "P29-EN-026",
    "sent": "S011",
    "text": "capital city",
    "occ": 1,
@@ -341,7 +369,7 @@
    "note": "không có bản dịch; chuỗi thủ phủ (chỉ tồn tại phía EN)"
   },
   {
-   "id": "P29-EN-025",
+   "id": "P29-EN-027",
    "sent": "S011",
    "text": "Adelaide",
    "occ": 1,
@@ -355,7 +383,7 @@
    "note": "không có bản dịch"
   },
   {
-   "id": "P29-EN-026",
+   "id": "P29-EN-028",
    "sent": "S011",
    "text": "Perth",
    "occ": 1,
@@ -369,7 +397,7 @@
    "note": "không có bản dịch"
   },
   {
-   "id": "P29-EN-027",
+   "id": "P29-EN-029",
    "sent": "S011",
    "text": "market",
    "occ": 1,
@@ -383,7 +411,7 @@
    "note": "không có bản dịch; 'the strongest market' — danh từ tổng quát trong chuỗi thị trường"
   },
   {
-   "id": "P29-EN-028",
+   "id": "P29-EN-030",
    "sent": "S011",
    "text": "also",
    "occ": 1,
@@ -397,7 +425,7 @@
    "note": "không có bản dịch; nối cộng thêm với diễn biến giá tháng 12"
   },
   {
-   "id": "P29-EN-029",
+   "id": "P29-EN-031",
    "sent": "S012",
    "text": "stock levels",
    "occ": 1,
@@ -411,7 +439,7 @@
    "note": "chuỗi cung: supply → stock; lần 2 'with stock levels tracking' trong câu không đánh thêm"
   },
   {
-   "id": "P29-EN-030",
+   "id": "P29-EN-032",
    "sent": "S012",
    "text": "growth",
    "occ": 1,
@@ -425,7 +453,7 @@
    "note": "chuỗi TĂNG ('strong growth conditions')"
   },
   {
-   "id": "P29-EN-031",
+   "id": "P29-EN-033",
    "sent": "S012",
    "text": "Adelaide",
    "occ": 1,
@@ -439,7 +467,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-032",
+   "id": "P29-EN-034",
    "sent": "S012",
    "text": "decrease",
    "occ": 1,
@@ -453,7 +481,7 @@
    "note": "chuỗi GIẢM dùng cho số lượng nhà (khác giá) — vẫn cùng trường từ vựng"
   },
   {
-   "id": "P29-EN-033",
+   "id": "P29-EN-035",
    "sent": "S012",
    "text": "Lawless",
    "occ": 1,
@@ -467,7 +495,7 @@
    "note": "đặt lại tên nhân vật sau quote"
   },
   {
-   "id": "P29-EN-034",
+   "id": "P29-EN-036",
    "sent": "S013",
    "text": "on the other hand",
    "occ": 1,
@@ -481,7 +509,7 @@
    "note": "đối lập Adelaide (ít hàng) ↔ Perth (nhiều hàng); VI 'Mặt khác' song song"
   },
   {
-   "id": "P29-EN-035",
+   "id": "P29-EN-037",
    "sent": "S013",
    "text": "Perth",
    "occ": 1,
@@ -495,7 +523,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-036",
+   "id": "P29-EN-038",
    "sent": "S013",
    "text": "advertised supply",
    "occ": 1,
@@ -509,7 +537,7 @@
    "note": "chuỗi cung: stock → supply"
   },
   {
-   "id": "P29-EN-037",
+   "id": "P29-EN-039",
    "sent": "S013",
    "text": "buyers",
    "occ": 1,
@@ -523,7 +551,37 @@
    "note": "chuỗi người mua: buyer → buyers"
   },
   {
-   "id": "P29-EN-038",
+   "id": "P29-EN-040",
+   "sent": "S013",
+   "text": "more",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Extremely low advertised stock levels",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] more choice = nhiều lựa chọn hơn so với khi nguồn cung cực thấp (S012); H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P29-EN-041",
+   "sent": "S013",
+   "text": "less",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Extremely low advertised stock levels",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] less urgency = ít cấp bách hơn so với khi nguồn cung cực thấp (S012); H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P29-EN-042",
    "sent": "S013",
    "text": "value growth",
    "occ": 1,
@@ -537,7 +595,7 @@
    "note": "chuỗi TĂNG; 'slowdown' là nghĩa GIẢM kề bên, không đánh"
   },
   {
-   "id": "P29-EN-039",
+   "id": "P29-EN-043",
    "sent": "S013",
    "text": "Adelaide",
    "occ": 1,
@@ -551,7 +609,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-040",
+   "id": "P29-EN-044",
    "sent": "S013",
    "text": "Lawless",
    "occ": 1,
@@ -565,7 +623,22 @@
    "note": "lặp tên trong attribution"
   },
   {
-   "id": "P29-EN-041",
+   "id": "P29-EN-045",
+   "sent": "S014",
+   "text": "another",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: values increased in Adelaide, Brisbane and Perth",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] another city = một thành phố khác (ngoài Adelaide/Brisbane/Perth tăng giá ở S010); H&H §2.5 other",
+   "ref": "A"
+  },
+  {
+   "id": "P29-EN-046",
    "sent": "S014",
    "text": "city",
    "occ": 1,
@@ -579,7 +652,7 @@
    "note": "'another city' nối chuỗi city; câu EN gãy bằng dấu phẩy (xem §8)"
   },
   {
-   "id": "P29-EN-042",
+   "id": "P29-EN-047",
    "sent": "S014",
    "text": "growth",
    "occ": 1,
@@ -593,7 +666,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-EN-043",
+   "id": "P29-EN-048",
    "sent": "S015",
    "text": "while",
    "occ": 1,
@@ -607,7 +680,7 @@
    "note": "không có bản dịch; VI hiện thực hóa nội dung này bằng 'Ngoài ra' (additive) trong S009 — đổi kiểu nối + dịch vị"
   },
   {
-   "id": "P29-EN-044",
+   "id": "P29-EN-049",
    "sent": "S015",
    "text": "prices",
    "occ": 1,
@@ -621,7 +694,7 @@
    "note": "không có bản dịch; chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-045",
+   "id": "P29-EN-050",
    "sent": "S015",
    "text": "dropped",
    "occ": 1,
@@ -635,7 +708,7 @@
    "note": "không có bản dịch; chuỗi GIẢM"
   },
   {
-   "id": "P29-EN-046",
+   "id": "P29-EN-051",
    "sent": "S017",
    "text": "The data",
    "occ": 1,
@@ -649,7 +722,7 @@
    "note": "chuỗi data; VI S014 đổi thành 'Báo cáo' nên không có đối vocab"
   },
   {
-   "id": "P29-EN-047",
+   "id": "P29-EN-052",
    "sent": "S017",
    "text": "house prices",
    "occ": 1,
@@ -663,7 +736,7 @@
    "note": "chuỗi GIÁ; 'median values' cuối câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P29-EN-048",
+   "id": "P29-EN-053",
    "sent": "S017",
    "text": "rose",
    "occ": 1,
@@ -677,7 +750,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-EN-049",
+   "id": "P29-EN-054",
    "sent": "S018",
    "text": "In contrast",
    "occ": 1,
@@ -691,7 +764,7 @@
    "note": "tương phản 2024 (4,9%) với 2023 (8,1%); VI gộp S017+S018 và đảo trật tự nên nối này mất hẳn"
   },
   {
-   "id": "P29-EN-050",
+   "id": "P29-EN-055",
    "sent": "S018",
    "text": "CoreLogic",
    "occ": 1,
@@ -705,7 +778,7 @@
    "note": "'CoreLogic's report' — lần đầu xuất hiện 'report'"
   },
   {
-   "id": "P29-EN-051",
+   "id": "P29-EN-056",
    "sent": "S018",
    "text": "increase",
    "occ": 1,
@@ -719,7 +792,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-EN-052",
+   "id": "P29-EN-057",
    "sent": "S018",
    "text": "house prices",
    "occ": 1,
@@ -733,7 +806,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-053",
+   "id": "P29-EN-058",
    "sent": "S019",
    "text": "house prices",
    "occ": 1,
@@ -747,7 +820,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-054",
+   "id": "P29-EN-059",
    "sent": "S019",
    "text": "fell",
    "occ": 1,
@@ -761,7 +834,7 @@
    "note": "chuỗi GIẢM; liệt kê dùng chung 'fell in' nên EN không có ∅"
   },
   {
-   "id": "P29-EN-055",
+   "id": "P29-EN-060",
    "sent": "S019",
    "text": "Melbourne",
    "occ": 1,
@@ -775,7 +848,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-056",
+   "id": "P29-EN-061",
    "sent": "S019",
    "text": "Hobart",
    "occ": 1,
@@ -789,7 +862,7 @@
    "note": "lần đầu EN nằm trong dòng cắt S015 nhưng vẫn là tiền trạm hợp lệ"
   },
   {
-   "id": "P29-EN-057",
+   "id": "P29-EN-062",
    "sent": "S019",
    "text": "Canberra",
    "occ": 1,
@@ -803,7 +876,7 @@
    "note": "lần đầu EN nằm trong dòng cắt S015 nhưng vẫn là tiền trạm hợp lệ"
   },
   {
-   "id": "P29-EN-058",
+   "id": "P29-EN-063",
    "sent": "S020",
    "text": "Meanwhile",
    "occ": 1,
@@ -817,7 +890,7 @@
    "note": "đối lập giảm với tăng của Perth; VI 'Trong khi đó' song song"
   },
   {
-   "id": "P29-EN-059",
+   "id": "P29-EN-064",
    "sent": "S020",
    "text": "Perth",
    "occ": 1,
@@ -831,7 +904,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-060",
+   "id": "P29-EN-065",
    "sent": "S020",
    "text": "growth",
    "occ": 1,
@@ -845,7 +918,7 @@
    "note": "chuỗi TĂNG ('the largest growth'); 'increase' cuối câu không đánh thêm"
   },
   {
-   "id": "P29-EN-061",
+   "id": "P29-EN-066",
    "sent": "S020",
    "text": "the country",
    "occ": 1,
@@ -859,7 +932,7 @@
    "note": "danh từ tổng quát thay 'Australia'; VI 'cả nước' song song"
   },
   {
-   "id": "P29-EN-062",
+   "id": "P29-EN-067",
    "sent": "S020",
    "text": "home values",
    "occ": 1,
@@ -873,7 +946,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-063",
+   "id": "P29-EN-068",
    "sent": "S021",
    "text": "Adelaide",
    "occ": 1,
@@ -887,7 +960,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-064",
+   "id": "P29-EN-069",
    "sent": "S021",
    "text": "Brisbane",
    "occ": 1,
@@ -901,7 +974,7 @@
    "note": null
   },
   {
-   "id": "P29-EN-065",
+   "id": "P29-EN-070",
    "sent": "S021",
    "text": "also",
    "occ": 1,
@@ -915,7 +988,7 @@
    "note": "nối cộng thêm với mức tăng của Perth; VI 'cũng' song song"
   },
   {
-   "id": "P29-EN-066",
+   "id": "P29-EN-071",
    "sent": "S021",
    "text": "gains",
    "occ": 1,
@@ -929,7 +1002,7 @@
    "note": "chuỗi TĂNG; 'rising' trong câu không đánh thêm"
   },
   {
-   "id": "P29-EN-067",
+   "id": "P29-EN-072",
    "sent": "S021",
    "text": "prices",
    "occ": 1,
@@ -943,7 +1016,7 @@
    "note": "chuỗi GIÁ ('with prices rising by')"
   },
   {
-   "id": "P29-EN-068",
+   "id": "P29-EN-073",
    "sent": "S021",
    "text": "Darwin",
    "occ": 1,
@@ -957,7 +1030,7 @@
    "note": "'while Darwin' là nối trong câu, không đánh"
   },
   {
-   "id": "P29-EN-069",
+   "id": "P29-EN-074",
    "sent": "S022",
    "text": "capitals",
    "occ": 1,
@@ -971,7 +1044,7 @@
    "note": "không có bản dịch; chuỗi thủ phủ ('the mid-sized capitals')"
   },
   {
-   "id": "P29-EN-070",
+   "id": "P29-EN-075",
    "sent": "S022",
    "text": "growth",
    "occ": 1,
@@ -985,7 +1058,21 @@
    "note": "không có bản dịch; lần 2 'peak rate of growth' trong câu không đánh thêm"
   },
   {
-   "id": "P29-EN-071",
+   "id": "P29-EN-076",
+   "sent": "S022",
+   "text": "peak",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: after peaking in October",
+   "conf": "med",
+   "alt": null,
+   "note": "không có bản dịch; lặp hình vị peak qua danh từ hóa (passed their peak)"
+  },
+  {
+   "id": "P29-EN-077",
    "sent": "S022",
    "text": "CoreLogic",
    "occ": 1,
@@ -999,7 +1086,7 @@
    "note": "không có bản dịch; 'said' là attribution không đánh; 'these markets'/'it is clear' trong câu không đánh (§4.3)"
   },
   {
-   "id": "P29-EN-072",
+   "id": "P29-EN-078",
    "sent": "S024",
    "text": "housing markets",
    "occ": 1,
@@ -1013,7 +1100,7 @@
    "note": "chuỗi thị trường; 'Regional' là lần đầu thân bài chuỗi vùng"
   },
   {
-   "id": "P29-EN-073",
+   "id": "P29-EN-079",
    "sent": "S024",
    "text": "also",
    "occ": 1,
@@ -1027,7 +1114,7 @@
    "note": "đối chiếu thị trường vùng với thủ phủ; VI 'cũng' song song"
   },
   {
-   "id": "P29-EN-074",
+   "id": "P29-EN-080",
    "sent": "S024",
    "text": "increase",
    "occ": 1,
@@ -1041,7 +1128,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-EN-075",
+   "id": "P29-EN-081",
    "sent": "S024",
    "text": "value",
    "occ": 1,
@@ -1055,7 +1142,7 @@
    "note": "chuỗi GIÁ ('increase in value')"
   },
   {
-   "id": "P29-EN-076",
+   "id": "P29-EN-082",
    "sent": "S025",
    "text": "compared to",
    "occ": 1,
@@ -1069,7 +1156,7 @@
    "note": "không có bản dịch; nối so sánh tương phản vùng 0,6% với thủ phủ 4,5%"
   },
   {
-   "id": "P29-EN-077",
+   "id": "P29-EN-083",
    "sent": "S025",
    "text": "rise",
    "occ": 1,
@@ -1083,7 +1170,7 @@
    "note": "không có bản dịch; chuỗi TĂNG"
   },
   {
-   "id": "P29-EN-078",
+   "id": "P29-EN-084",
    "sent": "S025",
    "text": "capital",
    "occ": 1,
@@ -1097,7 +1184,7 @@
    "note": "không có bản dịch; chuỗi thủ phủ ('combined capital index')"
   },
   {
-   "id": "P29-EN-079",
+   "id": "P29-EN-085",
    "sent": "S026",
    "text": "The report",
    "occ": 1,
@@ -1111,7 +1198,7 @@
    "note": "chuỗi báo cáo; động từ khung 'shows' không đánh (§6)"
   },
   {
-   "id": "P29-EN-080",
+   "id": "P29-EN-086",
    "sent": "S026",
    "text": "prices",
    "occ": 1,
@@ -1125,7 +1212,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-EN-081",
+   "id": "P29-EN-087",
    "sent": "S026",
    "text": "increased",
    "occ": 1,
@@ -1139,7 +1226,7 @@
    "note": "chuỗi TĂNG; tiền trạm S025 là dòng cắt nhưng vẫn hợp lệ"
   },
   {
-   "id": "P29-EN-082",
+   "id": "P29-EN-088",
    "sent": "S026",
    "text": "regional areas",
    "occ": 1,
@@ -1153,7 +1240,7 @@
    "note": "chuỗi vùng; 'Western Australia/South Australia' là tên bang, không tính chuỗi nước Úc"
   },
   {
-   "id": "P29-EN-083",
+   "id": "P29-EN-089",
    "sent": "S027",
    "text": "Regional",
    "occ": 1,
@@ -1167,7 +1254,7 @@
    "note": "chuỗi vùng ('Regional Victoria')"
   },
   {
-   "id": "P29-EN-084",
+   "id": "P29-EN-090",
    "sent": "S027",
    "text": "markets",
    "occ": 1,
@@ -1181,7 +1268,7 @@
    "note": "chuỗi thị trường ('\"rest of state\" markets' — VI lược cụm này)"
   },
   {
-   "id": "P29-EN-085",
+   "id": "P29-EN-091",
    "sent": "S027",
    "text": "drop",
    "occ": 1,
@@ -1195,7 +1282,7 @@
    "note": "chuỗi GIẢM; 'decline' cuối câu không đánh thêm"
   },
   {
-   "id": "P29-EN-086",
+   "id": "P29-EN-092",
    "sent": "S027",
    "text": "values",
    "occ": 1,

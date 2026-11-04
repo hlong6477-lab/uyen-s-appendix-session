@@ -1,3 +1,3 @@
 QC P30 VI: PASS
-counts: {'C': 2, 'L': 65, 'R': 17, 'S': 1}
-ties: 85
+counts: {'C': 2, 'L': 78, 'R': 19, 'S': 1}
+ties: 100

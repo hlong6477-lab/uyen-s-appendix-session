@@ -75,6 +75,34 @@
   },
   {
    "id": "P30-VI-006",
+   "sent": "S006",
+   "text": "tự tin",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: điều không chắc chắn về tương lai",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối: tăng sự tự tin đối lập không chắc chắn; TNT §30, H&H §6.4 opposites"
+  },
+  {
+   "id": "P30-VI-007",
+   "sent": "S006",
+   "text": "những năm tới",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: không chắc chắn về tương lai",
+   "conf": "high",
+   "alt": null,
+   "note": "đồng nghĩa những năm tới ≈ tương lai"
+  },
+  {
+   "id": "P30-VI-008",
    "sent": "S007",
    "text": "chúng ta",
    "occ": 1,
@@ -89,7 +117,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-007",
+   "id": "P30-VI-009",
    "sent": "S009",
    "text": "McCrindle",
    "occ": 1,
@@ -103,7 +131,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-008",
+   "id": "P30-VI-010",
    "sent": "S010",
    "text": "tỷ lệ tham gia lực lượng lao động",
    "occ": 1,
@@ -117,7 +145,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-009",
+   "id": "P30-VI-011",
    "sent": "S011",
    "text": "công việc",
    "occ": 1,
@@ -131,7 +159,7 @@
    "note": "sự cân bằng giữa công việc và cuộc sống"
   },
   {
-   "id": "P30-VI-010",
+   "id": "P30-VI-012",
    "sent": "S011",
    "text": "làm thêm việc",
    "occ": 1,
@@ -145,7 +173,7 @@
    "note": "lặp 'việc' trong chuỗi công việc — hàng VI tách (EN gộp trong 'not more work')"
   },
   {
-   "id": "P30-VI-011",
+   "id": "P30-VI-013",
    "sent": "S012",
    "text": "Họ đang",
    "occ": 1,
@@ -160,7 +188,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-012",
+   "id": "P30-VI-014",
    "sent": "S012",
    "text": "nơi làm việc",
    "occ": 1,
@@ -174,7 +202,7 @@
    "note": "dành ngày càng nhiều thời gian ở nơi làm việc"
   },
   {
-   "id": "P30-VI-013",
+   "id": "P30-VI-015",
    "sent": "S013",
    "text": "McCrindle Research",
    "occ": 1,
@@ -188,7 +216,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-014",
+   "id": "P30-VI-016",
    "sent": "S013",
    "text": "AI",
    "occ": 1,
@@ -202,7 +230,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-015",
+   "id": "P30-VI-017",
    "sent": "S013",
    "text": "nơi làm việc",
    "occ": 1,
@@ -216,7 +244,7 @@
    "note": "các nhiệm vụ tại nơi làm việc"
   },
   {
-   "id": "P30-VI-016",
+   "id": "P30-VI-018",
    "sent": "S014",
    "text": "AI",
    "occ": 1,
@@ -230,7 +258,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-017",
+   "id": "P30-VI-019",
    "sent": "S014",
    "text": "người lao động",
    "occ": 1,
@@ -244,7 +272,7 @@
    "note": "occ 1: lần 2 ('người lao động trẻ') trong câu không đánh"
   },
   {
-   "id": "P30-VI-018",
+   "id": "P30-VI-020",
    "sent": "S014",
    "text": "ông cho biết",
    "occ": 1,
@@ -259,7 +287,21 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-019",
+   "id": "P30-VI-021",
+   "sent": "S014",
+   "text": "hỗ trợ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: sử dụng AI để hỗ trợ các nhiệm vụ",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hỗ trợ (công nghệ có thể hỗ trợ năng suất)"
+  },
+  {
+   "id": "P30-VI-022",
    "sent": "S015",
    "text": "McCrindle",
    "occ": 1,
@@ -273,7 +315,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-020",
+   "id": "P30-VI-023",
    "sent": "S015",
    "text": "công nghệ",
    "occ": 1,
@@ -287,7 +329,36 @@
    "note": "các ứng dụng công nghệ khác — EN 'technology' lần đầu không đánh, VI có hàng vì S014 VI tự thêm 'công nghệ'"
   },
   {
-   "id": "P30-VI-021",
+   "id": "P30-VI-024",
+   "sent": "S015",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013–S014: sử dụng AI hỗ trợ nhiệm vụ / công nghệ hỗ trợ năng suất",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = ngoài các ứng dụng AI đã nêu; H&H §2.5; EN S016 'other' giữ 1-1",
+   "ref": "A"
+  },
+  {
+   "id": "P30-VI-025",
+   "sent": "S015",
+   "text": "giúp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: công nghệ có thể hỗ trợ năng suất",
+   "conf": "high",
+   "alt": null,
+   "note": "giúp ≈ hỗ trợ; đều giúp mọi người có thêm thời gian"
+  },
+  {
+   "id": "P30-VI-026",
    "sent": "S016",
    "text": "Ông cho biết",
    "occ": 1,
@@ -302,7 +373,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-022",
+   "id": "P30-VI-027",
    "sent": "S016",
    "text": "công nghệ",
    "occ": 1,
@@ -316,7 +387,7 @@
    "note": "công nghệ và đại dịch"
   },
   {
-   "id": "P30-VI-023",
+   "id": "P30-VI-028",
    "sent": "S016",
    "text": "đại dịch",
    "occ": 1,
@@ -330,7 +401,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-024",
+   "id": "P30-VI-029",
    "sent": "S016",
    "text": "nơi làm việc",
    "occ": 1,
@@ -344,7 +415,7 @@
    "note": "cấu trúc nơi làm việc"
   },
   {
-   "id": "P30-VI-025",
+   "id": "P30-VI-030",
    "sent": "S016",
    "text": "thay đổi",
    "occ": 1,
@@ -358,7 +429,7 @@
    "note": "những thay đổi mạnh mẽ"
   },
   {
-   "id": "P30-VI-026",
+   "id": "P30-VI-031",
    "sent": "S016",
    "text": "người lao động",
    "occ": 1,
@@ -372,7 +443,21 @@
    "note": "mang lại lợi ích cho người lao động"
   },
   {
-   "id": "P30-VI-027",
+   "id": "P30-VI-032",
+   "sent": "S016",
+   "text": "lợi ích",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: giúp mọi người có thêm thời gian",
+   "conf": "med",
+   "alt": null,
+   "note": "mang lại lợi ích ≈ giúp; lợi ích cho người lao động"
+  },
+  {
+   "id": "P30-VI-033",
    "sent": "S017",
    "text": "Chúng ta",
    "occ": 1,
@@ -387,7 +472,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-028",
+   "id": "P30-VI-034",
    "sent": "S017",
    "text": "làm việc tại nhà",
    "occ": 1,
@@ -401,7 +486,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-029",
+   "id": "P30-VI-035",
    "sent": "S017",
    "text": "thay đổi",
    "occ": 1,
@@ -415,7 +500,7 @@
    "note": "occ 1: lần 2 ('thay đổi thời gian làm việc') trong câu không đánh — EN 'changed' không có hàng riêng"
   },
   {
-   "id": "P30-VI-030",
+   "id": "P30-VI-036",
    "sent": "S018",
    "text": "Giờ làm việc",
    "occ": 1,
@@ -429,7 +514,7 @@
    "note": "lặp 'làm việc' — EN 'The hours' không có hàng"
   },
   {
-   "id": "P30-VI-031",
+   "id": "P30-VI-037",
    "sent": "S020",
    "text": "thăm dò",
    "occ": 1,
@@ -443,7 +528,7 @@
    "note": "Cuộc thăm dò toàn cầu của IPSOS"
   },
   {
-   "id": "P30-VI-032",
+   "id": "P30-VI-038",
    "sent": "S020",
    "text": "IPSOS",
    "occ": 1,
@@ -457,7 +542,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-033",
+   "id": "P30-VI-039",
    "sent": "S020",
    "text": "biến đổi khí hậu",
    "occ": 1,
@@ -471,7 +556,7 @@
    "note": "tác động của biến đổi khí hậu"
   },
   {
-   "id": "P30-VI-034",
+   "id": "P30-VI-040",
    "sent": "S020",
    "text": "hành động nhanh chóng vì khí hậu",
    "occ": 1,
@@ -485,7 +570,7 @@
    "note": "đối xứng EN 'rapid climate action' (hàng tách)"
   },
   {
-   "id": "P30-VI-035",
+   "id": "P30-VI-041",
    "sent": "S021",
    "text": "thảm họa môi trường",
    "occ": 1,
@@ -499,7 +584,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-036",
+   "id": "P30-VI-042",
    "sent": "S021",
    "text": "biến đổi khí hậu",
    "occ": 1,
@@ -513,7 +598,21 @@
    "note": "hành động ứng phó nhanh chóng với biến đổi khí hậu"
   },
   {
-   "id": "P30-VI-037",
+   "id": "P30-VI-043",
+   "sent": "S021",
+   "text": "đồng ý",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: sự đồng thuận rộng rãi ... 80% đồng ý",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp đồng ý (người dân đồng ý) — kết quả thăm dò IPSOS thứ hai"
+  },
+  {
+   "id": "P30-VI-044",
    "sent": "S022",
    "text": "IPSOS",
    "occ": 1,
@@ -527,7 +626,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-038",
+   "id": "P30-VI-045",
    "sent": "S022",
    "text": "khí hậu",
    "occ": 1,
@@ -541,7 +640,7 @@
    "note": "thái độ đối với khí hậu và môi trường"
   },
   {
-   "id": "P30-VI-039",
+   "id": "P30-VI-046",
    "sent": "S022",
    "text": "thay đổi mạnh mẽ nhất",
    "occ": 1,
@@ -555,7 +654,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-040",
+   "id": "P30-VI-047",
    "sent": "S022",
    "text": "các xu hướng toàn cầu",
    "occ": 1,
@@ -569,7 +668,7 @@
    "note": "'tổ chức này' trong câu chỉ IPSOS, không đánh"
   },
   {
-   "id": "P30-VI-041",
+   "id": "P30-VI-048",
    "sent": "S023",
    "text": "biến đổi khí hậu",
    "occ": 1,
@@ -583,7 +682,7 @@
    "note": "liệu biến đổi khí hậu có thực sự xảy ra"
   },
   {
-   "id": "P30-VI-042",
+   "id": "P30-VI-049",
    "sent": "S023",
    "text": "chúng ta đạt được",
    "occ": 1,
@@ -598,7 +697,64 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-043",
+   "id": "P30-VI-050",
+   "sent": "S024",
+   "text": "sự thay đổi đáng kể",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: những thay đổi mạnh mẽ nhất",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp thay đổi (một sự thay đổi đáng kể kể từ năm 2023); 'thay đổi thói quen' lần 2 trong câu cùng chuỗi, không đánh"
+  },
+  {
+   "id": "P30-VI-051",
+   "sent": "S024",
+   "text": "thảm họa môi trường",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: thảm họa môi trường",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp thảm họa môi trường; đối xứng EN S028"
+  },
+  {
+   "id": "P30-VI-052",
+   "sent": "S024",
+   "text": "thỏa thuận",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: người dân đồng ý",
+   "conf": "med",
+   "alt": null,
+   "note": "thỏa thuận ≈ đồng ý (danh hóa); theo hướng thỏa thuận rằng"
+  },
+  {
+   "id": "P30-VI-053",
+   "sent": "S024",
+   "text": "chúng ta",
+   "occ": 1,
+   "cat": "R",
+   "sub": "personal",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "cộng đồng (ngoại văn bản — narration IPSOS)",
+   "conf": "med",
+   "alt": null,
+   "note": "ngoại quy chiếu: chúng ta = nhân loại/cộng đồng; đối xứng EN we change habits (S028)",
+   "ref": "E"
+  },
+  {
+   "id": "P30-VI-054",
    "sent": "S025",
    "text": "IPSOS",
    "occ": 1,
@@ -612,7 +768,21 @@
    "note": "giám đốc IPSOS — phần 'not just Nordic countries' của EN S029 bị cắt"
   },
   {
-   "id": "P30-VI-044",
+   "id": "P30-VI-055",
+   "sent": "S025",
+   "text": "SBS News",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: nói với SBS News",
+   "conf": "high",
+   "alt": null,
+   "note": "tên riêng lặp (nói với SBS News)"
+  },
+  {
+   "id": "P30-VI-056",
    "sent": "S025",
    "text": "chúng ta có thể",
    "occ": 1,
@@ -627,7 +797,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-045",
+   "id": "P30-VI-057",
    "sent": "S025",
    "text": "thay đổi",
    "occ": 1,
@@ -641,7 +811,7 @@
    "note": "thay đổi cuộc sống hàng ngày và thói quen hàng ngày"
   },
   {
-   "id": "P30-VI-046",
+   "id": "P30-VI-058",
    "sent": "S025",
    "text": "biến đổi khí hậu",
    "occ": 1,
@@ -655,7 +825,7 @@
    "note": "nếu biến đổi khí hậu là một vấn đề"
   },
   {
-   "id": "P30-VI-047",
+   "id": "P30-VI-059",
    "sent": "S025",
    "text": "làm như vậy",
    "occ": 1,
@@ -669,7 +839,7 @@
    "note": "[TC] pro-form thế động từ — đối xứng EN 'do the same'"
   },
   {
-   "id": "P30-VI-048",
+   "id": "P30-VI-060",
    "sent": "S027",
    "text": "McCrindle",
    "occ": 1,
@@ -683,7 +853,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-049",
+   "id": "P30-VI-061",
    "sent": "S027",
    "text": "thay đổi đáng kể",
    "occ": 1,
@@ -697,7 +867,7 @@
    "note": "'phương tiện truyền thông xã hội' lần đầu VI không đánh"
   },
   {
-   "id": "P30-VI-050",
+   "id": "P30-VI-062",
    "sent": "S027",
    "text": "xu hướng tích cực",
    "occ": 1,
@@ -711,7 +881,22 @@
    "note": "một xu hướng tích cực khác"
   },
   {
-   "id": "P30-VI-051",
+   "id": "P30-VI-063",
+   "sent": "S027",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: những xu hướng tích cực (S022: các xu hướng toàn cầu)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = thêm một so với chuỗi xu hướng tích cực đã nêu; H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P30-VI-064",
    "sent": "S028",
    "text": "McCrindle Research",
    "occ": 1,
@@ -725,7 +910,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-052",
+   "id": "P30-VI-065",
    "sent": "S028",
    "text": "báo cáo xu hướng",
    "occ": 1,
@@ -739,7 +924,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-053",
+   "id": "P30-VI-066",
    "sent": "S028",
    "text": "phương tiện truyền thông xã hội",
    "occ": 1,
@@ -753,7 +938,7 @@
    "note": "occ 1: lần 2 ('giảm việc sử dụng') trong câu không đánh"
   },
   {
-   "id": "P30-VI-054",
+   "id": "P30-VI-067",
    "sent": "S029",
    "text": "Ông cho biết",
    "occ": 1,
@@ -768,7 +953,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-055",
+   "id": "P30-VI-068",
    "sent": "S029",
    "text": "phương tiện truyền thông xã hội",
    "occ": 1,
@@ -782,7 +967,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-056",
+   "id": "P30-VI-069",
    "sent": "S030",
    "text": "các nền tảng truyền thông xã hội",
    "occ": 1,
@@ -796,7 +981,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-057",
+   "id": "P30-VI-070",
    "sent": "S031",
    "text": "Luật này",
    "occ": 1,
@@ -811,7 +996,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-058",
+   "id": "P30-VI-071",
    "sent": "S031",
    "text": "thay đổi",
    "occ": 1,
@@ -822,10 +1007,10 @@
    "ante": "S025: thay đổi cuộc sống hàng ngày",
    "conf": "high",
    "alt": null,
-   "note": "một loạt các dự luật và thay đổi; 'công nghệ lớn' lần đầu không đánh"
+   "note": "một loạt các dự luật và thay đổi; 'công nghệ lớn' (danh xưng big tech) lần đầu không đánh riêng, hình vị công nghệ có hàng riêng bên dưới"
   },
   {
-   "id": "P30-VI-059",
+   "id": "P30-VI-072",
    "sent": "S031",
    "text": "thông tin sai lệch",
    "occ": 1,
@@ -839,7 +1024,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-060",
+   "id": "P30-VI-073",
    "sent": "S031",
    "text": "AI",
    "occ": 1,
@@ -853,7 +1038,21 @@
    "note": null
   },
   {
-   "id": "P30-VI-061",
+   "id": "P30-VI-074",
+   "sent": "S031",
+   "text": "công nghệ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: công nghệ và đại dịch",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị công nghệ (do công nghệ lớn gây ra)"
+  },
+  {
+   "id": "P30-VI-075",
    "sent": "S034",
    "text": "ABS",
    "occ": 1,
@@ -867,7 +1066,21 @@
    "note": "dữ liệu của ABS năm 2021"
   },
   {
-   "id": "P30-VI-062",
+   "id": "P30-VI-076",
+   "sent": "S034",
+   "text": "bằng sau đại học",
+   "occ": 1,
+   "cat": "L",
+   "sub": "superordinate",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: giáo dục chính quy và sau phổ thông",
+   "conf": "high",
+   "alt": null,
+   "note": "sau phổ thông hiện thực hóa thành bằng sau đại học; mắt xích chuỗi giáo dục S033→S034→S035"
+  },
+  {
+   "id": "P30-VI-077",
    "sent": "S035",
    "text": "McCrindle",
    "occ": 1,
@@ -881,7 +1094,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-063",
+   "id": "P30-VI-078",
    "sent": "S035",
    "text": "những xu hướng giáo dục này",
    "occ": 1,
@@ -896,7 +1109,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-064",
+   "id": "P30-VI-079",
    "sent": "S036",
    "text": "Chúng tôi",
    "occ": 1,
@@ -911,7 +1124,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-065",
+   "id": "P30-VI-080",
    "sent": "S036",
    "text": "giáo dục",
    "occ": 1,
@@ -925,7 +1138,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-066",
+   "id": "P30-VI-081",
    "sent": "S037",
    "text": "học vấn",
    "occ": 1,
@@ -939,7 +1152,7 @@
    "note": "học vấn ≈ giáo dục — VI đổi từ; 'toàn thế giới' quá chung không đánh"
   },
   {
-   "id": "P30-VI-067",
+   "id": "P30-VI-082",
    "sent": "S037",
    "text": "ông nói",
    "occ": 1,
@@ -954,7 +1167,7 @@
    "ref": "A"
   },
   {
-   "id": "P30-VI-068",
+   "id": "P30-VI-083",
    "sent": "S038",
    "text": "Chúng ta",
    "occ": 1,
@@ -969,7 +1182,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-069",
+   "id": "P30-VI-084",
    "sent": "S038",
    "text": "trình độ học vấn",
    "occ": 1,
@@ -983,7 +1196,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-070",
+   "id": "P30-VI-085",
    "sent": "S038",
    "text": "công nghệ",
    "occ": 1,
@@ -997,7 +1210,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-071",
+   "id": "P30-VI-086",
    "sent": "S040",
    "text": "IPSOS",
    "occ": 1,
@@ -1011,7 +1224,7 @@
    "note": "câu giữ nguyên tiếng Anh trong nguồn VI — vẫn thuộc flow VI"
   },
   {
-   "id": "P30-VI-072",
+   "id": "P30-VI-087",
    "sent": "S040",
    "text": "polling",
    "occ": 1,
@@ -1025,7 +1238,21 @@
    "note": "polling ≈ thăm dò (câu tiếng Anh)"
   },
   {
-   "id": "P30-VI-073",
+   "id": "P30-VI-088",
+   "sent": "S040",
+   "text": "health decisions",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S039 (tiểu đề): sức khỏe tâm thần",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị health từ tiểu đề S039 (tiểu đề raw); câu tiếng Anh trong flow VI — đối xứng EN S049"
+  },
+  {
+   "id": "P30-VI-089",
    "sent": "S041",
    "text": "IPSOS",
    "occ": 1,
@@ -1039,7 +1266,7 @@
    "note": "'họ cần' trong câu chỉ người Úc, không đánh"
   },
   {
-   "id": "P30-VI-074",
+   "id": "P30-VI-090",
    "sent": "S041",
    "text": "sức khỏe tâm thần",
    "occ": 1,
@@ -1053,7 +1280,7 @@
    "note": "chăm sóc sức khỏe tâm thần của mình"
   },
   {
-   "id": "P30-VI-075",
+   "id": "P30-VI-091",
    "sent": "S042",
    "text": "Ngoài ra",
    "occ": 1,
@@ -1067,7 +1294,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-076",
+   "id": "P30-VI-092",
    "sent": "S042",
    "text": "người Úc",
    "occ": 1,
@@ -1081,7 +1308,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-077",
+   "id": "P30-VI-093",
    "sent": "S042",
    "text": "sức khỏe tâm thần",
    "occ": 1,
@@ -1095,7 +1322,7 @@
    "note": null
   },
   {
-   "id": "P30-VI-078",
+   "id": "P30-VI-094",
    "sent": "S043",
    "text": "chúng tôi",
    "occ": 1,
@@ -1110,7 +1337,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-079",
+   "id": "P30-VI-095",
    "sent": "S043",
    "text": "sức khỏe tâm thần",
    "occ": 1,
@@ -1124,22 +1351,7 @@
    "note": "'tầm quan trọng' lặp 2 lần trong câu (TC) ghi note"
   },
   {
-   "id": "P30-VI-080",
-   "sent": "S043",
-   "text": "cùng mức",
-   "occ": 1,
-   "cat": "R",
-   "sub": "comparative",
-   "dir": "ana",
-   "level": "LC",
-   "ante": "S041: sức khỏe tâm thần",
-   "conf": "high",
-   "alt": null,
-   "note": "đối xứng EN 'the same level' — so sánh mức quan tâm tâm thần ↔ thể chất",
-   "ref": "A"
-  },
-  {
-   "id": "P30-VI-081",
+   "id": "P30-VI-096",
    "sent": "S043",
    "text": "Brad Hyde",
    "occ": 1,
@@ -1153,7 +1365,7 @@
    "note": "VI thêm attribution vào cuối câu — EN chỉ 'Hyde said'"
   },
   {
-   "id": "P30-VI-082",
+   "id": "P30-VI-097",
    "sent": "S043",
    "text": "IPSOS",
    "occ": 1,
@@ -1167,7 +1379,7 @@
    "note": "giám đốc IPSOS — hàng VI-only (EN attribution không có IPSOS)"
   },
   {
-   "id": "P30-VI-083",
+   "id": "P30-VI-098",
    "sent": "S043",
    "text": "sức khỏe thể chất",
    "occ": 1,
@@ -1181,7 +1393,7 @@
    "note": "lặp 'sức khỏe'; chuỗi sức khỏe mở rộng"
   },
   {
-   "id": "P30-VI-084",
+   "id": "P30-VI-099",
    "sent": "S044",
    "text": "chúng ta",
    "occ": 1,
@@ -1196,7 +1408,7 @@
    "ref": "E"
   },
   {
-   "id": "P30-VI-085",
+   "id": "P30-VI-100",
    "sent": "S044",
    "text": "sức khỏe tâm thần",
    "occ": 1,

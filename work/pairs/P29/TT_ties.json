@@ -18,6 +18,20 @@
   },
   {
    "id": "P29-VI-002",
+   "sent": "S002",
+   "text": "xu hướng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: giá nhà trung bình đã bắt đầu giảm",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát tóm xu hướng giảm giá của S001 (đi ngược xu hướng); EN đối ứng là subhead S007 raw nên không có tie EN"
+  },
+  {
+   "id": "P29-VI-003",
    "sent": "S003",
    "text": "giá nhà trung bình",
    "occ": 1,
@@ -31,7 +45,7 @@
    "note": "chuỗi GIÁ; 'và giá bắt đầu đình trệ' trong câu là chủ ngữ rút gọn đã hiện thực hóa, không có ∅"
   },
   {
-   "id": "P29-VI-003",
+   "id": "P29-VI-004",
    "sent": "S003",
    "text": "giảm",
    "occ": 1,
@@ -45,7 +59,7 @@
    "note": "chuỗi GIẢM"
   },
   {
-   "id": "P29-VI-004",
+   "id": "P29-VI-005",
    "sent": "S003",
    "text": "tăng",
    "occ": 1,
@@ -59,7 +73,7 @@
    "note": "chuỗi TĂNG ('liên tục tăng')"
   },
   {
-   "id": "P29-VI-005",
+   "id": "P29-VI-006",
    "sent": "S004",
    "text": "CoreLogic",
    "occ": 1,
@@ -73,7 +87,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-006",
+   "id": "P29-VI-007",
    "sent": "S004",
    "text": "dữ liệu mới nhất",
    "occ": 1,
@@ -87,7 +101,7 @@
    "note": "chuỗi số liệu: số liệu → dữ liệu; 'ông' trong câu (Tim Lawless cùng câu) không đánh theo quy ước liên câu"
   },
   {
-   "id": "P29-VI-007",
+   "id": "P29-VI-008",
    "sent": "S005",
    "text": "Kết quả này",
    "occ": 1,
@@ -102,7 +116,7 @@
    "ref": "A"
   },
   {
-   "id": "P29-VI-008",
+   "id": "P29-VI-009",
    "sent": "S005",
    "text": "ông",
    "occ": 1,
@@ -117,7 +131,7 @@
    "ref": "A"
   },
   {
-   "id": "P29-VI-009",
+   "id": "P29-VI-010",
    "sent": "S006",
    "text": "Tăng trưởng",
    "occ": 1,
@@ -131,7 +145,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-VI-010",
+   "id": "P29-VI-011",
    "sent": "S006",
    "text": "giá nhà",
    "occ": 1,
@@ -145,7 +159,7 @@
    "note": "chuỗi GIÁ; 'thị trường nhà ở'/'động lực thị trường' trong câu là lần đầu chuỗi thị trường (VI S001 đã cắt quote nên không có echo như EN)"
   },
   {
-   "id": "P29-VI-011",
+   "id": "P29-VI-012",
    "sent": "S008",
    "text": "mức giảm",
    "occ": 1,
@@ -159,7 +173,7 @@
    "note": "danh từ hóa động từ 'giảm'; lần 2 'mức giảm 0,6%' và 'giá trị nhà giảm' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-012",
+   "id": "P29-VI-013",
    "sent": "S008",
    "text": "giá trị nhà",
    "occ": 1,
@@ -173,7 +187,7 @@
    "note": "chuỗi GIÁ: giá nhà → giá trị nhà"
   },
   {
-   "id": "P29-VI-013",
+   "id": "P29-VI-014",
    "sent": "S008",
    "text": "thị trường nhà ở",
    "occ": 1,
@@ -187,7 +201,7 @@
    "note": "chuỗi thị trường; 'Úc' lần đầu (không đánh); 'trong khi' là nối trong câu"
   },
   {
-   "id": "P29-VI-014",
+   "id": "P29-VI-015",
    "sent": "S009",
    "text": "Ngoài ra",
    "occ": 1,
@@ -201,7 +215,7 @@
    "note": "VI tự sinh nối cộng thêm thay cho EN 'while' (adversative, S015) — đổi kiểu nối + dịch vị (xem §5)"
   },
   {
-   "id": "P29-VI-015",
+   "id": "P29-VI-016",
    "sent": "S009",
    "text": "giá nhà",
    "occ": 1,
@@ -215,7 +229,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-VI-016",
+   "id": "P29-VI-017",
    "sent": "S009",
    "text": "giảm",
    "occ": 1,
@@ -229,7 +243,7 @@
    "note": "chuỗi GIẢM; Canberra/Hobart lần đầu nên không đánh"
   },
   {
-   "id": "P29-VI-017",
+   "id": "P29-VI-018",
    "sent": "S010",
    "text": "Trong khi đó",
    "occ": 1,
@@ -243,7 +257,7 @@
    "note": "song song EN 'Meanwhile' (S010)"
   },
   {
-   "id": "P29-VI-018",
+   "id": "P29-VI-019",
    "sent": "S010",
    "text": "giá nhà",
    "occ": 1,
@@ -257,7 +271,7 @@
    "note": "chuỗi GIÁ; Adelaide/Brisbane/Perth lần đầu nên không đánh"
   },
   {
-   "id": "P29-VI-019",
+   "id": "P29-VI-020",
    "sent": "S010",
    "text": "tăng",
    "occ": 1,
@@ -271,7 +285,7 @@
    "note": "chuỗi TĂNG"
   },
   {
-   "id": "P29-VI-020",
+   "id": "P29-VI-021",
    "sent": "S010",
    "text": null,
    "occ": 1,
@@ -287,7 +301,7 @@
    "note": "[TC] tỉnh lược động từ 'tăng' trong vế tọa hợp; lỗ trống sau 'Perth' tương tự không đánh thêm; EN dùng phối liệt gộp chung động từ nên không có E"
   },
   {
-   "id": "P29-VI-021",
+   "id": "P29-VI-022",
    "sent": "S011",
    "text": "Số lượng nhà",
    "occ": 1,
@@ -301,7 +315,7 @@
    "note": "chuỗi cung: mức cung → số lượng nhà rao bán; lần 2 'số lượng nhà trên thị trường' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-022",
+   "id": "P29-VI-023",
    "sent": "S011",
    "text": "thị trường",
    "occ": 1,
@@ -315,7 +329,7 @@
    "note": "lần 2 'trên thị trường' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-023",
+   "id": "P29-VI-024",
    "sent": "S011",
    "text": "tăng trưởng",
    "occ": 1,
@@ -329,7 +343,7 @@
    "note": "chuỗi TĂNG ('các điều kiện tăng trưởng'); câu thiếu dấu chấm cuối (xem §8)"
   },
   {
-   "id": "P29-VI-024",
+   "id": "P29-VI-025",
    "sent": "S011",
    "text": "Adelaide",
    "occ": 1,
@@ -343,7 +357,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-025",
+   "id": "P29-VI-026",
    "sent": "S011",
    "text": "giảm",
    "occ": 1,
@@ -357,7 +371,7 @@
    "note": "chuỗi GIẢM dùng cho số lượng nhà (khác giá) — vẫn cùng trường từ vựng"
   },
   {
-   "id": "P29-VI-026",
+   "id": "P29-VI-027",
    "sent": "S011",
    "text": "Lawless",
    "occ": 1,
@@ -371,7 +385,7 @@
    "note": "danh xưng 'ông' + tên; 'cho biết' là attribution không đánh"
   },
   {
-   "id": "P29-VI-027",
+   "id": "P29-VI-028",
    "sent": "S012",
    "text": "Mặt khác",
    "occ": 1,
@@ -379,13 +393,13 @@
    "sub": "adversative",
    "dir": "ana",
    "level": "LC",
-   "ante": "S011: Extremely low ... điều kiện tăng trưởng mạnh mẽ trên khắp Adelaide",
+   "ante": "S011: Số lượng nhà rao bán ... cực kỳ thấp ... điều kiện tăng trưởng mạnh mẽ trên khắp Adelaide",
    "conf": "high",
    "alt": null,
    "note": "song song EN 'on the other hand' (S013); VI cắt attribution 'Lawless said'"
   },
   {
-   "id": "P29-VI-028",
+   "id": "P29-VI-029",
    "sent": "S012",
    "text": "Perth",
    "occ": 1,
@@ -399,7 +413,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-029",
+   "id": "P29-VI-030",
    "sent": "S012",
    "text": "nguồn cung nhà",
    "occ": 1,
@@ -413,7 +427,7 @@
    "note": "chuỗi cung: số lượng nhà → nguồn cung; 'điều này' trong câu chỉ chính mệnh đề này nên không đánh (§4.3)"
   },
   {
-   "id": "P29-VI-030",
+   "id": "P29-VI-031",
    "sent": "S012",
    "text": "người mua",
    "occ": 1,
@@ -427,7 +441,37 @@
    "note": null
   },
   {
-   "id": "P29-VI-031",
+   "id": "P29-VI-032",
+   "sent": "S012",
+   "text": "hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: Số lượng nhà rao bán ... quảng cáo cực kỳ thấp",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] nhiều sự lựa chọn hơn = nhiều hơn so với khi cung cực kỳ thấp (S011); H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P29-VI-033",
+   "sent": "S012",
+   "text": "hơn",
+   "occ": 2,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: Số lượng nhà rao bán ... quảng cáo cực kỳ thấp",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] ít cấp bách hơn = ít hơn so với khi cung cực kỳ thấp (S011); H&H §2.5; EN đối ứng less (S013 ST)",
+   "ref": "A"
+  },
+  {
+   "id": "P29-VI-034",
    "sent": "S012",
    "text": "giá nhà",
    "occ": 1,
@@ -441,7 +485,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-VI-032",
+   "id": "P29-VI-035",
    "sent": "S012",
    "text": "tăng chậm hơn",
    "occ": 1,
@@ -455,7 +499,7 @@
    "note": "chuỗi TĂNG; 'gia tăng' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-033",
+   "id": "P29-VI-036",
    "sent": "S012",
    "text": "Adelaide",
    "occ": 1,
@@ -469,7 +513,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-034",
+   "id": "P29-VI-037",
    "sent": "S013",
    "text": "tăng trưởng",
    "occ": 1,
@@ -483,7 +527,7 @@
    "note": "chuỗi TĂNG ('mức tăng trưởng 0,4 phần trăm')"
   },
   {
-   "id": "P29-VI-035",
+   "id": "P29-VI-038",
    "sent": "S013",
    "text": "thành phố",
    "occ": 1,
@@ -497,7 +541,22 @@
    "note": "chuỗi thành phố ('một thành phố khác'); tiền trạm là câu VI tự sinh"
   },
   {
-   "id": "P29-VI-036",
+   "id": "P29-VI-039",
+   "sent": "S013",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: giá nhà tăng tại Adelaide, Brisbane và Perth",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] một thành phố khác = ngoài các thành phố tăng giá của S010; H&H §2.5 other",
+   "ref": "A"
+  },
+  {
+   "id": "P29-VI-040",
    "sent": "S014",
    "text": "CoreLogic",
    "occ": 1,
@@ -511,7 +570,7 @@
    "note": "'Báo cáo' lần đầu (chuỗi báo cáo bắt đầu ở đây); 'cho thấy' là động từ khung không đánh (§6)"
   },
   {
-   "id": "P29-VI-037",
+   "id": "P29-VI-041",
    "sent": "S014",
    "text": "giá nhà trung bình",
    "occ": 1,
@@ -525,7 +584,21 @@
    "note": "chuỗi GIÁ; 'giá trị trung bình' cuối câu cùng chuỗi, không đánh thêm; 'In contrast' của EN mất do gộp câu"
   },
   {
-   "id": "P29-VI-038",
+   "id": "P29-VI-042",
+   "sent": "S014",
+   "text": "toàn quốc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: giá nhà trung bình toàn quốc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp cụm toàn quốc (S003 → S014); chuỗi quốc gia: Úc (S008) → cả nước (S016) → toàn quốc"
+  },
+  {
+   "id": "P29-VI-043",
    "sent": "S014",
    "text": "tăng",
    "occ": 1,
@@ -539,7 +612,7 @@
    "note": "chuỗi TĂNG; lần 2 'tăng thêm' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-039",
+   "id": "P29-VI-044",
    "sent": "S015",
    "text": "giá nhà",
    "occ": 1,
@@ -553,7 +626,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-VI-040",
+   "id": "P29-VI-045",
    "sent": "S015",
    "text": "Melbourne",
    "occ": 1,
@@ -567,7 +640,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-041",
+   "id": "P29-VI-046",
    "sent": "S015",
    "text": "giảm",
    "occ": 1,
@@ -581,7 +654,7 @@
    "note": "chuỗi GIẢM; VI lặp 'giảm' cả 3 vế (lấp chỗ EN dùng chung động từ) nên không có ∅; 2 lần sau không đánh thêm"
   },
   {
-   "id": "P29-VI-042",
+   "id": "P29-VI-047",
    "sent": "S015",
    "text": "Hobart",
    "occ": 1,
@@ -595,7 +668,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-043",
+   "id": "P29-VI-048",
    "sent": "S015",
    "text": "Canberra",
    "occ": 1,
@@ -609,7 +682,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-044",
+   "id": "P29-VI-049",
    "sent": "S016",
    "text": "Trong khi đó",
    "occ": 1,
@@ -623,7 +696,7 @@
    "note": "song song EN 'Meanwhile' (S020)"
   },
   {
-   "id": "P29-VI-045",
+   "id": "P29-VI-050",
    "sent": "S016",
    "text": "Perth",
    "occ": 1,
@@ -637,7 +710,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-046",
+   "id": "P29-VI-051",
    "sent": "S016",
    "text": "tăng trưởng",
    "occ": 1,
@@ -651,7 +724,7 @@
    "note": "chuỗi TĂNG ('mức tăng trưởng lớn nhất'); 'mức tăng' trong câu không đánh thêm"
   },
   {
-   "id": "P29-VI-047",
+   "id": "P29-VI-052",
    "sent": "S016",
    "text": "cả nước",
    "occ": 1,
@@ -665,7 +738,7 @@
    "note": "danh từ tổng quát thay 'Úc'; song song EN 'the country'"
   },
   {
-   "id": "P29-VI-048",
+   "id": "P29-VI-053",
    "sent": "S016",
    "text": "giá trị nhà",
    "occ": 1,
@@ -679,7 +752,7 @@
    "note": "chuỗi GIÁ ('về giá trị nhà')"
   },
   {
-   "id": "P29-VI-049",
+   "id": "P29-VI-054",
    "sent": "S017",
    "text": "Adelaide",
    "occ": 1,
@@ -693,7 +766,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-050",
+   "id": "P29-VI-055",
    "sent": "S017",
    "text": "Brisbane",
    "occ": 1,
@@ -707,7 +780,7 @@
    "note": null
   },
   {
-   "id": "P29-VI-051",
+   "id": "P29-VI-056",
    "sent": "S017",
    "text": "cũng",
    "occ": 1,
@@ -721,7 +794,7 @@
    "note": "song song EN 'also' (S021)"
   },
   {
-   "id": "P29-VI-052",
+   "id": "P29-VI-057",
    "sent": "S017",
    "text": "mức tăng",
    "occ": 1,
@@ -735,7 +808,7 @@
    "note": "chuỗi TĂNG; 3 lần 'mức tăng/tăng trưởng' trong câu, chỉ đánh lần đầu"
   },
   {
-   "id": "P29-VI-053",
+   "id": "P29-VI-058",
    "sent": "S017",
    "text": "Darwin",
    "occ": 1,
@@ -749,7 +822,7 @@
    "note": "'trong khi Darwin' là nối trong câu, không đánh"
   },
   {
-   "id": "P29-VI-054",
+   "id": "P29-VI-059",
    "sent": "S019",
    "text": "Thị trường nhà ở",
    "occ": 1,
@@ -763,7 +836,7 @@
    "note": "chuỗi thị trường; 'vùng nông thôn' là lần đầu thân bài chuỗi vùng"
   },
   {
-   "id": "P29-VI-055",
+   "id": "P29-VI-060",
    "sent": "S019",
    "text": "cũng",
    "occ": 1,
@@ -777,7 +850,7 @@
    "note": "song song EN 'also' (S024)"
   },
   {
-   "id": "P29-VI-056",
+   "id": "P29-VI-061",
    "sent": "S019",
    "text": "mức tăng",
    "occ": 1,
@@ -791,7 +864,7 @@
    "note": "chuỗi TĂNG ('mức tăng 0,6%')"
   },
   {
-   "id": "P29-VI-057",
+   "id": "P29-VI-062",
    "sent": "S019",
    "text": "giá trị",
    "occ": 1,
@@ -805,7 +878,7 @@
    "note": "chuỗi GIÁ ('về giá trị')"
   },
   {
-   "id": "P29-VI-058",
+   "id": "P29-VI-063",
    "sent": "S020",
    "text": "Báo cáo",
    "occ": 1,
@@ -819,7 +892,7 @@
    "note": "chuỗi báo cáo; 'cho thấy' là động từ khung không đánh (§6)"
   },
   {
-   "id": "P29-VI-059",
+   "id": "P29-VI-064",
    "sent": "S020",
    "text": "giá",
    "occ": 1,
@@ -833,7 +906,21 @@
    "note": "chuỗi GIÁ — VI dùng 'giá' đơn lẻ; Tây Úc/Nam Úc/Queensland lần đầu (tên bang, không tính chuỗi Úc)"
   },
   {
-   "id": "P29-VI-060",
+   "id": "P29-VI-065",
+   "sent": "S020",
+   "text": "tăng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: mức tăng",
+   "conf": "high",
+   "alt": null,
+   "note": "chuỗi TĂNG (giá tăng tại ...); ∅ sau 'Nam Úc'/'Queensland' đã có hàng E riêng"
+  },
+  {
+   "id": "P29-VI-066",
    "sent": "S020",
    "text": "vùng nông thôn",
    "occ": 1,
@@ -847,7 +934,7 @@
    "note": "chuỗi vùng"
   },
   {
-   "id": "P29-VI-061",
+   "id": "P29-VI-067",
    "sent": "S020",
    "text": null,
    "occ": 1,
@@ -863,7 +950,7 @@
    "note": "[TC] tỉnh lược động từ 'tăng' trong vế tọa hợp; lỗ trống sau 'Queensland' không đánh thêm; EN dùng phối liệt gộp chung động từ"
   },
   {
-   "id": "P29-VI-062",
+   "id": "P29-VI-068",
    "sent": "S021",
    "text": "Vùng nông thôn",
    "occ": 1,
@@ -877,7 +964,7 @@
    "note": "chuỗi vùng; Victoria/Lãnh thổ phía Bắc lần đầu"
   },
   {
-   "id": "P29-VI-063",
+   "id": "P29-VI-069",
    "sent": "S021",
    "text": "thị trường",
    "occ": 1,
@@ -891,7 +978,7 @@
    "note": "chuỗi thị trường ('những thị trường có giá nhà giảm' — VI lược cụm 'rest of state')"
   },
   {
-   "id": "P29-VI-064",
+   "id": "P29-VI-070",
    "sent": "S021",
    "text": "giá nhà",
    "occ": 1,
@@ -905,7 +992,7 @@
    "note": "chuỗi GIÁ"
   },
   {
-   "id": "P29-VI-065",
+   "id": "P29-VI-071",
    "sent": "S021",
    "text": "giảm",
    "occ": 1,

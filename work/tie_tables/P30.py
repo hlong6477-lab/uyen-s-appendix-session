@@ -1,8 +1,10 @@
 # P30 tie table — WRITTEN BY HAND FROM work/analysis/P30_semantic.md.
 # Row: (sent, text, cat, sub, ante, conf, alt, note, occ,
 #       gap_after, recovered, level, ref)
-# KHỐI CẮT VI (tie chỉ EN): S013, S017-S018, S025, S028, S030,
+# KHỐI CẮT VI (tie chỉ EN): S013, S017-S018, S025, S030,
 # S038-S040, S050-S051. Gộp: EN S029+S031 → TT S025.
+# [Phase-2] Sửa bản đồ câu: EN S028 CÓ bản dịch (TT S024) — trước đây
+# ghi nhầm vào khối cắt; TT S024 được bổ sung 4 hàng.
 # TT S040 giữ nguyên TIẾNG ANH (anomaly nguồn) — vẫn đánh tie.
 
 ST = [
@@ -27,6 +29,19 @@ ST = [
      "S005: Mark McCrindle told SBS News", "high", None,
      "'it is still possible' — it giả chủ ngữ, không đánh", 1, None,
      None, "LC", None),
+    # [Phase-2] confidence ↔ uncertainty (S005): phép đối liên câu bất
+    # định ↔ tự tin (TNT §30 phép đối; H&H §6.4 opposites) — "However"
+    # nối S005→S006; VI đối xứng "tự tin" (S006 TT).
+    ("S006", "confidence", "L", "antonym",
+     "S005: a lot of uncertainty about the future", "high", None,
+     "phép đối: increase confidence đối lập uncertainty về tương lai; "
+     "TNT §30, H&H §6.4 opposites", 1, None, None, "LC", None),
+    # [Phase-2] the years ahead ← the future (S005): chuỗi tương lai (H&H
+    # §6.2 synonym; TNT §26) — VI đối xứng "những năm tới" ← "tương lai".
+    ("S006", "the years ahead", "L", "synonym",
+     "S005: uncertainty about the future", "high", None,
+     "đồng nghĩa the years ahead ≈ the future", 1, None, None, "LC",
+     None),
     # S007
     ("S007", "we can", "R", "personal",
      "cộng đồng (ngoại văn bản — quote McCrindle)", "med", None,
@@ -57,8 +72,10 @@ ST = [
      "spend longer and longer in a workplace", 1, None, None, "LC",
      None),
     # S013 — KHỐI CẮT (VI none)
+    # [Phase-2] sửa ante: S010 không nhắc McCrindle (chỉ có attribution
+    # ABS); tiền trạm gần nhất của chuỗi là S009.
     ("S013", "McCrindle", "L", "repetition",
-     "S010: McCrindle — S009", "high", None, "khối cắt, VI none", 1,
+     "S009: McCrindle said", "high", None, "khối cắt, VI none", 1,
      None, None, "LC", None),
     ("S013", "the emergence of more AI technologies", "L",
      "repetition", "S005: the emergence of artificial intelligence "
@@ -80,6 +97,13 @@ ST = [
      "S011: not more work", "high", None,
      "'workers' lần 1 trong câu cùng chuỗi work, không đánh", 1,
      None, None, "LC", None),
+    # [Phase-2] assist ← help (S013): chuỗi giúp/assist (H&H §6.2
+    # synonym; TNT §26) — mắt xích S013 nằm trong khối cắt; VI gốc chuỗi
+    # là "hỗ trợ" (S013 TT, lần đầu nên không có hàng).
+    ("S014", "assist", "L", "synonym",
+     "S013: starting to help with this pursuit", "med", None,
+     "assist ≈ help; chuỗi AI hỗ trợ con người (uses AI to assist "
+     "with their tasks)", 1, None, None, "LC", None),
     # S015
     ("S015", "that has emerged", "R", "personal",
      "S014: one in five workers uses AI daily", "high", None,
@@ -92,10 +116,30 @@ ST = [
     ("S015", "he said", "R", "personal",
      "S013: McCrindle said", "high", None, None, 1, None, None,
      "LC", "A"),
+    # [Phase-2] assist ← assist (S014): lặp động từ assist (H&H §6.2
+    # reiteration; TNT §26 phép lặp) — VI đối xứng "hỗ trợ" (S014 TT).
+    ("S015", "assist", "L", "repetition",
+     "S014: uses AI to assist with their tasks", "high", None,
+     "lặp assist (assist with productivity)", 1, None, None, "LC",
+     None),
     # S016
     ("S016", "McCrindle said", "L", "repetition",
      "S015: he said", "high", None, None, 1, None, None, "LC",
      None),
+    # [Phase-2] other ← AI applications (S013–S015): quy chiếu so sánh
+    # (H&H §2.5 "other") — "other applications" = khác với các ứng dụng
+    # AI đã nêu ở câu trước; VI đối xứng "khác" (S015 TT).
+    ("S016", "other", "R", "comparative",
+     "S013–S015: AI technologies / uses AI to assist with tasks",
+     "med", None,
+     "[LC] quy chiếu so sánh: other = ngoài các ứng dụng AI đã nêu; "
+     "H&H §2.5; VI S015 'khác' giữ 1-1", 1, None, None, "LC", "A"),
+    # [Phase-2] helped ← assist (S015): chuỗi giúp/assist (H&H §6.2;
+    # TNT §26) — VI đối xứng "giúp" (S015 TT).
+    ("S016", "helped", "L", "synonym",
+     "S015: where it can assist with productivity", "high", None,
+     "helped ≈ assist; helped people add more time", 1, None, None,
+     "LC", None),
     # S017 — KHỐI CẮT
     ("S017", "productivity", "L", "repetition",
      "S015: assist with productivity", "high", None,
@@ -140,6 +184,13 @@ ST = [
     ("S019", "workers", "L", "repetition",
      "S015: young workers", "high", None, "to benefit workers", 1,
      None, None, "LC", None),
+    # [Phase-2] benefit ← helped (S016): chuỗi giúp/lợi ích (H&H §6.2
+    # synonym; TNT §31 phép thế đẳng nghĩa là L) — VI đối xứng "lợi
+    # ích" (S016 TT).
+    ("S019", "benefit", "L", "synonym",
+     "S016: have all helped people", "med", None,
+     "benefit ≈ help; to benefit workers", 1, None, None, "LC",
+     None),
     # S020
     ("S020", "We've", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None,
@@ -170,6 +221,15 @@ ST = [
     ("S024", "rapid climate action", "L", "repetition",
      "S023: without rapid climate action", "high", None, None, 1,
      None, None, "LC", None),
+    # [Phase-2] agree ← agreement/agreeing (S023): chuỗi đồng thuận
+    # (H&H §6.2 reiteration; TNT §26) — S023 là gốc chuỗi (broad
+    # agreement + 80 per cent agreeing lần đầu, không đánh); VI đối xứng
+    # "đồng ý" (S021 TT).
+    ("S024", "agree", "L", "repetition",
+     "S023: broad agreement ... 80 per cent agreeing", "high",
+     None,
+     "lặp động từ agree (agreeing) — kết quả thăm dò IPSOS thứ hai", 1,
+     None, None, "LC", None),
     # S025 — KHỐI CẮT
     ("S025", "inequality", "L", "repetition",
      "S001: rising inequality", "high", None,
@@ -180,6 +240,15 @@ ST = [
      "the effects of climate change; 'climate resilience' lần 2 "
      "trong câu cùng trường, không đánh; khối cắt", 1, None, None,
      "LC", None),
+    # [Phase-2] the report ← polling (S023): danh từ tổng quát (H&H §6.1
+    # general noun) đổi tên kết quả thăm dò IPSOS; mạo từ the định danh →
+    # alt "R: the" (mapping §3.6, §3.13 một hình thức một hàng — không
+    # thêm hàng R thứ hai cho cùng NP); khối cắt, VI none.
+    ("S025", "the report", "L", "general word",
+     "S023: Global polling from IPSOS published in September", "med",
+     "R: the",
+     "danh từ tổng quát tóm kết quả thăm dò (polling → the report); "
+     "khối cắt, VI none", 1, None, None, "LC", None),
     # S026
     ("S026", "IPSOS", "L", "repetition",
      "S024: In Australia — IPSOS (S023)", "high", None, None, 1,
@@ -204,17 +273,26 @@ ST = [
      "cộng đồng (ngoại văn bản — quote IPSOS)", "med", None,
      "'our binding global targets' trong câu không đánh", 1, None,
      None, "LC", "E"),
-    # S028 — KHỐI CẮT
+    # S028 — [Phase-2] sửa bản đồ câu: CÓ bản dịch TT S024 (trước đây
+    # ghi nhầm khối cắt); 3 hàng cũ cập nhật note, thêm hàng an agreement.
     ("S028", "a significant shift", "L", "repetition",
-     "S026: strongest shifts", "high", None, "khối cắt, VI none", 1,
-     None, None, "LC", None),
+     "S026: strongest shifts", "high", None,
+     "có bản dịch TT S024 (một sự thay đổi đáng kể) — sửa bản đồ "
+     "Phase-2", 1, None, None, "LC", None),
     ("S028", "environmental disaster", "L", "repetition",
      "S024: environmental disaster", "high", None,
-     "headed for (≈ heading for); khối cắt", 1, None, None, "LC",
-     None),
+     "headed for (≈ heading for); có bản dịch TT S024 (thảm họa môi "
+     "trường)", 1, None, None, "LC", None),
     ("S028", "we change habits", "R", "personal",
-     "cộng đồng (ngoại văn bản)", "med", None, "khối cắt, VI none",
-     1, None, None, "LC", "E"),
+     "cộng đồng (ngoại văn bản)", "med", None,
+     "có bản dịch TT S024 (chúng ta nhanh chóng thay đổi thói quen) — "
+     "giữ pro-form 1-1", 1, None, None, "LC", "E"),
+    # [Phase-2] an agreement ← agree (S024): chuỗi đồng thuận (H&H §6.2;
+    # danh hóa agree → agreement) — VI đối xứng "thỏa thuận" (S024 TT).
+    ("S028", "an agreement", "L", "repetition",
+     "S024: 77 per cent of people agree", "high", None,
+     "lặp danh từ agreement (danh hóa của agree); có bản dịch TT S024 "
+     "(thỏa thuận)", 1, None, None, "LC", None),
     # S029 (phần attribution dùng chung TT S025; phần quote bị cắt)
     ("S029", "IPSOS", "L", "repetition",
      "S026: IPSOS said", "high", None,
@@ -224,6 +302,12 @@ ST = [
      "S027: climate change", "high", None,
      "'it's not just' là cleft-it, không đánh; phần này bị VI cắt",
      1, None, None, "LC", None),
+    # [Phase-2] SBS News ← SBS News (S005): chuỗi tên báo (H&H §6.2
+    # reiteration; TNT §26) — VI đối xứng "SBS News" (S025 TT, attribution
+    # gộp từ EN S029).
+    ("S029", "SBS News", "L", "repetition",
+     "S005: Mark McCrindle told SBS News", "high", None,
+     "tên riêng lặp (told SBS News)", 1, None, None, "LC", None),
     # S030 — KHỐI CẮT
     ("S030", "Hyde", "L", "repetition",
      "S029: Brad Hyde", "high", None,
@@ -256,6 +340,14 @@ ST = [
     ("S033", "positive trend", "L", "repetition",
      "S004: positive trends", "high", None, "another positive trend",
      1, None, None, "LC", None),
+    # [Phase-2] another ← positive trends (S004/S026): quy chiếu so sánh
+    # (H&H §2.5 "another") — "another positive trend" = thêm một so với
+    # các xu hướng tích cực đã nêu ở các phần trước; VI đối xứng "khác"
+    # (S027 TT).
+    ("S033", "another", "R", "comparative",
+     "S004: some positive trends (S026: global trends)", "med", None,
+     "[LC] quy chiếu so sánh: another = thêm một so với chuỗi xu hướng "
+     "tích cực đã nêu; H&H §2.5", 1, None, None, "LC", "A"),
     # S034
     ("S034", "McCrindle Research", "L", "repetition",
      "S033: McCrindle said", "high", None, None, 1, None, None,
@@ -315,12 +407,13 @@ ST = [
     ("S039", "big tech", "L", "repetition",
      "S037: big tech", "high", None, "khối cắt", 1, None, None,
      "LC", None),
-    ("S039", "the same way", "R", "comparative",
-     "so sánh với diễn ngôn xã hội về big tobacco (ngoại văn bản)",
-     "high", None,
-     "'the same' = quy chiếu so sánh; 'they're predatory…they are "
-     "toxic' trong câu không đánh; khối cắt", 1, None, None, "LC",
-     "E"),
+    # [Phase-2] RECLASSIFY — XOÁ hàng cũ ("S039", "the same way", R,
+    # comparative, ref E): đối tượng so sánh "people talked about big
+    # tobacco of the past" nằm TRONG CÂU (H&H §2.5; mapping §3.14:
+    # quan hệ trong câu là [TC]; precedent P21 §4.3 loại so sánh trong
+    # câu "giống với email") → không đánh R liên câu; hàng cũng không
+    # từng được ghi trong analysis §4 (thiếu nhất quán Phase-1). Ghi
+    # analysis §4.3.
     ("S039", "misinformation", "L", "repetition",
      "S037: misinformation", "high", None,
      "disseminating misinformation; khối cắt, VI none", 1, None,
@@ -337,6 +430,15 @@ ST = [
     ("S043", "ABS", "L", "repetition",
      "S010: the Australian Bureau of Statistics (ABS)", "high",
      None, "2021 ABS data", 1, None, None, "LC", None),
+    # [Phase-2] postgraduate degrees ← post-school education (S042): mắt
+    # xích chuỗi giáo dục được R "these trends" (S044) cite (S042–S043)
+    # nhưng chưa có hàng (bài học P28 nhóm 12); quan hệ bao-trên (H&H
+    # §6.2 superordinate) — VI đối xứng "bằng sau đại học" (S034 TT).
+    ("S043", "postgraduate degrees", "L", "superordinate",
+     "S042: formal and post-school education", "high", None,
+     "sau phổ thông hiện thực hóa thành bằng sau đại học (post-school "
+     "→ postgraduate); mắt xích chuỗi giáo dục S042→S043→S044", 1,
+     None, None, "LC", None),
     # S044
     ("S044", "McCrindle said", "L", "repetition",
      "S038: McCrindle said — S035", "high", None, None, 1, None,
@@ -383,7 +485,34 @@ ST = [
     ("S049", "polling", "L", "repetition",
      "S023: Global polling from IPSOS", "high", None, None, 1, None,
      None, "LC", None),
-    # S050/S051 — KHỐI CẮT (S050: 0 tie; S051:)
+    # [Phase-2] health decisions ← tiểu đề S048: mắt xích chuỗi health
+    # được "physical health" (S054) cite (S049) nhưng chưa có hàng (bài
+    # học P28 nhóm 12); tiểu đề raw theo quy ước nhưng citable làm tiền
+    # trạm (precedent P30: TT S041 ← tiểu đề S039); lặp hình vị health
+    # (H&H §6.2; TNT §26).
+    ("S049", "health decisions", "L", "repetition",
+     "S048 (tiểu đề): Evolving significance of mental health", "med",
+     None,
+     "lặp hình vị health từ tiểu đề S048 (tiểu đề raw, không đánh dấu "
+     "trên chữ)", 1, None, None, "LC", None),
+    # S050 — KHỐI CẮT
+    # [Phase-2] also ← S049: nối additive liên câu (H&H §5.4) — "More
+    # people are also placing" bổ sung kết quả thăm dò thứ hai; khối
+    # cắt, VI none.
+    ("S050", "also", "C", "additive",
+     "S049: more people are becoming aware of health decisions",
+     "high", None,
+     "bổ sung kết quả thăm dò IPSOS thứ hai (importance on mental "
+     "wellbeing); khối cắt, VI none", 1, None, None, "LC", None),
+    # [Phase-2] mental wellbeing ← health choices (S049)/tiểu đề S048:
+    # mắt xích chuỗi wellbeing được S051 cite (S050) nhưng chưa có hàng
+    # (bài học P28 nhóm 12); H&H §6.2 synonym (mental health ≈ mental
+    # wellbeing).
+    ("S050", "mental wellbeing", "L", "synonym",
+     "S049: health choices — tiểu đề S048: mental health", "med",
+     None,
+     "đồng nghĩa mental health (tiểu đề) → mental wellbeing; khối cắt, "
+     "VI none", 1, None, None, "LC", None),
     ("S051", "Hyde", "L", "repetition",
      "S030: Hyde said", "high", None,
      "Hyde said; khối cắt, VI none", 1, None, None, "LC", None),
@@ -417,10 +546,12 @@ ST = [
      "S053: their mental health", "high", None,
      "importance…on their mental health", 1, None, None, "LC",
      None),
-    ("S054", "the same level", "R", "comparative",
-     "S052: mental wellbeing", "high", None,
-     "so sánh mức quan tâm sức khỏe tâm thần ↔ thể chất; VI 'cùng mức' đối xứng", 1,
-     None, None, "LC", "A"),
+    # [Phase-2] RECLASSIFY — XOÁ hàng cũ ("S054", "the same level", R,
+    # comparative, ref A): tiêu chuẩn so sánh "the importance people
+    # place on their physical health" nằm TRONG CÂU (nhóm 1 checklist;
+    # mapping §3.14 quan hệ trong câu là [TC]; precedent P21 §4.3) →
+    # không đánh R liên câu; VI đối xứng "cùng mức" (S043 TT) cũng xoá.
+    # Ghi analysis §4.3.
     ("S054", "Hyde said", "L", "repetition",
      "S051: Hyde said", "high", None,
      "VI thêm 'giám đốc IPSOS' vào attribution → hàng IPSOS VI-only",
@@ -459,6 +590,19 @@ TT = [
     ("S006", "McCrindle", "L", "repetition",
      "S005: Mark McCrindle", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] tự tin ↔ không chắc chắn (S005): phép đối liên câu (TNT
+    # §30 phép đối; H&H §6.4 opposites) — "Tuy nhiên" nối S005→S006;
+    # đối xứng EN "confidence" (S006 ST).
+    ("S006", "tự tin", "L", "antonym",
+     "S005: điều không chắc chắn về tương lai", "high", None,
+     "phép đối: tăng sự tự tin đối lập không chắc chắn; TNT §30, "
+     "H&H §6.4 opposites", 1, None, None, "LC", None),
+    # [Phase-2] những năm tới ← tương lai (S005): chuỗi tương lai (H&H
+    # §6.2 synonym; TNT §26) — đối xứng EN "the years ahead" (S006 ST).
+    ("S006", "những năm tới", "L", "synonym",
+     "S005: không chắc chắn về tương lai", "high", None,
+     "đồng nghĩa những năm tới ≈ tương lai", 1, None, None, "LC",
+     None),
     # S007
     ("S007", "chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None,
@@ -510,6 +654,13 @@ TT = [
     ("S014", "ông cho biết", "R", "personal",
      "S009: McCrindle cho biết", "high", None, None, 1, None, None,
      "LC", "A"),
+    # [Phase-2] hỗ trợ ← hỗ trợ (S013): chuỗi giúp/hỗ trợ (TNT §26 phép
+    # lặp; H&H §6.2) — S013 TT là gốc chuỗi (lần đầu, không đánh); đối
+    # xứng EN assist (S015 ST).
+    ("S014", "hỗ trợ", "L", "repetition",
+     "S013: sử dụng AI để hỗ trợ các nhiệm vụ", "high", None,
+     "lặp hỗ trợ (công nghệ có thể hỗ trợ năng suất)", 1, None, None,
+     "LC", None),
     # S015 (= EN S016)
     ("S015", "McCrindle", "L", "repetition",
      "S013: McCrindle Research", "high", None, None, 1, None, None,
@@ -518,6 +669,20 @@ TT = [
      "S014: công nghệ có thể hỗ trợ năng suất", "high", None,
      "các ứng dụng công nghệ khác — EN 'technology' lần đầu không "
      "đánh, VI có hàng vì S014 VI tự thêm 'công nghệ'", 1, None,
+     None, "LC", None),
+    # [Phase-2] khác ← AI (S013–S014): quy chiếu so sánh (H&H §2.5) —
+    # "các ứng dụng công nghệ khác" = khác với các ứng dụng AI đã nêu ở
+    # câu trước; đối xứng EN "other" (S016 ST).
+    ("S015", "khác", "R", "comparative",
+     "S013–S014: sử dụng AI hỗ trợ nhiệm vụ / công nghệ hỗ trợ "
+     "năng suất", "med", None,
+     "[LC] quy chiếu so sánh: khác = ngoài các ứng dụng AI đã nêu; "
+     "H&H §2.5; EN S016 'other' giữ 1-1", 1, None, None, "LC", "A"),
+    # [Phase-2] giúp ← hỗ trợ (S014): chuỗi giúp/hỗ trợ (TNT §26; H&H
+    # §6.2 synonym) — đối xứng EN helped (S016 ST).
+    ("S015", "giúp", "L", "synonym",
+     "S014: công nghệ có thể hỗ trợ năng suất", "high", None,
+     "giúp ≈ hỗ trợ; đều giúp mọi người có thêm thời gian", 1, None,
      None, "LC", None),
     # S016 (= EN S019)
     ("S016", "Ông cho biết", "R", "personal",
@@ -539,6 +704,12 @@ TT = [
      "S014: người lao động trẻ", "high", None,
      "mang lại lợi ích cho người lao động", 1, None, None, "LC",
      None),
+    # [Phase-2] lợi ích ← giúp (S015): chuỗi giúp/lợi ích (TNT §26/§31;
+    # H&H §6.2 synonym) — đối xứng EN benefit (S019 ST).
+    ("S016", "lợi ích", "L", "synonym",
+     "S015: giúp mọi người có thêm thời gian", "med", None,
+     "mang lại lợi ích ≈ giúp; lợi ích cho người lao động", 1, None,
+     None, "LC", None),
     # S017 (= EN S020)
     ("S017", "Chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None,
@@ -578,6 +749,13 @@ TT = [
      "S020: biến đổi khí hậu", "high", None,
      "hành động ứng phó nhanh chóng với biến đổi khí hậu", 1, None,
      None, "LC", None),
+    # [Phase-2] đồng ý ← đồng thuận (S020): chuỗi đồng thuận (TNT §26)
+    # — S020 TT là gốc chuỗi (sự đồng thuận + 80% đồng ý lần đầu, không
+    # đánh); đối xứng EN agree (S024 ST).
+    ("S021", "đồng ý", "L", "repetition",
+     "S020: sự đồng thuận rộng rãi ... 80% đồng ý", "high", None,
+     "lặp đồng ý (người dân đồng ý) — kết quả thăm dò IPSOS thứ hai", 1,
+     None, None, "LC", None),
     # S022 (= EN S026)
     ("S022", "IPSOS", "L", "repetition",
      "S020: IPSOS", "high", None, None, 1, None, None, "LC", None),
@@ -601,11 +779,47 @@ TT = [
      "cộng đồng (ngoại văn bản — quote IPSOS)", "med", None,
      "'của mình' trong câu không đánh; nguồn có lỗi 'ets' thừa, ghi "
      "§8", 1, None, None, "LC", "E"),
+    # S024 (= EN S028 — [Phase-2] sửa bản đồ câu: EN S028 CÓ bản dịch,
+    # trước đây Phase-1 ghi nhầm là khối cắt nên TT S024 không có hàng)
+    # [Phase-2] sự thay đổi đáng kể ← những thay đổi mạnh mẽ nhất (S022):
+    # chuỗi thay đổi (TNT §26 phép lặp; H&H §6.2) — đối xứng EN
+    # "a significant shift" (S028 ST).
+    ("S024", "sự thay đổi đáng kể", "L", "repetition",
+     "S022: những thay đổi mạnh mẽ nhất", "high", None,
+     "lặp thay đổi (một sự thay đổi đáng kể kể từ năm 2023); 'thay đổi "
+     "thói quen' lần 2 trong câu cùng chuỗi, không đánh", 1, None,
+     None, "LC", None),
+    # [Phase-2] thảm họa môi trường ← thảm họa môi trường (S021): đối
+    # xứng EN "environmental disaster" (S028 ST); TNT §26 phép lặp.
+    ("S024", "thảm họa môi trường", "L", "repetition",
+     "S021: thảm họa môi trường", "high", None,
+     "lặp thảm họa môi trường; đối xứng EN S028", 1, None, None, "LC",
+     None),
+    # [Phase-2] thỏa thuận ← đồng ý (S021): chuỗi đồng thuận (TNT §26;
+    # danh hóa đồng ý → thỏa thuận ≈ EN agreement) — đối xứng EN "an
+    # agreement" (S028 ST).
+    ("S024", "thỏa thuận", "L", "synonym",
+     "S021: người dân đồng ý", "med", None,
+     "thỏa thuận ≈ đồng ý (danh hóa); theo hướng thỏa thuận rằng", 1,
+     None, None, "LC", None),
+    # [Phase-2] chúng ta ← cộng đồng (ngoại văn bản): đối xứng EN "we
+    # change habits" (S028 ST, R personal ref E) — narration VI giữ
+    # "chúng ta" 1-1 với EN (H&H §2.3 personal; NTT 2020 §2.1).
+    ("S024", "chúng ta", "R", "personal",
+     "cộng đồng (ngoại văn bản — narration IPSOS)", "med", None,
+     "ngoại quy chiếu: chúng ta = nhân loại/cộng đồng; đối xứng EN we "
+     "change habits (S028)", 1, None, None, "LC", "E"),
     # S025 (= EN S029 attribution + S031 quote)
     ("S025", "IPSOS", "L", "repetition",
      "S022: IPSOS cho biết", "high", None,
      "giám đốc IPSOS — phần 'not just Nordic countries' của EN S029 "
      "bị cắt", 1, None, None, "LC", None),
+    # [Phase-2] SBS News ← SBS News (S005): chuỗi tên báo (TNT §26; H&H
+    # §6.2 reiteration) — đối xứng EN "SBS News" (S029 ST); attribution
+    # gộp từ EN S029.
+    ("S025", "SBS News", "L", "repetition",
+     "S005: nói với SBS News", "high", None,
+     "tên riêng lặp (nói với SBS News)", 1, None, None, "LC", None),
     ("S025", "chúng ta có thể", "R", "personal",
      "cộng đồng (ngoại văn bản — quote Hyde)", "med", None,
      "occ 1: lần 2 ('chúng ta có mong đợi') trong câu không đánh",
@@ -634,6 +848,14 @@ TT = [
     ("S027", "xu hướng tích cực", "L", "repetition",
      "S004: những xu hướng tích cực", "high", None,
      "một xu hướng tích cực khác", 1, None, None, "LC", None),
+    # [Phase-2] khác ← những xu hướng tích cực (S004/S022): quy chiếu so
+    # sánh (H&H §2.5) — "một xu hướng tích cực khác" = thêm một so với
+    # các xu hướng tích cực đã nêu; đối xứng EN "another" (S033 ST).
+    ("S027", "khác", "R", "comparative",
+     "S004: những xu hướng tích cực (S022: các xu hướng toàn cầu)",
+     "med", None,
+     "[LC] quy chiếu so sánh: khác = thêm một so với chuỗi xu hướng "
+     "tích cực đã nêu; H&H §2.5", 1, None, None, "LC", "A"),
     # S028 (= EN S034)
     ("S028", "McCrindle Research", "L", "repetition",
      "S027: McCrindle cho biết", "high", None, None, 1, None, None,
@@ -663,17 +885,36 @@ TT = [
      None, None, "LC", "A"),
     ("S031", "thay đổi", "L", "repetition",
      "S025: thay đổi cuộc sống hàng ngày", "high", None,
-     "một loạt các dự luật và thay đổi; 'công nghệ lớn' lần đầu "
-     "không đánh", 1, None, None, "LC", None),
+     "một loạt các dự luật và thay đổi; 'công nghệ lớn' (danh xưng big "
+     "tech) lần đầu không đánh riêng, hình vị công nghệ có hàng "
+     "riêng bên dưới", 1, None, None, "LC", None),
     ("S031", "thông tin sai lệch", "L", "repetition",
      "S002: thông tin sai lệch và thông tin giả", "high", None, None,
      1, None, None, "LC", None),
     ("S031", "AI", "L", "repetition",
      "S014: AI", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] công nghệ ← công nghệ (S016): mắt xích chuỗi công nghệ
+    # (TNT §26 phép lặp; analysis §6 liệt kê S031 trong chuỗi) được
+    # "công nghệ" (S038) cite làm tiền trạm nhưng chưa có hàng (bài học
+    # P28 nhóm 12); EN đối ứng "big tech" (S037) là danh xưng mới nên EN
+    # không có hàng (bất đối xứng — VI lặp đậm, NTT 2020 §2.1).
+    ("S031", "công nghệ", "L", "repetition",
+     "S016: công nghệ và đại dịch", "high", None,
+     "lặp hình vị công nghệ (do công nghệ lớn gây ra)", 1, None, None,
+     "LC", None),
     # S034 (= EN S043)
     ("S034", "ABS", "L", "repetition",
      "S010: Cục Thống kê Úc (ABS)", "high", None,
      "dữ liệu của ABS năm 2021", 1, None, None, "LC", None),
+    # [Phase-2] bằng sau đại học ← giáo dục (S033): mắt xích chuỗi giáo
+    # dục được R "những xu hướng giáo dục này" (S035) cite (S033–S034)
+    # nhưng chưa có hàng (bài học P28 nhóm 12); quan hệ bao-trên (H&H
+    # §6.2 superordinate) — đối xứng EN "postgraduate degrees" (S043
+    # ST).
+    ("S034", "bằng sau đại học", "L", "superordinate",
+     "S033: giáo dục chính quy và sau phổ thông", "high", None,
+     "sau phổ thông hiện thực hóa thành bằng sau đại học; mắt xích "
+     "chuỗi giáo dục S033→S034→S035", 1, None, None, "LC", None),
     # S035 (= EN S044)
     ("S035", "McCrindle", "L", "repetition",
      "S029: Ông cho biết — McCrindle (S027)", "high", None, None, 1,
@@ -718,6 +959,14 @@ TT = [
      "S020: Cuộc thăm dò toàn cầu", "high", None,
      "polling ≈ thăm dò (câu tiếng Anh)", 1, None, None, "LC",
      None),
+    # [Phase-2] health decisions ← tiểu đề S039: chuỗi sức khỏe (TNT
+    # §26) — câu giữ nguyên tiếng Anh (anomaly §8) vẫn đánh tie bình
+    # thường theo quy ước analysis §8.1; đối xứng EN "health decisions"
+    # (S049 ST).
+    ("S040", "health decisions", "L", "repetition",
+     "S039 (tiểu đề): sức khỏe tâm thần", "med", None,
+     "lặp hình vị health từ tiểu đề S039 (tiểu đề raw); câu tiếng Anh "
+     "trong flow VI — đối xứng EN S049", 1, None, None, "LC", None),
     # S041 (= EN S052)
     ("S041", "IPSOS", "L", "repetition",
      "S040: IPSOS", "high", None,
@@ -745,9 +994,12 @@ TT = [
      "S042: sức khỏe tâm thần", "high", None,
      "'tầm quan trọng' lặp 2 lần trong câu (TC) ghi note", 1, None,
      None, "LC", None),
-    ("S043", "cùng mức", "R", "comparative",
-     "S041: sức khỏe tâm thần", "high", None,
-     "đối xứng EN 'the same level' — so sánh mức quan tâm tâm thần ↔ thể chất", 1, None, None, "LC", "A"),
+    # [Phase-2] RECLASSIFY — XOÁ hàng cũ ("S043", "cùng mức", R,
+    # comparative, ref A): tiêu chuẩn so sánh "tầm quan trọng mà mọi
+    # người dành cho sức khỏe thể chất" nằm TRONG CÂU (nhóm 1 checklist;
+    # mapping §3.14 quan hệ trong câu là [TC]; precedent P21 §4.3) →
+    # không đánh R liên câu; EN đối xứng "the same level" (S054 ST) cũng
+    # xoá. Ghi analysis §4.3.
     ("S043", "Brad Hyde", "L", "repetition",
      "S025: Brad Hyde, giám đốc IPSOS", "high", None,
      "VI thêm attribution vào cuối câu — EN chỉ 'Hyde said'", 1,
