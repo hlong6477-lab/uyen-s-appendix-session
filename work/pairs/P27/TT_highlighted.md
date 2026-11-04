@@ -1,0 +1,84 @@
+# P27 — TT (Vietnamese)
+
+**Title:** Nga bí mật làm bảy công việc và kiếm tới 500.000 đô la: nhờ lợi dụng làm việc ở nhà, có đúng luật?
+
+**Legend:** 🟨 R | 🟩 S | 🟦 E (∅ = gap) | 🟧 C | 🟪 L
+
+---
+
+Tự gọi mình là “over-employed”, những người Úc này đang làm việc toàn thời gian cho nhiều nơi cùng một lúc...tất nhiên chủ lao động của họ không hề biết. 🟨⟦Việc này⟧ làm dấy lên câu hỏi về sự trung thành với công ty trong thời đại làm việc từ xa.
+Nghe có vẻ bất khả thi, nhưng Nga (tên đã được thay đổi) từng cùng lúc làm đến 🟪⟦bảy công việc⟧, trong đó có bốn công việc 🟪⟦toàn thời gian⟧.
+
+🟨⟦Cô⟧ làm việc trong ngành phần mềm ở Úc và đã xoay sở 🟪⟦nhiều công việc⟧ suốt năm năm qua, có lúc làm đến 20 giờ mỗi ngày, bảy ngày trong tuần.
+Khi đảm nhận từ 🟪⟦năm công việc⟧ trở lên, một ngày của 🟪⟦Nga⟧ cực kỳ bận rộn. 🟨⟦Cô⟧ dậy lúc 4 giờ sáng và lập tức kiểm tra email. Sau khi tắm nhanh, 🟨⟦cô⟧ vừa ăn sáng vừa làm việc tại bàn ăn cho 🟪⟦công việc đầu tiên⟧ đến 8 giờ 30 sáng.
+Sau đó, 🟨⟦cô⟧ vào văn phòng cho 🟪⟦công việc chính thức⟧ từ 9 giờ đến 5 giờ tại một cơ quan chính phủ, tranh thủ giờ nghỉ trưa làm việc trong sảnh hoặc trên xe.
+“🟨⟦Tôi⟧ lúc nào cũng mang theo máy tính và USB để lên mạng, nên có thể họp nhóm vào giờ nghỉ,” 🟨⟦cô kể⟧.
+Trên đường lái xe về nhà, 🟨⟦cô⟧ vẫn tranh thủ 🟪⟦họp⟧. Về đến nơi, 🟨⟦cô⟧ ăn tối với chồng (cũng đi làm) và các con, sau đó lại đăng nhập để tiếp tục làm việc đến 1 giờ sáng, rồi ngủ ba tiếng, dậy lặp lại chu trình cũ.
+“Có lúc 🟨⟦tôi⟧ hoàn toàn không ngủ, hoặc làm liên tục 48 tiếng rồi ngủ bù 7 tiếng,” 🟪⟦Nga nói⟧.
+Luôn có sẵn lý do để tránh trùng 🟪⟦lịch họp⟧:
+“🟨⟦Tôi⟧ thường đổ cho con cái, nói mình bị bệnh, ‘xin lỗi mất mạng’, hoặc có hẹn bác sĩ.”
+Âm thầm nhân đôi, nhân ba thu nhập
+🟪⟦Nga⟧ cho biết cô thay đổi từ việc này sang việc khác khoảng 20 phút một lần.
+“Nhiều việc trong 🟪⟦ngành công nghệ⟧ theo dạng giải quyết 'ticket', nếu 🟨⟦bạn⟧ nhanh nhẹn thì sẽ có thời gian trống để làm việc khác. Không giống như phục vụ khách hàng, lúc nào cũng phải nói chuyện,” 🟨⟦cô giải thích⟧.
+“🟨⟦Tôi⟧ phải học cách làm việc nhanh hơn, hiệu quả hơn, tận dụng công cụ. Nhờ có AI, 🟨⟦việc này⟧ dễ hơn rất nhiều.”
+🟨⟦Công việc này⟧ mang lại lợi nhuận khổng lồ, 🟪⟦Nga nói⟧ cô từng kiếm tới 500.000 đô la trong năm bận rộn nhất.
+The Feed đã xem sao kê ngân hàng và hóa đơn thanh toán, cho thấy cô có tới bảy nguồn thu nhập khác nhau chỉ trong hai tuần.
+Dù lịch trình có vẻ khắc nghiệt, 🟪⟦Nga nói⟧ mục tiêu của cô là nuôi gia đình và không phải lo hóa đơn.
+Hiện tại, 🟨⟦cô⟧ đã giảm xuống còn 🟪⟦hai công việc toàn thời gian⟧. “🟨⟦Tôi⟧ không nghĩ sẽ 🟩⟦làm như vậy⟧ mãi, cái tôi muốn là lo cho con học xong.”
+🟧⟦Nhưng⟧ 🟪⟦Nga⟧ không đơn độc. 🟨⟦Cô⟧ là một phần trong cộng đồng quốc tế đang âm thầm nhân đôi, nhân ba 🟪⟦thu nhập⟧ bằng cách giấu kín 🟨⟦chuyện này⟧ với 🟪⟦chủ lao động⟧, bất chấp rủi ro.
+“Làm nhiều việc để đạt tự do tài chính”
+Hơn nửa triệu người đã tham gia diễn đàn Reddit chuyên bàn về việc bí mật giữ 🟪⟦nhiều công việc toàn thời gian⟧. Khẩu hiệu của 🟪⟦diễn đàn⟧ là: “Work multiple jobs, reach financial freedom” (Làm nhiều việc, đạt tự do tài chính).
+Các 🟪⟦thành viên⟧ tự gọi mình là “🟪⟦overemployed⟧”. 🟨⟦Đây⟧ là biến tấu hiện đại của “moonlighting” (làm thêm giờ), khi làm việc từ xa cho phép họ 🟪⟦làm nhiều việc⟧ cùng lúc thay vì sau giờ làm.
+Nhiều 🟪⟦người Úc⟧ chia sẻ lời khuyên nghề nghiệp, mẹo tránh bị phát hiện, kinh nghiệm bị kiệt sức và cả chuyện bị sa thải khi 🟪⟦chủ lao động⟧ phát hiện.
+Những người trò chuyện với 🟪⟦The Feed⟧ đều muốn giấu danh tính để tránh bị 🟪⟦chủ cũ⟧ hay chủ hiện tại trừng phạt.
+Nguy cơ 🟪⟦bị lộ⟧ là rất thật. Tháng trước, 🟪⟦kỹ sư phần mềm⟧ Soham Parekh bị nhiều CEO ở Silicon Valley công khai tố cáo trên mạng X rằng ông ta 🟪⟦bị sa thải⟧ vì cùng lúc làm việc ở nhiều 🟪⟦startup công nghệ⟧.
+Một 🟪⟦người Úc khác⟧, “Tài” (tên đã thay đổi), từng là kỹ sư, cho biết họ đã từng 🟪⟦nhân đôi thu nhập⟧ bằng cách 🟪⟦xoay sở⟧ 🟪⟦bốn công việc toàn thời gian⟧, để có thêm tiền và cũng là hành động phản kháng hệ thống.
+“🟨⟦Tôi⟧ luôn chắc rằng mình làm việc chất lượng. 🟨⟦Đây⟧ không phải là chuyện lười biếng rồi hưởng lương đến khi 🟪⟦bị bắt⟧ và 🟪⟦sa thải⟧,” 🟪⟦Tài nói⟧.
+“🟪⟦Các CEO⟧ đều có 🟪⟦nhiều công việc⟧, nhiều dự án cùng lúc … vậy tại sao 🟨⟦chúng ta⟧ phải răm rắp theo luật mà CEO đặt ra?”
+Giáo sư Mark Wooden, chuyên gia hàng đầu về thị trường lao động tại Đại học Melbourne, cho rằng hầu hết 🟪⟦chủ lao động⟧ vẫn mong 🟪⟦nhân viên toàn thời gian⟧ chỉ làm cho một công ty.
+“🟨⟦Họ⟧ rất lo nếu 🟪⟦nhân viên⟧ làm thêm việc khác, vì nghĩ năng suất ở công việc chính sẽ giảm,” 🟨⟦ông nói⟧.
+🟪⟦Tài⟧ tin rằng những lý tưởng cũ như 🟪⟦sự trung thành với một công ty⟧ đã lỗi thời.
+“Đa số 🟪⟦nhân viên⟧ văn phòng dành phần lớn thời gian làm những việc vô bổ như 🟪⟦đi họp⟧,” 🟪⟦Tài nói⟧.
+“Nếu 🟨⟦bạn⟧ có thể hoàn thành công việc trong ít hơn 🟪⟦40 giờ⟧ mà vẫn hiệu quả như cũ, thì 🟨⟦chúng ta⟧ nên có quyền 🟩⟦làm vậy⟧ như những tác nhân tự do trên thị trường.”
+🟧⟦Tuy nhiên⟧, 🟪⟦Tài⟧ cũng thừa nhận 🟪⟦làm nhiều việc một lúc⟧ không dễ:
+“🟨⟦Tôi⟧ từng tham gia 🟪⟦hai cuộc họp⟧ cùng lúc… một tai nghe để nghe, tai kia để nói. Điên rồ lắm.”
+“Làm ba việc để đủ sống”
+Trong khi việc 🟪⟦xoay sở⟧ nhiều công việc văn phòng toàn thời gian nghe có vẻ lạ, thì có nhiều ngành nghề phổ biến chuyện 🟪⟦làm nhiều việc⟧: bán thời gian, hợp đồng, mùa vụ hay gig (dịch vụ tự do) và dịch vụ ăn uống.
+Theo Nha Thống kê Úc, vào tháng 3, 6,5% người có việc làm đang 🟪⟦làm nhiều công việc⟧, mức cao nhất kể từ cuối năm 2022.
+🟧⟦Trong khi đó⟧, tỷ lệ thất nghiệp ở Úc tháng 7 là 4,2%.
+🟧⟦Tuy nhiên⟧, khái niệm “🟪⟦overemployment⟧” của 🟪⟦cộng đồng Reddit⟧ khác so với cách hiểu của các nhà kinh tế.
+Theo 🟪⟦giáo sư Wooden⟧, “🟪⟦overemployment⟧” truyền thống nghĩa là làm 🟪⟦nhiều giờ⟧ hơn mong muốn so với nhu cầu 🟪⟦thu nhập⟧.
+
+Theo khảo sát HILDA 2023, gần 25% 🟪⟦người làm nhiều việc⟧ muốn giảm 🟪⟦giờ làm⟧, so với khoảng 23% người chỉ làm một việc.
+🟧⟦Nhưng⟧ 18% 🟪⟦người làm nhiều việc⟧ lại muốn làm thêm, cao hơn mức 14% của 🟪⟦người làm một việc⟧ cho thấy cả hai nhóm đều có mức bất mãn với 🟪⟦số giờ làm⟧.
+Một người đàn ông tên “Thanh”, với 🟪⟦gói lương⟧ 140.000 đô, đang tìm thêm 🟪⟦công việc toàn thời gian⟧ thứ hai.
+🟨⟦Anh⟧ hy vọng 🟨⟦đó⟧ sẽ là tấm vé để sở hữu nhà ở Sydney, nơi giá nhà trung bình vượt 1,7 triệu đô.
+“🟨⟦Tôi⟧ không thấy cách nào khác ngoài việc làm nhiều hơn và kiếm nhiều hơn,” 🟨⟦anh nói⟧.
+
+🟪⟦Nga⟧, từ 🟪⟦bảy công việc⟧ giờ chỉ còn hai, nói rằng 🟪⟦gia đình⟧ cô không thể sống nổi nếu chỉ có một người làm một việc. “Một đầu 🟪⟦lương⟧ chỉ đủ trả tiền thuê nhà.”
+
+
+
+Tác động sức khỏe của làm việc nhiều giờ
+🟪⟦Cộng đồng⟧ “overemployed” đang đi ngược xu hướng giảm 🟪⟦giờ làm⟧, trong khi nhiều người kêu gọi Úc áp dụng tuần làm bốn ngày.
+🟪⟦Giáo sư Wooden⟧ cho biết tỷ lệ người làm việc 🟪⟦50 giờ/tuần⟧ trở lên đã giảm đáng kể trong 25 năm qua: từ hơn 18% năm 2001 xuống chỉ hơn 10% năm 2025.
+Phó giáo sư Nicole Black, nhà kinh tế y tế tại Đại học Monash, phân tích rằng áp lực chi phí sinh hoạt khiến nhiều người phải 🟪⟦làm nhiều giờ⟧ hoặc 🟪⟦nhiều việc⟧, nhưng hệ quả sức khỏe là rõ ràng.
+“Nếu 🟨⟦bạn⟧ dành nhiều thời gian để làm việc, bạn sẽ có ít thời gian để tập thể dục, nấu ăn lành mạnh, chăm sóc bản thân. 🟧⟦Và⟧ nghiên cứu đã chỉ ra 🟪⟦làm việc nhiều giờ⟧ gắn với 🟪⟦sức khỏe⟧ kém hơn.”
+
+🟪⟦Nga⟧ cho biết dù cô vẫn thích công việc, nhưng bắt đầu thấy dấu hiệu 🟪⟦kiệt sức⟧.
+Một trong những điều khiến 🟨⟦cô⟧ suy nghĩ nhiều là lời 🟪⟦con⟧ nói: “Mẹ chỉ biết làm việc thôi.”
+
+🟪⟦Tài⟧, sau một năm 🟪⟦xoay sở bốn công việc⟧, 🟧⟦cũng⟧ đã quyết định nghỉ ngơi: “Có quá nhiều tác động tiêu cực đến đời sống cá nhân, căng thẳng thêm không đáng. 🟨⟦Tôi⟧ bị 🟪⟦kiệt sức⟧ và không hứng thú quay lại lối sống đó nữa.”
+Theo 🟪⟦giáo sư Wooden⟧, 🟪⟦tác động⟧ tinh thần của 🟪⟦làm việc quá nhiều⟧ cũng nghiêm trọng không kém tình trạng 🟪⟦thất nghiệp⟧.
+
+Làm nhiều công việc toàn thời gian có hợp pháp không?
+Theo luật sư lao động Danny King, 🟨⟦điều này⟧ phụ thuộc vào hợp đồng lao động cá nhân.
+“🟨⟦Bạn⟧ phải cẩn thận xem 🟪⟦hợp đồng⟧ có điều khoản độc quyền không. Nhiều 🟪⟦mẫu hợp đồng⟧ ghi rõ 🟪⟦nhân viên⟧ không được làm thêm bất kỳ công việc nào khác, có lương hay không,” 🟨⟦bà nói⟧.
+
+Nếu 🟪⟦nhân viên⟧ 🟪⟦bị phát hiện⟧ nhưng vẫn chứng minh mình không nói dối, hoàn thành công việc đúng như 🟪⟦hợp đồng⟧, thì có thể vẫn được coi là hợp lệ.
+🟧⟦Nhưng⟧ 🟪⟦vi phạm hợp đồng⟧ có thể bị xem là sai phạm, dẫn đến cảnh cáo, kỷ luật hoặc 🟪⟦sa thải⟧.
+Dù lý thuyết thì 🟪⟦công ty⟧ có thể kiện 🟪⟦nhân viên⟧ vì mất lợi nhuận, nhưng theo 🟪⟦bà King⟧, thực tế chi phí kiện tụng thường quá cao và khó để theo đuổi.
+🟪⟦Nga⟧ và 🟪⟦Tài⟧ đều khẳng định họ chưa bao giờ làm cho đối thủ cạnh tranh hoặc 🟪⟦vi phạm hợp đồng⟧.
+“🟨⟦Tôi⟧ không muốn 🟪⟦người chủ⟧ nghĩ mình ăn cắp thời gian… nên mới làm việc điên cuồng,” 🟪⟦chị Nga⟧ nói.
+“Nếu 🟪⟦công ty⟧ không quan tâm 🟨⟦bạn⟧ làm gì ngoài giờ, miễn là bạn hoàn thành kỳ vọng, thì đó coi như đèn xanh. 🟨⟦Tôi⟧ không nghĩ có gì sai về đạo đức. Chỉ là nhiều người tỏ ra quá khắt khe thôi, còn 🟨⟦tôi⟧ nghĩ đã đến lúc 🟪⟦các công ty⟧ phải thay đổi.”
+
