@@ -60,6 +60,49 @@
   },
   {
    "id": "P31-EN-005",
+   "sent": "S002",
+   "text": "flight",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: an Iraqi Airways flight",
+   "conf": "high",
+   "alt": "R: the",
+   "note": "lặp flight (the return flight); mắt xích S002 của chuỗi the flight (S006/S010/S012/S013); H&H §6.2"
+  },
+  {
+   "id": "P31-EN-006",
+   "sent": "S002",
+   "text": "delayed",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: caused delays",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp danh-động từ delays → delayed (was delayed); VI đối ứng trì hoãn (S002 TT) đã có từ trước"
+  },
+  {
+   "id": "P31-EN-007",
+   "sent": "S003",
+   "text": "another",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: a video circulated online",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: another = video khác với video đã nêu ở câu trước (H&H §2.5); VI 'khác' 1-1",
+   "ref": "A"
+  },
+  {
+   "id": "P31-EN-008",
    "sent": "S003",
    "text": "video",
    "occ": 1,
@@ -69,11 +112,11 @@
    "level": "LC",
    "ante": "S002: a video",
    "conf": "high",
-   "alt": "R: another",
-   "note": "another video — lặp đầu từ video, thêm 'khác'"
+   "alt": null,
+   "note": "another video — lặp đầu từ video; 'another' đánh R riêng"
   },
   {
-   "id": "P31-EN-006",
+   "id": "P31-EN-009",
    "sent": "S003",
    "text": "bear",
    "occ": 1,
@@ -87,7 +130,7 @@
    "note": "a bear cub — thêm 'cub' (gấu con)"
   },
   {
-   "id": "P31-EN-007",
+   "id": "P31-EN-010",
    "sent": "S003",
    "text": "crate",
    "occ": 1,
@@ -101,7 +144,21 @@
    "note": "its crate"
   },
   {
-   "id": "P31-EN-008",
+   "id": "P31-EN-011",
+   "sent": "S003",
+   "text": "people",
+   "occ": 1,
+   "cat": "L",
+   "sub": "superordinate",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: a male passenger",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát chỉ người trên máy bay — mở rộng từ hành khách S002 (H&H §6.1); VI 'người' 1-1"
+  },
+  {
+   "id": "P31-EN-012",
    "sent": "S004",
    "text": "The bear",
    "occ": 1,
@@ -115,7 +172,7 @@
    "note": "đặt lại tên nhân vật chính"
   },
   {
-   "id": "P31-EN-009",
+   "id": "P31-EN-013",
    "sent": "S004",
    "text": "Dubai",
    "occ": 1,
@@ -129,7 +186,7 @@
    "note": "a specialist team in Dubai"
   },
   {
-   "id": "P31-EN-010",
+   "id": "P31-EN-014",
    "sent": "S004",
    "text": "the plane",
    "occ": 1,
@@ -143,7 +200,7 @@
    "note": "taken off the plane; lần đầu xuất hiện 'plane' là S003"
   },
   {
-   "id": "P31-EN-011",
+   "id": "P31-EN-015",
    "sent": "S004",
    "text": "Iraqi Airways",
    "occ": 1,
@@ -157,7 +214,7 @@
    "note": "attribution cuối câu"
   },
   {
-   "id": "P31-EN-012",
+   "id": "P31-EN-016",
    "sent": "S005",
    "text": "The airline",
    "occ": 1,
@@ -171,7 +228,7 @@
    "note": "danh từ tổng quát thay tên hãng"
   },
   {
-   "id": "P31-EN-013",
+   "id": "P31-EN-017",
    "sent": "S005",
    "text": "apology",
    "occ": 1,
@@ -185,7 +242,7 @@
    "note": "issued an apology"
   },
   {
-   "id": "P31-EN-014",
+   "id": "P31-EN-018",
    "sent": "S005",
    "text": "the bear",
    "occ": 1,
@@ -199,7 +256,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-015",
+   "id": "P31-EN-019",
    "sent": "S005",
    "text": "escaped",
    "occ": 1,
@@ -213,7 +270,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-016",
+   "id": "P31-EN-020",
    "sent": "S005",
    "text": "the crate",
    "occ": 1,
@@ -227,7 +284,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-017",
+   "id": "P31-EN-021",
    "sent": "S005",
    "text": "Dubai Airport",
    "occ": 1,
@@ -241,7 +298,7 @@
    "note": "sân bay cụ thể hóa thành phố Dubai (bridging nhẹ)"
   },
   {
-   "id": "P31-EN-018",
+   "id": "P31-EN-022",
    "sent": "S006",
    "text": "The company",
    "occ": 1,
@@ -255,7 +312,7 @@
    "note": "trong quote công ty; lần 'the company' thứ hai trong câu không đánh"
   },
   {
-   "id": "P31-EN-019",
+   "id": "P31-EN-023",
    "sent": "S006",
    "text": "apologizes",
    "occ": 1,
@@ -269,7 +326,21 @@
    "note": "động từ tái hiện danh từ apology"
   },
   {
-   "id": "P31-EN-020",
+   "id": "P31-EN-024",
+   "sent": "S006",
+   "text": "passengers",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: a male passenger",
+   "conf": "high",
+   "alt": "R: the",
+   "note": "lặp passenger + số nhiều (toàn bộ khách trên chuyến bay); the định danh → alt (mapping §3.6)"
+  },
+  {
+   "id": "P31-EN-025",
    "sent": "S006",
    "text": "the flight",
    "occ": 1,
@@ -283,7 +354,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-021",
+   "id": "P31-EN-026",
    "sent": "S006",
    "text": "Baghdad International Airport",
    "occ": 1,
@@ -297,7 +368,7 @@
    "note": "sân bay cụ thể hóa thành phố (bridging nhẹ)"
   },
   {
-   "id": "P31-EN-022",
+   "id": "P31-EN-027",
    "sent": "S006",
    "text": "Dubai Airport",
    "occ": 1,
@@ -311,7 +382,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-023",
+   "id": "P31-EN-028",
    "sent": "S007",
    "text": "The delay",
    "occ": 1,
@@ -325,7 +396,7 @@
    "note": "danh từ tái hiện động từ delayed"
   },
   {
-   "id": "P31-EN-024",
+   "id": "P31-EN-029",
    "sent": "S007",
    "text": "the cargo hold",
    "occ": 1,
@@ -339,7 +410,7 @@
    "note": "S002 'cargo' là dạng rút của 'cargo hold'"
   },
   {
-   "id": "P31-EN-025",
+   "id": "P31-EN-030",
    "sent": "S007",
    "text": "the statement",
    "occ": 1,
@@ -353,7 +424,21 @@
    "note": "VI cắt attribution nên chuỗi này không có phía VI"
   },
   {
-   "id": "P31-EN-026",
+   "id": "P31-EN-031",
+   "sent": "S008",
+   "text": "arrival",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: upon arrival to Dubai Airport",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp arrival (Upon arrival); chuỗi đến: arrival (S005) → arrival (S008) → arrived (S013); H&H §6.2"
+  },
+  {
+   "id": "P31-EN-032",
    "sent": "S008",
    "text": "Dubai Airport",
    "occ": 1,
@@ -367,7 +452,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-027",
+   "id": "P31-EN-033",
    "sent": "S008",
    "text": "the animal",
    "occ": 1,
@@ -381,7 +466,7 @@
    "note": "đổi danh hiệu: bear → animal"
   },
   {
-   "id": "P31-EN-028",
+   "id": "P31-EN-034",
    "sent": "S008",
    "text": "escaped",
    "occ": 1,
@@ -395,7 +480,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-029",
+   "id": "P31-EN-035",
    "sent": "S008",
    "text": "the crate",
    "occ": 1,
@@ -409,7 +494,7 @@
    "note": "the crate specified for its shipment"
   },
   {
-   "id": "P31-EN-030",
+   "id": "P31-EN-036",
    "sent": "S008",
    "text": "the airline",
    "occ": 1,
@@ -423,7 +508,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-031",
+   "id": "P31-EN-037",
    "sent": "S008",
    "text": "transported",
    "occ": 1,
@@ -437,7 +522,7 @@
    "note": "it was being transported"
   },
   {
-   "id": "P31-EN-032",
+   "id": "P31-EN-038",
    "sent": "S008",
    "text": "shipment",
    "occ": 1,
@@ -451,7 +536,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-033",
+   "id": "P31-EN-039",
    "sent": "S009",
    "text": "plane",
    "occ": 1,
@@ -465,7 +550,7 @@
    "note": "The plane crew — bộ phận 'plane' lặp, 'crew' là thông tin mới"
   },
   {
-   "id": "P31-EN-034",
+   "id": "P31-EN-040",
    "sent": "S009",
    "text": "specialized team",
    "occ": 1,
@@ -479,7 +564,7 @@
    "note": "specialist → specialized; đội cũ"
   },
   {
-   "id": "P31-EN-035",
+   "id": "P31-EN-041",
    "sent": "S009",
    "text": "the animal",
    "occ": 1,
@@ -493,7 +578,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-036",
+   "id": "P31-EN-042",
    "sent": "S009",
    "text": "sedate",
    "occ": 1,
@@ -507,7 +592,21 @@
    "note": "to sedate the animal"
   },
   {
-   "id": "P31-EN-037",
+   "id": "P31-EN-043",
+   "sent": "S009",
+   "text": "take it off the plane",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: taken off the plane",
+   "conf": "high",
+   "alt": null,
+   "note": "echo VP; mắt xích S009 cho chuỗi taken off (S004) → taken off (S011); VI gộp vào họ 'chuyển' (S010 TT 'chuyển')"
+  },
+  {
+   "id": "P31-EN-044",
    "sent": "S010",
    "text": null,
    "occ": 1,
@@ -523,7 +622,7 @@
    "note": "[LC] (biên) chủ ngữ mệnh đề danh động từ 'After ∅ checking ...' được điều khiển bằng 'The plane crew' ở câu trước"
   },
   {
-   "id": "P31-EN-038",
+   "id": "P31-EN-045",
    "sent": "S010",
    "text": "the plane",
    "occ": 1,
@@ -537,7 +636,7 @@
    "note": "checking the plane"
   },
   {
-   "id": "P31-EN-039",
+   "id": "P31-EN-046",
    "sent": "S010",
    "text": "this incident",
    "occ": 1,
@@ -552,7 +651,7 @@
    "ref": "A"
   },
   {
-   "id": "P31-EN-040",
+   "id": "P31-EN-047",
    "sent": "S010",
    "text": "the flight",
    "occ": 1,
@@ -566,7 +665,21 @@
    "note": null
   },
   {
-   "id": "P31-EN-041",
+   "id": "P31-EN-048",
+   "sent": "S010",
+   "text": "returned",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: the return flight",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị return (returned to Baghdad ← the return flight); H&H §6.2 danh-động từ"
+  },
+  {
+   "id": "P31-EN-049",
    "sent": "S010",
    "text": "Baghdad",
    "occ": 1,
@@ -580,7 +693,7 @@
    "note": "returned to Baghdad"
   },
   {
-   "id": "P31-EN-042",
+   "id": "P31-EN-050",
    "sent": "S010",
    "text": "the statement",
    "occ": 1,
@@ -594,7 +707,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-043",
+   "id": "P31-EN-051",
    "sent": "S011",
    "text": "The airline",
    "occ": 1,
@@ -608,7 +721,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-044",
+   "id": "P31-EN-052",
    "sent": "S011",
    "text": "the bear",
    "occ": 1,
@@ -622,7 +735,7 @@
    "note": "đổi lại danh hiệu animal → bear"
   },
   {
-   "id": "P31-EN-045",
+   "id": "P31-EN-053",
    "sent": "S011",
    "text": "transported",
    "occ": 1,
@@ -636,7 +749,7 @@
    "note": "was being transported to the United Arab Emirates"
   },
   {
-   "id": "P31-EN-046",
+   "id": "P31-EN-054",
    "sent": "S011",
    "text": "the United Arab Emirates",
    "occ": 1,
@@ -650,7 +763,21 @@
    "note": "UAE mở rộng thành tên đầy đủ"
   },
   {
-   "id": "P31-EN-047",
+   "id": "P31-EN-055",
+   "sent": "S011",
+   "text": "well-being",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: international animal welfare guidelines",
+   "conf": "high",
+   "alt": null,
+   "note": "well-being ≈ welfare (information on its well-being ← animal welfare guidelines); VI dùng hai danh từ khác nhau nên không có hàng đối ứng"
+  },
+  {
+   "id": "P31-EN-056",
    "sent": "S011",
    "text": "sedated",
    "occ": 1,
@@ -664,7 +791,7 @@
    "note": "after it was sedated"
   },
   {
-   "id": "P31-EN-048",
+   "id": "P31-EN-057",
    "sent": "S011",
    "text": "taken off the plane",
    "occ": 1,
@@ -678,7 +805,7 @@
    "note": "echo nguyên văn VP"
   },
   {
-   "id": "P31-EN-049",
+   "id": "P31-EN-058",
    "sent": "S012",
    "text": "Later Monday",
    "occ": 1,
@@ -692,7 +819,7 @@
    "note": "chuyển khung thời gian của bài (sự kiện → lời ministry); VI phải dùng 'thứ Hai' vì S001 VI đã đổi ngày"
   },
   {
-   "id": "P31-EN-050",
+   "id": "P31-EN-059",
    "sent": "S012",
    "text": "CNN",
    "occ": 1,
@@ -706,7 +833,21 @@
    "note": "told CNN"
   },
   {
-   "id": "P31-EN-051",
+   "id": "P31-EN-060",
+   "sent": "S012",
+   "text": "in fact",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001-S011: mạch 'một con gấu' (a bear, the bear, the animal)",
+   "conf": "med",
+   "alt": null,
+   "note": "continuative H&H §5.8: đính chính đếm số (in fact two bears); liên câu vì mạch bị đính chính nằm ở các câu trước"
+  },
+  {
+   "id": "P31-EN-061",
    "sent": "S012",
    "text": "bears",
    "occ": 1,
@@ -720,7 +861,7 @@
    "note": "two bears — chuyển số nhiều, hé lộ thông tin mới"
   },
   {
-   "id": "P31-EN-052",
+   "id": "P31-EN-062",
    "sent": "S012",
    "text": "the flight",
    "occ": 1,
@@ -734,7 +875,7 @@
    "note": "on board the flight"
   },
   {
-   "id": "P31-EN-053",
+   "id": "P31-EN-063",
    "sent": "S013",
    "text": "bears",
    "occ": 1,
@@ -748,7 +889,7 @@
    "note": "Two small, endangered bears; 'one of the bears' trong câu không đánh thêm"
   },
   {
-   "id": "P31-EN-054",
+   "id": "P31-EN-064",
    "sent": "S013",
    "text": "shipped",
    "occ": 1,
@@ -762,7 +903,7 @@
    "note": "động từ tái hiện danh từ shipment"
   },
   {
-   "id": "P31-EN-055",
+   "id": "P31-EN-065",
    "sent": "S013",
    "text": "Baghdad",
    "occ": 1,
@@ -776,7 +917,7 @@
    "note": "were shipped from Baghdad"
   },
   {
-   "id": "P31-EN-056",
+   "id": "P31-EN-066",
    "sent": "S013",
    "text": "the flight",
    "occ": 1,
@@ -790,7 +931,21 @@
    "note": null
   },
   {
-   "id": "P31-EN-057",
+   "id": "P31-EN-067",
+   "sent": "S013",
+   "text": "arrived",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: Upon arrival to Dubai Airport",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp arrival qua arrived (when the flight arrived); chuỗi đến S005 → S008 → S013"
+  },
+  {
+   "id": "P31-EN-068",
    "sent": "S013",
    "text": "Dubai",
    "occ": 1,
@@ -804,7 +959,7 @@
    "note": "arrived in Dubai (lần 'at Dubai airport' trong câu không đánh thêm)"
   },
   {
-   "id": "P31-EN-058",
+   "id": "P31-EN-069",
    "sent": "S013",
    "text": "cage",
    "occ": 1,
@@ -818,7 +973,21 @@
    "note": "broke his cage — đồng nghĩa crate"
   },
   {
-   "id": "P31-EN-059",
+   "id": "P31-EN-070",
+   "sent": "S013",
+   "text": "authorities",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: UAE's authority",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp authority, số nhiều + cụ thể hóa referent (health and environment authorities); tiền trạm S009"
+  },
+  {
+   "id": "P31-EN-071",
    "sent": "S013",
    "text": "sedate",
    "occ": 1,
@@ -832,7 +1001,7 @@
    "note": "to sedate it"
   },
   {
-   "id": "P31-EN-060",
+   "id": "P31-EN-072",
    "sent": "S013",
    "text": "the statement",
    "occ": 1,
@@ -846,7 +1015,7 @@
    "note": null
   },
   {
-   "id": "P31-EN-061",
+   "id": "P31-EN-073",
    "sent": "S014",
    "text": "CNN",
    "occ": 1,
@@ -860,7 +1029,21 @@
    "note": "không có bản dịch"
   },
   {
-   "id": "P31-EN-062",
+   "id": "P31-EN-074",
+   "sent": "S014",
+   "text": "Iraqi government",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: the Iraqi transport ministry",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "tổng quát hóa (bộ → chính phủ toàn thể); 'Iraqi' lặp hình vị nước trong chuỗi Iraq; the định danh → alt (mapping §3.6)"
+  },
+  {
+   "id": "P31-EN-075",
    "sent": "S014",
    "text": "the bears",
    "occ": 1,
@@ -874,7 +1057,7 @@
    "note": "không có bản dịch"
   },
   {
-   "id": "P31-EN-063",
+   "id": "P31-EN-076",
    "sent": "S015",
    "text": "Iraq",
    "occ": 1,
@@ -888,7 +1071,7 @@
    "note": "Iraq's prime minister — chuỗi nước Iraq (khác chuỗi tên hãng Iraqi Airways)"
   },
   {
-   "id": "P31-EN-064",
+   "id": "P31-EN-077",
    "sent": "S015",
    "text": "country",
    "occ": 1,
@@ -902,7 +1085,7 @@
    "note": "the country's ministry of transport — danh từ tổng quát thay Iraq"
   },
   {
-   "id": "P31-EN-065",
+   "id": "P31-EN-078",
    "sent": "S015",
    "text": "ministry of transport",
    "occ": 1,
@@ -916,7 +1099,7 @@
    "note": "đảo trật tự transport ministry → ministry of transport"
   },
   {
-   "id": "P31-EN-066",
+   "id": "P31-EN-079",
    "sent": "S015",
    "text": "bear",
    "occ": 1,
@@ -930,7 +1113,7 @@
    "note": "the bear's escape (danh từ hóa)"
   },
   {
-   "id": "P31-EN-067",
+   "id": "P31-EN-080",
    "sent": "S015",
    "text": "escape",
    "occ": 1,

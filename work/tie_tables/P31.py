@@ -3,6 +3,15 @@
 #       gap_after, recovered, level, ref)
 # Cặp CNN→Người Đưa Tin: VI cắt toàn bộ attribution (statement/CNN) — chuỗi
 # đó chỉ tồn tại phía EN; ô VI dòng 12 (S014 EN) trống → tie EN-only.
+#
+# [Phase-2] Bổ sung theo PHASE2_PROTOCOL.md (references H&H 1976 / TNT
+# 2006 / NTT 2020 / mapping): +13 hàng EN (R another H&H §2.5; C in fact
+# H&H §5.8; L: flight, delayed [nhóm 12], people, passengers, arrival,
+# take it off the plane, returned, well-being, arrived, authorities,
+# Iraqi government) / +8 hàng VI (R khác H&H §2.5; C thực tế H&H §5.8;
+# L: người, di chuyển, hành khách, cập cảng, cập bến, cơ quan); rút span
+# "video khác" → "video" (TT S003) và bỏ alt "R: another" (ST S003) vì
+# another/khác được đánh R riêng (mapping §3.13); không reclassify cat/sub.
 
 ST = [
     # S002
@@ -15,14 +24,48 @@ ST = [
      "LC", None),
     ("S002", "cargo", "L", "repetition", "S001: the cargo hold", "high",
      "R: the", None, 1, None, None, "LC", None),
+    # [Phase-2] flight ← an Iraqi Airways flight (S001): mắt xích sót của
+    # chuỗi flight (H&H §6.2 reiteration; TNT §26 phép lặp) — "the return
+    # flight" trước đây mới đánh Baghdad; 'return' là thông tin mới, the
+    # định danh → alt (mapping §3.6).
+    ("S002", "flight", "L", "repetition", "S001: an Iraqi Airways flight",
+     "high", "R: the",
+     "lặp flight (the return flight); mắt xích S002 của chuỗi the flight "
+     "(S006/S010/S012/S013); H&H §6.2", 1, None, None, "LC", None),
+    # [Phase-2] delayed ← caused delays (S001): mắt xích chuỗi delay — "The
+    # delay" (S007) cite S002 làm tiền trạm nhưng S002 chưa có hàng → rà
+    # chuỗi ngược "ante không có hàng" (nhóm 12 checklist; H&H §6.2; TNT
+    # §26 phép lặp).
+    ("S002", "delayed", "L", "repetition", "S001: caused delays", "high",
+     None,
+     "lặp danh-động từ delays → delayed (was delayed); VI đối ứng trì hoãn "
+     "(S002 TT) đã có từ trước", 1, None, None, "LC", None),
     # S003
+    # [Phase-2] another ← a video (S002): quy chiếu so sánh H&H §2.5
+    # ("other") — "một video khác" đối chiếu video câu trước; VI "khác"
+    # giữ 1-1 (nhóm 1 checklist; ref bắt buộc theo protocol).
+    ("S003", "another", "R", "comparative",
+     "S002: a video circulated online", "high", None,
+     "[LC] quy chiếu so sánh: another = video khác với video đã nêu ở câu "
+     "trước (H&H §2.5); VI 'khác' 1-1", 1, None, None, "LC", "A"),
+    # [Phase-2] bỏ alt "R: another" — 'another' được đánh R riêng ở trên
+    # (mapping §3.13 một hình thức một hàng); hàng này giữ vai trò lặp
+    # đầu từ 'video'.
     ("S003", "video", "L", "repetition", "S002: a video", "high",
-     "R: another", "another video — lặp đầu từ video, thêm 'khác'", 1, None,
-     None, "LC", None),
+     None, "another video — lặp đầu từ video; 'another' đánh R riêng", 1,
+     None, None, "LC", None),
     ("S003", "bear", "L", "repetition", "S002: a bear", "high", "R: a",
      "a bear cub — thêm 'cub' (gấu con)", 1, None, None, "LC", None),
     ("S003", "crate", "L", "repetition", "S001: a crate", "high", "R: its",
      "its crate", 1, None, None, "LC", None),
+    # [Phase-2] people ← a male passenger (S002): danh từ tổng quát (H&H
+    # §6.1 general word; §6.2 superordinate) — tham chiếu mở rộng sang
+    # những người có mặt quanh gấu con trên máy bay (như P21 người Úc ←
+    # người tiêu dùng Úc); VI 'người' 1-1.
+    ("S003", "people", "L", "superordinate", "S002: a male passenger",
+     "med", None,
+     "danh từ tổng quát chỉ người trên máy bay — mở rộng từ hành khách "
+     "S002 (H&H §6.1); VI 'người' 1-1", 1, None, None, "LC", None),
     # S004
     ("S004", "The bear", "L", "repetition", "S003: a bear cub", "high", None,
      "đặt lại tên nhân vật chính", 1, None, None, "LC", None),
@@ -55,6 +98,13 @@ ST = [
      1, None, None, "LC", None),
     ("S006", "apologizes", "L", "repetition", "S005: an apology", "high",
      None, "động từ tái hiện danh từ apology", 1, None, None, "LC", None),
+    # [Phase-2] passengers ← a male passenger (S002): chuỗi hành khách bị
+    # sót (H&H §6.2; TNT §26 phép lặp) — the + chuyển số nhiều; VI
+    # 'hành khách' (S006 TT) đồng bộ thêm.
+    ("S006", "passengers", "L", "repetition", "S002: a male passenger",
+     "high", "R: the",
+     "lặp passenger + số nhiều (toàn bộ khách trên chuyến bay); the định "
+     "danh → alt (mapping §3.6)", 1, None, None, "LC", None),
     ("S006", "the flight", "L", "repetition", "S001: an Iraqi Airways flight",
      "high", None, None, 1, None, None, "LC", None),
     ("S006", "Baghdad International Airport", "L", "repetition",
@@ -75,6 +125,13 @@ ST = [
      "VI cắt attribution nên chuỗi này không có phía VI", 1, None, None,
      "LC", None),
     # S008
+    # [Phase-2] arrival ← upon arrival (S005): mắt xích giữa của chuỗi
+    # đến arrival (S005) → arrived (S013) bị sót (H&H §6.2 reiteration;
+    # TNT §26); VI đối ứng 'cập cảng' (S008 TT) cũng bị sót → thêm đồng bộ.
+    ("S008", "arrival", "L", "repetition",
+     "S005: upon arrival to Dubai Airport", "high", None,
+     "lặp arrival (Upon arrival); chuỗi đến: arrival (S005) → arrival "
+     "(S008) → arrived (S013); H&H §6.2", 1, None, None, "LC", None),
     ("S008", "Dubai Airport", "L", "repetition", "S006: Dubai Airport",
      "high", None, None, 1, None, None, "LC", None),
     ("S008", "the animal", "L", "superordinate", "S005: the bear", "high",
@@ -102,6 +159,15 @@ ST = [
      None, None, 1, None, None, "LC", None),
     ("S009", "sedate", "L", "repetition", "S004: was sedated", "high", None,
      "to sedate the animal", 1, None, None, "LC", None),
+    # [Phase-2] take it off the plane ← taken off the plane (S004): mắt
+    # xích sót của chuỗi echo VP — chuỗi đang nhảy S004 → S011 bỏ qua S009
+    # (H&H §6.2 reiteration; TNT §26 phép lặp); 'it' trong span là đại từ
+    # trong câu (the animal), không đánh R riêng (quy ước [TC]).
+    ("S009", "take it off the plane", "L", "repetition",
+     "S004: taken off the plane", "high", None,
+     "echo VP; mắt xích S009 cho chuỗi taken off (S004) → taken off "
+     "(S011); VI gộp vào họ 'chuyển' (S010 TT 'chuyển')", 1, None, None,
+     "LC", None),
     # S010
     ("S010", None, "E", "nominal", "S009: The plane crew", "med", None,
      "[LC] (biên) chủ ngữ mệnh đề danh động từ 'After ∅ checking ...' được "
@@ -115,6 +181,14 @@ ST = [
      None, "LC", "A"),
     ("S010", "the flight", "L", "repetition", "S006: the flight", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] returned ← the return flight (S002): danh → động từ của
+    # cùng hình vị return (H&H §6.2 reiteration; TNT §26 phép lặp); VI
+    # từ vựng hóa bằng từ hướng 'về' — 'về' là từ chức năng tần suất cao,
+    # không đủ trọng lượng làm hàng L riêng (xem analysis §7).
+    ("S010", "returned", "L", "repetition", "S002: the return flight",
+     "high", None,
+     "lặp hình vị return (returned to Baghdad ← the return flight); H&H "
+     "§6.2 danh-động từ", 1, None, None, "LC", None),
     ("S010", "Baghdad", "L", "repetition",
      "S006: Baghdad International Airport", "high", None,
      "returned to Baghdad", 1, None, None, "LC", None),
@@ -131,6 +205,14 @@ ST = [
     ("S011", "the United Arab Emirates", "L", "repetition",
      "S009: UAE's authority", "high", "R: the",
      "UAE mở rộng thành tên đầy đủ", 1, None, None, "LC", None),
+    # [Phase-2] well-being ↔ welfare (S008): đồng nghĩa (H&H §6.2
+    # reiteration — synonym); VI đứt chuỗi (bảo vệ S009 TT ≠ an toàn S012
+    # TT) → tie EN-only, dịch chuyển từ vựng theo NTT 2020 §5.
+    ("S011", "well-being", "L", "synonym",
+     "S008: international animal welfare guidelines", "high", None,
+     "well-being ≈ welfare (information on its well-being ← animal "
+     "welfare guidelines); VI dùng hai danh từ khác nhau nên không có "
+     "hàng đối ứng", 1, None, None, "LC", None),
     ("S011", "sedated", "L", "repetition", "S009: sedate", "high", None,
      "after it was sedated", 1, None, None, "LC", None),
     ("S011", "taken off the plane", "L", "repetition",
@@ -143,6 +225,15 @@ ST = [
      "'thứ Hai' vì S001 VI đã đổi ngày", 1, None, None, "LC", None),
     ("S012", "CNN", "L", "repetition", "S004: shared with CNN", "high", None,
      "told CNN", 1, None, None, "LC", None),
+    # [Phase-2] in fact: continuative (H&H §5.8 — chuẩn sub nhóm 11
+    # checklist): giữa câu nhưng mở lượt đính chính discours "thực ra có
+    # HAI con" đối chiếu mạch 'a bear' (S001–S011); VI 'thực tế' giữ 1-1.
+    ("S012", "in fact", "C", "continuative",
+     "S001-S011: mạch 'một con gấu' (a bear, the bear, the animal)",
+     "med", None,
+     "continuative H&H §5.8: đính chính đếm số (in fact two bears); liên "
+     "câu vì mạch bị đính chính nằm ở các câu trước", 1, None, None,
+     "LC", None),
     ("S012", "bears", "L", "repetition", "S011: the bear", "high", None,
      "two bears — chuyển số nhiều, hé lộ thông tin mới", 1, None, None,
      "LC", None),
@@ -158,11 +249,26 @@ ST = [
      "were shipped from Baghdad", 1, None, None, "LC", None),
     ("S013", "the flight", "L", "repetition", "S012: the flight", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] arrived ← Upon arrival (S008): mắt xích cuối chuỗi đến,
+    # tiền trạm = nhắc gần nhất (H&H §6.2 reiteration; TNT §26); danh →
+    # động từ; VI đối ứng 'cập bến' (S014 TT) đồng bộ thêm.
+    ("S013", "arrived", "L", "repetition",
+     "S008: Upon arrival to Dubai Airport", "high", None,
+     "lặp arrival qua arrived (when the flight arrived); chuỗi đến S005 → "
+     "S008 → S013", 1, None, None, "LC", None),
     ("S013", "Dubai", "L", "repetition", "S008: Dubai Airport", "high",
      None, "arrived in Dubai (lần 'at Dubai airport' trong câu không đánh "
      "thêm)", 1, None, None, "LC", None),
     ("S013", "cage", "L", "synonym", "S008: the crate", "high",
      "R: his", "broke his cage — đồng nghĩa crate", 1, None, None, "LC",
+     None),
+    # [Phase-2] authorities ← UAE's authority (S009): lặp + cụ thể hóa
+    # (cơ quan UAE → cơ quan y tế-môi trường tại Dubai; H&H §6.2; TNT
+    # §26 phép lặp); VI 'cơ quan' (S014 TT) đồng bộ thêm.
+    ("S013", "authorities", "L", "repetition", "S009: UAE's authority",
+     "med", None,
+     "lặp authority, số nhiều + cụ thể hóa referent (health and "
+     "environment authorities); tiền trạm S009", 1, None, None, "LC",
      None),
     ("S013", "sedate", "L", "repetition", "S011: sedated", "high", None,
      "to sedate it", 1, None, None, "LC", None),
@@ -171,6 +277,15 @@ ST = [
     # S014 — không có bản dịch (ô VI trống)
     ("S014", "CNN", "L", "repetition", "S012: CNN", "high", None,
      "không có bản dịch", 1, None, None, "LC", None),
+    # [Phase-2] the Iraqi government ← the Iraqi transport ministry
+    # (S012): the + tổng quát hóa tham chiếu đã nêu (mapping §3.6; H&H §6.1
+    # general noun) — nối chuỗi Iraq (S012 → S015 Iraq's prime minister);
+    # không có bản dịch.
+    ("S014", "Iraqi government", "L", "general word",
+     "S012: the Iraqi transport ministry", "med", "R: the",
+     "tổng quát hóa (bộ → chính phủ toàn thể); 'Iraqi' lặp hình vị nước "
+     "trong chuỗi Iraq; the định danh → alt (mapping §3.6)", 1, None,
+     None, "LC", None),
     ("S014", "the bears", "L", "repetition", "S013: bears", "high", None,
      "không có bản dịch", 1, None, None, "LC", None),
     # S015
@@ -211,9 +326,18 @@ TT = [
      "S001: đã xổng khỏi khu chứa hàng", "high", None, None, 1, None, None,
      "LC", None),
     # S003
-    ("S003", "video khác", "L", "repetition", "S002: một video", "high",
-     "R: một", "Trong một video khác — lặp video + thêm 'khác'", 1, None,
-     None, "LC", None),
+    # [Phase-2] khác ← một video (S002): quy chiếu so sánh H&H §2.5 — đối
+    # xứng EN 'another'; rút span hàng L "video khác" → "video" để không
+    # chồng marker (mapping §3.13 một hình thức một hàng).
+    ("S003", "khác", "R", "comparative", "S002: một video được đăng tải",
+     "high", None,
+     "[LC] quy chiếu so sánh: khác = khác với video đã nêu ở câu trước "
+     "(H&H §2.5); EN 'another' 1-1", 1, None, None, "LC", "A"),
+    # [Phase-2] span rút còn "video" — 'khác' được đánh R riêng ở trên
+    # (tránh chồng marker, precedent P28).
+    ("S003", "video", "L", "repetition", "S002: một video", "high",
+     "R: một", "Trong một video khác — lặp video; 'khác' đánh R riêng", 1,
+     None, None, "LC", None),
     ("S003", "gấu", "L", "repetition", "S002: gấu", "high", "R: một",
      "một gấu con — thêm 'con' (gấu non)", 1, None, None, "LC", None),
     ("S003", "chuồng", "L", "repetition", "S002: xổng chuồng", "high",
@@ -221,12 +345,27 @@ TT = [
     ("S003", "máy bay", "L", "repetition", "S002: chuyến bay", "med", None,
      "chuyến bay → máy bay (dịch chuyển chỉ phương tiện)", 1, None, None,
      "LC", None),
+    # [Phase-2] người ← một hành khách nam (S002): danh từ tổng quát (H&H
+    # §6.1 general word; §6.2 superordinate) — mở rộng tham chiếu sang
+    # những người quanh gấu con; đối xứng EN people (S003 ST).
+    ("S003", "người", "L", "superordinate", "S002: một hành khách nam",
+     "med", None,
+     "danh từ tổng quát (nhiều người cố gắng xoa dịu nó) — mở rộng từ hành "
+     "khách S002; H&H §6.1; EN 'people' 1-1", 1, None, None, "LC", None),
     # S004
     ("S004", "Chú gấu này", "L", "repetition", "S001: Một chú gấu", "high",
      "R: này", "chỉ từ 'này' thâu vào alt vì đầu ngữ lặp lại", 1, None, None,
      "LC", None),
     ("S004", "Dubai", "L", "repetition", "S001: tới Dubai", "high",
      "R: tại", None, 1, None, None, "LC", None),
+    # [Phase-2] di chuyển ← được chuyển (S001): lặp hình vị lõi 'chuyển'
+    # (TNT §26 phép lặp; H&H §6.2) — mắt xích sót của chuỗi VI: chuyển
+    # (S001) → di chuyển (S004) → vận chuyển (S009) → chuyển (S010); VI
+    # hội tụ họ 'chuyển' cho cả transported lẫn taken off (NTT 2020 §2.1).
+    ("S004", "di chuyển", "L", "repetition", "S001: được chuyển", "med",
+     None,
+     "di chuyển (khỏi máy bay) — hiện thực hóa EN 'taken off the plane' "
+     "bằng cùng họ 'chuyển' (TNT §26)", 1, None, None, "LC", None),
     ("S004", "máy bay", "L", "repetition", "S003: trên máy bay", "high",
      None, "di chuyển khỏi máy bay", 1, None, None, "LC", None),
     # S005
@@ -252,6 +391,14 @@ TT = [
      "LC", None),
     ("S006", "lời xin lỗi", "L", "repetition", "S005: lời xin lỗi", "high",
      None, "xin gửi lời xin lỗi", 1, None, None, "LC", None),
+    # [Phase-2] hành khách ← một hành khách nam (S002): chuỗi hành khách bị
+    # sót (TNT §26 phép lặp; H&H §6.2) — chuyển số nhiều (những hành
+    # khách = toàn bộ khách trên chuyến bay); EN 'passengers' (S006 ST)
+    # đồng bộ thêm.
+    ("S006", "hành khách", "L", "repetition", "S002: một hành khách nam",
+     "high", None,
+     "lặp hành khách + số nhiều (những hành khách); TNT §26 phép lặp từ "
+     "vựng", 1, None, None, "LC", None),
     ("S006", "chuyến bay", "L", "repetition", "S005: chuyến bay", "high",
      None, "trên chuyến bay từ", 1, None, None, "LC", None),
     ("S006", "Cảng Hàng không Quốc tế Baghdad", "L", "repetition",
@@ -271,6 +418,14 @@ TT = [
     # S008
     ("S008", "máy bay", "L", "repetition", "S004: máy bay", "high", None,
      "Khi máy bay cập cảng", 1, None, None, "LC", None),
+    # [Phase-2] cập cảng ← cập bến (S005): lặp hình vị lõi 'cập', bến ≈
+    # cảng (TNT §26 phép lặp; H&H §6.2) — mắt xích giữa chuỗi đến: cập
+    # bến (S005) → cập cảng (S008) → cập bến (S014); EN đối ứng 'arrival'
+    # (S008 ST) đồng bộ thêm.
+    ("S008", "cập cảng", "L", "repetition", "S005: khi chuyến bay cập bến",
+     "med", None,
+     "lặp hình vị 'cập' (cập cảng ≈ cập bến); chuỗi đến của VI, H&H §6.2",
+     1, None, None, "LC", None),
     ("S008", "Cảng Hàng không Dubai", "L", "repetition",
      "S006: Cảng Hàng không Dubai", "high", None, None, 1, None, None,
      "LC", None),
@@ -348,6 +503,15 @@ TT = [
      "lỗi dịch S001 (xem §8)", 1, None, None, "LC", None),
     ("S013", "chuyến bay", "L", "repetition", "S011: chuyến bay", "high",
      "R: này", "chuyến bay này", 1, None, None, "LC", None),
+    # [Phase-2] thực tế: continuative (H&H §5.8 — chuẩn sub nhóm 11
+    # checklist) — đính chính "thực tế có 2 con" đối chiếu mạch 'một chú
+    # gấu' (S001–S012); giữa câu nhưng quan hệ đính chính là LIÊN CÂU; EN
+    # 'in fact' (S012 ST) giữ 1-1.
+    ("S013", "thực tế", "C", "continuative",
+     "S001-S012: mạch 'một chú gấu'", "med", None,
+     "continuative H&H §5.8: đính chính đếm số (thực tế vận chuyển hai "
+     "chú gấu); mạch bị đính chính nằm ở các câu trước", 1, None, None,
+     "LC", None),
     ("S013", "vận chuyển", "L", "repetition", "S012: vận chuyển", "high",
      None, "thực tế vận chuyển hai chú gấu", 1, None, None, "LC", None),
     ("S013", "chú gấu", "L", "repetition", "S012: chú gấu", "high", None,
@@ -361,10 +525,24 @@ TT = [
      "được gửi từ Baghdad", 1, None, None, "LC", None),
     ("S014", "chuyến bay", "L", "repetition", "S013: chuyến bay", "high",
      None, "khi chuyến bay cập bến", 1, None, None, "LC", None),
+    # [Phase-2] cập bến ← cập cảng (S008): chuỗi đến quay về 'cập bến',
+    # tiền trạm = nhắc gần nhất S008 (H&H §6.2; TNT §26 phép lặp); EN
+    # 'arrived' (S013 ST) đồng bộ thêm.
+    ("S014", "cập bến", "L", "repetition", "S008: máy bay cập cảng",
+     "high", None,
+     "lặp cập bến (khi chuyến bay cập bến) ← S005 cập bến qua S008 cập "
+     "cảng; tiền trạm gần nhất S008", 1, None, None, "LC", None),
     ("S014", "Dubai", "L", "repetition", "S008: Cảng Hàng không Dubai",
      "high", None, "cập bến tại Dubai", 1, None, None, "LC", None),
     ("S014", "xổng chuồng", "L", "repetition", "S005: xổng chuồng", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] cơ quan ← cơ quan chức năng của UAE (S010): lặp + cụ thể
+    # hóa (cơ quan chức năng UAE → các cơ quan y tế-môi trường tại Dubai;
+    # H&H §6.2; TNT §26) — EN 'authorities' (S013 ST) đồng bộ thêm.
+    ("S014", "cơ quan", "L", "repetition",
+     "S010: cơ quan chức năng của UAE", "med", None,
+     "lặp cơ quan, số nhiều + cụ thể hóa referent (các cơ quan về sức khỏe "
+     "và môi trường); H&H §6.2", 1, None, None, "LC", None),
     ("S014", "tiêm thuốc an thần", "L", "repetition",
      "S012: tiêm thuốc an thần", "high", None,
      "EN 'sedate it' → VI 'cho chúng' (dịch chuyển số, ghi §4.3)", 1, None,

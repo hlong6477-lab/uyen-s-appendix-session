@@ -19,6 +19,23 @@ ST = [
      "S001: one U.S. government platform", "high", "R: the",
      "[LC] lặp nguyên văn U.S. government (ở S001 là định ngữ của platform); "
      "cùng thực thể với chính quyền Trump", 1, None, None, "LC", None),
+    # [Phase-2] use ← users (S001): lặp hình vị use qua đổi loại từ danh từ
+    # → động từ (H&H §6.2 reiteration; TNT §26 phép lặp; tiền lệ P21 invest
+    # ← investments); referent khác (người dùng Ukraine ≠ mỗi khách hàng)
+    # nên conf med.
+    ("S002", "use", "L", "repetition",
+     "S001: Ukrainian users' access", "med", None,
+     "[LC] lặp hình vị use (users → use); 'họ' trong quote ← Each customer "
+     "cùng câu, không đánh", 1, None, None, "LC", None),
+    # [Phase-2] share ← sharing (S001): mắt xích sót của chuỗi chia sẻ
+    # (H&H §6.2; TNT §26) — dữ liệu khách hàng chia sẻ chính là hình ảnh vệ
+    # tinh = nguồn tình báo bị đình chỉ; S008 intelligence-sharing giữ tiền
+    # trạm S001 vì trùng cặp predication (tiền lệ P21 scams ← scams bỏ qua
+    # scammed ở giữa).
+    ("S002", "share", "L", "repetition",
+     "S001: suspends intelligence sharing", "med", None,
+     "[LC] lặp hình vị share (sharing → share); khách hàng chia sẻ chính là "
+     "dữ liệu hình ảnh = tình báo bị đình chỉ", 1, None, None, "LC", None),
     ("S002", "that data", "R", "demonstrative",
      "S001: satellite imagery", "med", None,
      "[LC] demonstrative NP truy hồi hình ảnh vệ tinh (dữ liệu khách hàng "
@@ -32,6 +49,16 @@ ST = [
      "S002: contracts with the U.S. government", "high", "R: the",
      "[LC] lặp contract; 'in question' tóm chỉ hợp đồng đang bàn (VI: 'được "
      "nói tới')", 1, None, None, "LC", None),
+    # [Phase-2] GEGD (S003) ← platform (S001): mắt xích được cite làm tiền
+    # trạm ở S004 nhưng trước đây không có hàng (bài học P28, nhóm 12) —
+    # GEGD là tên riêng của "one U.S. government platform" đã nêu ở S001,
+    # nhận diện hồi tố qua S004 "suspend Ukrainian accounts in GEGD" (=
+    # sự kiện S001); H&H §6.1 bridging; "a U.S. government program" là đồng
+    # vị trong câu, không đánh thêm.
+    ("S003", "GEGD", "L", "general word",
+     "S001: one U.S. government platform", "med", None,
+     "[LC] đặt tên riêng cho nền tảng đã nêu ở S001 (nhận diện hồi tố; "
+     "H&H §6.1 bridging)", 1, None, None, "LC", None),
     ("S003", "U.S. government", "L", "repetition",
      "S002: the U.S. government", "high", None,
      "[LC] định ngữ trong 'a U.S. government program'; 'program' lặp trong "
@@ -52,6 +79,15 @@ ST = [
      "[LC] chủ ngữ câu trích dẫn; 'the U.S. National Geospatial-Intelligence "
      "Agency' lần đầu không đánh; 'the action' trong câu không đánh", 1,
      None, None, "LC", None),
+    # [Phase-2] decided ← decisions (S002): lặp hình vị decide qua danh từ
+    # → động từ (H&H §6.2 reiteration; TNT §26 phép lặp); hai "quyết định"
+    # khác referent (khách hàng ≠ chính phủ) nên conf med; hàng này neo mắt
+    # xích S004 được "directive" (S005) và C-EN1 cite làm tiền trạm.
+    ("S004", "decided", "L", "repetition",
+     "S002: makes their own decisions", "med", None,
+     "[LC] lặp hình vị decide (decisions → decided); quyết định của chính "
+     "phủ ≠ của khách hàng — lặp từ vựng, khác referent", 1, None, None,
+     "LC", None),
     ("S004", "suspend", "L", "repetition",
      "S001: suspends intelligence sharing", "high", None,
      "[LC] lặp động từ suspend (đối tượng khác: accounts)", 1, None, None,
@@ -78,6 +114,17 @@ ST = [
      "(lần đầu: S001 'Donald Trump's administration'); 'U.S. "
      "government-purchased' cuối câu cùng chuỗi, không đánh thêm", 1, None,
      None, "LC", None),
+    # [Phase-2] directive ← decided (S004): danh từ tổng quát đổi tên quyết
+    # định đã nêu (H&H §6.1 general word; mapping §3.6 the+rename → alt
+    # "R: the"); trước đây §6 analysis liệt vào danh sách "không đánh" —
+    # Phase-2 nhóm 3 điều chỉnh; tách khỏi hàng C "In accordance with"
+    # (khác hình thức, khác quan hệ).
+    ("S005", "directive", "L", "general word",
+     "S004: has decided to temporarily suspend Ukrainian accounts in "
+     "GEGD", "med", "R: the",
+     "[LC] danh từ tổng quát tóm chỉ quyết định của chính quyền ở S004 "
+     "(H&H §6.1); khác hình thức với hàng C cùng câu", 1, None, None,
+     "LC", None),
     ("S005", "Ukraine", "L", "repetition", "S004: Ukrainian accounts",
      "high", None, "[LC] danh từ Ukraine lặp tính từ Ukrainian", 1, None,
      None, "LC", None),
@@ -119,6 +166,21 @@ ST = [
      "S003: the contract in question", "med", None,
      "[LC] hình vị contract- lặp dưới dạng tính từ", 1, None, None, "LC",
      None),
+    # [Phase-2] change ← action (S006): danh từ tổng quát tóm chỉ hành động
+    # của Maxar (H&H §6.1); phủ định "no change" tạo phép đối với hành động
+    # đã xảy ra (TNT §30 phép đối).
+    ("S007", "change", "L", "general word",
+     "S006: Maxar's action", "med", None,
+     "[LC] danh từ tổng quát: 'no change' đối lập phép đối với hành động "
+     "đã nêu ở S006 (TNT §30; H&H §6.1)", 1, None, None, "LC", None),
+    # [Phase-2] other — R so sánh (H&H §2.5): "other Maxar customer
+    # programs" = khác với GEGD — hợp đồng/chương trình đang nói tới
+    # (S003-S005, câu trước) → [LC] quy chiếu so sánh, ref A; VI đối ứng
+    # "khác" cũng liên câu (khác P21: EN further nằm cùng câu → [TC]).
+    ("S007", "other", "R", "comparative",
+     "S003-S005: GEGD (the contract in question)", "high", None,
+     "[LC] quy chiếu so sánh: other = khác với GEGD đã nêu ở câu trước "
+     "(H&H §2.5)", 1, None, None, "LC", "A"),
     ("S007", "Maxar", "L", "repetition", "S006: Maxar's action", "high",
      None,
      "[LC] trong 'other Maxar customer programs'; 'the company' trong câu "
@@ -165,6 +227,21 @@ TT = [
      "S001: một nền tảng của chính phủ Mỹ", "high", None,
      "[LC] lặp chính phủ Mỹ (S001 là định ngữ sở hữu)", 1, None, None, "LC",
      None),
+    # [Phase-2] sử dụng ← người dùng (S001): lặp gốc dùng/dụng qua đổi
+    # loại từ (H&H §6.2 reiteration; TNT §26 phép lặp) — đối xứng EN use ←
+    # users; referent khác (người dùng Ukraine ≠ mỗi khách hàng) nên
+    # conf med.
+    ("S002", "sử dụng", "L", "repetition",
+     "S001: người dùng Ukraine", "med", None,
+     "[LC] lặp gốc dùng/dụng (người dùng → sử dụng); 'họ' trong quote ← "
+     "Mỗi khách hàng cùng câu, không đánh", 1, None, None, "LC", None),
+    # [Phase-2] chia sẻ ← chia sẻ thông tin tình báo (S001): mắt xích sót
+    # của chuỗi chia sẻ (H&H §6.2; TNT §26); S008 giữ tiền trạm S001 vì
+    # trùng cặp predication.
+    ("S002", "chia sẻ", "L", "repetition",
+     "S001: đình chỉ việc chia sẻ thông tin tình báo", "med", None,
+     "[LC] lặp chia sẻ; khách hàng chia sẻ chính là dữ liệu hình ảnh = "
+     "nguồn tình báo bị đình chỉ", 1, None, None, "LC", None),
     ("S002", "dữ liệu đó", "R", "demonstrative",
      "S001: hình ảnh vệ tinh", "med", None,
      "[LC] chỉ từ 'đó' truy hồi hình ảnh vệ tinh; 'họ' trong quote ← 'Mỗi "
@@ -177,6 +254,16 @@ TT = [
      "S002: những hợp đồng với chính phủ Mỹ", "high", None,
      "[LC] 'được nói tới' đối ứng EN 'in question'", 1, None, None, "LC",
      None),
+    # [Phase-2] GEGD (S003) ← nền tảng (S001): mắt xích được cite ở S004
+    # nhưng trước đây không có hàng (bài học P28, nhóm 12); H&H §6.1
+    # bridging — GEGD là tên riêng của "một nền tảng của chính phủ Mỹ",
+    # nhận diện hồi tố qua S004 "đình chỉ các tài khoản trong GEGD" (=
+    # sự kiện S001); "một chương trình của chính phủ Mỹ" là đồng vị trong
+    # câu, không đánh thêm.
+    ("S003", "GEGD", "L", "general word",
+     "S001: một nền tảng của chính phủ Mỹ", "med", None,
+     "[LC] đặt tên riêng cho nền tảng đã nêu ở S001 (nhận diện hồi tố; "
+     "H&H §6.1 bridging)", 1, None, None, "LC", None),
     ("S003", "chính phủ Mỹ", "L", "repetition", "S002: chính phủ Mỹ", "high",
      None,
      "[LC] định ngữ trong 'một chương trình của chính phủ Mỹ'; 'chương "
@@ -201,6 +288,14 @@ TT = [
      "[LC] lặp Chính phủ; biến thể Mỹ → Hoa Kỳ; 'Cơ quan Tình báo Địa "
      "không gian Quốc gia Hoa Kỳ' lần đầu không đánh; 'việc này' trong câu "
      "không đánh", 1, None, None, "LC", None),
+    # [Phase-2] quyết định ← quyết định (S002): lặp từ vựng (TNT §26 phép
+    # lặp; H&H §6.2 reiteration); hai "quyết định" khác referent (khách
+    # hàng ≠ chính phủ) nên conf med; neo mắt xích S004 được "chỉ thị"
+    # (S005) và C-VI1 cite làm tiền trạm.
+    ("S004", "quyết định", "L", "repetition",
+     "S002: Mỗi khách hàng tự quyết định", "med", None,
+     "[LC] lặp quyết định (tự quyết định → đã quyết định); khác referent: "
+     "khách hàng ≠ chính phủ", 1, None, None, "LC", None),
     ("S004", "đình chỉ", "L", "repetition",
      "S001: đình chỉ việc chia sẻ thông tin tình báo", "high", None,
      "[LC] lặp động từ đình chỉ; 'tạm thời' lặp cặp S004-S005 (không đánh "
@@ -224,6 +319,17 @@ TT = [
      "của Ukraine", "med", None,
      "[LC] nối nhân-quả: hành động của cơ quan tuân theo quyết định S004; "
      "'chỉ thị' truy hồi 'đã quyết định'", 1, None, None, "LC", None),
+    # [Phase-2] chỉ thị ← quyết định (S004): danh từ tổng quát đổi tên quyết
+    # định đã nêu (H&H §6.1 general word; mapping §3.6) — VI không có mạo
+    # từ, định danh bằng ngữ cảnh (mapping §4); trước đây §6 liệt vào
+    # "không đánh" — Phase-2 nhóm 3 điều chỉnh; tách khỏi hàng C "Tuân
+    # theo" (khác hình thức, khác quan hệ).
+    ("S005", "chỉ thị", "L", "general word",
+     "S004: đã quyết định tạm thời đình chỉ các tài khoản của Ukraine",
+     "med", None,
+     "[LC] danh từ tổng quát tóm chỉ quyết định của chính quyền ở S004 "
+     "(H&H §6.1); khác hình thức với hàng C cùng câu", 1, None, None, "LC",
+     None),
     ("S005", "chính quyền", "L", "synonym",
      "S004: Chính phủ Hoa Kỳ", "med", None,
      "[LC] chính quyền ≈ chính phủ — cùng thực thể (lần đầu: S001 'chính "
@@ -268,12 +374,31 @@ TT = [
      "[LC] trong 'cam kết theo hợp đồng của mình' (EN dùng tính từ "
      "contractual); 'Chúng tôi/mình' trong quote attribution cùng câu, "
      "không đánh", 1, None, None, "LC", None),
+    # [Phase-2] thay đổi ← Hành động (S006): danh từ tổng quát tóm chỉ tình
+    # huống câu trước (H&H §6.1); phủ định "không có thay đổi nào" tạo
+    # phép đối với hành động đã xảy ra (TNT §30 phép đối) — đối xứng EN
+    # change.
+    ("S007", "thay đổi", "L", "general word",
+     "S006: Hành động của Maxar", "med", None,
+     "[LC] danh từ tổng quát: 'không có thay đổi nào' đối lập phép đối "
+     "với hành động ở S006 (TNT §30; H&H §6.1)", 1, None, None, "LC",
+     None),
     ("S007", "chương trình", "L", "repetition",
      "S003: một chương trình của chính phủ Mỹ", "med", None,
      "[LC] trong 'các chương trình khách hàng khác'", 1, None, None, "LC",
      None),
     ("S007", "khách hàng", "L", "repetition", "S002: Mỗi khách hàng", "med",
      None, "[LC] lặp khách hàng (định ngữ)", 1, None, None, "LC", None),
+    # [Phase-2] khác — R so sánh (H&H §2.5): "các chương trình khách hàng
+    # khác" = khác với GEGD đang nói tới (S003-S005, câu trước) → [LC],
+    # ref A; đối xứng EN other. BẪY chuỗi con: "khác" lần 1 nằm TRONG
+    # "khách" (khách hàng), lần 2 mới là từ độc lập → occ=2 (tiền lệ P26,
+    # ghi chú vị trí).
+    ("S007", "khác", "R", "comparative",
+     "S003-S005: GEGD (hợp đồng được nói tới)", "high", None,
+     "[LC] quy chiếu so sánh: khác = khác với GEGD ở câu trước (H&H §2.5); "
+     "occ=2 vì lần 1 là chuỗi con trong 'khách'", 2, None, None, "LC",
+     "A"),
     ("S007", "Maxar", "L", "repetition", "S006: Maxar", "high", None,
      "[LC] trong 'các chương trình khách hàng khác của Maxar'; 'công ty' "
      "trong câu cùng chuỗi, không đánh thêm", 1, None, None, "LC", None),

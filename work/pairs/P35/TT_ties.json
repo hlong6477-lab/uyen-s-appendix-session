@@ -33,6 +33,34 @@
   {
    "id": "P35-VI-003",
    "sent": "S002",
+   "text": "sử dụng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: người dùng Ukraine",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp gốc dùng/dụng (người dùng → sử dụng); 'họ' trong quote ← Mỗi khách hàng cùng câu, không đánh"
+  },
+  {
+   "id": "P35-VI-004",
+   "sent": "S002",
+   "text": "chia sẻ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: đình chỉ việc chia sẻ thông tin tình báo",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp chia sẻ; khách hàng chia sẻ chính là dữ liệu hình ảnh = nguồn tình báo bị đình chỉ"
+  },
+  {
+   "id": "P35-VI-005",
+   "sent": "S002",
    "text": "dữ liệu đó",
    "occ": 1,
    "cat": "R",
@@ -46,7 +74,7 @@
    "ref": "A"
   },
   {
-   "id": "P35-VI-004",
+   "id": "P35-VI-006",
    "sent": "S003",
    "text": "Công ty",
    "occ": 1,
@@ -60,7 +88,7 @@
    "note": "[LC] danh từ tổng quát chỉ Maxar"
   },
   {
-   "id": "P35-VI-005",
+   "id": "P35-VI-007",
    "sent": "S003",
    "text": "hợp đồng",
    "occ": 1,
@@ -74,7 +102,21 @@
    "note": "[LC] 'được nói tới' đối ứng EN 'in question'"
   },
   {
-   "id": "P35-VI-006",
+   "id": "P35-VI-008",
+   "sent": "S003",
+   "text": "GEGD",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: một nền tảng của chính phủ Mỹ",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] đặt tên riêng cho nền tảng đã nêu ở S001 (nhận diện hồi tố; H&H §6.1 bridging)"
+  },
+  {
+   "id": "P35-VI-009",
    "sent": "S003",
    "text": "chính phủ Mỹ",
    "occ": 1,
@@ -88,7 +130,7 @@
    "note": "[LC] định ngữ trong 'một chương trình của chính phủ Mỹ'; 'chương trình' lặp trong câu với tên GEGD; 'do Mỹ thu thập' cuối câu cùng chuỗi (đối ứng EN 'the United States') — đều không đánh thêm"
   },
   {
-   "id": "P35-VI-007",
+   "id": "P35-VI-010",
    "sent": "S003",
    "text": "tiếp cận",
    "occ": 1,
@@ -102,7 +144,7 @@
    "note": "[LC] lặp tiếp cận"
   },
   {
-   "id": "P35-VI-008",
+   "id": "P35-VI-011",
    "sent": "S003",
    "text": "hình ảnh vệ tinh",
    "occ": 1,
@@ -116,7 +158,7 @@
    "note": "[LC] thêm định ngữ 'thương mại' (commercial)"
   },
   {
-   "id": "P35-VI-009",
+   "id": "P35-VI-012",
    "sent": "S003",
    "text": "người dùng",
    "occ": 1,
@@ -130,7 +172,7 @@
    "note": "[LC] VI tự sinh bổ sung 'cho người dùng' (EN chỉ có 'providing access', không có users)"
   },
   {
-   "id": "P35-VI-010",
+   "id": "P35-VI-013",
    "sent": "S004",
    "text": "Chính phủ Hoa Kỳ",
    "occ": 1,
@@ -144,7 +186,21 @@
    "note": "[LC] lặp Chính phủ; biến thể Mỹ → Hoa Kỳ; 'Cơ quan Tình báo Địa không gian Quốc gia Hoa Kỳ' lần đầu không đánh; 'việc này' trong câu không đánh"
   },
   {
-   "id": "P35-VI-011",
+   "id": "P35-VI-014",
+   "sent": "S004",
+   "text": "quyết định",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: Mỗi khách hàng tự quyết định",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp quyết định (tự quyết định → đã quyết định); khác referent: khách hàng ≠ chính phủ"
+  },
+  {
+   "id": "P35-VI-015",
    "sent": "S004",
    "text": "đình chỉ",
    "occ": 1,
@@ -158,7 +214,7 @@
    "note": "[LC] lặp động từ đình chỉ; 'tạm thời' lặp cặp S004-S005 (không đánh riêng)"
   },
   {
-   "id": "P35-VI-012",
+   "id": "P35-VI-016",
    "sent": "S004",
    "text": "tài khoản của Ukraine",
    "occ": 1,
@@ -172,7 +228,7 @@
    "note": "[LC] lặp Ukraine; đổi đầu từ người dùng → tài khoản"
   },
   {
-   "id": "P35-VI-013",
+   "id": "P35-VI-017",
    "sent": "S004",
    "text": "GEGD",
    "occ": 1,
@@ -186,7 +242,7 @@
    "note": "[LC] viết tắt lặp"
   },
   {
-   "id": "P35-VI-014",
+   "id": "P35-VI-018",
    "sent": "S004",
    "text": "Maxar",
    "occ": 1,
@@ -200,7 +256,7 @@
    "note": "[LC] đặt lại tên sau 'Công ty'"
   },
   {
-   "id": "P35-VI-015",
+   "id": "P35-VI-019",
    "sent": "S004",
    "text": null,
    "occ": 1,
@@ -216,7 +272,7 @@
    "note": "[TC] lược chủ ngữ vế tọa hợp sau 'và'; hồi phục {Maxar} (EN dùng participle 'referring')"
   },
   {
-   "id": "P35-VI-016",
+   "id": "P35-VI-020",
    "sent": "S005",
    "text": "Tuân theo",
    "occ": 1,
@@ -230,7 +286,21 @@
    "note": "[LC] nối nhân-quả: hành động của cơ quan tuân theo quyết định S004; 'chỉ thị' truy hồi 'đã quyết định'"
   },
   {
-   "id": "P35-VI-017",
+   "id": "P35-VI-021",
+   "sent": "S005",
+   "text": "chỉ thị",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: đã quyết định tạm thời đình chỉ các tài khoản của Ukraine",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] danh từ tổng quát tóm chỉ quyết định của chính quyền ở S004 (H&H §6.1); khác hình thức với hàng C cùng câu"
+  },
+  {
+   "id": "P35-VI-022",
    "sent": "S005",
    "text": "chính quyền",
    "occ": 1,
@@ -244,7 +314,7 @@
    "note": "[LC] chính quyền ≈ chính phủ — cùng thực thể (lần đầu: S001 'chính quyền của Tổng thống Mỹ Donald Trump'); 'chính phủ Hoa Kỳ' cuối câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P35-VI-018",
+   "id": "P35-VI-023",
    "sent": "S005",
    "text": "Ukraine",
    "occ": 1,
@@ -258,7 +328,7 @@
    "note": "[LC] lặp Ukraine"
   },
   {
-   "id": "P35-VI-019",
+   "id": "P35-VI-024",
    "sent": "S005",
    "text": "Cơ quan Tình báo Địa không gian Quốc gia Hoa Kỳ",
    "occ": 1,
@@ -272,7 +342,7 @@
    "note": "[LC] lặp nguyên văn tên đầy đủ (EN nén thành viết tắt NGA); 'cơ quan này' trong câu (phát ngôn viên của cơ quan này) quy chiếu trong câu, không đánh"
   },
   {
-   "id": "P35-VI-020",
+   "id": "P35-VI-025",
    "sent": "S005",
    "text": "đình chỉ",
    "occ": 1,
@@ -286,7 +356,7 @@
    "note": "[LC] lặp động từ đình chỉ"
   },
   {
-   "id": "P35-VI-021",
+   "id": "P35-VI-026",
    "sent": "S005",
    "text": "tiếp cận",
    "occ": 1,
@@ -300,7 +370,7 @@
    "note": "[LC] lần 1 trong câu (khả năng tiếp cận); lần 2 (để tiếp cận hình ảnh) không đánh thêm"
   },
   {
-   "id": "P35-VI-022",
+   "id": "P35-VI-027",
    "sent": "S005",
    "text": "hệ thống Cung cấp Tình báo Địa lý Cải tiến Toàn cầu",
    "occ": 1,
@@ -314,7 +384,7 @@
    "note": "[LC] viết tắt S004 được mở rộng tên dịch đầy đủ (lần đầu S003 'chương trình Cung cấp Tình báo Địa lý Cải tiến Toàn cầu'; đổi chương trình → hệ thống); 'hay GEGD' trong câu là đồng vị, không đánh thêm"
   },
   {
-   "id": "P35-VI-023",
+   "id": "P35-VI-028",
    "sent": "S005",
    "text": "hình ảnh thương mại",
    "occ": 1,
@@ -328,7 +398,7 @@
    "note": "[LC] rút gọn bỏ 'vệ tinh' — đối xứng EN commercial imagery; 'cổng chính' là đồng vị với GEGD trong câu"
   },
   {
-   "id": "P35-VI-024",
+   "id": "P35-VI-029",
    "sent": "S006",
    "text": "Maxar",
    "occ": 1,
@@ -342,7 +412,7 @@
    "note": "[LC] trong 'Hành động của Maxar'"
   },
   {
-   "id": "P35-VI-025",
+   "id": "P35-VI-030",
    "sent": "S006",
    "text": "Hành động",
    "occ": 1,
@@ -356,7 +426,7 @@
    "note": "[LC] danh từ tổng quát tóm chỉ hành động ở S001 ('việc này' S004 là quy chiếu trong câu, không đánh)"
   },
   {
-   "id": "P35-VI-026",
+   "id": "P35-VI-031",
    "sent": "S007",
    "text": "hợp đồng",
    "occ": 1,
@@ -370,7 +440,21 @@
    "note": "[LC] trong 'cam kết theo hợp đồng của mình' (EN dùng tính từ contractual); 'Chúng tôi/mình' trong quote attribution cùng câu, không đánh"
   },
   {
-   "id": "P35-VI-027",
+   "id": "P35-VI-032",
+   "sent": "S007",
+   "text": "thay đổi",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: Hành động của Maxar",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] danh từ tổng quát: 'không có thay đổi nào' đối lập phép đối với hành động ở S006 (TNT §30; H&H §6.1)"
+  },
+  {
+   "id": "P35-VI-033",
    "sent": "S007",
    "text": "chương trình",
    "occ": 1,
@@ -384,7 +468,7 @@
    "note": "[LC] trong 'các chương trình khách hàng khác'"
   },
   {
-   "id": "P35-VI-028",
+   "id": "P35-VI-034",
    "sent": "S007",
    "text": "khách hàng",
    "occ": 1,
@@ -398,7 +482,22 @@
    "note": "[LC] lặp khách hàng (định ngữ)"
   },
   {
-   "id": "P35-VI-029",
+   "id": "P35-VI-035",
+   "sent": "S007",
+   "text": "khác",
+   "occ": 2,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003-S005: GEGD (hợp đồng được nói tới)",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = khác với GEGD ở câu trước (H&H §2.5); occ=2 vì lần 1 là chuỗi con trong 'khách'",
+   "ref": "A"
+  },
+  {
+   "id": "P35-VI-036",
    "sent": "S007",
    "text": "Maxar",
    "occ": 1,
@@ -412,7 +511,7 @@
    "note": "[LC] trong 'các chương trình khách hàng khác của Maxar'; 'công ty' trong câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P35-VI-030",
+   "id": "P35-VI-037",
    "sent": "S007",
    "text": "phát biểu",
    "occ": 1,
@@ -426,7 +525,7 @@
    "note": "[LC] công thức attribution lặp"
   },
   {
-   "id": "P35-VI-031",
+   "id": "P35-VI-038",
    "sent": "S008",
    "text": "Washington",
    "occ": 1,
@@ -440,7 +539,7 @@
    "note": "[LC] hoán dụ địa danh chỉ chính quyền Mỹ; 'chính quyền Trump' trong câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P35-VI-032",
+   "id": "P35-VI-039",
    "sent": "S008",
    "text": "đình chỉ",
    "occ": 1,
@@ -454,7 +553,7 @@
    "note": "[LC] động từ đình chỉ lặp lần 3"
   },
   {
-   "id": "P35-VI-033",
+   "id": "P35-VI-040",
    "sent": "S008",
    "text": "chia sẻ thông tin tình báo",
    "occ": 1,
@@ -468,7 +567,7 @@
    "note": "[LC] lặp gần nguyên văn, trùng cặp predication S001"
   },
   {
-   "id": "P35-VI-034",
+   "id": "P35-VI-041",
    "sent": "S008",
    "text": "Ukraine",
    "occ": 1,

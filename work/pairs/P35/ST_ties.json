@@ -33,6 +33,34 @@
   {
    "id": "P35-EN-003",
    "sent": "S002",
+   "text": "use",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Ukrainian users' access",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp hình vị use (users → use); 'họ' trong quote ← Each customer cùng câu, không đánh"
+  },
+  {
+   "id": "P35-EN-004",
+   "sent": "S002",
+   "text": "share",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: suspends intelligence sharing",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp hình vị share (sharing → share); khách hàng chia sẻ chính là dữ liệu hình ảnh = tình báo bị đình chỉ"
+  },
+  {
+   "id": "P35-EN-005",
+   "sent": "S002",
    "text": "that data",
    "occ": 1,
    "cat": "R",
@@ -46,7 +74,7 @@
    "ref": "A"
   },
   {
-   "id": "P35-EN-004",
+   "id": "P35-EN-006",
    "sent": "S003",
    "text": "company",
    "occ": 1,
@@ -60,7 +88,7 @@
    "note": "[LC] danh từ tổng quát chỉ Maxar"
   },
   {
-   "id": "P35-EN-005",
+   "id": "P35-EN-007",
    "sent": "S003",
    "text": "contract",
    "occ": 1,
@@ -74,7 +102,21 @@
    "note": "[LC] lặp contract; 'in question' tóm chỉ hợp đồng đang bàn (VI: 'được nói tới')"
   },
   {
-   "id": "P35-EN-006",
+   "id": "P35-EN-008",
+   "sent": "S003",
+   "text": "GEGD",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: one U.S. government platform",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] đặt tên riêng cho nền tảng đã nêu ở S001 (nhận diện hồi tố; H&H §6.1 bridging)"
+  },
+  {
+   "id": "P35-EN-009",
    "sent": "S003",
    "text": "U.S. government",
    "occ": 1,
@@ -88,7 +130,7 @@
    "note": "[LC] định ngữ trong 'a U.S. government program'; 'program' lặp trong câu với 'GEOINT Delivery program'; 'the United States' cuối câu là biến thể U.S. → United States — đều không đánh thêm"
   },
   {
-   "id": "P35-EN-007",
+   "id": "P35-EN-010",
    "sent": "S003",
    "text": "access",
    "occ": 1,
@@ -102,7 +144,7 @@
    "note": "[LC] lặp danh từ access"
   },
   {
-   "id": "P35-EN-008",
+   "id": "P35-EN-011",
    "sent": "S003",
    "text": "satellite imagery",
    "occ": 1,
@@ -116,7 +158,7 @@
    "note": "[LC] lặp satellite imagery; thêm định ngữ mới 'commercial'"
   },
   {
-   "id": "P35-EN-009",
+   "id": "P35-EN-012",
    "sent": "S004",
    "text": "U.S. government",
    "occ": 1,
@@ -130,7 +172,21 @@
    "note": "[LC] chủ ngữ câu trích dẫn; 'the U.S. National Geospatial-Intelligence Agency' lần đầu không đánh; 'the action' trong câu không đánh"
   },
   {
-   "id": "P35-EN-010",
+   "id": "P35-EN-013",
+   "sent": "S004",
+   "text": "decided",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: makes their own decisions",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] lặp hình vị decide (decisions → decided); quyết định của chính phủ ≠ của khách hàng — lặp từ vựng, khác referent"
+  },
+  {
+   "id": "P35-EN-014",
    "sent": "S004",
    "text": "suspend",
    "occ": 1,
@@ -144,7 +200,7 @@
    "note": "[LC] lặp động từ suspend (đối tượng khác: accounts)"
   },
   {
-   "id": "P35-EN-011",
+   "id": "P35-EN-015",
    "sent": "S004",
    "text": "Ukrainian accounts",
    "occ": 1,
@@ -158,7 +214,7 @@
    "note": "[LC] lặp Ukrainian; đổi đầu từ users → accounts"
   },
   {
-   "id": "P35-EN-012",
+   "id": "P35-EN-016",
    "sent": "S004",
    "text": "GEGD",
    "occ": 1,
@@ -172,7 +228,7 @@
    "note": "[LC] viết tắt lặp"
   },
   {
-   "id": "P35-EN-013",
+   "id": "P35-EN-017",
    "sent": "S004",
    "text": "Maxar",
    "occ": 1,
@@ -186,7 +242,7 @@
    "note": "[LC] đặt lại tên sau 'The company'"
   },
   {
-   "id": "P35-EN-014",
+   "id": "P35-EN-018",
    "sent": "S005",
    "text": "In accordance with",
    "occ": 1,
@@ -200,7 +256,7 @@
    "note": "[LC] nối nhân-quả: hành động của NGA tuân theo quyết định đã nêu ở S004; 'directive' truy hồi 'has decided'"
   },
   {
-   "id": "P35-EN-015",
+   "id": "P35-EN-019",
    "sent": "S005",
    "text": "administration",
    "occ": 1,
@@ -214,7 +270,21 @@
    "note": "[LC] administration ≈ U.S. government — cùng thực thể chính quyền Mỹ (lần đầu: S001 'Donald Trump's administration'); 'U.S. government-purchased' cuối câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P35-EN-016",
+   "id": "P35-EN-020",
+   "sent": "S005",
+   "text": "directive",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: has decided to temporarily suspend Ukrainian accounts in GEGD",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "[LC] danh từ tổng quát tóm chỉ quyết định của chính quyền ở S004 (H&H §6.1); khác hình thức với hàng C cùng câu"
+  },
+  {
+   "id": "P35-EN-021",
    "sent": "S005",
    "text": "Ukraine",
    "occ": 1,
@@ -228,7 +298,7 @@
    "note": "[LC] danh từ Ukraine lặp tính từ Ukrainian"
   },
   {
-   "id": "P35-EN-017",
+   "id": "P35-EN-022",
    "sent": "S005",
    "text": "NGA",
    "occ": 1,
@@ -242,7 +312,7 @@
    "note": "[LC] nén thành viết tắt (VI lặp tên đầy đủ); 'the agency' trong câu (a spokesperson for the agency) quy chiếu trong câu, không đánh"
   },
   {
-   "id": "P35-EN-018",
+   "id": "P35-EN-023",
    "sent": "S005",
    "text": "suspended",
    "occ": 1,
@@ -256,7 +326,7 @@
    "note": "[LC] lặp suspend; 'temporarily' lặp cặp S004-S005 (không đánh riêng)"
   },
   {
-   "id": "P35-EN-019",
+   "id": "P35-EN-024",
    "sent": "S005",
    "text": "access",
    "occ": 1,
@@ -270,7 +340,7 @@
    "note": "[LC] lần 1 trong câu (suspended access to); lần 2 (portal for access) không đánh thêm"
   },
   {
-   "id": "P35-EN-020",
+   "id": "P35-EN-025",
    "sent": "S005",
    "text": "Global Enhanced GEOINT Delivery system",
    "occ": 1,
@@ -284,7 +354,7 @@
    "note": "[LC] viết tắt S004 được mở rộng tên đầy đủ (lần đầu S003 'the Global Enhanced GEOINT Delivery program'; đổi program → system); 'or GEGD' trong câu là đồng vị, không đánh thêm"
   },
   {
-   "id": "P35-EN-021",
+   "id": "P35-EN-026",
    "sent": "S005",
    "text": "commercial imagery",
    "occ": 1,
@@ -298,7 +368,7 @@
    "note": "[LC] rút gọn commercial (satellite) imagery; 'the primary portal' là đồng vị với GEGD trong câu"
   },
   {
-   "id": "P35-EN-022",
+   "id": "P35-EN-027",
    "sent": "S006",
    "text": "Maxar",
    "occ": 1,
@@ -312,7 +382,7 @@
    "note": "[LC] trong 'Maxar's action' (chiếm hữu cách)"
   },
   {
-   "id": "P35-EN-023",
+   "id": "P35-EN-028",
    "sent": "S006",
    "text": "action",
    "occ": 1,
@@ -326,7 +396,7 @@
    "note": "[LC] danh từ tổng quát tóm chỉ hành động vô hiệu hóa ở S001 ('the action' S004 là quy chiếu trong câu, không đánh)"
   },
   {
-   "id": "P35-EN-024",
+   "id": "P35-EN-029",
    "sent": "S007",
    "text": "contractual",
    "occ": 1,
@@ -340,7 +410,36 @@
    "note": "[LC] hình vị contract- lặp dưới dạng tính từ"
   },
   {
-   "id": "P35-EN-025",
+   "id": "P35-EN-030",
+   "sent": "S007",
+   "text": "change",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: Maxar's action",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] danh từ tổng quát: 'no change' đối lập phép đối với hành động đã nêu ở S006 (TNT §30; H&H §6.1)"
+  },
+  {
+   "id": "P35-EN-031",
+   "sent": "S007",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003-S005: GEGD (the contract in question)",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = khác với GEGD đã nêu ở câu trước (H&H §2.5)",
+   "ref": "A"
+  },
+  {
+   "id": "P35-EN-032",
    "sent": "S007",
    "text": "Maxar",
    "occ": 1,
@@ -354,7 +453,7 @@
    "note": "[LC] trong 'other Maxar customer programs'; 'the company' trong câu cùng chuỗi, không đánh thêm; 'We/our' trong quote attribution cùng câu, không đánh"
   },
   {
-   "id": "P35-EN-026",
+   "id": "P35-EN-033",
    "sent": "S007",
    "text": "customer",
    "occ": 1,
@@ -368,7 +467,7 @@
    "note": "[LC] lặp customer (định ngữ)"
   },
   {
-   "id": "P35-EN-027",
+   "id": "P35-EN-034",
    "sent": "S007",
    "text": "programs",
    "occ": 1,
@@ -382,7 +481,7 @@
    "note": "[LC] lặp program — GEGD là một trong các chương trình khách hàng"
   },
   {
-   "id": "P35-EN-028",
+   "id": "P35-EN-035",
    "sent": "S007",
    "text": "statement",
    "occ": 1,
@@ -396,7 +495,7 @@
    "note": "[LC] công thức attribution lặp"
   },
   {
-   "id": "P35-EN-029",
+   "id": "P35-EN-036",
    "sent": "S008",
    "text": "Washington",
    "occ": 1,
@@ -410,7 +509,7 @@
    "note": "[LC] hoán dụ địa danh chỉ chính quyền Mỹ (đối xứng predication S001: administration suspends intelligence sharing); 'the Trump administration' trong câu cùng chuỗi, không đánh thêm"
   },
   {
-   "id": "P35-EN-030",
+   "id": "P35-EN-037",
    "sent": "S008",
    "text": "suspended",
    "occ": 1,
@@ -424,7 +523,7 @@
    "note": "[LC] động từ suspend lặp lần 3"
   },
   {
-   "id": "P35-EN-031",
+   "id": "P35-EN-038",
    "sent": "S008",
    "text": "intelligence-sharing",
    "occ": 1,
@@ -438,7 +537,7 @@
    "note": "[LC] lặp gần nguyên văn, trùng cặp predication với S001"
   },
   {
-   "id": "P35-EN-032",
+   "id": "P35-EN-039",
    "sent": "S008",
    "text": "Ukraine",
    "occ": 1,

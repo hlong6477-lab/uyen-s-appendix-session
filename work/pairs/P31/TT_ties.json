@@ -89,7 +89,22 @@
   {
    "id": "P31-VI-007",
    "sent": "S003",
-   "text": "video khác",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: một video được đăng tải",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = khác với video đã nêu ở câu trước (H&H §2.5); EN 'another' 1-1",
+   "ref": "A"
+  },
+  {
+   "id": "P31-VI-008",
+   "sent": "S003",
+   "text": "video",
    "occ": 1,
    "cat": "L",
    "sub": "repetition",
@@ -98,10 +113,10 @@
    "ante": "S002: một video",
    "conf": "high",
    "alt": "R: một",
-   "note": "Trong một video khác — lặp video + thêm 'khác'"
+   "note": "Trong một video khác — lặp video; 'khác' đánh R riêng"
   },
   {
-   "id": "P31-VI-008",
+   "id": "P31-VI-009",
    "sent": "S003",
    "text": "gấu",
    "occ": 1,
@@ -115,7 +130,7 @@
    "note": "một gấu con — thêm 'con' (gấu non)"
   },
   {
-   "id": "P31-VI-009",
+   "id": "P31-VI-010",
    "sent": "S003",
    "text": "chuồng",
    "occ": 1,
@@ -129,7 +144,7 @@
    "note": "quay quanh chuồng"
   },
   {
-   "id": "P31-VI-010",
+   "id": "P31-VI-011",
    "sent": "S003",
    "text": "máy bay",
    "occ": 1,
@@ -143,7 +158,21 @@
    "note": "chuyến bay → máy bay (dịch chuyển chỉ phương tiện)"
   },
   {
-   "id": "P31-VI-011",
+   "id": "P31-VI-012",
+   "sent": "S003",
+   "text": "người",
+   "occ": 1,
+   "cat": "L",
+   "sub": "superordinate",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: một hành khách nam",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát (nhiều người cố gắng xoa dịu nó) — mở rộng từ hành khách S002; H&H §6.1; EN 'people' 1-1"
+  },
+  {
+   "id": "P31-VI-013",
    "sent": "S004",
    "text": "Chú gấu này",
    "occ": 1,
@@ -157,7 +186,7 @@
    "note": "chỉ từ 'này' thâu vào alt vì đầu ngữ lặp lại"
   },
   {
-   "id": "P31-VI-012",
+   "id": "P31-VI-014",
    "sent": "S004",
    "text": "Dubai",
    "occ": 1,
@@ -171,7 +200,21 @@
    "note": null
   },
   {
-   "id": "P31-VI-013",
+   "id": "P31-VI-015",
+   "sent": "S004",
+   "text": "di chuyển",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: được chuyển",
+   "conf": "med",
+   "alt": null,
+   "note": "di chuyển (khỏi máy bay) — hiện thực hóa EN 'taken off the plane' bằng cùng họ 'chuyển' (TNT §26)"
+  },
+  {
+   "id": "P31-VI-016",
    "sent": "S004",
    "text": "máy bay",
    "occ": 1,
@@ -185,7 +228,7 @@
    "note": "di chuyển khỏi máy bay"
   },
   {
-   "id": "P31-VI-014",
+   "id": "P31-VI-017",
    "sent": "S005",
    "text": "Hãng hàng không",
    "occ": 1,
@@ -199,7 +242,7 @@
    "note": "danh từ tổng quát thay tên hãng (EN: The airline)"
   },
   {
-   "id": "P31-VI-015",
+   "id": "P31-VI-018",
    "sent": "S005",
    "text": "lời xin lỗi",
    "occ": 1,
@@ -213,7 +256,7 @@
    "note": "đưa ra lời xin lỗi"
   },
   {
-   "id": "P31-VI-016",
+   "id": "P31-VI-019",
    "sent": "S005",
    "text": "chú gấu này",
    "occ": 1,
@@ -227,7 +270,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-017",
+   "id": "P31-VI-020",
    "sent": "S005",
    "text": "xổng",
    "occ": 1,
@@ -241,7 +284,7 @@
    "note": "đã xổng chuồng"
   },
   {
-   "id": "P31-VI-018",
+   "id": "P31-VI-021",
    "sent": "S005",
    "text": "chuyến bay",
    "occ": 1,
@@ -255,7 +298,7 @@
    "note": "khi chuyến bay cập bến"
   },
   {
-   "id": "P31-VI-019",
+   "id": "P31-VI-022",
    "sent": "S005",
    "text": "Cảng Hàng không Dubai",
    "occ": 1,
@@ -269,7 +312,7 @@
    "note": "sân bay cụ thể hóa thành phố (bridging nhẹ)"
   },
   {
-   "id": "P31-VI-020",
+   "id": "P31-VI-023",
    "sent": "S006",
    "text": "Công ty",
    "occ": 1,
@@ -283,7 +326,7 @@
    "note": "trong quote; 'của công ty' cuối câu không đánh thêm"
   },
   {
-   "id": "P31-VI-021",
+   "id": "P31-VI-024",
    "sent": "S006",
    "text": "lời xin lỗi",
    "occ": 1,
@@ -297,7 +340,21 @@
    "note": "xin gửi lời xin lỗi"
   },
   {
-   "id": "P31-VI-022",
+   "id": "P31-VI-025",
+   "sent": "S006",
+   "text": "hành khách",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: một hành khách nam",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hành khách + số nhiều (những hành khách); TNT §26 phép lặp từ vựng"
+  },
+  {
+   "id": "P31-VI-026",
    "sent": "S006",
    "text": "chuyến bay",
    "occ": 1,
@@ -311,7 +368,7 @@
    "note": "trên chuyến bay từ"
   },
   {
-   "id": "P31-VI-023",
+   "id": "P31-VI-027",
    "sent": "S006",
    "text": "Cảng Hàng không Quốc tế Baghdad",
    "occ": 1,
@@ -325,7 +382,7 @@
    "note": "sân bay cụ thể hóa thành phố (bridging nhẹ)"
   },
   {
-   "id": "P31-VI-024",
+   "id": "P31-VI-028",
    "sent": "S006",
    "text": "Cảng Hàng không Dubai",
    "occ": 1,
@@ -339,7 +396,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-025",
+   "id": "P31-VI-029",
    "sent": "S007",
    "text": "trì hoãn",
    "occ": 1,
@@ -353,7 +410,7 @@
    "note": "Việc trì hoãn này — chỉ từ 'này' thâu vào alt vì đầu ngữ lặp"
   },
   {
-   "id": "P31-VI-026",
+   "id": "P31-VI-030",
    "sent": "S007",
    "text": "khu chứa hàng",
    "occ": 1,
@@ -367,7 +424,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-027",
+   "id": "P31-VI-031",
    "sent": "S008",
    "text": "máy bay",
    "occ": 1,
@@ -381,7 +438,21 @@
    "note": "Khi máy bay cập cảng"
   },
   {
-   "id": "P31-VI-028",
+   "id": "P31-VI-032",
+   "sent": "S008",
+   "text": "cập cảng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: khi chuyến bay cập bến",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị 'cập' (cập cảng ≈ cập bến); chuỗi đến của VI, H&H §6.2"
+  },
+  {
+   "id": "P31-VI-033",
    "sent": "S008",
    "text": "Cảng Hàng không Dubai",
    "occ": 1,
@@ -395,7 +466,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-029",
+   "id": "P31-VI-034",
    "sent": "S008",
    "text": "con gấu này",
    "occ": 1,
@@ -409,7 +480,7 @@
    "note": "đổi loại từ chú → con (ghi §4.3)"
   },
   {
-   "id": "P31-VI-030",
+   "id": "P31-VI-035",
    "sent": "S008",
    "text": "thoát",
    "occ": 1,
@@ -423,7 +494,7 @@
    "note": "xổng → thoát: đổi động từ một lần"
   },
   {
-   "id": "P31-VI-031",
+   "id": "P31-VI-036",
    "sent": "S008",
    "text": "chuồng",
    "occ": 1,
@@ -437,7 +508,7 @@
    "note": "thoát khỏi chuồng giữ"
   },
   {
-   "id": "P31-VI-032",
+   "id": "P31-VI-037",
    "sent": "S009",
    "text": "Công ty",
    "occ": 1,
@@ -451,7 +522,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-033",
+   "id": "P31-VI-038",
    "sent": "S009",
    "text": "cũng",
    "occ": 1,
@@ -465,7 +536,7 @@
    "note": "EN giải quyết quan hệ bổ sung trong câu ('adding that') → VI tách câu nên 'cũng' thành liên từ liên câu"
   },
   {
-   "id": "P31-VI-034",
+   "id": "P31-VI-039",
    "sent": "S009",
    "text": "chú gấu này",
    "occ": 1,
@@ -479,7 +550,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-035",
+   "id": "P31-VI-040",
    "sent": "S009",
    "text": "vận chuyển",
    "occ": 1,
@@ -493,7 +564,7 @@
    "note": "được vận chuyển — chuyển mở rộng"
   },
   {
-   "id": "P31-VI-036",
+   "id": "P31-VI-041",
    "sent": "S010",
    "text": "một nhóm chuyên gia",
    "occ": 1,
@@ -507,7 +578,7 @@
    "note": "lặp nguyên văn"
   },
   {
-   "id": "P31-VI-037",
+   "id": "P31-VI-042",
    "sent": "S010",
    "text": "tiêm thuốc an thần",
    "occ": 1,
@@ -521,7 +592,7 @@
    "note": "lặp nguyên văn"
   },
   {
-   "id": "P31-VI-038",
+   "id": "P31-VI-043",
    "sent": "S010",
    "text": "con gấu này",
    "occ": 1,
@@ -535,7 +606,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-039",
+   "id": "P31-VI-044",
    "sent": "S010",
    "text": "chuyển",
    "occ": 1,
@@ -549,7 +620,7 @@
    "note": "VI dùng lại họ 'chuyển' cho 'take off' (EN đổi động từ)"
   },
   {
-   "id": "P31-VI-040",
+   "id": "P31-VI-045",
    "sent": "S010",
    "text": "máy bay",
    "occ": 1,
@@ -563,7 +634,7 @@
    "note": "ra khỏi máy bay"
   },
   {
-   "id": "P31-VI-041",
+   "id": "P31-VI-046",
    "sent": "S011",
    "text": null,
    "occ": 1,
@@ -579,7 +650,7 @@
    "note": "[LC] (biên) chủ ngữ mệnh đề 'Sau khi ∅ kiểm tra ...' được điều khiển bằng 'Nhóm phi hành đoàn' ở câu trước; song song E-EN1"
   },
   {
-   "id": "P31-VI-042",
+   "id": "P31-VI-047",
    "sent": "S011",
    "text": "máy bay",
    "occ": 1,
@@ -593,7 +664,7 @@
    "note": "kiểm tra máy bay"
   },
   {
-   "id": "P31-VI-043",
+   "id": "P31-VI-048",
    "sent": "S011",
    "text": "vụ việc",
    "occ": 1,
@@ -607,7 +678,7 @@
    "note": "danh từ tổng quát tóm chỉ tình huống; EN dùng chỉ từ 'this incident' (R) — dịch chuyển R→L"
   },
   {
-   "id": "P31-VI-044",
+   "id": "P31-VI-049",
    "sent": "S011",
    "text": "chuyến bay",
    "occ": 1,
@@ -621,7 +692,7 @@
    "note": "chuyến bay đã tiếp tục cất cánh"
   },
   {
-   "id": "P31-VI-045",
+   "id": "P31-VI-050",
    "sent": "S011",
    "text": "Baghdad",
    "occ": 1,
@@ -635,7 +706,7 @@
    "note": "cất cánh về Baghdad"
   },
   {
-   "id": "P31-VI-046",
+   "id": "P31-VI-051",
    "sent": "S012",
    "text": "Hãng Hàng không",
    "occ": 1,
@@ -649,7 +720,7 @@
    "note": "viết hoa khác S005; 'này' thâu vào alt; VI bỏ 'told CNN'"
   },
   {
-   "id": "P31-VI-047",
+   "id": "P31-VI-052",
    "sent": "S012",
    "text": "chú gấu",
    "occ": 1,
@@ -663,7 +734,7 @@
    "note": "lần 1 trong câu (lần 2 'của chú gấu' không đánh thêm)"
   },
   {
-   "id": "P31-VI-048",
+   "id": "P31-VI-053",
    "sent": "S012",
    "text": "vận chuyển",
    "occ": 1,
@@ -677,7 +748,7 @@
    "note": "lần 1 trong câu (lần 2 'vận chuyển khỏi' không đánh thêm)"
   },
   {
-   "id": "P31-VI-049",
+   "id": "P31-VI-054",
    "sent": "S012",
    "text": "UAE",
    "occ": 1,
@@ -691,7 +762,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-050",
+   "id": "P31-VI-055",
    "sent": "S012",
    "text": "tiêm thuốc an thần",
    "occ": 1,
@@ -705,7 +776,7 @@
    "note": null
   },
   {
-   "id": "P31-VI-051",
+   "id": "P31-VI-056",
    "sent": "S012",
    "text": "máy bay",
    "occ": 1,
@@ -719,7 +790,7 @@
    "note": "vận chuyển khỏi máy bay"
   },
   {
-   "id": "P31-VI-052",
+   "id": "P31-VI-057",
    "sent": "S013",
    "text": "Trong cuối ngày thứ Hai",
    "occ": 1,
@@ -733,7 +804,7 @@
    "note": "chuyển khung thời gian; EN đối ứng 'Later Monday' nhưng lệch ngày do lỗi dịch S001 (xem §8)"
   },
   {
-   "id": "P31-VI-053",
+   "id": "P31-VI-058",
    "sent": "S013",
    "text": "chuyến bay",
    "occ": 1,
@@ -747,7 +818,21 @@
    "note": "chuyến bay này"
   },
   {
-   "id": "P31-VI-054",
+   "id": "P31-VI-059",
+   "sent": "S013",
+   "text": "thực tế",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001-S012: mạch 'một chú gấu'",
+   "conf": "med",
+   "alt": null,
+   "note": "continuative H&H §5.8: đính chính đếm số (thực tế vận chuyển hai chú gấu); mạch bị đính chính nằm ở các câu trước"
+  },
+  {
+   "id": "P31-VI-060",
    "sent": "S013",
    "text": "vận chuyển",
    "occ": 1,
@@ -761,7 +846,7 @@
    "note": "thực tế vận chuyển hai chú gấu"
   },
   {
-   "id": "P31-VI-055",
+   "id": "P31-VI-061",
    "sent": "S013",
    "text": "chú gấu",
    "occ": 1,
@@ -775,7 +860,7 @@
    "note": "hai chú gấu — chuyển số nhiều"
   },
   {
-   "id": "P31-VI-056",
+   "id": "P31-VI-062",
    "sent": "S014",
    "text": "Hai chú gấu",
    "occ": 1,
@@ -789,7 +874,7 @@
    "note": "lặp nguyên văn + thêm 'nhỏ'; lần 'một trong hai chú gấu' trong câu không đánh thêm"
   },
   {
-   "id": "P31-VI-057",
+   "id": "P31-VI-063",
    "sent": "S014",
    "text": "Baghdad",
    "occ": 1,
@@ -803,7 +888,7 @@
    "note": "được gửi từ Baghdad"
   },
   {
-   "id": "P31-VI-058",
+   "id": "P31-VI-064",
    "sent": "S014",
    "text": "chuyến bay",
    "occ": 1,
@@ -817,7 +902,21 @@
    "note": "khi chuyến bay cập bến"
   },
   {
-   "id": "P31-VI-059",
+   "id": "P31-VI-065",
+   "sent": "S014",
+   "text": "cập bến",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: máy bay cập cảng",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp cập bến (khi chuyến bay cập bến) ← S005 cập bến qua S008 cập cảng; tiền trạm gần nhất S008"
+  },
+  {
+   "id": "P31-VI-066",
    "sent": "S014",
    "text": "Dubai",
    "occ": 1,
@@ -831,7 +930,7 @@
    "note": "cập bến tại Dubai"
   },
   {
-   "id": "P31-VI-060",
+   "id": "P31-VI-067",
    "sent": "S014",
    "text": "xổng chuồng",
    "occ": 1,
@@ -845,7 +944,21 @@
    "note": null
   },
   {
-   "id": "P31-VI-061",
+   "id": "P31-VI-068",
+   "sent": "S014",
+   "text": "cơ quan",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: cơ quan chức năng của UAE",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp cơ quan, số nhiều + cụ thể hóa referent (các cơ quan về sức khỏe và môi trường); H&H §6.2"
+  },
+  {
+   "id": "P31-VI-069",
    "sent": "S014",
    "text": "tiêm thuốc an thần",
    "occ": 1,
@@ -859,7 +972,7 @@
    "note": "EN 'sedate it' → VI 'cho chúng' (dịch chuyển số, ghi §4.3)"
   },
   {
-   "id": "P31-VI-062",
+   "id": "P31-VI-070",
    "sent": "S015",
    "text": "Bộ Giao thông Vận tải",
    "occ": 1,
@@ -873,7 +986,7 @@
    "note": "lặp nguyên văn tên bộ; 'nước này' được đánh R riêng (chuỗi Iraq)"
   },
   {
-   "id": "P31-VI-063",
+   "id": "P31-VI-071",
    "sent": "S015",
    "text": "nước này",
    "occ": 1,
@@ -888,7 +1001,7 @@
    "ref": "A"
   },
   {
-   "id": "P31-VI-064",
+   "id": "P31-VI-072",
    "sent": "S015",
    "text": "chú gấu",
    "occ": 1,
@@ -902,7 +1015,7 @@
    "note": "EN 'the bear's escape' → VI mệnh đề đầy đủ"
   },
   {
-   "id": "P31-VI-065",
+   "id": "P31-VI-073",
    "sent": "S015",
    "text": "xổng chuồng",
    "occ": 1,

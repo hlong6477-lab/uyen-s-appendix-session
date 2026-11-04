@@ -7,6 +7,20 @@
 - Quy ước: `[LC]` liên câu; `[TC]` trong câu; `[TD]` tiêu đề (không nằm trong flow, không render); `∅` thành phần bị lược; `{…}` phần bù hồi phục.
 - Bài không có subhead/caption; 8 câu EN / 8 câu VI.
 
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`, H&H §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (repetition/synonym/superordinate/general
+> word, §6.2) + collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ
+> thống liên kết văn bản tiếng Việt* (1985; tái bản 2006)
+> (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối (§30), phép
+> thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ khiếm
+> diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối (§38, §43).
+> Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L.
+
 ## 1. Tổng quan nội dung, thể loại, bản đồ câu
 
 Chính quyền Mỹ (thời Tổng thống Donald Trump) đình chỉ việc chia sẻ thông tin tình báo với Kyiv, kéo theo việc công ty Maxar vô hiệu hóa quyền tiếp cận hình ảnh vệ tinh của người dùng Ukraine trên nền tảng GEGD thuộc chính phủ Mỹ; cơ quan NGA xác nhận; hãng tin quân sự Militarnyi đưa tin đầu tiên; cuối cùng là bối cảnh tuyên bố của giám đốc CIA John Ratcliffe. Mạch: sự kiện chính (S001) → tuyên bố Maxar về các hợp đồng (S002) → định danh hợp đồng GEGD (S003) → trích dẫn quyết định đình chỉ + chuyển câu hỏi sang NGA (S004) → giải thích của NGA (S005) → nguồn tin (S006) → tuyên bố thứ hai của Maxar (S007) → bối cảnh CIA (S008).
@@ -40,6 +54,7 @@ Nhận định:
 - EN S008 "pressure on … government ∅ to cooperate" là cấu trúc control; VI hiện thực hóa bằng đại từ "họ" ("để buộc họ hợp tác") — hiện thực hóa, không đánh E.
 - VI S008 "Washington đã đình chỉ…, ∅ gây áp lực…" là vế phụ chú đối ứng participle "piling pressure" của EN — hai bên cùng chiến lược, không phải tọa hợp chuẩn nên không đánh dấu.
 - Không có ∅ bịa: các chỗ đối phương lấp đầy bằng danh từ/đại từ đều ghi nhận là hiện thực hóa (mục 7).
+- **Theo TNT (§23, §35–36):** ∅ chủ ngữ sau "và" (E-VI1) theo dõi tham chiếu {Maxar} nên lớp VI đọc là *thế đại từ khiếm diện*; theo quy tắc "một hình thức, một hàng" (mapping §3.5, §3.13) tie table giữ duy nhất hàng E, không đánh song R. **Theo H&H (§4):** ∅ này là ellipsis của thành phần chủ ngữ — "substitution by zero" — hồi phục được từ đồng văn trong cùng phát ngôn.
 
 ## 3. Phép thế (substitution)
 
@@ -48,7 +63,7 @@ Nhận định:
 | — | EN | (không có) | không gặp one/those/do so ở cấp liên câu cũng như trong câu | — |
 | — | VI | (không có) | không gặp như vậy/làm vậy/vậy | — |
 
-Nhận định: hai hiện tượng lân cận nhưng **không phải phép thế**: (1) "that data" (S002 EN) / "dữ liệu đó" (S002 VI) là NP demonstrative → xử lý là quy chiếu (mục 4); (2) "the contract in question" (S003 EN) / "hợp đồng được nói tới" (S003 VI) là NP đầy đủ kèm thành phần xác định → xử lý là lặp từ vựng (mục 6). Cặp này né pro-form hai đầu: bản tin thông tấn ưu tiên đặt lại tên đầy đủ.
+Nhận định: hai hiện tượng lân cận nhưng **không phải phép thế**: (1) "that data" (S002 EN) / "dữ liệu đó" (S002 VI) là NP demonstrative → xử lý là quy chiếu (mục 4); (2) "the contract in question" (S003 EN) / "hợp đồng được nói tới" (S003 VI) là NP đầy đủ kèm thành phần xác định → xử lý là lặp từ vựng (mục 6). Cặp này né pro-form hai đầu: bản tin thông tấn ưu tiên đặt lại tên đầy đủ. **Theo H&H §3.1.1 (phép thử thế/quy chiếu):** "that" trong "that data" trỏ ĐỒNG VẬT (hình ảnh vệ tinh, S001) chứ không thay thế chữ nghĩa → R demonstrative (§2.4), không phải S; **theo TNT (§35–36)** "đó" là phép thế đại từ hồi quy, còn hai lần VI đặt lại tên đầy đủ là *phép lặp từ vựng* (§26) — đúng hướng "English tracks participants with pronouns; Vietnamese often repeats the noun" (NTT 2020 §2.1).
 
 ## 4. Phép quy chiếu (reference)
 
@@ -58,12 +73,16 @@ Nhận định: hai hiện tượng lân cận nhưng **không phải phép th�
 |---|---|---|---|---|---|
 | R-EN1 | S002 "that data" | — | A | S001: satellite imagery | demonstrative NP; "data" là danh từ mang, "that" trỏ về hình ảnh vệ tinh đã thiết lập ở S001 |
 | R-VI1 | — | S002 "dữ liệu đó" | A | S001: hình ảnh vệ tinh | chỉ từ "đó" làm đúng công việc của "that" |
+| R-EN2 | S007 "other" | — | A | S003–S005: GEGD (the contract in question) | [Phase-2] quy chiếu so sánh (H&H §2.5): "other Maxar customer programs" = khác với GEGD đã nêu ở câu trước |
+| R-VI2 | — | S007 "khác" | A | S003–S005: GEGD (hợp đồng được nói tới) | [Phase-2] R so sánh — hai đầu cùng cấp [LC] (khác P21) |
 
 Lưu ý về "that data": có thể đọc là trỏ về "contracts" cùng câu, nhưng hợp đồng không phải là dữ liệu — dữ liệu mà khách hàng dùng/chia sẻ chính là hình ảnh vệ tinh (S001), nên chọn hướng truy hồi liên câu, conf med.
 
+**[Phase-2] Theo H&H §2.5 (comparative reference):** R-EN2/R-VI2 — "other"/"khác" (S007) đặt tập so sánh ("các chương trình khách hàng khác của Maxar") tương phản với GEGD — đối tượng bị loại khỏi tập nằm trọn ở câu trước (S003–S005) → [LC], ref A. Khác P21 (EN "further scams" nằm cùng câu → [TC] không đánh, chỉ VI "khác" lên [LC]), ở P35 HAI ĐẦU đều liên câu → không phát sinh dịch chuyển cấp câu ở nhóm so sánh.
+
 ### 4.2. Hướng A/C/E
 
-- A (hồi quy): 1/side — "that data" / "dữ liệu đó" (S002).
+- A (hồi quy): 2/side — "that data" / "dữ liệu đó" (S002); [Phase-2] "other" / "khác" (S007, so sánh).
 - C (tiền chỉ): không có.
 - E (ngoại văn bản): **không có** — bài không có khối advice hướng độc giả, không gặp you/bạn (khác các cặp consumer-affairs).
 
@@ -77,6 +96,8 @@ Lưu ý về "that data": có thể đọc là trỏ về "contracts" cùng câu
 - Quote S007: "We take our contractual commitments" / "Chúng tôi rất coi trọng các cam kết theo hợp đồng của mình" — ngôi 1 + phản thân "mình"; attribution "the company said"/"công ty nói" đứng cùng câu → không đánh dấu.
 - VI S008 "để buộc họ hợp tác" — "họ" ← "chính phủ của Tổng thống Volodymyr Zelenskyy" (cùng câu); EN tương ứng là control ∅.
 - Danh từ tổng quát + xác định: "The company" (S003 EN) / "Công ty" (S003 VI) xử lý là L (mục 6); "the contract in question" / "hợp đồng được nói tới" cũng là L.
+- [Phase-2] Ứng viên so sánh bị loại: EN S004 "referring **further** questions" — "further" = bổ sung thêm, tập so sánh không nằm trong văn bản (đọc ngoại ngữ cảnh) → không tie; EN S002 "their **own** decisions" — "own" nhấn mạnh sở hữu, đối tượng tương phản không xuất hiện trong văn bản → không tie (H&H §2.5 đòi đối tượng so sánh truy hồi được).
+- [Phase-2] "Tình báo" trong tên riêng (S003 "Cung cấp Tình báo Địa lý", S004–S005 "Cơ quan Tình báo Địa không gian", S008 "Cơ quan Tình báo Trung ương") lặp hình vị với chuỗi "thông tin tình báo" nhưng đều nằm trong lần-nhắc-đầu của tên riêng hoặc trong span hàng khác (S005 VI: hàng tên đầy đủ đã phủ "Tình báo") → không đánh, tránh gộp nhầm thực thể (xem §8.6).
 
 ## 5. Phép nối (conjunction)
 
@@ -88,6 +109,8 @@ Nhận định:
 
 - Nối trong câu (không đánh dấu theo quy ước [LC]): S001 "as…" ↔ "vì…" — EN vừa nhân-quả vừa thời gian, VI chốt hẳn nhân-quả; S002 "and … and" ↔ "và … và"; S004 VI "và" (vế tọa hợp gắn với E-VI1); S007 "and" ↔ "và"; S008 EN participle kết quả "piling pressure" ↔ VI "gây áp lực"; VI S008 "để buộc" (mục đích).
 - Cặp này **rất nghèo nối liên câu** (1/side): mạch bài được giữ bằng chuỗi từ vựng thay vì liên từ — đặc trưng tin điện ngắn ghép phát biểu.
+
+**Theo H&H §5:** "In accordance with" / "Tuân theo" là quan hệ nhân-quả dạng tuân thủ (NGA hành động trên cơ sở quyết định đã nêu S004) — thuộc causal (§5.6), tách khỏi continuatives (§5.8). Rà nhóm 11 (For example,/though cuối câu/In fact,) không gặp: cặp không có continuative, cũng không có adversative liên câu.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -107,7 +130,12 @@ Quy ước đánh: mỗi chuỗi 1 dấu/câu (trong câu lặp lại thì ghi c
 - **Chuỗi khách hàng / chương trình**: EN "Each customer" (S002) → "customer programs" (S007); "program" (S003 ×2, trong câu) → "programs" (S007). VI: "Mỗi khách hàng" (S002) → "chương trình khách hàng" (S007); "chương trình" (S003 ×2) → "chương trình" (S007).
 - **Chuỗi hành động (danh từ tổng quát tóm sự kiện)**: EN "the action" (S004, trong câu) → "Maxar's action" (S006 ← sự kiện vô hiệu hóa ở S001). VI: "việc này" (S004, trong câu) → "Hành động của Maxar" (S006).
 - **VI tự sinh**: S003 "cho người dùng tiếp cận hình ảnh vệ tinh thương mại" — EN chỉ có "providing access to commercial satellite imagery"; "người dùng" lặp từ S001 "người dùng Ukraine" → 1 tie VI-only.
-- **Không đánh**: số/ngày (Friday/thứ Sáu, Wednesday/thứ Tư — không phải tie theo quy ước); động từ chức năng báo chí said/cho biết/nói; "President/Tổng thống" (S001 Trump ↔ S008 Zelenskiy — cùng chức danh khác nhân vật); "Agency/Cơ quan" (NGA ↔ CIA — khác cơ quan); các thực thể 1 lần nhắc: Militarnyi, Kyiv, CIA, John Ratcliffe, Zelenskiy/Zelenskyy, Nga, "spokesperson/phát ngôn viên", "directive/chỉ thị".
+- **[Phase-2] Chuỗi chia sẻ (bổ sung mắt xích S002):** EN intelligence sharing (S001) → share (S002) → intelligence-sharing (S008); VI chia sẻ thông tin tình báo (S001) → chia sẻ (S002) → chia sẻ thông tin tình báo (S008). "share/chia sẻ" (S002) là mắt xích sót (H&H §6.2 reiteration; TNT §26 phép lặp): dữ liệu khách hàng dùng/chia sẻ chính là hình ảnh vệ tinh = nguồn tình báo bị đình chỉ; S008 vẫn giữ tiền trạm S001 vì trùng cặp predication (tiền lệ P21 scams ← scams bỏ qua scammed ở giữa).
+- **[Phase-2] Chuỗi user/use:** EN Ukrainian users (S001) → use (S002); VI người dùng (S001) → sử dụng (S002) — lặp hình vị use / gốc dùng-dụng qua đổi loại từ (H&H §6.2; TNT §26); referent lệch nhau (người dùng Ukraine ≠ mỗi khách hàng) nên conf med.
+- **[Phase-2] Chuỗi GEGD neo về nền tảng (nhóm 12, bài học P28):** one U.S. government platform (S001) → GEGD (S003). Mắt xích S003 trước đây được S004 cite làm tiền trạm nhưng không có hàng — GEGD là tên riêng của nền tảng đã nêu ở S001, nhận diện hồi tố qua S004 "suspend Ukrainian accounts in GEGD" (= sự kiện S001) → thêm hàng L general word (H&H §6.1 bridging); "a U.S. government program" (S003) là đồng vị trong câu nên không đánh thêm.
+- **[Phase-2] Chuỗi quyết định:** EN decisions (S002) → decided (S004) → directive (S005); VI tự quyết định (S002) → đã quyết định (S004) → chỉ thị (S005). "decided/quyết định" lặp hình vị decide qua danh từ → động từ (H&H §6.2; TNT §26), hai "quyết định" khác referent (khách hàng ≠ chính phủ) nên conf med; "directive/chỉ thị" là danh từ tổng quát đổi tên quyết định S004 (H&H §6.1; mapping §3.6 the+rename — EN alt "R: the", VI định danh bằng ngữ cảnh) — điều chỉnh từ danh sách "không đánh" của phân tích nền.
+- **[Phase-2] Chuỗi hành động ↔ không thay đổi:** EN the action (S004, trong câu) → Maxar's action (S006) → no change (S007); VI việc này (S004, trong câu) → Hành động (S006) → không có thay đổi nào (S007). "change/thay đổi" là danh từ tổng quát tóm chỉ tình huống câu trước (H&H §6.1); phủ định "no change" tạo phép đối hành động ↔ không thay đổi (TNT §30 phép đối).
+- **Không đánh**: số/ngày (Friday/thứ Sáu, Wednesday/thứ Tư — không phải tie theo quy ước); động từ chức năng báo chí said/cho biết/nói; "President/Tổng thống" (S001 Trump ↔ S008 Zelenskiy — cùng chức danh khác nhân vật); "Agency/Cơ quan" (NGA ↔ CIA — khác cơ quan); "Tình báo" trong tên riêng (S003–S005, S008 — lần đầu nhắc/trong span hàng khác, xem §4.3); các thực thể 1 lần nhắc: Militarnyi, Kyiv, CIA, John Ratcliffe, Zelenskiy/Zelenskyy, Nga, "spokesperson/phát ngôn viên". ([Phase-2] "directive/chỉ thị" rút khỏi danh sách này — nay đã đánh như danh từ tổng quát, xem chuỗi quyết định.)
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
 
@@ -122,6 +150,8 @@ Quy ước đánh: mỗi chuỗi 1 dấu/câu (trong câu lặp lại thì ghi c
 | VI tự sinh danh từ lặp chuỗi | 1 | "cho người dùng" (S003) |
 | Giữ NP đầy đủ hai đầu (né pro-form) | 2 | "that data" ↔ "dữ liệu đó"; "the contract in question" ↔ "hợp đồng được nói tới" |
 | Đổi đầu từ trong chuỗi | 2 | program → system / chương trình → hệ thống (S005); users → accounts / người dùng → tài khoản (S004) |
+| [Phase-2] R so sánh hai đầu cùng cấp [LC], không dịch chuyển cấp câu | 1 | "other" (S007 EN) ↔ "khác" (S007 VI) đều ref A — khác P21 (EN further [TC] ↔ VI khác [LC]) |
+| [Phase-2] Chuỗi lặp/danh từ tổng quát mở rộng giữ 1–1 | 6 cặp | share↔chia sẻ, use↔sử dụng (S002); GEGD↔GEGD (S003); decided↔quyết định (S004); directive↔chỉ thị (S005); change↔thay đổi (S007) — không dịch chuyển mới theo NTT (2020) §5 |
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -132,20 +162,20 @@ Quy ước đánh: mỗi chuỗi 1 dấu/câu (trong câu lặp lại thì ghi c
 5. rows.json: 8/8 dòng đều có đủ ô EN và VI — **không có khối cắt, không có câu VI-only ở cấp câu**; duy nhất lệch cấp cụm là "cho người dùng" (S003 VI, mục 6).
 6. Cẩn thận gộp nhầm chuỗi: "President" (Trump S001 / Zelenskiy S008), "Agency" (NGA S004–S005 / CIA S008), "government/chính phủ" (Mỹ S001–S005 / Ukraine S008) — lặp hình thức, khác thực thể.
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Tie table | Ghi chú |
 |---|---:|---:|---|
-| EN — R | 1 | 1 | "that data" (A, S002) |
+| EN — R | 2 | 2 | "that data" (A, S002) + [Phase-2] "other" (A, so sánh, S007) |
 | EN — S | 0 | 0 | |
 | EN — E | 0 | 0 | không có ∅ đủ điều kiện |
 | EN — C | 1 | 1 | "In accordance with" (causal, S005) |
-| EN — L | 30 | 30 | Maxar 6, GEGD 2, chính quyền 5, Ukraine 3, NGA 1, hình ảnh 2, hợp đồng 2, đình chỉ 3, tình báo 1, access 2, statement 1, customer 1, programs 1, action 1 |
-| VI — R | 1 | 1 | "dữ liệu đó" (A, S002) |
+| EN — L | 36 | 36 | +6 hàng Phase-2: use, share (S002); GEGD (S003); decided (S004); directive (S005); change (S007). Chuỗi nền: Maxar 5, GEGD 2, chính quyền 5, Ukraine 3, NGA 1, hình ảnh 2, hợp đồng 2, đình chỉ 3, tình báo 1, access 2, statement 1, customer 1, programs 1, action 1 |
+| VI — R | 2 | 2 | "dữ liệu đó" (A, S002) + [Phase-2] "khác" (A, so sánh, S007; occ=2 vì lần 1 là chuỗi con trong "khách") |
 | VI — S | 0 | 0 | |
 | VI — E | 1 | 1 | "và ∅ {Maxar}" [TC] (S004) |
 | VI — C | 1 | 1 | "Tuân theo" (causal, S005) |
-| VI — L | 31 | 31 | như EN + 1 tie VI tự sinh ("người dùng", S003) |
+| VI — L | 37 | 37 | như EN + 1 tie VI tự sinh ("người dùng", S003); +6 hàng Phase-2: sử dụng, chia sẻ (S002); GEGD (S003); quyết định (S004); chỉ thị (S005); thay đổi (S007) |
 
 **Kết luận:**
 
@@ -154,3 +184,4 @@ Quy ước đánh: mỗi chuỗi 1 dấu/câu (trong câu lặp lại thì ghi c
 3. Mục [TC] duy nhất là E-VI1 (S004, ∅ chủ ngữ sau "và") — không dùng làm bằng chứng cho kết luận liên câu.
 4. Hai lệch đáng chú ý: EN nén "NGA" trong khi VI lặp tên đầy đủ; VI tự sinh "người dùng" (S003) và tọa hợp ∅ chủ ngữ (S004).
 5. Chuỗi "chính quyền Mỹ" phân rã nhiều biến thể (government/administration/Washington ↔ chính phủ/chính quyền/Washington) và phải đọc ngữ nghĩa để không gộp nhầm với "chính phủ" của Ukraine ở S008.
+6. **Phase-2 (theo references):** 14 tie mới (EN 7 / VI 7) gồm: quy chiếu so sánh "other"/"khác" (H&H §2.5 — tie R so sánh đầu tiên của cặp, hai đầu cùng [LC] ref A, khác P21); mắt xích GEGD (S003) đặt tên nền tảng S001 (nhóm 12 — bài học P28; H&H §6.1 bridging); chuỗi quyết định decided→directive / quyết định→chỉ thị (H&H §6.1 general word + mapping §3.6 the+rename); mắt xích sót share/use / chia sẻ/sử dụng (H&H §6.2 reiteration; TNT §26 phép lặp); change/thay đổi tóm tình huống kèm phép đối hành động ↔ không thay đổi (H&H §6.1; TNT §30 phép đối); toàn bộ đối xứng EN↔VI 1–1 nên không thêm dịch chuyển mới — khớp bảng dịch chuyển NTT (2020) §5.
