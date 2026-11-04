@@ -27,14 +27,14 @@
    "level": "LC",
    "ante": "S001: the large painting of the words",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "mural ≈ large painting; mở quote"
   },
   {
    "id": "P32-EN-003",
    "sent": "S002",
    "text": "we",
-   "occ": 1,
+   "occ": 2,
    "cat": "R",
    "sub": "personal",
    "dir": "ana",
@@ -42,11 +42,53 @@
    "ante": "chính quyền/thành phố Washington (ngoại văn bản — quote Bowser)",
    "conf": "med",
    "alt": null,
-   "note": "ngoại quy chiếu; 'our city' cùng chuỗi trong câu không đánh",
+   "note": "ngoại quy chiếu; 'our city' cùng chuỗi trong câu không đánh; occ 2 vì lần 1 'we' nằm trong 'week'",
    "ref": "E"
   },
   {
    "id": "P32-EN-004",
+   "sent": "S002",
+   "text": "the change",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: began removing the large painting",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát tóm chỉ sự kiện xóa tranh (H&H §6.1); nằm trong quote không dịch nên không có đối ứng VI"
+  },
+  {
+   "id": "P32-EN-005",
+   "sent": "S002",
+   "text": "congressional",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the Republican-controlled Congress",
+   "conf": "med",
+   "alt": null,
+   "note": "tính từ congressional lặp hình vị Congress; quote không dịch phía VI"
+  },
+  {
+   "id": "P32-EN-006",
+   "sent": "S002",
+   "text": "interference",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: threats of encroachment",
+   "conf": "med",
+   "alt": null,
+   "note": "interference ≈ encroachment trong trường 'xâm phạm của liên bang'; VI hiện thực hóa sớm bằng 'can thiệp' (S001 TT)"
+  },
+  {
+   "id": "P32-EN-007",
    "sent": "S003",
    "text": "our",
    "occ": 1,
@@ -61,22 +103,21 @@
    "ref": "E"
   },
   {
-   "id": "P32-EN-005",
+   "id": "P32-EN-008",
    "sent": "S004",
    "text": "The move",
    "occ": 1,
-   "cat": "R",
-   "sub": "nominal",
+   "cat": "L",
+   "sub": "general word",
    "dir": "ana",
    "level": "LC",
    "ante": "S001: began removing the painting",
    "conf": "high",
-   "alt": null,
-   "note": "danh ngữ xác định tóm chỉ sự kiện xóa tranh",
-   "ref": "A"
+   "alt": "R: the",
+   "note": "danh từ tổng quát tóm chỉ sự kiện xóa tranh (H&H §6.1); một hình thức một hàng — phần quy chiếu của 'the' ghi ở alt (mapping §3.13)"
   },
   {
-   "id": "P32-EN-006",
+   "id": "P32-EN-009",
    "sent": "S004",
    "text": "Bowser",
    "occ": 1,
@@ -90,7 +131,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-007",
+   "id": "P32-EN-010",
    "sent": "S004",
    "text": "Trump",
    "occ": 1,
@@ -104,7 +145,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-008",
+   "id": "P32-EN-011",
    "sent": "S004",
    "text": "congressional Republicans",
    "occ": 1,
@@ -118,7 +159,7 @@
    "note": "lặp hình vị Congress + Republican"
   },
   {
-   "id": "P32-EN-009",
+   "id": "P32-EN-012",
    "sent": "S005",
    "text": "Bowser",
    "occ": 1,
@@ -132,7 +173,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-010",
+   "id": "P32-EN-013",
    "sent": "S005",
    "text": "the painting",
    "occ": 1,
@@ -146,7 +187,7 @@
    "note": "lặp NP 'the painting'"
   },
   {
-   "id": "P32-EN-011",
+   "id": "P32-EN-014",
    "sent": "S005",
    "text": "Black Lives Matter",
    "occ": 1,
@@ -160,7 +201,35 @@
    "note": "tên phong trào lặp trong tên riêng Plaza"
   },
   {
-   "id": "P32-EN-012",
+   "id": "P32-EN-015",
+   "sent": "S005",
+   "text": "a Democrat",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: congressional Republicans",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối Dân chủ ↔ Cộng hòa qua câu (TNT §30; H&H §6.4); đối xứng VI 'đảng viên Dân chủ' (S005 TT)"
+  },
+  {
+   "id": "P32-EN-016",
+   "sent": "S005",
+   "text": "the intersection",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: on a street one block from the White House",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "giao lộ kết hợp với con đường S001 (bridging); EN định danh bằng mạo từ, VI bằng chỉ từ 'này' — the ↔ demonstrative (NTT 2020 §2.2)"
+  },
+  {
+   "id": "P32-EN-017",
    "sent": "S006",
    "text": "It",
    "occ": 1,
@@ -175,7 +244,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-013",
+   "id": "P32-EN-018",
    "sent": "S006",
    "text": "that location",
    "occ": 1,
@@ -190,7 +259,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-014",
+   "id": "P32-EN-019",
    "sent": "S007",
    "text": "Her",
    "occ": 1,
@@ -205,7 +274,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-015",
+   "id": "P32-EN-020",
    "sent": "S007",
    "text": "the protests",
    "occ": 1,
@@ -219,7 +288,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-016",
+   "id": "P32-EN-021",
    "sent": "S007",
    "text": "Trump",
    "occ": 1,
@@ -233,7 +302,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-017",
+   "id": "P32-EN-022",
    "sent": "S008",
    "text": "The president",
    "occ": 1,
@@ -243,11 +312,11 @@
    "level": "LC",
    "ante": "S004: the president's first term",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "danh ngữ xác định chỉ Trump (S007); đầu từ lặp S004"
   },
   {
-   "id": "P32-EN-018",
+   "id": "P32-EN-023",
    "sent": "S008",
    "text": "Bowser",
    "occ": 1,
@@ -261,7 +330,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-019",
+   "id": "P32-EN-024",
    "sent": "S008",
    "text": "threatened",
    "occ": 1,
@@ -275,7 +344,63 @@
    "note": "chuỗi đe dọa bắt đầu; hình vị threat lặp"
   },
   {
-   "id": "P32-EN-020",
+   "id": "P32-EN-025",
+   "sent": "S008",
+   "text": "city",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: our city (quote)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp city ('her city'); tiền trạm nằm trong quote không dịch"
+  },
+  {
+   "id": "P32-EN-026",
+   "sent": "S008",
+   "text": "control",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the Republican-controlled Congress",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị control ('losing control'); referent khác S001 — TNT §26 phép lặp; nối kín chuỗi control 3 mắt (S001→S008→S014)"
+  },
+  {
+   "id": "P32-EN-027",
+   "sent": "S008",
+   "text": "take over",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: threats of encroachment",
+   "conf": "med",
+   "alt": null,
+   "note": "đe dọa xâm phạm cụ thể hóa thành hành động chiếm quyền; chuỗi xâm phạm S001→S002→S008→S014"
+  },
+  {
+   "id": "P32-EN-028",
+   "sent": "S008",
+   "text": "Metropolitan Police Department",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: police brutality ... police officer",
+   "conf": "high",
+   "alt": null,
+   "note": "tên cơ quan chứa hình vị police; S006 police ×2 cùng câu nên chỉ đánh tiền trạm"
+  },
+  {
+   "id": "P32-EN-029",
    "sent": "S009",
    "text": "He",
    "occ": 1,
@@ -290,7 +415,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-021",
+   "id": "P32-EN-030",
    "sent": "S009",
    "text": "protesters",
    "occ": 1,
@@ -304,7 +429,7 @@
    "note": "biểu tình → người biểu tình (thêm hậu tố -er)"
   },
   {
-   "id": "P32-EN-022",
+   "id": "P32-EN-031",
    "sent": "S010",
    "text": "Trump's",
    "occ": 1,
@@ -318,7 +443,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-023",
+   "id": "P32-EN-032",
    "sent": "S010",
    "text": "the White House",
    "occ": 1,
@@ -332,7 +457,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-024",
+   "id": "P32-EN-033",
    "sent": "S010",
    "text": "Bowser",
    "occ": 1,
@@ -346,7 +471,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-025",
+   "id": "P32-EN-034",
    "sent": "S010",
    "text": "conflict",
    "occ": 1,
@@ -360,7 +485,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-026",
+   "id": "P32-EN-035",
    "sent": "S010",
    "text": "second stint",
    "occ": 1,
@@ -374,7 +499,7 @@
    "note": "lặp trường 'nhiệm kỳ'; đối first ↔ second"
   },
   {
-   "id": "P32-EN-027",
+   "id": "P32-EN-036",
    "sent": "S011",
    "text": "She",
    "occ": 1,
@@ -389,7 +514,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-028",
+   "id": "P32-EN-037",
    "sent": "S011",
    "text": "Trump's",
    "occ": 1,
@@ -403,7 +528,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-029",
+   "id": "P32-EN-038",
    "sent": "S011",
    "text": "the president",
    "occ": 1,
@@ -413,11 +538,11 @@
    "level": "LC",
    "ante": "S008: The president",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "danh ngữ xác định chỉ Trump"
   },
   {
-   "id": "P32-EN-030",
+   "id": "P32-EN-039",
    "sent": "S011",
    "text": "federal workers",
    "occ": 1,
@@ -431,7 +556,21 @@
    "note": "trường nghĩa 'liên bang + việc/lao động' (quote không dịch phía VI)"
   },
   {
-   "id": "P32-EN-031",
+   "id": "P32-EN-040",
+   "sent": "S011",
+   "text": "points of agreement",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: downplay any points of contention",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối contention ↔ agreement qua câu"
+  },
+  {
+   "id": "P32-EN-041",
    "sent": "S012",
    "text": "Trump",
    "occ": 1,
@@ -445,7 +584,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-032",
+   "id": "P32-EN-042",
    "sent": "S012",
    "text": "takeover",
    "occ": 1,
@@ -459,7 +598,7 @@
    "note": "take over → takeover (đảo hình vị tạo danh từ)"
   },
   {
-   "id": "P32-EN-033",
+   "id": "P32-EN-043",
    "sent": "S012",
    "text": "Washington",
    "occ": 1,
@@ -473,7 +612,7 @@
    "note": "'the nation's capital' cùng câu là đồng nghĩa, không đánh"
   },
   {
-   "id": "P32-EN-034",
+   "id": "P32-EN-044",
    "sent": "S013",
    "text": "Bowser",
    "occ": 1,
@@ -487,7 +626,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-035",
+   "id": "P32-EN-045",
    "sent": "S013",
    "text": "the White House",
    "occ": 1,
@@ -501,7 +640,7 @@
    "note": "ẩn dụ chỉ chính quyền liên bang"
   },
   {
-   "id": "P32-EN-036",
+   "id": "P32-EN-046",
    "sent": "S013",
    "text": "Washington",
    "occ": 1,
@@ -515,7 +654,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-037",
+   "id": "P32-EN-047",
    "sent": "S013",
    "text": "threat",
    "occ": 1,
@@ -529,7 +668,7 @@
    "note": "chuỗi đe dọa: 'the greatest threat'"
   },
   {
-   "id": "P32-EN-038",
+   "id": "P32-EN-048",
    "sent": "S013",
    "text": "Congress",
    "occ": 1,
@@ -543,7 +682,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-039",
+   "id": "P32-EN-049",
    "sent": "S014",
    "text": "Republicans",
    "occ": 1,
@@ -557,7 +696,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-040",
+   "id": "P32-EN-050",
    "sent": "S014",
    "text": "Congress",
    "occ": 1,
@@ -571,7 +710,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-041",
+   "id": "P32-EN-051",
    "sent": "S014",
    "text": "threatened",
    "occ": 1,
@@ -585,7 +724,7 @@
    "note": "chuỗi đe dọa"
   },
   {
-   "id": "P32-EN-042",
+   "id": "P32-EN-052",
    "sent": "S014",
    "text": "interfere",
    "occ": 1,
@@ -599,7 +738,35 @@
    "note": "interference → interfere (quote không dịch phía VI)"
   },
   {
-   "id": "P32-EN-043",
+   "id": "P32-EN-053",
+   "sent": "S014",
+   "text": "city",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: her city",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp city ('city affairs')"
+  },
+  {
+   "id": "P32-EN-054",
+   "sent": "S014",
+   "text": "control",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the Republican-controlled Congress",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp control ('who control both chambers') — referent trùng S001; mắt S008 'losing control' cùng chuỗi hình vị, referent khác (ghi note)"
+  },
+  {
+   "id": "P32-EN-055",
    "sent": "S015",
    "text": "Congress",
    "occ": 1,
@@ -613,7 +780,7 @@
    "note": "before Congress"
   },
   {
-   "id": "P32-EN-044",
+   "id": "P32-EN-056",
    "sent": "S015",
    "text": "Bowser",
    "occ": 1,
@@ -627,7 +794,7 @@
    "note": "đạo luật mang tên đô trưởng"
   },
   {
-   "id": "P32-EN-045",
+   "id": "P32-EN-057",
    "sent": "S015",
    "text": "Home Rule",
    "occ": 1,
@@ -638,10 +805,24 @@
    "ante": "S013: Home Rule autonomy",
    "conf": "high",
    "alt": null,
-   "note": "lặp 'Home Rule'; 'autonomy' cùng câu ghi note"
+   "note": "lặp 'Home Rule'; 'autonomy' cùng câu có hàng riêng (lượt 2)"
   },
   {
-   "id": "P32-EN-046",
+   "id": "P32-EN-058",
+   "sent": "S015",
+   "text": "autonomy",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: Home Rule autonomy",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp autonomy ('limited autonomy'); chuỗi tự trị — VI 'quyền tự trị' đối ứng (S016 TT)"
+  },
+  {
+   "id": "P32-EN-059",
    "sent": "S015",
    "text": "the capital city",
    "occ": 1,
@@ -649,13 +830,13 @@
    "sub": "synonym",
    "dir": "ana",
    "level": "LC",
-   "ante": "S012: the nation's capital",
+   "ante": "S012: Washington ('the nation's capital' đồng vị)",
    "conf": "med",
-   "alt": null,
-   "note": "đồng vị với Washington"
+   "alt": "R: the",
+   "note": "đổi tên tổng quát hóa chỉ Washington"
   },
   {
-   "id": "P32-EN-047",
+   "id": "P32-EN-060",
    "sent": "S016",
    "text": "That",
    "occ": 1,
@@ -670,7 +851,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-048",
+   "id": "P32-EN-061",
    "sent": "S016",
    "text": "GOP",
    "occ": 1,
@@ -684,7 +865,7 @@
    "note": "viết tắt cùng chỉ đảng Cộng hoà; khối cắt, VI none"
   },
   {
-   "id": "P32-EN-049",
+   "id": "P32-EN-062",
    "sent": "S017",
    "text": "representatives",
    "occ": 1,
@@ -698,7 +879,7 @@
    "note": "nghị sĩ Hạ viện (nhóm Cộng hoà); khối cắt, VI none"
   },
   {
-   "id": "P32-EN-050",
+   "id": "P32-EN-063",
    "sent": "S017",
    "text": "Washington",
    "occ": 1,
@@ -712,7 +893,21 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P32-EN-051",
+   "id": "P32-EN-064",
+   "sent": "S017",
+   "text": "target",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: an executive order targeting Washington",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp target; song song targeting (S013) + cùng tân ngữ Washington; khối cắt, VI none"
+  },
+  {
+   "id": "P32-EN-065",
    "sent": "S018",
    "text": "And",
    "occ": 1,
@@ -726,7 +921,7 @@
    "note": "nối liên câu duy nhất của EN; khối cắt, VI none"
   },
   {
-   "id": "P32-EN-052",
+   "id": "P32-EN-066",
    "sent": "S018",
    "text": "Congress",
    "occ": 1,
@@ -740,7 +935,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P32-EN-053",
+   "id": "P32-EN-067",
    "sent": "S018",
    "text": "Black Lives Matter",
    "occ": 1,
@@ -754,7 +949,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P32-EN-054",
+   "id": "P32-EN-068",
    "sent": "S018",
    "text": "street painting",
    "occ": 1,
@@ -768,7 +963,7 @@
    "note": "chuỗi tranh/dòng chữ; khối cắt, VI none"
   },
   {
-   "id": "P32-EN-055",
+   "id": "P32-EN-069",
    "sent": "S019",
    "text": "Bowser",
    "occ": 1,
@@ -776,13 +971,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S013: Bowser",
+   "ante": "S015: the Bowser Act",
    "conf": "high",
    "alt": null,
    "note": null
   },
   {
-   "id": "P32-EN-056",
+   "id": "P32-EN-070",
    "sent": "S019",
    "text": "Trump",
    "occ": 1,
@@ -796,7 +991,7 @@
    "note": "lần 2 trong câu (Trump's push) ghi note"
   },
   {
-   "id": "P32-EN-057",
+   "id": "P32-EN-071",
    "sent": "S019",
    "text": "federal workers",
    "occ": 1,
@@ -810,7 +1005,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-058",
+   "id": "P32-EN-072",
    "sent": "S019",
    "text": "federal workforce",
    "occ": 1,
@@ -824,7 +1019,63 @@
    "note": "workers ≈ workforce"
   },
   {
-   "id": "P32-EN-059",
+   "id": "P32-EN-073",
+   "sent": "S019",
+   "text": "agreed",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: their points of agreement",
+   "conf": "high",
+   "alt": null,
+   "note": "agreed ← agreement: lặp hình vị agree; đối xứng VI nhất trí ← đồng thuận"
+  },
+  {
+   "id": "P32-EN-074",
+   "sent": "S019",
+   "text": "returning",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: a mutual desire to return federal workers",
+   "conf": "high",
+   "alt": null,
+   "note": "returning ← return: lặp động từ"
+  },
+  {
+   "id": "P32-EN-075",
+   "sent": "S019",
+   "text": "offices",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: back to their offices full time",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp offices ('to their offices')"
+  },
+  {
+   "id": "P32-EN-076",
+   "sent": "S019",
+   "text": "city",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: interfere in city affairs",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp city ('city finances')"
+  },
+  {
+   "id": "P32-EN-077",
    "sent": "S020",
    "text": "the city's",
    "occ": 1,
@@ -838,7 +1089,7 @@
    "note": "chuỗi 'city' (S008, S014, S015, S019)"
   },
   {
-   "id": "P32-EN-060",
+   "id": "P32-EN-078",
    "sent": "S020",
    "text": "workers",
    "occ": 1,
@@ -852,7 +1103,7 @@
    "note": "thousands of workers"
   },
   {
-   "id": "P32-EN-061",
+   "id": "P32-EN-079",
    "sent": "S020",
    "text": "federal government",
    "occ": 1,
@@ -866,7 +1117,35 @@
    "note": "trường 'liên bang'; 'last week' lặp S002 nhưng là thời gian, không đánh"
   },
   {
-   "id": "P32-EN-062",
+   "id": "P32-EN-080",
+   "sent": "S020",
+   "text": "financial",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: roiling city finances",
+   "conf": "med",
+   "alt": null,
+   "note": "chief financial officer ← city finances: lặp hình vị financ-"
+  },
+  {
+   "id": "P32-EN-081",
+   "sent": "S020",
+   "text": "loss",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: push to slash the federal workforce",
+   "conf": "med",
+   "alt": null,
+   "note": "'the loss of thousands of workers' = kết quả của 'slash'; VI 'mất mát' ← 'cắt giảm'"
+  },
+  {
+   "id": "P32-EN-082",
    "sent": "S021",
    "text": "Bowser",
    "occ": 1,
@@ -880,7 +1159,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-063",
+   "id": "P32-EN-083",
    "sent": "S021",
    "text": "Black Lives Matter",
    "occ": 1,
@@ -894,7 +1173,7 @@
    "note": "tiền trạm nằm trong khối cắt (EN-only)"
   },
   {
-   "id": "P32-EN-064",
+   "id": "P32-EN-084",
    "sent": "S022",
    "text": "Black Lives Matter",
    "occ": 1,
@@ -908,22 +1187,21 @@
    "note": "The local ... affiliate"
   },
   {
-   "id": "P32-EN-065",
+   "id": "P32-EN-085",
    "sent": "S022",
    "text": "the move",
    "occ": 1,
-   "cat": "R",
-   "sub": "nominal",
+   "cat": "L",
+   "sub": "general word",
    "dir": "ana",
    "level": "LC",
    "ante": "S021: Bowser publicly siding with ... activists",
    "conf": "high",
-   "alt": null,
-   "note": "danh ngữ tóm chỉ; VI đối ứng dùng lặp từ 'động thái' (L)",
-   "ref": "A"
+   "alt": "R: the",
+   "note": "danh từ tổng quát (H&H §6.1); VI 'động thái' không có chỉ từ — khác với S004 ('Động thái này'): cùng EN 'the move' dịch hai cách"
   },
   {
-   "id": "P32-EN-066",
+   "id": "P32-EN-086",
    "sent": "S022",
    "text": "Bowser",
    "occ": 1,
@@ -937,7 +1215,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-067",
+   "id": "P32-EN-087",
    "sent": "S022",
    "text": "police",
    "occ": 1,
@@ -951,7 +1229,7 @@
    "note": "biased toward police; chuỗi cảnh sát"
   },
   {
-   "id": "P32-EN-068",
+   "id": "P32-EN-088",
    "sent": "S023",
    "text": "The same activists",
    "occ": 1,
@@ -966,7 +1244,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-069",
+   "id": "P32-EN-089",
    "sent": "S023",
    "text": "Bowser",
    "occ": 1,
@@ -980,22 +1258,35 @@
    "note": null
   },
   {
-   "id": "P32-EN-070",
+   "id": "P32-EN-090",
    "sent": "S023",
    "text": "reversal",
    "occ": 1,
-   "cat": "R",
-   "sub": "nominal",
+   "cat": "L",
+   "sub": "synonym",
    "dir": "ana",
    "level": "LC",
-   "ante": "S001: began removing the large painting",
+   "ante": "S004: striking shift in tone",
    "conf": "med",
-   "alt": null,
-   "note": "danh từ tóm chỉ sự đảo ngược (xóa tranh); 'her' trong câu không đánh",
-   "ref": "A"
+   "alt": "R: her",
+   "note": "reversal ≈ shift: tiếp chuỗi 'thay đổi lập trường' (S004), đồng thời tóm chỉ sự kiện xóa tranh (S001) — chọn quan hệ từ vựng theo mapping §3.6"
   },
   {
-   "id": "P32-EN-071",
+   "id": "P32-EN-091",
+   "sent": "S023",
+   "text": "heaped scorn",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: decried Bowser",
+   "conf": "med",
+   "alt": null,
+   "note": "heaped scorn ≈ decried (TNT §31 thế đẳng nghĩa → L); đối xứng VI lên án ← tố cáo (S021 TT)"
+  },
+  {
+   "id": "P32-EN-092",
    "sent": "S024",
    "text": "Black Lives Matter affiliate",
    "occ": 1,
@@ -1009,7 +1300,7 @@
    "note": "D.C. ... affiliate; 'Black Lives Mattering' trong quote là chơi chữ -ing, ghi note"
   },
   {
-   "id": "P32-EN-072",
+   "id": "P32-EN-093",
    "sent": "S024",
    "text": "Bowser",
    "occ": 1,
@@ -1023,7 +1314,7 @@
    "note": null
   },
   {
-   "id": "P32-EN-073",
+   "id": "P32-EN-094",
    "sent": "S024",
    "text": "X",
    "occ": 1,
@@ -1037,7 +1328,21 @@
    "note": "nền tảng X lặp (quote S002 không dịch phía VI)"
   },
   {
-   "id": "P32-EN-074",
+   "id": "P32-EN-095",
+   "sent": "S024",
+   "text": "D.C.",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: Washington policies",
+   "conf": "med",
+   "alt": null,
+   "note": "D.C. = Washington D.C. (viết tắt); VI dùng trường 'thủ đô Washington'"
+  },
+  {
+   "id": "P32-EN-096",
    "sent": "S025",
    "text": "You",
    "occ": 1,
@@ -1052,7 +1357,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-075",
+   "id": "P32-EN-097",
    "sent": "S025",
    "text": "those words",
    "occ": 1,
@@ -1067,7 +1372,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-EN-076",
+   "id": "P32-EN-098",
    "sent": "S025",
    "text": "performative",
    "occ": 1,
@@ -1081,7 +1386,7 @@
    "note": "echo nguyên văn từ quote chi nhánh"
   },
   {
-   "id": "P32-EN-077",
+   "id": "P32-EN-099",
    "sent": "S025",
    "text": "painting",
    "occ": 1,

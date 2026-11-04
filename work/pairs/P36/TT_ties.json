@@ -33,6 +33,20 @@
   },
   {
    "id": "P36-VI-003",
+   "sent": "S002",
+   "text": "bác sĩ",
+   "occ": 2,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: khi bác sĩ nhận được sự trợ giúp",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp bác sĩ (apposition 'những bác sĩ phân tích' = bác sĩ của S001); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-VI-004",
    "sent": "S003",
    "text": "cách này",
    "occ": 1,
@@ -47,7 +61,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-004",
+   "id": "P36-VI-005",
    "sent": "S003",
    "text": "AI",
    "occ": 1,
@@ -61,7 +75,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-005",
+   "id": "P36-VI-006",
    "sent": "S003",
    "text": "con người",
    "occ": 1,
@@ -75,7 +89,63 @@
    "note": "trường nghĩa đối lập con người↔AI; EN 'They' được VI hiện thực hóa thành 'Các nhà nghiên cứu' nên không có R VI"
   },
   {
-   "id": "P36-VI-006",
+   "id": "P36-VI-007",
+   "sent": "S003",
+   "text": "phụ nữ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: hơn 460.000 phụ nữ Đức",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp phụ nữ (một ngàn phụ nữ); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-VI-008",
+   "sent": "S003",
+   "text": "ung thư",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: tỷ lệ phát hiện ung thư",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị ung thư (một ca ung thư ← tỷ lệ phát hiện ung thư); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-009",
+   "sent": "S003",
+   "text": "phát hiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: tỷ lệ phát hiện ung thư",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị phát hiện (phát hiện thêm một ca ← tỷ lệ phát hiện); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-010",
+   "sent": "S003",
+   "text": "hỗ trợ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: nhận được sự trợ giúp từ trí tuệ nhân tạo AI",
+   "conf": "high",
+   "alt": null,
+   "note": "hỗ trợ ≈ trợ giúp (không có AI hỗ trợ); lặp hình vị trợ; H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-VI-011",
    "sent": "S004",
    "text": "Đây",
    "occ": 1,
@@ -90,7 +160,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-007",
+   "id": "P36-VI-012",
    "sent": "S004",
    "text": "AI",
    "occ": 1,
@@ -104,7 +174,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-008",
+   "id": "P36-VI-013",
    "sent": "S004",
    "text": "ung thư vú",
    "occ": 1,
@@ -118,7 +188,49 @@
    "note": "thêm 'vú' xác định; hình vị 'ung thư' lặp chuỗi"
   },
   {
-   "id": "P36-VI-009",
+   "id": "P36-VI-014",
+   "sent": "S004",
+   "text": "việc sử dụng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: đã sử dụng trí tuệ nhân tạo",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp sử dụng (việc sử dụng AI ← đã sử dụng); TNT §26"
+  },
+  {
+   "id": "P36-VI-015",
+   "sent": "S004",
+   "text": "cuộc khám phá",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Một nghiên cứu của Đức",
+   "conf": "med",
+   "alt": null,
+   "note": "cuộc khám phá ≈ nghiên cứu (đổi tên theo mapping §3.6); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-016",
+   "sent": "S004",
+   "text": "phát hiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: phát hiện thêm một ca ung thư",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp phát hiện (để phát hiện ung thư vú); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-017",
    "sent": "S005",
    "text": "Tỷ lệ phát hiện ung thư vú",
    "occ": 1,
@@ -132,7 +244,7 @@
    "note": "'đây' trong câu chỉ vế đầu, không đánh"
   },
   {
-   "id": "P36-VI-010",
+   "id": "P36-VI-018",
    "sent": "S005",
    "text": "của nghiên cứu",
    "occ": 1,
@@ -143,10 +255,10 @@
    "ante": "S002: nghiên cứu này",
    "conf": "high",
    "alt": null,
-   "note": "'nhà nghiên cứu' lần 1 trong câu là từ mới (researcher), chỉ tính 'của nghiên cứu'"
+   "note": "'nhà nghiên cứu' là chuỗi researcher — có hàng riêng [Phase-2] ← S003; hàng này chỉ tính 'của nghiên cứu' (chuỗi nghiên cứu, lần 2 trong câu)"
   },
   {
-   "id": "P36-VI-011",
+   "id": "P36-VI-019",
    "sent": "S005",
    "text": "Đức",
    "occ": 1,
@@ -160,7 +272,36 @@
    "note": "chuỗi Đức"
   },
   {
-   "id": "P36-VI-012",
+   "id": "P36-VI-020",
+   "sent": "S005",
+   "text": "tốt hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: tỷ lệ phát hiện ung thư được cải thiện gần 18%",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §2.5 quy chiếu so sánh: tốt hơn = better so với mức cơ bản S001",
+   "ref": "A"
+  },
+  {
+   "id": "P36-VI-021",
+   "sent": "S005",
+   "text": "nhà nghiên cứu",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: Các nhà nghiên cứu cho biết",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nhà nghiên cứu (nhà nghiên cứu chính ← Các nhà nghiên cứu); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-VI-022",
    "sent": "S006",
    "text": "Và",
    "occ": 1,
@@ -174,7 +315,7 @@
    "note": "nối liên câu trong quote"
   },
   {
-   "id": "P36-VI-013",
+   "id": "P36-VI-023",
    "sent": "S006",
    "text": "bằng chứng này",
    "occ": 1,
@@ -189,7 +330,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-014",
+   "id": "P36-VI-024",
    "sent": "S006",
    "text": "AI",
    "occ": 1,
@@ -203,7 +344,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-015",
+   "id": "P36-VI-025",
    "sent": "S006",
    "text": "ung thư vú",
    "occ": 1,
@@ -217,7 +358,21 @@
    "note": "'sàng lọc' khởi tạo chuỗi; 'chúng ta' hư chỉ, 'điều này' trong câu — không đánh"
   },
   {
-   "id": "P36-VI-016",
+   "id": "P36-VI-026",
+   "sent": "S006",
+   "text": "sử dụng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: việc sử dụng AI",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp sử dụng (bắt đầu sử dụng nhiều AI hơn); TNT §26"
+  },
+  {
+   "id": "P36-VI-027",
    "sent": "S007",
    "text": "nhũ ảnh",
    "occ": 1,
@@ -231,7 +386,7 @@
    "note": "463.094 là số liệu, không phải tie"
   },
   {
-   "id": "P36-VI-017",
+   "id": "P36-VI-028",
    "sent": "S007",
    "text": "phụ nữ Đức",
    "occ": 1,
@@ -245,7 +400,21 @@
    "note": null
   },
   {
-   "id": "P36-VI-018",
+   "id": "P36-VI-029",
+   "sent": "S007",
+   "text": "kiểm tra",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: để kiểm tra ảnh chụp nhũ ảnh",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp kiểm tra (đã được kiểm tra ← để kiểm tra); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-030",
    "sent": "S008",
    "text": "một nửa",
    "occ": 1,
@@ -260,7 +429,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-019",
+   "id": "P36-VI-031",
    "sent": "S008",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -274,7 +443,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-020",
+   "id": "P36-VI-032",
    "sent": "S008",
    "text": "chuẩn",
    "occ": 1,
@@ -288,7 +457,7 @@
    "note": "lặp hình vị 'chuẩn', khác phát ngôn; 'đây là quy trình chuẩn' trong câu — đối ứng EN 'which' trong câu, không đánh"
   },
   {
-   "id": "P36-VI-021",
+   "id": "P36-VI-033",
    "sent": "S008",
    "text": "Đức",
    "occ": 1,
@@ -302,7 +471,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-022",
+   "id": "P36-VI-034",
    "sent": "S009",
    "text": "một nửa",
    "occ": 1,
@@ -313,10 +482,10 @@
    "ante": "S008: Khoảng một nửa",
    "conf": "high",
    "alt": null,
-   "note": "'hơn' đối với 'khoảng'; 'số trường hợp' không có tín hiệu quy chiếu (EN 'the cases' có hàng R) — chỉ ghi nhận"
+   "note": "'hơn' đối với 'khoảng'; 'trường hợp' có hàng riêng [Phase-2] (L general word theo nhóm 3; EN 'the cases' reclassify R→L)"
   },
   {
-   "id": "P36-VI-023",
+   "id": "P36-VI-035",
    "sent": "S009",
    "text": "con người",
    "occ": 1,
@@ -330,7 +499,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-024",
+   "id": "P36-VI-036",
    "sent": "S009",
    "text": "AI",
    "occ": 1,
@@ -344,7 +513,35 @@
    "note": null
   },
   {
-   "id": "P36-VI-025",
+   "id": "P36-VI-037",
+   "sent": "S009",
+   "text": "hỗ trợ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: mà không có AI hỗ trợ",
+   "conf": "high",
+   "alt": null,
+   "note": "hỗ trợ lặp chuỗi trợ giúp (được AI hỗ trợ); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-038",
+   "sent": "S009",
+   "text": "trường hợp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: Chụp nhũ ảnh của 463.094 phụ nữ Đức",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát (H&H §6.1): mỗi lần chụp nhũ ảnh = một trường hợp; VI định danh bằng ngữ cảnh (mapping §4)"
+  },
+  {
+   "id": "P36-VI-039",
    "sent": "S010",
    "text": "AI",
    "occ": 1,
@@ -358,7 +555,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-026",
+   "id": "P36-VI-040",
    "sent": "S010",
    "text": "tỷ lệ phát hiện ung thư vú",
    "occ": 1,
@@ -372,7 +569,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-027",
+   "id": "P36-VI-041",
    "sent": "S010",
    "text": "sàng lọc",
    "occ": 1,
@@ -386,7 +583,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-028",
+   "id": "P36-VI-042",
    "sent": "S010",
    "text": "con người",
    "occ": 1,
@@ -400,7 +597,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-029",
+   "id": "P36-VI-043",
    "sent": "S010",
    "text": "phụ nữ",
    "occ": 1,
@@ -414,7 +611,7 @@
    "note": "occ 1: lặp 2 lần trong câu (6,7 vs 5,7 trên 1.000 phụ nữ), chọn lần 1; 'so với' so sánh rút gọn trong câu, không đánh E"
   },
   {
-   "id": "P36-VI-030",
+   "id": "P36-VI-044",
    "sent": "S011",
    "text": "AI",
    "occ": 1,
@@ -428,7 +625,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-031",
+   "id": "P36-VI-045",
    "sent": "S011",
    "text": "Katalinic",
    "occ": 1,
@@ -442,7 +639,7 @@
    "note": "'người đọc' từ mới thuần, không có hàng như EN 'human readers'"
   },
   {
-   "id": "P36-VI-032",
+   "id": "P36-VI-046",
    "sent": "S012",
    "text": "Nhưng",
    "occ": 1,
@@ -456,7 +653,7 @@
    "note": "'bạn' hư chỉ, không đánh"
   },
   {
-   "id": "P36-VI-033",
+   "id": "P36-VI-047",
    "sent": "S013",
    "text": "Đây",
    "occ": 1,
@@ -471,7 +668,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-034",
+   "id": "P36-VI-048",
    "sent": "S013",
    "text": null,
    "occ": 1,
@@ -487,7 +684,7 @@
    "note": "[TC] tỉnh lược chủ ngữ vế tọa hợp, hồi phục {Đây}; EN dùng đại từ 'it's' nên không có E phía EN"
   },
   {
-   "id": "P36-VI-035",
+   "id": "P36-VI-049",
    "sent": "S014",
    "text": "xã hội",
    "occ": 1,
@@ -501,7 +698,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-036",
+   "id": "P36-VI-050",
    "sent": "S014",
    "text": "AI",
    "occ": 1,
@@ -515,7 +712,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-037",
+   "id": "P36-VI-051",
    "sent": "S015",
    "text": "Nghiên cứu",
    "occ": 1,
@@ -529,7 +726,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-038",
+   "id": "P36-VI-052",
    "sent": "S015",
    "text": "AI",
    "occ": 1,
@@ -543,7 +740,7 @@
    "note": "'cũng' trong câu, không đánh C"
   },
   {
-   "id": "P36-VI-039",
+   "id": "P36-VI-053",
    "sent": "S015",
    "text": "giúp",
    "occ": 1,
@@ -557,7 +754,21 @@
    "note": "chuỗi trợ giúp/giúp; 'dương tính giả' khởi tạo chuỗi"
   },
   {
-   "id": "P36-VI-040",
+   "id": "P36-VI-054",
+   "sent": "S015",
+   "text": "phát hiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: để phát hiện ung thư vú",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp phát hiện (Nghiên cứu phát hiện ra rằng); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-055",
    "sent": "S016",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -571,7 +782,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-041",
+   "id": "P36-VI-056",
    "sent": "S016",
    "text": "trí tuệ nhân tạo",
    "occ": 1,
@@ -585,7 +796,7 @@
    "note": "viết đầy đủ sau chuỗi viết tắt"
   },
   {
-   "id": "P36-VI-042",
+   "id": "P36-VI-057",
    "sent": "S016",
    "text": "ung thư",
    "occ": 1,
@@ -599,7 +810,21 @@
    "note": "'bệnh' thêm so với chuỗi"
   },
   {
-   "id": "P36-VI-043",
+   "id": "P36-VI-058",
+   "sent": "S016",
+   "text": "bỏ sót",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: phát hiện thêm một ca ung thư",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối phát hiện ↔ bỏ sót (AI bỏ sót một số bệnh ung thư); TNT §30; H&H §6.4"
+  },
+  {
+   "id": "P36-VI-059",
    "sent": "S017",
    "text": "AI",
    "occ": 1,
@@ -613,7 +838,7 @@
    "note": "'không hoàn hảo' lặp 2 lần trong câu (TC), không đánh thêm"
   },
   {
-   "id": "P36-VI-044",
+   "id": "P36-VI-060",
    "sent": "S017",
    "text": "con người",
    "occ": 1,
@@ -627,7 +852,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-045",
+   "id": "P36-VI-061",
    "sent": "S017",
    "text": "trí tuệ nhân tạo",
    "occ": 1,
@@ -641,7 +866,7 @@
    "note": "lần 2 của chuỗi AI trong câu, dạng đầy đủ — đánh riêng (khác token với 'AI')"
   },
   {
-   "id": "P36-VI-046",
+   "id": "P36-VI-062",
    "sent": "S017",
    "text": "nghiên cứu",
    "occ": 1,
@@ -655,7 +880,21 @@
    "note": null
   },
   {
-   "id": "P36-VI-047",
+   "id": "P36-VI-063",
+   "sent": "S017",
+   "text": "được sử dụng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: sử dụng nhiều AI hơn",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp sử dụng (trí tuệ nhân tạo được sử dụng trong nghiên cứu); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-064",
    "sent": "S018",
    "text": "chúng tôi",
    "occ": 1,
@@ -670,7 +909,7 @@
    "ref": "E"
   },
   {
-   "id": "P36-VI-048",
+   "id": "P36-VI-065",
    "sent": "S018",
    "text": "nghiên cứu",
    "occ": 1,
@@ -684,7 +923,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-049",
+   "id": "P36-VI-066",
    "sent": "S018",
    "text": "trường hợp",
    "occ": 1,
@@ -698,7 +937,7 @@
    "note": "occ 1: lần 2 ('trường hợp này') là chỉ từ trong câu, không đánh"
   },
   {
-   "id": "P36-VI-050",
+   "id": "P36-VI-067",
    "sent": "S018",
    "text": "AI",
    "occ": 1,
@@ -712,7 +951,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-051",
+   "id": "P36-VI-068",
    "sent": "S018",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -726,7 +965,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-052",
+   "id": "P36-VI-069",
    "sent": "S018",
    "text": "phát hiện ra ung thư",
    "occ": 1,
@@ -740,7 +979,7 @@
    "note": "lặp tổ hợp phát hiện + ung thư"
   },
   {
-   "id": "P36-VI-053",
+   "id": "P36-VI-070",
    "sent": "S019",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -754,7 +993,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-054",
+   "id": "P36-VI-071",
    "sent": "S019",
    "text": "con người",
    "occ": 1,
@@ -768,7 +1007,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-055",
+   "id": "P36-VI-072",
    "sent": "S019",
    "text": "bỏ sót",
    "occ": 1,
@@ -782,7 +1021,7 @@
    "note": "chuỗi bỏ sót"
   },
   {
-   "id": "P36-VI-056",
+   "id": "P36-VI-073",
    "sent": "S019",
    "text": "khối u ác tính",
    "occ": 1,
@@ -796,7 +1035,7 @@
    "note": "khối u ác tính ≈ ung thư (đồng nghĩa)"
   },
   {
-   "id": "P36-VI-057",
+   "id": "P36-VI-074",
    "sent": "S019",
    "text": "AI",
    "occ": 1,
@@ -810,7 +1049,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-058",
+   "id": "P36-VI-075",
    "sent": "S019",
    "text": "kết quả nghiên cứu",
    "occ": 1,
@@ -824,7 +1063,7 @@
    "note": "'nghiên cứu' lặp chuỗi; 'kết quả' khởi tạo chuỗi kết quả"
   },
   {
-   "id": "P36-VI-059",
+   "id": "P36-VI-076",
    "sent": "S020",
    "text": "AI",
    "occ": 1,
@@ -838,7 +1077,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-060",
+   "id": "P36-VI-077",
    "sent": "S020",
    "text": "con người",
    "occ": 1,
@@ -852,7 +1091,7 @@
    "note": "'Không giống như' so sánh trong câu, không đánh"
   },
   {
-   "id": "P36-VI-061",
+   "id": "P36-VI-078",
    "sent": "S021",
    "text": "Bunk",
    "occ": 1,
@@ -866,7 +1105,7 @@
    "note": "VI thêm danh xưng 'ông'"
   },
   {
-   "id": "P36-VI-062",
+   "id": "P36-VI-079",
    "sent": "S022",
    "text": "AI",
    "occ": 1,
@@ -880,7 +1119,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-063",
+   "id": "P36-VI-080",
    "sent": "S022",
    "text": null,
    "occ": 1,
@@ -896,7 +1135,7 @@
    "note": "[TC] tỉnh lược mệnh đề sau 'như', hồi phục {AI hoạt động}; đối xứng EN 'like'"
   },
   {
-   "id": "P36-VI-064",
+   "id": "P36-VI-081",
    "sent": "S023",
    "text": "Vì vậy",
    "occ": 1,
@@ -910,7 +1149,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-065",
+   "id": "P36-VI-082",
    "sent": "S023",
    "text": "đây",
    "occ": 1,
@@ -925,7 +1164,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-066",
+   "id": "P36-VI-083",
    "sent": "S023",
    "text": "AI",
    "occ": 1,
@@ -939,7 +1178,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-067",
+   "id": "P36-VI-084",
    "sent": "S023",
    "text": "ung thư",
    "occ": 1,
@@ -953,7 +1192,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-068",
+   "id": "P36-VI-085",
    "sent": "S023",
    "text": "con người",
    "occ": 1,
@@ -967,7 +1206,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-069",
+   "id": "P36-VI-086",
    "sent": "S023",
    "text": "bỏ sót",
    "occ": 1,
@@ -981,7 +1220,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-070",
+   "id": "P36-VI-087",
    "sent": "S023",
    "text": null,
    "occ": 1,
@@ -997,7 +1236,7 @@
    "note": "[TC] tỉnh lược chủ ngữ vế tọa hợp, hồi phục {đây}; EN dùng 'it's also'"
   },
   {
-   "id": "P36-VI-071",
+   "id": "P36-VI-088",
    "sent": "S024",
    "text": "Bunk",
    "occ": 1,
@@ -1011,7 +1250,7 @@
    "note": "'Theo' động từ chức năng, không đánh C"
   },
   {
-   "id": "P36-VI-072",
+   "id": "P36-VI-089",
    "sent": "S024",
    "text": "AI",
    "occ": 1,
@@ -1025,7 +1264,7 @@
    "note": "occ 1: lần 2 trong câu ('phụ thuộc vào AI') cùng chuỗi, không đánh"
   },
   {
-   "id": "P36-VI-073",
+   "id": "P36-VI-090",
    "sent": "S024",
    "text": "giúp giảm",
    "occ": 1,
@@ -1039,7 +1278,7 @@
    "note": "lặp tổ hợp; hàng gộp 2 chuỗi giúp + giảm; 'giúp họ' lần 2 trong câu không đánh"
   },
   {
-   "id": "P36-VI-074",
+   "id": "P36-VI-091",
    "sent": "S024",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -1053,7 +1292,7 @@
    "note": "'họ' trong câu = bác sĩ X quang, không đánh"
   },
   {
-   "id": "P36-VI-075",
+   "id": "P36-VI-092",
    "sent": "S024",
    "text": "trường hợp",
    "occ": 1,
@@ -1067,7 +1306,7 @@
    "note": "'phức tạp' khởi tạo chuỗi"
   },
   {
-   "id": "P36-VI-076",
+   "id": "P36-VI-093",
    "sent": "S024",
    "text": "con người",
    "occ": 1,
@@ -1081,7 +1320,21 @@
    "note": "trong 'chuyên môn của con người'"
   },
   {
-   "id": "P36-VI-077",
+   "id": "P36-VI-094",
+   "sent": "S024",
+   "text": "nguy cơ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: một lợi thế",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối lợi thế ↔ nguy cơ (nguy cơ mất đi chuyên môn); TNT §30; H&H §6.4"
+  },
+  {
+   "id": "P36-VI-095",
    "sent": "S025",
    "text": "Những trường hợp phức tạp đó",
    "occ": 1,
@@ -1096,7 +1349,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-078",
+   "id": "P36-VI-096",
    "sent": "S025",
    "text": "chuyên môn",
    "occ": 1,
@@ -1110,7 +1363,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-079",
+   "id": "P36-VI-097",
    "sent": "S025",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -1124,7 +1377,7 @@
    "note": "'được đào tạo' khởi tạo chuỗi"
   },
   {
-   "id": "P36-VI-080",
+   "id": "P36-VI-098",
    "sent": "S025",
    "text": "Bunk",
    "occ": 1,
@@ -1138,7 +1391,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-081",
+   "id": "P36-VI-099",
    "sent": "S026",
    "text": "vú",
    "occ": 1,
@@ -1149,10 +1402,10 @@
    "ante": "S010: tỷ lệ phát hiện ung thư vú",
    "conf": "high",
    "alt": null,
-   "note": "trong 'X quang vú'; 'X quang' lặp chuỗi bác sĩ X quang, ghi note; 'Trung tâm Ung thư MD Anderson' là tên riêng, không tính tie"
+   "note": "trong 'X quang vú'; 'X quang' có hàng riêng [Phase-2] ← S025; 'Trung tâm Ung thư MD Anderson' là tên riêng, không tính tie"
   },
   {
-   "id": "P36-VI-082",
+   "id": "P36-VI-100",
    "sent": "S026",
    "text": "việc sử dụng AI",
    "occ": 1,
@@ -1166,7 +1419,7 @@
    "note": "lặp cụm"
   },
   {
-   "id": "P36-VI-083",
+   "id": "P36-VI-101",
    "sent": "S026",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -1180,7 +1433,21 @@
    "note": null
   },
   {
-   "id": "P36-VI-084",
+   "id": "P36-VI-102",
+   "sent": "S026",
+   "text": "X quang",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: một bác sĩ X quang thực thụ",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị X quang (X quang vú); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-VI-103",
    "sent": "S027",
    "text": "AI",
    "occ": 1,
@@ -1194,7 +1461,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-085",
+   "id": "P36-VI-104",
    "sent": "S027",
    "text": "chúng ta",
    "occ": 1,
@@ -1209,7 +1476,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-086",
+   "id": "P36-VI-105",
    "sent": "S027",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -1223,7 +1490,7 @@
    "note": "'được đào tạo bài bản' lặp chuỗi đào tạo S025"
   },
   {
-   "id": "P36-VI-087",
+   "id": "P36-VI-106",
    "sent": "S027",
    "text": "đào tạo",
    "occ": 1,
@@ -1237,7 +1504,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-088",
+   "id": "P36-VI-107",
    "sent": "S027",
    "text": "phức tạp",
    "occ": 1,
@@ -1251,7 +1518,7 @@
    "note": "'nhiệm vụ' thay 'trường hợp' — cùng trường phức tạp"
   },
   {
-   "id": "P36-VI-089",
+   "id": "P36-VI-108",
    "sent": "S027",
    "text": "tập trung vào",
    "occ": 1,
@@ -1265,7 +1532,7 @@
    "note": "'sự tập trung' lần 1 trong câu là danh từ mới, không đánh"
   },
   {
-   "id": "P36-VI-090",
+   "id": "P36-VI-109",
    "sent": "S027",
    "text": "Yang",
    "occ": 1,
@@ -1279,7 +1546,21 @@
    "note": null
   },
   {
-   "id": "P36-VI-091",
+   "id": "P36-VI-110",
+   "sent": "S027",
+   "text": "hứng thú",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: tiếp thêm sinh lực cho các bác sĩ X quang",
+   "conf": "med",
+   "alt": null,
+   "note": "liên tưởng sinh lực ↔ hứng thú (trở nên hứng thú hơn); TNT §32; H&H §6.4"
+  },
+  {
+   "id": "P36-VI-111",
    "sent": "S028",
    "text": "bác sĩ X quang",
    "occ": 1,
@@ -1293,7 +1574,7 @@
    "note": "'việc sử dụng' đổi đối tượng nên không tính chuỗi 'sử dụng'"
   },
   {
-   "id": "P36-VI-092",
+   "id": "P36-VI-112",
    "sent": "S028",
    "text": "trí tuệ nhân tạo",
    "occ": 1,
@@ -1307,7 +1588,7 @@
    "note": "dạng đầy đủ"
   },
   {
-   "id": "P36-VI-093",
+   "id": "P36-VI-113",
    "sent": "S028",
    "text": "Katalinic",
    "occ": 1,
@@ -1321,7 +1602,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-094",
+   "id": "P36-VI-114",
    "sent": "S029",
    "text": "con người",
    "occ": 1,
@@ -1335,7 +1616,7 @@
    "note": "occ 1: lần 2 trong câu ('của con người') cùng chuỗi, không đánh; EN 'The combination' có hàng R nhưng VI 'Sự kết hợp' hiện thực hóa trần"
   },
   {
-   "id": "P36-VI-095",
+   "id": "P36-VI-115",
    "sent": "S029",
    "text": "AI",
    "occ": 1,
@@ -1349,7 +1630,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-096",
+   "id": "P36-VI-116",
    "sent": "S029",
    "text": "kết quả đọc",
    "occ": 1,
@@ -1363,7 +1644,7 @@
    "note": "'đọc' lặp 'người đọc'; đối ứng EN 'the human reading' ← 'human readers'"
   },
   {
-   "id": "P36-VI-097",
+   "id": "P36-VI-117",
    "sent": "S029",
    "text": "ông",
    "occ": 1,
@@ -1378,7 +1659,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-098",
+   "id": "P36-VI-118",
    "sent": "S030",
    "text": "Yang",
    "occ": 1,
@@ -1392,7 +1673,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-099",
+   "id": "P36-VI-119",
    "sent": "S030",
    "text": "nghiên cứu",
    "occ": 1,
@@ -1406,7 +1687,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-100",
+   "id": "P36-VI-120",
    "sent": "S030",
    "text": "kết quả",
    "occ": 1,
@@ -1420,7 +1701,21 @@
    "note": null
   },
   {
-   "id": "P36-VI-101",
+   "id": "P36-VI-121",
+   "sent": "S030",
+   "text": "tham gia",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: Khi AI tham gia",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp tham gia (người không tham gia vào nghiên cứu); H&H §6.2"
+  },
+  {
+   "id": "P36-VI-122",
    "sent": "S031",
    "text": "Dữ liệu",
    "occ": 1,
@@ -1434,7 +1729,7 @@
    "note": "Dữ liệu ≈ kết quả (đồng nghĩa)"
   },
   {
-   "id": "P36-VI-102",
+   "id": "P36-VI-123",
    "sent": "S031",
    "text": "bà",
    "occ": 1,
@@ -1449,7 +1744,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-VI-103",
+   "id": "P36-VI-124",
    "sent": "S032",
    "text": "Tỷ lệ phát hiện ung thư",
    "occ": 1,
@@ -1463,7 +1758,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-104",
+   "id": "P36-VI-125",
    "sent": "S032",
    "text": "giảm",
    "occ": 1,
@@ -1477,7 +1772,7 @@
    "note": null
   },
   {
-   "id": "P36-VI-105",
+   "id": "P36-VI-126",
    "sent": "S032",
    "text": "dương tính sai",
    "occ": 1,
@@ -1489,6 +1784,34 @@
    "conf": "high",
    "alt": null,
    "note": "nguồn VI đổi 'giả'→'sai', ghi §8; 'điều này' và 'nhìn chung' trong câu (sau gộp S033), không đánh"
+  },
+  {
+   "id": "P36-VI-127",
+   "sent": "S032",
+   "text": "lực lượng lao động",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: các bác sĩ X quang",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát chỉ lực lượng bác sĩ X quang (H&H §6.1); mapping §3.6"
+  },
+  {
+   "id": "P36-VI-128",
+   "sent": "S032",
+   "text": "tăng lên",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: giúp giảm số lượng kết quả dương tính giả",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối tăng ↔ giảm (tỷ lệ tăng lên ↔ dương tính giả giảm); TNT §30; H&H §6.4"
   }
  ]
 }

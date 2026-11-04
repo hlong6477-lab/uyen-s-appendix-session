@@ -133,6 +133,34 @@
   },
   {
    "id": "P32-VI-010",
+   "sent": "S005",
+   "text": "đảng viên Dân chủ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: các đảng viên Cộng hòa",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối Dân chủ ↔ Cộng hòa qua câu (TNT §30); đối xứng EN 'a Democrat' (S005 ST)"
+  },
+  {
+   "id": "P32-VI-011",
+   "sent": "S005",
+   "text": "kẻ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: bắt đầu xóa bỏ dòng chữ lớn",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối kẻ ↔ xóa bỏ qua câu (TNT §30); bản dịch tự sinh động từ 'kẻ' cho 'painting' (NTT 2020 §2.1: VI hiện thực hóa bằng từ vựng)"
+  },
+  {
+   "id": "P32-VI-012",
    "sent": "S006",
    "text": "Việc này",
    "occ": 1,
@@ -147,7 +175,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-011",
+   "id": "P32-VI-013",
    "sent": "S006",
    "text": "địa điểm này",
    "occ": 1,
@@ -162,7 +190,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-012",
+   "id": "P32-VI-014",
    "sent": "S006",
    "text": "người da đen",
    "occ": 1,
@@ -173,10 +201,10 @@
    "ante": "S001: người da đen",
    "conf": "high",
    "alt": null,
-   "note": "một người da đen tên George Floyd"
+   "note": "một người da đen tên George Floyd — referent khác S001 (trong tên slogan); VI tự sinh lặp 'người da đen', EN chỉ dùng tên riêng"
   },
   {
-   "id": "P32-VI-013",
+   "id": "P32-VI-015",
    "sent": "S007",
    "text": "Bowser",
    "occ": 1,
@@ -190,7 +218,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-014",
+   "id": "P32-VI-016",
    "sent": "S007",
    "text": "biểu tình",
    "occ": 1,
@@ -204,7 +232,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-015",
+   "id": "P32-VI-017",
    "sent": "S007",
    "text": "Trump",
    "occ": 1,
@@ -218,7 +246,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-016",
+   "id": "P32-VI-018",
    "sent": "S007",
    "text": "nhiệm kỳ đầu",
    "occ": 1,
@@ -232,7 +260,7 @@
    "note": "VI tự sinh nhắc lại; EN chỉ có 'at the time' — mắt xích VI-only"
   },
   {
-   "id": "P32-VI-017",
+   "id": "P32-VI-019",
    "sent": "S008",
    "text": "Trump",
    "occ": 1,
@@ -246,7 +274,7 @@
    "note": "đối ứng EN 'The president' (danh ngữ xác định)"
   },
   {
-   "id": "P32-VI-018",
+   "id": "P32-VI-020",
    "sent": "S008",
    "text": "Bowser",
    "occ": 1,
@@ -260,7 +288,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-019",
+   "id": "P32-VI-021",
    "sent": "S008",
    "text": "đe dọa",
    "occ": 1,
@@ -274,7 +302,21 @@
    "note": "chuỗi đe dọa"
   },
   {
-   "id": "P32-VI-020",
+   "id": "P32-VI-022",
+   "sent": "S008",
+   "text": "kiểm soát",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Đảng Cộng hòa kiểm soát",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp kiểm soát ('mất kiểm soát thành phố'); referent khác S001 — TNT §26 phép lặp; nối kín chuỗi kiểm soát 3 mắt (S001→S008→S015)"
+  },
+  {
+   "id": "P32-VI-023",
    "sent": "S008",
    "text": "Cảnh sát",
    "occ": 1,
@@ -288,7 +330,21 @@
    "note": "Sở Cảnh sát Đô thị"
   },
   {
-   "id": "P32-VI-021",
+   "id": "P32-VI-024",
+   "sent": "S008",
+   "text": "tiếp quản",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: các mối đe dọa can thiệp",
+   "conf": "med",
+   "alt": null,
+   "note": "tiếp quản = hình thức cụ thể của đe dọa can thiệp (S001); mở chuỗi tiếp quản cho S012"
+  },
+  {
+   "id": "P32-VI-025",
    "sent": "S009",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -302,7 +358,7 @@
    "note": "EN 'but' NỘI CÂU (didn't ... but declared) → VI nâng lên đầu câu thành liên kết LIÊN CÂU — dịch chuyển nổi bật"
   },
   {
-   "id": "P32-VI-022",
+   "id": "P32-VI-026",
    "sent": "S009",
    "text": "ông",
    "occ": 1,
@@ -317,7 +373,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-023",
+   "id": "P32-VI-027",
    "sent": "S009",
    "text": "lời đe dọa",
    "occ": 1,
@@ -331,7 +387,7 @@
    "note": "'để đe dọa những người biểu tình' lần 2 trong câu, cùng chuỗi, ghi note"
   },
   {
-   "id": "P32-VI-024",
+   "id": "P32-VI-028",
    "sent": "S009",
    "text": "người biểu tình",
    "occ": 1,
@@ -345,7 +401,7 @@
    "note": "biểu tình → người biểu tình"
   },
   {
-   "id": "P32-VI-025",
+   "id": "P32-VI-029",
    "sent": "S010",
    "text": "nhiệm kỳ",
    "occ": 1,
@@ -359,7 +415,21 @@
    "note": "đối 'đầu' ↔ 'thứ hai'"
   },
   {
-   "id": "P32-VI-026",
+   "id": "P32-VI-030",
+   "sent": "S010",
+   "text": "cố gắng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: cố gắng chống lại các mối đe dọa",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp cố gắng; EN struggles (S001) ↔ has worked (S010) — VI lặp từ nơi EN đổi từ (NTT 2020 §2.1)"
+  },
+  {
+   "id": "P32-VI-031",
    "sent": "S010",
    "text": "Trump",
    "occ": 1,
@@ -373,7 +443,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-027",
+   "id": "P32-VI-032",
    "sent": "S010",
    "text": "Bowser",
    "occ": 1,
@@ -387,7 +457,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-028",
+   "id": "P32-VI-033",
    "sent": "S010",
    "text": "xung đột",
    "occ": 1,
@@ -401,7 +471,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-029",
+   "id": "P32-VI-034",
    "sent": "S011",
    "text": "Bà",
    "occ": 1,
@@ -416,7 +486,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-030",
+   "id": "P32-VI-035",
    "sent": "S011",
    "text": "Trump",
    "occ": 1,
@@ -430,7 +500,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-031",
+   "id": "P32-VI-036",
    "sent": "S011",
    "text": "tổng thống",
    "occ": 1,
@@ -444,7 +514,21 @@
    "note": "gặp gỡ tổng thống — danh ngữ xác định"
   },
   {
-   "id": "P32-VI-032",
+   "id": "P32-VI-037",
+   "sent": "S011",
+   "text": "đồng thuận",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: các vấn đề tranh cãi",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối tranh cãi ↔ đồng thuận ('các điểm đồng thuận của họ')"
+  },
+  {
+   "id": "P32-VI-038",
    "sent": "S012",
    "text": "Trump",
    "occ": 1,
@@ -458,7 +542,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-033",
+   "id": "P32-VI-039",
    "sent": "S012",
    "text": "tiếp quản",
    "occ": 1,
@@ -472,7 +556,7 @@
    "note": "echo 1–1 với EN take over → takeover"
   },
   {
-   "id": "P32-VI-034",
+   "id": "P32-VI-040",
    "sent": "S012",
    "text": "Washington",
    "occ": 1,
@@ -486,7 +570,21 @@
    "note": "'thủ đô quốc gia'/'thủ đô' trong cùng câu là đồng nghĩa, không đánh thêm"
   },
   {
-   "id": "P32-VI-035",
+   "id": "P32-VI-041",
+   "sent": "S012",
+   "text": "dòng chữ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: kẻ dòng chữ vừa kể",
+   "conf": "med",
+   "alt": null,
+   "note": "'dòng chữ vẽ bậy' lặp từ 'dòng chữ' nhưng chỉ graffiti — referent khác, ghi nhận phép lặp từ vựng thuần túy"
+  },
+  {
+   "id": "P32-VI-042",
    "sent": "S013",
    "text": "Bowser",
    "occ": 1,
@@ -500,7 +598,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-036",
+   "id": "P32-VI-043",
    "sent": "S013",
    "text": "Tòa Bạch Ốc",
    "occ": 1,
@@ -514,7 +612,7 @@
    "note": "ẩn dụ chỉ chính quyền liên bang"
   },
   {
-   "id": "P32-VI-037",
+   "id": "P32-VI-044",
    "sent": "S013",
    "text": "thủ đô Washington",
    "occ": 1,
@@ -528,7 +626,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-038",
+   "id": "P32-VI-045",
    "sent": "S014",
    "text": "Bà",
    "occ": 1,
@@ -543,7 +641,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-039",
+   "id": "P32-VI-046",
    "sent": "S014",
    "text": "mối đe dọa",
    "occ": 1,
@@ -557,7 +655,7 @@
    "note": "mối đe dọa lớn nhất — chuỗi đe dọa"
   },
   {
-   "id": "P32-VI-040",
+   "id": "P32-VI-047",
    "sent": "S014",
    "text": "thủ đô Washington",
    "occ": 1,
@@ -571,7 +669,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-041",
+   "id": "P32-VI-048",
    "sent": "S014",
    "text": "Quốc hội",
    "occ": 1,
@@ -585,7 +683,7 @@
    "note": "một số người trong Quốc hội"
   },
   {
-   "id": "P32-VI-042",
+   "id": "P32-VI-049",
    "sent": "S015",
    "text": "đảng viên Cộng hòa",
    "occ": 1,
@@ -599,7 +697,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-043",
+   "id": "P32-VI-050",
    "sent": "S015",
    "text": "Quốc hội",
    "occ": 1,
@@ -613,7 +711,7 @@
    "note": "cả hai viện Quốc hội"
   },
   {
-   "id": "P32-VI-044",
+   "id": "P32-VI-051",
    "sent": "S015",
    "text": "đe dọa",
    "occ": 1,
@@ -627,7 +725,35 @@
    "note": "nhiều lần đe dọa can thiệp"
   },
   {
-   "id": "P32-VI-045",
+   "id": "P32-VI-052",
+   "sent": "S015",
+   "text": "kiểm soát",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Quốc hội do Đảng Cộng hòa kiểm soát",
+   "conf": "high",
+   "alt": null,
+   "note": "'phe đang kiểm soát': lặp kiểm soát (S001) — trùng referent S001; 'mất kiểm soát' (S008) cùng hình vị nhưng referent khác (bà Bowser), chọn tiền trạm theo referent (precedent graffiti S012)"
+  },
+  {
+   "id": "P32-VI-053",
+   "sent": "S015",
+   "text": "can thiệp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: các mối đe dọa can thiệp",
+   "conf": "high",
+   "alt": null,
+   "note": "'đe dọa can thiệp': lặp can thiệp (S001)"
+  },
+  {
+   "id": "P32-VI-054",
    "sent": "S015",
    "text": "thủ đô Washington",
    "occ": 1,
@@ -641,7 +767,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-046",
+   "id": "P32-VI-055",
    "sent": "S016",
    "text": "Quốc hội",
    "occ": 1,
@@ -655,7 +781,7 @@
    "note": "đưa ra tại Quốc hội"
   },
   {
-   "id": "P32-VI-047",
+   "id": "P32-VI-056",
    "sent": "S016",
    "text": "Bowser",
    "occ": 1,
@@ -669,7 +795,7 @@
    "note": "đạo luật mang tên đô trưởng"
   },
   {
-   "id": "P32-VI-048",
+   "id": "P32-VI-057",
    "sent": "S016",
    "text": "Tự quản",
    "occ": 1,
@@ -683,7 +809,7 @@
    "note": "Đạo luật Tự quản ↔ quyền tự trị (cùng hình vị tự + quản/trị)"
   },
   {
-   "id": "P32-VI-049",
+   "id": "P32-VI-058",
    "sent": "S016",
    "text": "thủ đô",
    "occ": 1,
@@ -697,7 +823,7 @@
    "note": "vùng thủ đô"
   },
   {
-   "id": "P32-VI-050",
+   "id": "P32-VI-059",
    "sent": "S016",
    "text": "quyền tự trị",
    "occ": 1,
@@ -711,7 +837,7 @@
    "note": "quyền tự trị có giới hạn"
   },
   {
-   "id": "P32-VI-051",
+   "id": "P32-VI-060",
    "sent": "S017",
    "text": "đô trưởng Bowser",
    "occ": 1,
@@ -725,7 +851,7 @@
    "note": "lặp cả danh hiệu 'đô trưởng' (hồi quy xa về S001)"
   },
   {
-   "id": "P32-VI-052",
+   "id": "P32-VI-061",
    "sent": "S017",
    "text": "Trump",
    "occ": 1,
@@ -739,7 +865,7 @@
    "note": "lần 2 trong câu (ông Trump thúc đẩy) ghi note"
   },
   {
-   "id": "P32-VI-053",
+   "id": "P32-VI-062",
    "sent": "S017",
    "text": "nhân viên chính phủ liên bang",
    "occ": 1,
@@ -750,10 +876,52 @@
    "ante": "S011: nhân viên liên bang",
    "conf": "high",
    "alt": null,
-   "note": "thêm 'chính phủ' so với S011; 'lực lượng lao động liên bang' lần 2 trong câu ghi note"
+   "note": "thêm 'chính phủ' so với S011; 'lực lượng lao động liên bang' có hàng riêng (lượt 2)"
   },
   {
-   "id": "P32-VI-054",
+   "id": "P32-VI-063",
+   "sent": "S017",
+   "text": "lực lượng lao động",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: nhân viên liên bang",
+   "conf": "med",
+   "alt": null,
+   "note": "lực lượng lao động ≈ nhân viên (TNT §31 → L); đối xứng EN federal workforce ← federal workers (S019 ST)"
+  },
+  {
+   "id": "P32-VI-064",
+   "sent": "S017",
+   "text": "nhất trí",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: các điểm đồng thuận của họ",
+   "conf": "med",
+   "alt": null,
+   "note": "nhất trí ≈ đồng thuận: cùng trường 'thống nhất' — VI đổi từ, EN lặp hình vị"
+  },
+  {
+   "id": "P32-VI-065",
+   "sent": "S017",
+   "text": "trở lại",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: trở lại làm việc tại văn phòng",
+   "conf": "high",
+   "alt": null,
+   "note": "'phải trở lại làm việc': lặp cụm 'trở lại làm việc' (S011)"
+  },
+  {
+   "id": "P32-VI-066",
    "sent": "S017",
    "text": "văn phòng toàn thời gian",
    "occ": 1,
@@ -767,7 +935,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-055",
+   "id": "P32-VI-067",
    "sent": "S017",
    "text": "thành phố",
    "occ": 1,
@@ -781,7 +949,7 @@
    "note": "gây sóng gió tài chính cho thành phố"
   },
   {
-   "id": "P32-VI-056",
+   "id": "P32-VI-068",
    "sent": "S018",
    "text": "thành phố",
    "occ": 1,
@@ -795,7 +963,7 @@
    "note": "giám đốc tài chính của thành phố"
   },
   {
-   "id": "P32-VI-057",
+   "id": "P32-VI-069",
    "sent": "S018",
    "text": "tài chính",
    "occ": 1,
@@ -809,7 +977,21 @@
    "note": "giám đốc tài chính"
   },
   {
-   "id": "P32-VI-058",
+   "id": "P32-VI-070",
+   "sent": "S018",
+   "text": "mất mát",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: cắt giảm lực lượng lao động liên bang",
+   "conf": "med",
+   "alt": null,
+   "note": "'mất mát hàng ngàn công chức' = kết quả của 'cắt giảm'"
+  },
+  {
+   "id": "P32-VI-071",
    "sent": "S018",
    "text": "công chức",
    "occ": 1,
@@ -823,7 +1005,7 @@
    "note": "VI đổi từ: nhân viên → công chức"
   },
   {
-   "id": "P32-VI-059",
+   "id": "P32-VI-072",
    "sent": "S018",
    "text": "chính phủ liên bang",
    "occ": 1,
@@ -837,7 +1019,7 @@
    "note": "từ chính phủ liên bang"
   },
   {
-   "id": "P32-VI-060",
+   "id": "P32-VI-073",
    "sent": "S019",
    "text": "Bowser",
    "occ": 1,
@@ -851,7 +1033,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-061",
+   "id": "P32-VI-074",
    "sent": "S019",
    "text": "Mạng sống người da đen quan trọng",
    "occ": 1,
@@ -865,7 +1047,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-062",
+   "id": "P32-VI-075",
    "sent": "S020",
    "text": "Chi nhánh phong trào này",
    "occ": 1,
@@ -880,7 +1062,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-063",
+   "id": "P32-VI-076",
    "sent": "S020",
    "text": "động thái",
    "occ": 1,
@@ -894,7 +1076,7 @@
    "note": "lặp từ; EN đối ứng 'the move' (S022) là quy chiếu — dịch chuyển"
   },
   {
-   "id": "P32-VI-064",
+   "id": "P32-VI-077",
    "sent": "S020",
    "text": "Bowser",
    "occ": 1,
@@ -908,7 +1090,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-065",
+   "id": "P32-VI-078",
    "sent": "S020",
    "text": "cảnh sát",
    "occ": 1,
@@ -922,7 +1104,7 @@
    "note": "thiên vị cảnh sát"
   },
   {
-   "id": "P32-VI-066",
+   "id": "P32-VI-079",
    "sent": "S021",
    "text": "Những nhà hoạt động này",
    "occ": 1,
@@ -937,7 +1119,21 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-067",
+   "id": "P32-VI-080",
+   "sent": "S021",
+   "text": "lên án",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: tố cáo ... chỉ trích bà",
+   "conf": "med",
+   "alt": null,
+   "note": "lên án ≈ tố cáo/chỉ trích (TNT §31 → L); 'tiếp tục' VI tự sinh đánh dấu nối tiếp; EN heaped scorn ← decried (S023 ST)"
+  },
+  {
+   "id": "P32-VI-081",
    "sent": "S021",
    "text": "Bowser",
    "occ": 1,
@@ -951,7 +1147,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-068",
+   "id": "P32-VI-082",
    "sent": "S021",
    "text": "thay đổi",
    "occ": 1,
@@ -962,10 +1158,10 @@
    "ante": "S004: sự thay đổi đáng kể",
    "conf": "med",
    "alt": null,
-   "note": "hồi quy xa về S004; EN dùng 'reversal' (tân danh từ)"
+   "note": "hồi quy xa về S004; 'lập trường' ≈ 'thái độ' (S004) đồng nghĩa; EN 'reversal' (S023 ST) Phase-2 cũng chốt về S004 'shift'"
   },
   {
-   "id": "P32-VI-069",
+   "id": "P32-VI-083",
    "sent": "S022",
    "text": "chi nhánh phong trào",
    "occ": 1,
@@ -979,7 +1175,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-070",
+   "id": "P32-VI-084",
    "sent": "S022",
    "text": "Mạng sống người da đen quan trọng",
    "occ": 1,
@@ -993,7 +1189,7 @@
    "note": "trong tên chi nhánh; lần 2 trong quote ('Mạng sống của người...') có thêm 'của', ghi note"
   },
   {
-   "id": "P32-VI-071",
+   "id": "P32-VI-085",
    "sent": "S022",
    "text": "thủ đô Washington",
    "occ": 1,
@@ -1007,7 +1203,7 @@
    "note": null
   },
   {
-   "id": "P32-VI-072",
+   "id": "P32-VI-086",
    "sent": "S022",
    "text": "X",
    "occ": 1,
@@ -1021,7 +1217,7 @@
    "note": "viết trên X — nền tảng lặp từ khối quote chưa dịch (giữ nguyên EN)"
   },
   {
-   "id": "P32-VI-073",
+   "id": "P32-VI-087",
    "sent": "S022",
    "text": "Bà",
    "occ": 1,
@@ -1036,7 +1232,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-074",
+   "id": "P32-VI-088",
    "sent": "S023",
    "text": "bà",
    "occ": 1,
@@ -1051,7 +1247,7 @@
    "ref": "A"
   },
   {
-   "id": "P32-VI-075",
+   "id": "P32-VI-089",
    "sent": "S023",
    "text": "dòng chữ",
    "occ": 1,
@@ -1065,7 +1261,7 @@
    "note": "kẻ dòng chữ này; đối ứng EN 'those words' hồi quy S001"
   },
   {
-   "id": "P32-VI-076",
+   "id": "P32-VI-090",
    "sent": "S023",
    "text": "trình diễn",
    "occ": 1,
@@ -1077,6 +1273,20 @@
    "conf": "med",
    "alt": null,
    "note": "diễn kịch ↔ trình diễn; EN lặp nguyên văn 'performative'"
+  },
+  {
+   "id": "P32-VI-091",
+   "sent": "S023",
+   "text": "kẻ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: ra lệnh kẻ dòng chữ",
+   "conf": "high",
+   "alt": null,
+   "note": "'cho kẻ dòng chữ này': lặp kẻ; tiếp chuỗi phép đối kẻ ↔ xóa bỏ (TNT §30)"
   }
  ]
 }

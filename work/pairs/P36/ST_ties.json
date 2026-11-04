@@ -32,6 +32,20 @@
   },
   {
    "id": "P36-EN-003",
+   "sent": "S002",
+   "text": "doctors",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: when doctors get help from artificial intelligence",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp doctors (apposition 'doctors who analyze…' = doctors của S001); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-EN-004",
    "sent": "S003",
    "text": "They",
    "occ": 1,
@@ -46,7 +60,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-004",
+   "id": "P36-EN-005",
    "sent": "S003",
    "text": "did",
    "occ": 1,
@@ -60,7 +74,7 @@
    "note": "[TC] 'did' thế động từ 'found'; VI hiện thực hóa 'cách chỉ có con người…' nên không có S phía VI"
   },
   {
-   "id": "P36-EN-005",
+   "id": "P36-EN-006",
    "sent": "S003",
    "text": "humans",
    "occ": 1,
@@ -74,7 +88,35 @@
    "note": "trường nghĩa đối lập con người↔AI; 'one' là số từ, không phải phép thế"
   },
   {
-   "id": "P36-EN-006",
+   "id": "P36-EN-007",
+   "sent": "S003",
+   "text": "women",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: more than 460,000 German women",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp women (for every 1,000 women); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-EN-008",
+   "sent": "S003",
+   "text": "cancer",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the cancer detection rate",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị cancer (one more cancer ← cancer detection rate); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-009",
    "sent": "S004",
    "text": "It",
    "occ": 1,
@@ -89,7 +131,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-007",
+   "id": "P36-EN-010",
    "sent": "S004",
    "text": "AI",
    "occ": 1,
@@ -103,7 +145,7 @@
    "note": "viết tắt cùng chỉ AI"
   },
   {
-   "id": "P36-EN-008",
+   "id": "P36-EN-011",
    "sent": "S004",
    "text": "breast cancer",
    "occ": 1,
@@ -117,7 +159,63 @@
    "note": "thêm 'breast' xác định; hình vị 'cancer' lặp chuỗi"
   },
   {
-   "id": "P36-EN-009",
+   "id": "P36-EN-012",
+   "sent": "S004",
+   "text": "use",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: used artificial intelligence",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp use (the use of AI ← used); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-EN-013",
+   "sent": "S004",
+   "text": "exploration",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: A German study",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "exploration ≈ study: đổi tên/tổng quát hóa (H&H §6.2; mapping §3.6)"
+  },
+  {
+   "id": "P36-EN-014",
+   "sent": "S004",
+   "text": "help",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: get help from artificial intelligence",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp help (to help detect); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-EN-015",
+   "sent": "S004",
+   "text": "detect",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the cancer detection rate",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị detect- (detect ← detection rate); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-016",
    "sent": "S005",
    "text": "The breast cancer detection rate",
    "occ": 1,
@@ -131,7 +229,7 @@
    "note": "lặp chuỗi tỷ lệ phát hiện; 'this' trong câu chỉ vế đầu, không đánh"
   },
   {
-   "id": "P36-EN-010",
+   "id": "P36-EN-017",
    "sent": "S005",
    "text": "Germany",
    "occ": 1,
@@ -145,7 +243,7 @@
    "note": "chuỗi German/Germany"
   },
   {
-   "id": "P36-EN-011",
+   "id": "P36-EN-018",
    "sent": "S005",
    "text": "the study’s",
    "occ": 1,
@@ -159,7 +257,36 @@
    "note": "dấu nháy cong của nguồn"
   },
   {
-   "id": "P36-EN-012",
+   "id": "P36-EN-019",
+   "sent": "S005",
+   "text": "better",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: the cancer detection rate improves by almost 18% when doctors get help",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §2.5 quy chiếu so sánh: is better = tốt hơn mức không AI (chuẩn hồi phục từ S001)",
+   "ref": "A"
+  },
+  {
+   "id": "P36-EN-020",
+   "sent": "S005",
+   "text": "investigator",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: according to researchers",
+   "conf": "med",
+   "alt": null,
+   "note": "investigator ≈ researcher (principal investigator); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-021",
    "sent": "S006",
    "text": "And",
    "occ": 1,
@@ -173,7 +300,7 @@
    "note": "nối liên câu trong quote"
   },
   {
-   "id": "P36-EN-013",
+   "id": "P36-EN-022",
    "sent": "S006",
    "text": "this evidence",
    "occ": 1,
@@ -188,7 +315,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-014",
+   "id": "P36-EN-023",
    "sent": "S006",
    "text": "AI",
    "occ": 1,
@@ -202,7 +329,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-015",
+   "id": "P36-EN-024",
    "sent": "S006",
    "text": "breast cancer screening",
    "occ": 1,
@@ -216,7 +343,21 @@
    "note": "lặp 'breast cancer'; 'screening' khởi tạo chuỗi sàng lọc; 'we' hư chỉ, 'this should be standard' trong câu — không đánh"
   },
   {
-   "id": "P36-EN-016",
+   "id": "P36-EN-025",
+   "sent": "S006",
+   "text": "use",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: the use of AI",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp use (start to use more AI); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-026",
    "sent": "S007",
    "text": "The mammograms",
    "occ": 1,
@@ -230,7 +371,7 @@
    "note": "danh ngữ xác định hồi quy; 463,094 là số liệu, không phải tie"
   },
   {
-   "id": "P36-EN-017",
+   "id": "P36-EN-027",
    "sent": "S007",
    "text": "German women",
    "occ": 1,
@@ -244,7 +385,21 @@
    "note": null
   },
   {
-   "id": "P36-EN-018",
+   "id": "P36-EN-028",
+   "sent": "S007",
+   "text": "examined",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: used artificial intelligence to examine the mammograms",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp examined (were examined ← to examine); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-029",
    "sent": "S008",
    "text": "About half",
    "occ": 1,
@@ -259,7 +414,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-019",
+   "id": "P36-EN-030",
    "sent": "S008",
    "text": "radiologists",
    "occ": 1,
@@ -273,7 +428,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-020",
+   "id": "P36-EN-031",
    "sent": "S008",
    "text": "standard",
    "occ": 1,
@@ -287,7 +442,7 @@
    "note": "lặp từ, khác phát ngôn (khát vọng ↔ quy trình sẵn có); 'which' trong câu không đánh"
   },
   {
-   "id": "P36-EN-021",
+   "id": "P36-EN-032",
    "sent": "S008",
    "text": "Germany",
    "occ": 1,
@@ -301,7 +456,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-022",
+   "id": "P36-EN-033",
    "sent": "S009",
    "text": "half",
    "occ": 1,
@@ -315,22 +470,35 @@
    "note": "'just over half' đối lượng với 'About half'"
   },
   {
-   "id": "P36-EN-023",
+   "id": "P36-EN-034",
    "sent": "S009",
    "text": "the cases",
    "occ": 1,
-   "cat": "R",
-   "sub": "nominal",
+   "cat": "L",
+   "sub": "general word",
    "dir": "ana",
    "level": "LC",
    "ante": "S007–S008: các lần chụp nhũ ảnh được xem xét",
    "conf": "high",
-   "alt": null,
-   "note": "danh ngữ tổng chỉ; VI 'số trường hợp' không có tín hiệu quy chiếu — chỉ EN có hàng",
-   "ref": "A"
+   "alt": "R: the",
+   "note": "danh từ tổng quát (H&H §6.1): mỗi lần chụp nhũ ảnh = một case; VI 'trường hợp' có hàng riêng"
   },
   {
-   "id": "P36-EN-024",
+   "id": "P36-EN-035",
+   "sent": "S009",
+   "text": "assisted",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: to help detect breast cancer",
+   "conf": "med",
+   "alt": null,
+   "note": "assisted ≈ helped (were assisted by AI ≈ get help); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-036",
    "sent": "S009",
    "text": "the humans",
    "occ": 1,
@@ -344,7 +512,7 @@
    "note": "mạo từ xác định chỉ nhóm bác sĩ X quang"
   },
   {
-   "id": "P36-EN-025",
+   "id": "P36-EN-037",
    "sent": "S009",
    "text": "AI",
    "occ": 1,
@@ -358,7 +526,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-026",
+   "id": "P36-EN-038",
    "sent": "S010",
    "text": "AI",
    "occ": 1,
@@ -372,7 +540,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-027",
+   "id": "P36-EN-039",
    "sent": "S010",
    "text": "the breast cancer detection rate",
    "occ": 1,
@@ -386,7 +554,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-028",
+   "id": "P36-EN-040",
    "sent": "S010",
    "text": "screened",
    "occ": 1,
@@ -400,7 +568,7 @@
    "note": "screening → screened"
   },
   {
-   "id": "P36-EN-029",
+   "id": "P36-EN-041",
    "sent": "S010",
    "text": "humans",
    "occ": 1,
@@ -414,7 +582,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-030",
+   "id": "P36-EN-042",
    "sent": "S010",
    "text": "women",
    "occ": 1,
@@ -428,7 +596,7 @@
    "note": "occ 1: lặp 2 lần trong câu (6.7 vs 5.7 per 1,000 women), chọn lần 1; 'compared to' so sánh rút gọn trong câu, không đánh E"
   },
   {
-   "id": "P36-EN-031",
+   "id": "P36-EN-043",
    "sent": "S011",
    "text": "AI",
    "occ": 1,
@@ -442,7 +610,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-032",
+   "id": "P36-EN-044",
    "sent": "S011",
    "text": "human readers",
    "occ": 1,
@@ -456,7 +624,7 @@
    "note": "'human' lặp chuỗi; 'readers' từ mới; VI 'người đọc' từ mới thuần — không có hàng VI"
   },
   {
-   "id": "P36-EN-033",
+   "id": "P36-EN-045",
    "sent": "S011",
    "text": "Katalinic",
    "occ": 1,
@@ -470,7 +638,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-034",
+   "id": "P36-EN-046",
    "sent": "S012",
    "text": "But",
    "occ": 1,
@@ -484,7 +652,7 @@
    "note": "nối liên câu trong quote; 'you' hư chỉ, không đánh"
   },
   {
-   "id": "P36-EN-035",
+   "id": "P36-EN-047",
    "sent": "S013",
    "text": "This",
    "occ": 1,
@@ -499,7 +667,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-036",
+   "id": "P36-EN-048",
    "sent": "S014",
    "text": "society’s",
    "occ": 1,
@@ -513,7 +681,7 @@
    "note": "social → society cùng gốc; dấu nháy cong của nguồn"
   },
   {
-   "id": "P36-EN-037",
+   "id": "P36-EN-049",
    "sent": "S014",
    "text": "AI",
    "occ": 1,
@@ -527,7 +695,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-038",
+   "id": "P36-EN-050",
    "sent": "S015",
    "text": "The study",
    "occ": 1,
@@ -541,7 +709,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-039",
+   "id": "P36-EN-051",
    "sent": "S015",
    "text": "AI",
    "occ": 1,
@@ -555,7 +723,7 @@
    "note": "'also' trong câu, không đánh C"
   },
   {
-   "id": "P36-EN-040",
+   "id": "P36-EN-052",
    "sent": "S015",
    "text": "helped",
    "occ": 1,
@@ -569,7 +737,21 @@
    "note": "chuỗi help; 'false positive results' khởi tạo chuỗi"
   },
   {
-   "id": "P36-EN-041",
+   "id": "P36-EN-053",
+   "sent": "S015",
+   "text": "found",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: They found one more cancer",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp found (The study found that); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-054",
    "sent": "S016",
    "text": "Artificial intelligence",
    "occ": 1,
@@ -583,7 +765,7 @@
    "note": "viết đầy đủ sau chuỗi viết tắt"
   },
   {
-   "id": "P36-EN-042",
+   "id": "P36-EN-055",
    "sent": "S016",
    "text": "however",
    "occ": 1,
@@ -597,7 +779,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-043",
+   "id": "P36-EN-056",
    "sent": "S016",
    "text": "cancers",
    "occ": 1,
@@ -611,7 +793,21 @@
    "note": "chuỗi ung thư"
   },
   {
-   "id": "P36-EN-044",
+   "id": "P36-EN-057",
+   "sent": "S016",
+   "text": "miss",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: They found one more cancer",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối found ↔ miss (AI phát hiện ↔ AI bỏ sót); TNT §30; H&H §6.4"
+  },
+  {
+   "id": "P36-EN-058",
    "sent": "S017",
    "text": "The AI",
    "occ": 1,
@@ -625,7 +821,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-045",
+   "id": "P36-EN-059",
    "sent": "S017",
    "text": "the humans",
    "occ": 1,
@@ -639,7 +835,7 @@
    "note": "'not perfect' lặp 2 lần trong câu (TC), không đánh thêm"
   },
   {
-   "id": "P36-EN-046",
+   "id": "P36-EN-060",
    "sent": "S017",
    "text": "the artificial intelligence",
    "occ": 1,
@@ -653,7 +849,7 @@
    "note": "lần 2 của chuỗi AI trong câu, dạng đầy đủ — khác token nên đánh riêng (như federal workers/workforce ở P32)"
   },
   {
-   "id": "P36-EN-047",
+   "id": "P36-EN-061",
    "sent": "S017",
    "text": "the study",
    "occ": 1,
@@ -667,7 +863,21 @@
    "note": null
   },
   {
-   "id": "P36-EN-048",
+   "id": "P36-EN-062",
+   "sent": "S017",
+   "text": "used",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: to use more AI",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp used (the AI used in the study); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-063",
    "sent": "S018",
    "text": "our",
    "occ": 1,
@@ -682,7 +892,7 @@
    "ref": "E"
   },
   {
-   "id": "P36-EN-049",
+   "id": "P36-EN-064",
    "sent": "S018",
    "text": "study",
    "occ": 1,
@@ -696,7 +906,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-050",
+   "id": "P36-EN-065",
    "sent": "S018",
    "text": "cases",
    "occ": 1,
@@ -710,7 +920,7 @@
    "note": "'this case' lần 2 trong câu là chỉ từ trong câu, không đánh"
   },
   {
-   "id": "P36-EN-051",
+   "id": "P36-EN-066",
    "sent": "S018",
    "text": "the AI",
    "occ": 1,
@@ -724,7 +934,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-052",
+   "id": "P36-EN-067",
    "sent": "S018",
    "text": "radiologist",
    "occ": 1,
@@ -738,7 +948,7 @@
    "note": "số ít trong tổ hợp 'a radiologist found cancer'"
   },
   {
-   "id": "P36-EN-053",
+   "id": "P36-EN-068",
    "sent": "S018",
    "text": "found cancer",
    "occ": 1,
@@ -752,7 +962,7 @@
    "note": "lặp tổ hợp động từ + tân ngữ"
   },
   {
-   "id": "P36-EN-054",
+   "id": "P36-EN-069",
    "sent": "S019",
    "text": "however",
    "occ": 1,
@@ -766,7 +976,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-055",
+   "id": "P36-EN-070",
    "sent": "S019",
    "text": "Humans",
    "occ": 1,
@@ -780,7 +990,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-056",
+   "id": "P36-EN-071",
    "sent": "S019",
    "text": "missed",
    "occ": 1,
@@ -794,7 +1004,7 @@
    "note": "chuỗi bỏ sót"
   },
   {
-   "id": "P36-EN-057",
+   "id": "P36-EN-072",
    "sent": "S019",
    "text": "a malignancy",
    "occ": 1,
@@ -808,7 +1018,7 @@
    "note": "malignancy ≈ cancer (đồng nghĩa trường ung thư)"
   },
   {
-   "id": "P36-EN-058",
+   "id": "P36-EN-073",
    "sent": "S019",
    "text": "the AI",
    "occ": 1,
@@ -822,7 +1032,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-059",
+   "id": "P36-EN-074",
    "sent": "S019",
    "text": "the study results",
    "occ": 1,
@@ -836,7 +1046,7 @@
    "note": "'study' lặp chuỗi; 'results' khởi tạo chuỗi kết quả; 'according to' động từ chức năng"
   },
   {
-   "id": "P36-EN-060",
+   "id": "P36-EN-075",
    "sent": "S020",
    "text": "AI",
    "occ": 1,
@@ -850,7 +1060,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-061",
+   "id": "P36-EN-076",
    "sent": "S020",
    "text": "humans",
    "occ": 1,
@@ -864,7 +1074,7 @@
    "note": "'unlike' so sánh trong câu, không đánh"
   },
   {
-   "id": "P36-EN-062",
+   "id": "P36-EN-077",
    "sent": "S021",
    "text": "Bunk",
    "occ": 1,
@@ -878,7 +1088,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-063",
+   "id": "P36-EN-078",
    "sent": "S022",
    "text": "AI",
    "occ": 1,
@@ -892,7 +1102,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-064",
+   "id": "P36-EN-079",
    "sent": "S022",
    "text": null,
    "occ": 1,
@@ -908,7 +1118,7 @@
    "note": "[TC] tỉnh lược mệnh đề sau 'like', hồi phục {AI works}; VI đối xứng 'như' cũng có E; nguồn rườm 'in the same way…like', ghi §8"
   },
   {
-   "id": "P36-EN-065",
+   "id": "P36-EN-080",
    "sent": "S023",
    "text": "So",
    "occ": 1,
@@ -922,7 +1132,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-066",
+   "id": "P36-EN-081",
    "sent": "S023",
    "text": "it",
    "occ": 1,
@@ -937,7 +1147,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-067",
+   "id": "P36-EN-082",
    "sent": "S023",
    "text": "AI",
    "occ": 1,
@@ -951,7 +1161,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-068",
+   "id": "P36-EN-083",
    "sent": "S023",
    "text": "cancers",
    "occ": 1,
@@ -965,7 +1175,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-069",
+   "id": "P36-EN-084",
    "sent": "S023",
    "text": "humans",
    "occ": 1,
@@ -979,7 +1189,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-070",
+   "id": "P36-EN-085",
    "sent": "S023",
    "text": "miss",
    "occ": 1,
@@ -993,7 +1203,7 @@
    "note": "missed → miss cùng hình vị"
   },
   {
-   "id": "P36-EN-071",
+   "id": "P36-EN-086",
    "sent": "S024",
    "text": "AI",
    "occ": 1,
@@ -1007,7 +1217,7 @@
    "note": "occ 1: lần 2 trong câu ('reliance on AI') cùng chuỗi, không đánh"
   },
   {
-   "id": "P36-EN-072",
+   "id": "P36-EN-087",
    "sent": "S024",
    "text": "help reduce",
    "occ": 1,
@@ -1021,7 +1231,7 @@
    "note": "lặp tổ hợp 'help(ed) reduce'"
   },
   {
-   "id": "P36-EN-073",
+   "id": "P36-EN-088",
    "sent": "S024",
    "text": "radiologists",
    "occ": 1,
@@ -1035,7 +1245,7 @@
    "note": "'them' trong câu = radiologists, không đánh"
   },
   {
-   "id": "P36-EN-074",
+   "id": "P36-EN-089",
    "sent": "S024",
    "text": "cases",
    "occ": 1,
@@ -1049,7 +1259,7 @@
    "note": "'complex' khởi tạo chuỗi phức tạp"
   },
   {
-   "id": "P36-EN-075",
+   "id": "P36-EN-090",
    "sent": "S024",
    "text": "Bunk",
    "occ": 1,
@@ -1063,7 +1273,7 @@
    "note": "'according to' động từ chức năng, không đánh C"
   },
   {
-   "id": "P36-EN-076",
+   "id": "P36-EN-091",
    "sent": "S024",
    "text": "human",
    "occ": 1,
@@ -1077,7 +1287,21 @@
    "note": "trong 'human expertise'; 'expertise' khởi tạo chuỗi chuyên môn"
   },
   {
-   "id": "P36-EN-077",
+   "id": "P36-EN-092",
+   "sent": "S024",
+   "text": "risk",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: it's definitely an advantage",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối advantage ↔ risk (lợi thế ↔ nguy cơ); TNT §30; H&H §6.4"
+  },
+  {
+   "id": "P36-EN-093",
    "sent": "S025",
    "text": "Those complex cases",
    "occ": 1,
@@ -1092,7 +1316,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-078",
+   "id": "P36-EN-094",
    "sent": "S025",
    "text": "expertise",
    "occ": 1,
@@ -1106,7 +1330,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-079",
+   "id": "P36-EN-095",
    "sent": "S025",
    "text": "radiologist",
    "occ": 1,
@@ -1120,7 +1344,7 @@
    "note": "an actual radiologist; lỗi hòa hợp chủ-vị của nguồn (cases…is), ghi §8"
   },
   {
-   "id": "P36-EN-080",
+   "id": "P36-EN-096",
    "sent": "S025",
    "text": "Bunk",
    "occ": 1,
@@ -1134,7 +1358,7 @@
    "note": "'continue to be trained' khởi tạo chuỗi đào tạo"
   },
   {
-   "id": "P36-EN-081",
+   "id": "P36-EN-097",
    "sent": "S026",
    "text": "breast",
    "occ": 1,
@@ -1148,7 +1372,7 @@
    "note": "trong 'breast radiology'; 'MD Anderson Cancer Center' là tên riêng, không tính tie"
   },
   {
-   "id": "P36-EN-082",
+   "id": "P36-EN-098",
    "sent": "S026",
    "text": "use of AI",
    "occ": 1,
@@ -1162,7 +1386,7 @@
    "note": "lặp cụm 'use of AI'"
   },
   {
-   "id": "P36-EN-083",
+   "id": "P36-EN-099",
    "sent": "S026",
    "text": "radiologists",
    "occ": 1,
@@ -1176,7 +1400,21 @@
    "note": "could energize radiologists"
   },
   {
-   "id": "P36-EN-084",
+   "id": "P36-EN-100",
+   "sent": "S026",
+   "text": "radiology",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: an actual radiologist",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị radiolog- (breast radiology); H&H §6.2; TNT §26"
+  },
+  {
+   "id": "P36-EN-101",
    "sent": "S027",
    "text": "AI",
    "occ": 1,
@@ -1190,7 +1428,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-085",
+   "id": "P36-EN-102",
    "sent": "S027",
    "text": "us",
    "occ": 1,
@@ -1205,7 +1443,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-086",
+   "id": "P36-EN-103",
    "sent": "S027",
    "text": "radiologists",
    "occ": 1,
@@ -1219,7 +1457,7 @@
    "note": "highly trained radiologists"
   },
   {
-   "id": "P36-EN-087",
+   "id": "P36-EN-104",
    "sent": "S027",
    "text": "trained",
    "occ": 1,
@@ -1233,7 +1471,7 @@
    "note": "chuỗi đào tạo"
   },
   {
-   "id": "P36-EN-088",
+   "id": "P36-EN-105",
    "sent": "S027",
    "text": "complex",
    "occ": 1,
@@ -1247,7 +1485,7 @@
    "note": "'tasks' thay 'cases' — cùng trường phức tạp"
   },
   {
-   "id": "P36-EN-089",
+   "id": "P36-EN-106",
    "sent": "S027",
    "text": "focus on",
    "occ": 1,
@@ -1261,7 +1499,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-090",
+   "id": "P36-EN-107",
    "sent": "S027",
    "text": "Yang",
    "occ": 1,
@@ -1275,7 +1513,21 @@
    "note": null
   },
   {
-   "id": "P36-EN-091",
+   "id": "P36-EN-108",
+   "sent": "S027",
+   "text": "excited",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: could energize radiologists",
+   "conf": "med",
+   "alt": null,
+   "note": "excited ≈ energized (become more excited ← energize); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-109",
    "sent": "S028",
    "text": "a human radiologist",
    "occ": 1,
@@ -1289,7 +1541,7 @@
    "note": "kết 2 chuỗi human (S020) + radiologist; 'Using' đổi đối tượng nên không tính chuỗi 'use'"
   },
   {
-   "id": "P36-EN-092",
+   "id": "P36-EN-110",
    "sent": "S028",
    "text": "artificial intelligence",
    "occ": 1,
@@ -1303,7 +1555,7 @@
    "note": "dạng đầy đủ"
   },
   {
-   "id": "P36-EN-093",
+   "id": "P36-EN-111",
    "sent": "S028",
    "text": "Katalinic",
    "occ": 1,
@@ -1317,7 +1569,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-094",
+   "id": "P36-EN-112",
    "sent": "S029",
    "text": "The combination",
    "occ": 1,
@@ -1332,7 +1584,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-095",
+   "id": "P36-EN-113",
    "sent": "S029",
    "text": "a human",
    "occ": 1,
@@ -1346,7 +1598,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-096",
+   "id": "P36-EN-114",
    "sent": "S029",
    "text": "AI",
    "occ": 1,
@@ -1360,7 +1612,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-097",
+   "id": "P36-EN-115",
    "sent": "S029",
    "text": "the human reading",
    "occ": 1,
@@ -1374,7 +1626,7 @@
    "note": "readers → reading (lặp hình vị read-); lần 2 'human' trong câu ghi note hàng 'a human'"
   },
   {
-   "id": "P36-EN-098",
+   "id": "P36-EN-116",
    "sent": "S029",
    "text": "he",
    "occ": 4,
@@ -1389,7 +1641,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-099",
+   "id": "P36-EN-117",
    "sent": "S030",
    "text": "Yang",
    "occ": 1,
@@ -1403,7 +1655,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-100",
+   "id": "P36-EN-118",
    "sent": "S030",
    "text": "the study",
    "occ": 1,
@@ -1417,7 +1669,7 @@
    "note": null
   },
   {
-   "id": "P36-EN-101",
+   "id": "P36-EN-119",
    "sent": "S030",
    "text": "the results",
    "occ": 1,
@@ -1431,7 +1683,21 @@
    "note": null
   },
   {
-   "id": "P36-EN-102",
+   "id": "P36-EN-120",
+   "sent": "S030",
+   "text": "involved",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: When AI was involved",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp involved (was not involved in the study); H&H §6.2"
+  },
+  {
+   "id": "P36-EN-121",
    "sent": "S031",
    "text": "The data",
    "occ": 1,
@@ -1441,11 +1707,11 @@
    "level": "LC",
    "ante": "S030: the results",
    "conf": "high",
-   "alt": null,
-   "note": "data ≈ results (đồng nghĩa); VI 'Dữ liệu' đối xứng"
+   "alt": "R: the",
+   "note": "data ≈ results (đồng nghĩa, đổi tên); H&H §6.2; VI 'Dữ liệu' định danh bằng ngữ cảnh (mapping §4)"
   },
   {
-   "id": "P36-EN-103",
+   "id": "P36-EN-122",
    "sent": "S031",
    "text": "she",
    "occ": 1,
@@ -1460,7 +1726,7 @@
    "ref": "A"
   },
   {
-   "id": "P36-EN-104",
+   "id": "P36-EN-123",
    "sent": "S032",
    "text": "The increased cancer detection rate",
    "occ": 1,
@@ -1474,7 +1740,7 @@
    "note": "'increased' lặp S026; 'this' trong câu chỉ danh sách, không đánh"
   },
   {
-   "id": "P36-EN-105",
+   "id": "P36-EN-124",
    "sent": "S032",
    "text": "the reduction",
    "occ": 1,
@@ -1488,7 +1754,7 @@
    "note": "reduce → reduction"
   },
   {
-   "id": "P36-EN-106",
+   "id": "P36-EN-125",
    "sent": "S032",
    "text": "false positive",
    "occ": 1,
@@ -1502,7 +1768,21 @@
    "note": "'callbacks' từ mới"
   },
   {
-   "id": "P36-EN-107",
+   "id": "P36-EN-126",
+   "sent": "S032",
+   "text": "workforce",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: could energize radiologists",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát chỉ lực lượng radiologists (H&H §6.1); mapping §3.6"
+  },
+  {
+   "id": "P36-EN-127",
    "sent": "S033",
    "text": "So",
    "occ": 1,
