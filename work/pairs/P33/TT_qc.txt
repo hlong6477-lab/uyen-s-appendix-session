@@ -1,3 +1,3 @@
 QC P33 VI: PASS
-counts: {'C': 2, 'L': 71, 'R': 13}
-ties: 86
+counts: {'C': 5, 'L': 93, 'R': 13}
+ties: 111

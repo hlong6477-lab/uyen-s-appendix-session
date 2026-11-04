@@ -18,6 +18,34 @@
   },
   {
    "id": "P33-VI-002",
+   "sent": "S002",
+   "text": "cà phê Việt Nam",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Cà phê muối (tên đồ uống mở bài)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị 'cà phê'; 'Việt Nam' từ mới trong hợp chất — mắt xích đầu của cả chuỗi cà phê lẫn chuỗi Việt Nam (S011 cite)"
+  },
+  {
+   "id": "P33-VI-003",
+   "sent": "S002",
+   "text": "phổ biến",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: xu hướng đồ uống phổ biến",
+   "conf": "high",
+   "alt": null,
+   "note": "EN gộp 'popular' vào span R 'this now-popular beverage' nên chỉ 1 hàng; VI tách thành 2 hàng L (loại đồ uống + phổ biến)"
+  },
+  {
+   "id": "P33-VI-004",
    "sent": "S003",
    "text": "Hỗn hợp này",
    "occ": 1,
@@ -32,7 +60,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-003",
+   "id": "P33-VI-005",
    "sent": "S003",
    "text": "kem muối",
    "occ": 1,
@@ -46,7 +74,7 @@
    "note": "hình vị 'muối' lặp"
   },
   {
-   "id": "P33-VI-004",
+   "id": "P33-VI-006",
    "sent": "S005",
    "text": "Chúng tôi",
    "occ": 1,
@@ -61,7 +89,7 @@
    "ref": "E"
   },
   {
-   "id": "P33-VI-005",
+   "id": "P33-VI-007",
    "sent": "S005",
    "text": "cà phê muối",
    "occ": 1,
@@ -75,7 +103,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-006",
+   "id": "P33-VI-008",
    "sent": "S005",
    "text": "Cà phê Muối",
    "occ": 1,
@@ -89,7 +117,7 @@
    "note": "tên quán viết hoa từng chữ"
   },
   {
-   "id": "P33-VI-007",
+   "id": "P33-VI-009",
    "sent": "S006",
    "text": "này",
    "occ": 1,
@@ -104,7 +132,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-008",
+   "id": "P33-VI-010",
    "sent": "S006",
    "text": "sữa đặc",
    "occ": 1,
@@ -118,7 +146,7 @@
    "note": "occ 1: lần 2 ('của sữa đặc') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-VI-009",
+   "id": "P33-VI-011",
    "sent": "S006",
    "text": "muối",
    "occ": 1,
@@ -132,7 +160,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-010",
+   "id": "P33-VI-012",
    "sent": "S006",
    "text": "cà phê đen",
    "occ": 1,
@@ -146,7 +174,7 @@
    "note": "lặp 'cà phê'; 'đen' từ mới"
   },
   {
-   "id": "P33-VI-011",
+   "id": "P33-VI-013",
    "sent": "S006",
    "text": "hỗn hợp",
    "occ": 1,
@@ -160,7 +188,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-012",
+   "id": "P33-VI-014",
    "sent": "S007",
    "text": "quán cà phê",
    "occ": 1,
@@ -174,7 +202,7 @@
    "note": "'điều đó' chiếu tới phần sau trong câu (VI tự sinh), không đánh"
   },
   {
-   "id": "P33-VI-013",
+   "id": "P33-VI-015",
    "sent": "S007",
    "text": "đồ uống",
    "occ": 1,
@@ -188,7 +216,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-014",
+   "id": "P33-VI-016",
    "sent": "S007",
    "text": "cà phê và muối",
    "occ": 1,
@@ -202,7 +230,7 @@
    "note": "kết 2 chuỗi cà phê + muối; đối ứng gloss EN S008 (5 hàng EN-only)"
   },
   {
-   "id": "P33-VI-015",
+   "id": "P33-VI-017",
    "sent": "S008",
    "text": "quán cà phê",
    "occ": 1,
@@ -216,7 +244,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-016",
+   "id": "P33-VI-018",
    "sent": "S008",
    "text": "chúng tôi",
    "occ": 1,
@@ -231,7 +259,7 @@
    "ref": "E"
   },
   {
-   "id": "P33-VI-017",
+   "id": "P33-VI-019",
    "sent": "S008",
    "text": "cà phê muối",
    "occ": 1,
@@ -245,7 +273,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-018",
+   "id": "P33-VI-020",
    "sent": "S008",
    "text": "cặp đôi",
    "occ": 1,
@@ -260,7 +288,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-019",
+   "id": "P33-VI-021",
    "sent": "S009",
    "text": "Chiến lược này",
    "occ": 1,
@@ -275,7 +303,21 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-020",
+   "id": "P33-VI-022",
+   "sent": "S010",
+   "text": "uống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: đồ uống nổi tiếng hiện nay (chuỗi đồ uống)",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị 'uống' ở dạng động từ (những gì đang uống); 'khách du lịch' lần đầu không đánh"
+  },
+  {
+   "id": "P33-VI-023",
    "sent": "S011",
    "text": "cà phê muối",
    "occ": 1,
@@ -289,7 +331,7 @@
    "note": "'món này' trong câu chỉ cà phê muối (trong câu), không đánh"
   },
   {
-   "id": "P33-VI-021",
+   "id": "P33-VI-024",
    "sent": "S011",
    "text": "Huế",
    "occ": 1,
@@ -303,7 +345,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-022",
+   "id": "P33-VI-025",
    "sent": "S011",
    "text": "các quán cà phê",
    "occ": 1,
@@ -317,7 +359,35 @@
    "note": null
   },
   {
-   "id": "P33-VI-023",
+   "id": "P33-VI-026",
+   "sent": "S011",
+   "text": "thức uống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: đồ uống (chuỗi đồ uống S001)",
+   "conf": "high",
+   "alt": null,
+   "note": "biến thể 'đồ' → 'thức' cùng trường đồ uống; 'đặc sản' lần đầu không đánh (mắt xích cho S025)"
+  },
+  {
+   "id": "P33-VI-027",
+   "sent": "S011",
+   "text": "Việt Nam",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: cà phê Việt Nam",
+   "conf": "high",
+   "alt": null,
+   "note": "trên khắp Việt Nam — sót ở Phase-1 vì coi S002 là lần đầu"
+  },
+  {
+   "id": "P33-VI-028",
    "sent": "S012",
    "text": "Cà phê Muối",
    "occ": 1,
@@ -331,7 +401,7 @@
    "note": "Những người sáng lập Cà phê Muối"
   },
   {
-   "id": "P33-VI-024",
+   "id": "P33-VI-029",
    "sent": "S012",
    "text": "cà phê muối",
    "occ": 1,
@@ -345,7 +415,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-025",
+   "id": "P33-VI-030",
    "sent": "S012",
    "text": "xu hướng",
    "occ": 1,
@@ -359,7 +429,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-026",
+   "id": "P33-VI-031",
    "sent": "S012",
    "text": "Việt Nam",
    "occ": 1,
@@ -373,7 +443,21 @@
    "note": null
   },
   {
-   "id": "P33-VI-027",
+   "id": "P33-VI-032",
+   "sent": "S012",
+   "text": "người sáng lập",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: đồng sở hữu Hồ Thị Thanh Hương và Trần Nguyễn Hữu Phong",
+   "conf": "high",
+   "alt": null,
+   "note": "đổi danh hiệu cặp chủ (Những người sáng lập Cà phê Muối)"
+  },
+  {
+   "id": "P33-VI-033",
    "sent": "S013",
    "text": "Huế",
    "occ": 1,
@@ -387,7 +471,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-028",
+   "id": "P33-VI-034",
    "sent": "S013",
    "text": "cà phê muối",
    "occ": 1,
@@ -401,7 +485,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-029",
+   "id": "P33-VI-035",
    "sent": "S013",
    "text": "cà phê đen",
    "occ": 1,
@@ -415,7 +499,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-030",
+   "id": "P33-VI-036",
    "sent": "S013",
    "text": "cà phê sữa",
    "occ": 1,
@@ -429,7 +513,7 @@
    "note": "kết 2 chuỗi cà phê + sữa; EN 'white coffee' từ mới không có hàng"
   },
   {
-   "id": "P33-VI-031",
+   "id": "P33-VI-037",
    "sent": "S013",
    "text": "xu hướng này",
    "occ": 1,
@@ -444,7 +528,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-032",
+   "id": "P33-VI-038",
    "sent": "S013",
    "text": "chúng tôi",
    "occ": 1,
@@ -459,7 +543,21 @@
    "ref": "E"
   },
   {
-   "id": "P33-VI-033",
+   "id": "P33-VI-039",
+   "sent": "S013",
+   "text": "thức uống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: thức uống đặc sản",
+   "conf": "high",
+   "alt": null,
+   "note": "thức uống hàng ngày; 'như cà phê đen hay cà phê sữa' so sánh trong câu (TC) không đánh"
+  },
+  {
+   "id": "P33-VI-040",
    "sent": "S014",
    "text": "quán cà phê",
    "occ": 1,
@@ -473,7 +571,7 @@
    "note": "VI bỏ 'salt coffee' so với EN"
   },
   {
-   "id": "P33-VI-034",
+   "id": "P33-VI-041",
    "sent": "S014",
    "text": "anh chị",
    "occ": 1,
@@ -488,7 +586,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-035",
+   "id": "P33-VI-042",
    "sent": "S014",
    "text": "Việt Nam",
    "occ": 1,
@@ -502,7 +600,35 @@
    "note": "bán khắp nơi Việt Nam"
   },
   {
-   "id": "P33-VI-036",
+   "id": "P33-VI-043",
+   "sent": "S014",
+   "text": "Ngày nay",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: quote xu hướng sau Covid (chuyển khung về hiện tại)",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §5.8 continuative — bộ tổ chức discours, không nối sự kiện trong thế giới"
+  },
+  {
+   "id": "P33-VI-044",
+   "sent": "S015",
+   "text": "đồng thời",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: quán cà phê còn đóng chai để bán khắp nơi Việt Nam",
+   "conf": "med",
+   "alt": null,
+   "note": "bổ sung đồng thời hai phát triển (đóng chai bán + du khách tìm uống thử); 'như cách' so sánh trong câu (TC) không đánh"
+  },
+  {
+   "id": "P33-VI-045",
    "sent": "S015",
    "text": "Việt Nam",
    "occ": 1,
@@ -516,7 +642,7 @@
    "note": "câu VI tự sinh; 'cà phê trứng' nhắc trước phần chính thức (cataphora) không đánh"
   },
   {
-   "id": "P33-VI-037",
+   "id": "P33-VI-046",
    "sent": "S015",
    "text": "loại cà phê này",
    "occ": 1,
@@ -531,7 +657,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-038",
+   "id": "P33-VI-047",
    "sent": "S016",
    "text": "cái tên",
    "occ": 1,
@@ -545,7 +671,21 @@
    "note": "'cái' là mạo từ xác định; EN 'the name' là R"
   },
   {
-   "id": "P33-VI-039",
+   "id": "P33-VI-048",
+   "sent": "S017",
+   "text": "kem",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: kem muối",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp 'kem' trong 'kem ngọt'; mắt xích giữa 'hỗn hợp kem' (S006) nằm trong hàng 'hỗn hợp' nên bỏ qua như EN bỏ 'creamy' (S006)"
+  },
+  {
+   "id": "P33-VI-049",
    "sent": "S017",
    "text": "Sữa",
    "occ": 1,
@@ -559,7 +699,7 @@
    "note": "Sữa và kem ngọt"
   },
   {
-   "id": "P33-VI-040",
+   "id": "P33-VI-050",
    "sent": "S017",
    "text": "cân bằng",
    "occ": 1,
@@ -573,7 +713,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-041",
+   "id": "P33-VI-051",
    "sent": "S017",
    "text": "vị đắng",
    "occ": 1,
@@ -587,7 +727,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-042",
+   "id": "P33-VI-052",
    "sent": "S017",
    "text": "cà phê",
    "occ": 1,
@@ -601,7 +741,7 @@
    "note": "vị đắng của cà phê"
   },
   {
-   "id": "P33-VI-043",
+   "id": "P33-VI-053",
    "sent": "S017",
    "text": "muối",
    "occ": 1,
@@ -615,7 +755,7 @@
    "note": "occ 1: lần 2 ('một chút muối') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-VI-044",
+   "id": "P33-VI-054",
    "sent": "S017",
    "text": "vị ngọt",
    "occ": 1,
@@ -629,7 +769,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-045",
+   "id": "P33-VI-055",
    "sent": "S017",
    "text": "mặn",
    "occ": 1,
@@ -643,7 +783,7 @@
    "note": "muối → mặn (cùng trường vị mặn); 'ca ra men' từ mượn lần đầu không đánh"
   },
   {
-   "id": "P33-VI-046",
+   "id": "P33-VI-056",
    "sent": "S017",
    "text": "hương vị",
    "occ": 1,
@@ -657,7 +797,35 @@
    "note": null
   },
   {
-   "id": "P33-VI-047",
+   "id": "P33-VI-057",
+   "sent": "S018",
+   "text": "Ngay cả",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: các quán cà phê trên khắp Việt Nam cũng bắt đầu phục vụ",
+   "conf": "med",
+   "alt": null,
+   "note": "cặp 'Ngay cả…cũng' nhấn mức cực đoan; EN đối ứng 'Even…as well'"
+  },
+  {
+   "id": "P33-VI-058",
+   "sent": "S018",
+   "text": "làn sóng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: xu hướng này",
+   "conf": "high",
+   "alt": null,
+   "note": "làn sóng ≈ xu hướng (ẩn dụ 'sóng'); chuỗi xu hướng S001→S012→S013"
+  },
+  {
+   "id": "P33-VI-059",
    "sent": "S018",
    "text": "Starbucks",
    "occ": 1,
@@ -671,7 +839,7 @@
    "note": "'của riêng mình' trong câu không đánh"
   },
   {
-   "id": "P33-VI-048",
+   "id": "P33-VI-060",
    "sent": "S018",
    "text": "Việt Nam",
    "occ": 1,
@@ -685,7 +853,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-049",
+   "id": "P33-VI-061",
    "sent": "S018",
    "text": "cà phê muối",
    "occ": 1,
@@ -699,7 +867,7 @@
    "note": "occ 1: lần 2 ('phiên bản cà phê muối') trong câu cùng chuỗi, không đánh — EN có hàng 'ca phe muoi' riêng"
   },
   {
-   "id": "P33-VI-050",
+   "id": "P33-VI-062",
    "sent": "S020",
    "text": "Việt Nam",
    "occ": 1,
@@ -713,7 +881,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-051",
+   "id": "P33-VI-063",
    "sent": "S020",
    "text": "cà phê",
    "occ": 1,
@@ -727,7 +895,7 @@
    "note": "occ 1: lặp 2 lần trong câu (trồng cà phê Robusta, xuất khẩu cà phê), chọn lần 1"
   },
   {
-   "id": "P33-VI-052",
+   "id": "P33-VI-064",
    "sent": "S021",
    "text": "Việt Nam",
    "occ": 1,
@@ -741,7 +909,7 @@
    "note": "xuất khẩu cà phê của Việt Nam; EN 'The country's' là R"
   },
   {
-   "id": "P33-VI-053",
+   "id": "P33-VI-065",
    "sent": "S021",
    "text": "cà phê",
    "occ": 1,
@@ -755,7 +923,21 @@
    "note": "xuất khẩu cà phê"
   },
   {
-   "id": "P33-VI-054",
+   "id": "P33-VI-066",
+   "sent": "S021",
+   "text": "xuất khẩu",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: nước xuất khẩu cà phê lớn thứ hai",
+   "conf": "high",
+   "alt": null,
+   "note": "xuất khẩu cà phê của Việt Nam — lặp hình vị 'xuất khẩu'"
+  },
+  {
+   "id": "P33-VI-067",
    "sent": "S022",
    "text": "cà phê muối",
    "occ": 1,
@@ -769,7 +951,7 @@
    "note": "'Việc' đối ứng EN 'That' — nominalizer không hồi quy, không đánh"
   },
   {
-   "id": "P33-VI-055",
+   "id": "P33-VI-068",
    "sent": "S022",
    "text": "các quán cà phê",
    "occ": 1,
@@ -783,7 +965,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-056",
+   "id": "P33-VI-069",
    "sent": "S022",
    "text": "Huế",
    "occ": 1,
@@ -797,7 +979,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-057",
+   "id": "P33-VI-070",
    "sent": "S022",
    "text": "Việt Nam",
    "occ": 1,
@@ -811,7 +993,21 @@
    "note": null
   },
   {
-   "id": "P33-VI-058",
+   "id": "P33-VI-071",
+   "sent": "S022",
+   "text": "phổ biến",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: loại đồ uống phổ biến",
+   "conf": "high",
+   "alt": null,
+   "note": "occ 1: lần 2 ('lựa chọn phổ biến') trong câu cùng chuỗi, không đánh"
+  },
+  {
+   "id": "P33-VI-072",
    "sent": "S023",
    "text": "cà phê",
    "occ": 1,
@@ -825,7 +1021,7 @@
    "note": "cà phê ngày nay"
   },
   {
-   "id": "P33-VI-059",
+   "id": "P33-VI-073",
    "sent": "S023",
    "text": "cả nước",
    "occ": 1,
@@ -840,7 +1036,21 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-060",
+   "id": "P33-VI-074",
+   "sent": "S023",
+   "text": "phổ biến",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: trở nên phổ biến",
+   "conf": "high",
+   "alt": null,
+   "note": "cực kỳ phổ biến khắp cả nước; EN S027 'extremely popular'"
+  },
+  {
+   "id": "P33-VI-075",
    "sent": "S024",
    "text": "quán cà phê",
    "occ": 1,
@@ -854,7 +1064,7 @@
    "note": "occ 1: lần 2 ('quán cà phê hiện đại') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-VI-061",
+   "id": "P33-VI-076",
    "sent": "S024",
    "text": "máy rang cà phê",
    "occ": 1,
@@ -868,7 +1078,7 @@
    "note": "trường cà phê — máy rang tại chỗ"
   },
   {
-   "id": "P33-VI-062",
+   "id": "P33-VI-077",
    "sent": "S025",
    "text": "Cà phê muối",
    "occ": 1,
@@ -882,7 +1092,7 @@
    "note": "'chúng' trong câu chỉ các ly cà phê, không đánh"
   },
   {
-   "id": "P33-VI-063",
+   "id": "P33-VI-078",
    "sent": "S025",
    "text": "ly cà phê",
    "occ": 1,
@@ -896,7 +1106,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-064",
+   "id": "P33-VI-079",
    "sent": "S025",
    "text": "Việt Nam",
    "occ": 1,
@@ -910,7 +1120,21 @@
    "note": "của Việt Nam"
   },
   {
-   "id": "P33-VI-065",
+   "id": "P33-VI-080",
+   "sent": "S025",
+   "text": "đặc sản",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: thức uống đặc sản",
+   "conf": "high",
+   "alt": null,
+   "note": "những ly cà phê đặc sản; 'ly cà phê' có hàng riêng trong cùng NP"
+  },
+  {
+   "id": "P33-VI-081",
    "sent": "S026",
    "text": "trong số đó",
    "occ": 1,
@@ -925,7 +1149,35 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-066",
+   "id": "P33-VI-082",
+   "sent": "S026",
+   "text": "nổi tiếng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: đồ uống nổi tiếng hiện nay",
+   "conf": "high",
+   "alt": null,
+   "note": "nổi tiếng nhất trong số đó — lặp tính từ 'nổi tiếng'"
+  },
+  {
+   "id": "P33-VI-083",
+   "sent": "S026",
+   "text": "cà phê trứng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: cà phê trứng ở Hà Nội (câu VI tự sinh nhắc trước)",
+   "conf": "med",
+   "alt": null,
+   "note": "S015 lần đầu không đánh; S026 là lần 2 — lặp tên món"
+  },
+  {
+   "id": "P33-VI-084",
    "sent": "S027",
    "text": "sữa đặc",
    "occ": 1,
@@ -939,7 +1191,7 @@
    "note": "đánh bọt sữa đặc; 'món tráng miệng này' trong câu không đánh"
   },
   {
-   "id": "P33-VI-067",
+   "id": "P33-VI-085",
    "sent": "S027",
    "text": "nền cà phê",
    "occ": 1,
@@ -953,7 +1205,49 @@
    "note": null
   },
   {
-   "id": "P33-VI-068",
+   "id": "P33-VI-086",
+   "sent": "S027",
+   "text": "phát minh",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: phát minh ra loại đồ uống",
+   "conf": "high",
+   "alt": null,
+   "note": "Được phát minh ở Hà Nội — đối ứng EN 'Invented in Hanoi'"
+  },
+  {
+   "id": "P33-VI-087",
+   "sent": "S027",
+   "text": "trứng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: cà phê trứng",
+   "conf": "high",
+   "alt": null,
+   "note": "lòng đỏ trứng; EN 'egg yolks' cùng câu S033 chỉ là [TC]"
+  },
+  {
+   "id": "P33-VI-088",
+   "sent": "S027",
+   "text": "Hà Nội",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: cà phê trứng ở Hà Nội",
+   "conf": "med",
+   "alt": null,
+   "note": "Được phát minh ở Hà Nội; EN 'In Hanoi' (S033) lần đầu không có hàng"
+  },
+  {
+   "id": "P33-VI-089",
    "sent": "S028",
    "text": "Và sau đó",
    "occ": 1,
@@ -967,7 +1261,7 @@
    "note": "gộp 3 câu EN thành 1 — chỉ còn 1 C (EN có 'And then'+'And finally')"
   },
   {
-   "id": "P33-VI-069",
+   "id": "P33-VI-090",
    "sent": "S028",
    "text": "cà phê",
    "occ": 1,
@@ -981,7 +1275,7 @@
    "note": "occ 1: lặp 3 lần trong câu (cốt dừa, sinh tố, sữa chua) cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-VI-070",
+   "id": "P33-VI-091",
    "sent": "S029",
    "text": "những trải nghiệm và hương vị cà phê mới lạ này",
    "occ": 1,
@@ -996,7 +1290,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-VI-071",
+   "id": "P33-VI-092",
    "sent": "S030",
    "text": "người tiêu dùng",
    "occ": 1,
@@ -1010,7 +1304,7 @@
    "note": "'họ' trong câu không đánh"
   },
   {
-   "id": "P33-VI-072",
+   "id": "P33-VI-093",
    "sent": "S030",
    "text": "Mintel",
    "occ": 1,
@@ -1024,7 +1318,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-073",
+   "id": "P33-VI-094",
    "sent": "S030",
    "text": "đồ uống cà phê",
    "occ": 1,
@@ -1038,7 +1332,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-074",
+   "id": "P33-VI-095",
    "sent": "S030",
    "text": "cà phê Việt Nam",
    "occ": 1,
@@ -1052,7 +1346,21 @@
    "note": "hồi quy xa về S002 — kết chuỗi cà phê + Việt Nam"
   },
   {
-   "id": "P33-VI-075",
+   "id": "P33-VI-096",
+   "sent": "S030",
+   "text": "quan tâm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S029: ngày càng quan tâm đến những trải nghiệm",
+   "conf": "high",
+   "alt": null,
+   "note": "họ quan tâm đến việc thử — phát hiện khảo sát nhắc lại ở câu số liệu"
+  },
+  {
+   "id": "P33-VI-097",
    "sent": "S031",
    "text": "Tại Mỹ",
    "occ": 1,
@@ -1066,7 +1374,7 @@
    "note": "'đất nước' trong câu chỉ Mỹ, không đánh"
   },
   {
-   "id": "P33-VI-076",
+   "id": "P33-VI-098",
    "sent": "S031",
    "text": "quán cà phê",
    "occ": 1,
@@ -1080,7 +1388,7 @@
    "note": "occ 1: lần 2 ('mở quán cà phê đầu tiên') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-VI-077",
+   "id": "P33-VI-099",
    "sent": "S031",
    "text": "đồ uống Việt Nam",
    "occ": 1,
@@ -1094,7 +1402,21 @@
    "note": "lặp 'Việt Nam'"
   },
   {
-   "id": "P33-VI-078",
+   "id": "P33-VI-100",
+   "sent": "S031",
+   "text": "chi nhánh",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: chi nhánh Starbucks tại Việt Nam",
+   "conf": "high",
+   "alt": null,
+   "note": "hơn 40 chi nhánh; referent đổi (7 Leaves) nhưng giữ chuỗi hình vị"
+  },
+  {
+   "id": "P33-VI-101",
    "sent": "S032",
    "text": "Trong khi đó",
    "occ": 1,
@@ -1108,7 +1430,7 @@
    "note": "đối ứng EN 'Meanwhile'"
   },
   {
-   "id": "P33-VI-079",
+   "id": "P33-VI-102",
    "sent": "S032",
    "text": "quán cà phê",
    "occ": 1,
@@ -1122,7 +1444,7 @@
    "note": "các quán cà phê riêng lẻ"
   },
   {
-   "id": "P33-VI-080",
+   "id": "P33-VI-103",
    "sent": "S032",
    "text": "Việt Nam",
    "occ": 1,
@@ -1136,7 +1458,7 @@
    "note": null
   },
   {
-   "id": "P33-VI-081",
+   "id": "P33-VI-104",
    "sent": "S032",
    "text": "nước Mỹ",
    "occ": 1,
@@ -1150,7 +1472,7 @@
    "note": "khắp nước Mỹ"
   },
   {
-   "id": "P33-VI-082",
+   "id": "P33-VI-105",
    "sent": "S032",
    "text": "Phin Ca Phe",
    "occ": 1,
@@ -1164,7 +1486,7 @@
    "note": "tên quán chứa chuỗi 'ca phe' (không dấu)"
   },
   {
-   "id": "P33-VI-083",
+   "id": "P33-VI-106",
    "sent": "S032",
    "text": "cà phê muối",
    "occ": 1,
@@ -1178,7 +1500,21 @@
    "note": null
   },
   {
-   "id": "P33-VI-084",
+   "id": "P33-VI-107",
+   "sent": "S032",
+   "text": "riêng lẻ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S031: chuỗi quán cà phê",
+   "conf": "med",
+   "alt": null,
+   "note": "riêng lẻ (độc lập) đối lập 'chuỗi'; 'quán cà phê' có hàng riêng"
+  },
+  {
+   "id": "P33-VI-108",
    "sent": "S033",
    "text": "Caphe House",
    "occ": 1,
@@ -1192,7 +1528,7 @@
    "note": "tên quán chứa chuỗi 'caphe' (viết dính)"
   },
   {
-   "id": "P33-VI-085",
+   "id": "P33-VI-109",
    "sent": "S033",
    "text": "đồ uống cà phê Việt Nam",
    "occ": 1,
@@ -1206,7 +1542,7 @@
    "note": "lặp cụm 'cà phê Việt Nam' (S002, S030)"
   },
   {
-   "id": "P33-VI-086",
+   "id": "P33-VI-110",
    "sent": "S033",
    "text": "cà phê trứng",
    "occ": 1,
@@ -1218,6 +1554,20 @@
    "conf": "high",
    "alt": null,
    "note": "hồi quy xa về S026 (S015 mới là nhắc trước không đánh)"
+  },
+  {
+   "id": "P33-VI-111",
+   "sent": "S033",
+   "text": "địa điểm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S032: các quán cà phê riêng lẻ của Việt Nam",
+   "conf": "med",
+   "alt": null,
+   "note": "những địa điểm như Caphe House tổng quát hóa chuỗi quán"
   }
  ]
 }

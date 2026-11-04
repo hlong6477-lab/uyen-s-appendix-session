@@ -419,6 +419,20 @@
   },
   {
    "id": "P33-EN-030",
+   "sent": "S011",
+   "text": "drinking",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: now-famous drink (chuỗi drink)",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị drink ở dạng động từ (what they were drinking); 'they' trong câu chỉ locals and tourists (TC) không đánh"
+  },
+  {
+   "id": "P33-EN-031",
    "sent": "S012",
    "text": "Hue",
    "occ": 1,
@@ -432,7 +446,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-031",
+   "id": "P33-EN-032",
    "sent": "S012",
    "text": "black coffee",
    "occ": 1,
@@ -446,7 +460,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-032",
+   "id": "P33-EN-033",
    "sent": "S012",
    "text": "condensed milk",
    "occ": 1,
@@ -460,7 +474,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-033",
+   "id": "P33-EN-034",
    "sent": "S012",
    "text": "salty coffee",
    "occ": 1,
@@ -474,7 +488,7 @@
    "note": "salt → salty biến thể hình thái; khối cắt, VI none"
   },
   {
-   "id": "P33-EN-034",
+   "id": "P33-EN-035",
    "sent": "S012",
    "text": "they add",
    "occ": 1,
@@ -489,7 +503,35 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-035",
+   "id": "P33-EN-036",
+   "sent": "S012",
+   "text": "a strange drink",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: drinking (chuỗi drink S007: now-famous drink)",
+   "conf": "high",
+   "alt": null,
+   "note": "khối cắt, VI none; a strange drink = cà phê muối"
+  },
+  {
+   "id": "P33-EN-037",
+   "sent": "S012",
+   "text": "sugar",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: with sugar or milk",
+   "conf": "high",
+   "alt": null,
+   "note": "khối cắt, VI none; 'milk' thường (S009) khác 'condensed milk' nên không đánh"
+  },
+  {
+   "id": "P33-EN-038",
    "sent": "S013",
    "text": "We",
    "occ": 1,
@@ -504,7 +546,7 @@
    "ref": "E"
   },
   {
-   "id": "P33-EN-036",
+   "id": "P33-EN-039",
    "sent": "S013",
    "text": "customers",
    "occ": 1,
@@ -518,7 +560,7 @@
    "note": "our first customers; khối cắt, VI none"
   },
   {
-   "id": "P33-EN-037",
+   "id": "P33-EN-040",
    "sent": "S013",
    "text": "this strange drink",
    "occ": 1,
@@ -533,7 +575,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-038",
+   "id": "P33-EN-041",
    "sent": "S014",
    "text": "salt coffee",
    "occ": 1,
@@ -547,7 +589,7 @@
    "note": "'it' trong câu chỉ salt coffee (trong câu), không đánh"
   },
   {
-   "id": "P33-EN-039",
+   "id": "P33-EN-042",
    "sent": "S014",
    "text": "historic Hue",
    "occ": 1,
@@ -561,7 +603,7 @@
    "note": "lặp 'Hue' + hình vị historic(al)"
   },
   {
-   "id": "P33-EN-040",
+   "id": "P33-EN-043",
    "sent": "S014",
    "text": "cafes",
    "occ": 1,
@@ -575,7 +617,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-041",
+   "id": "P33-EN-044",
    "sent": "S014",
    "text": "Vietnam",
    "occ": 1,
@@ -589,7 +631,21 @@
    "note": "around Vietnam; VI 'Việt Nam' lần đầu xuất hiện nên không có hàng"
   },
   {
-   "id": "P33-EN-042",
+   "id": "P33-EN-045",
+   "sent": "S014",
+   "text": "a specialty drink",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: this strange drink",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp danh từ drink; VI S011 đối ứng 'thức uống đặc sản' có hàng Phase-2 riêng"
+  },
+  {
+   "id": "P33-EN-046",
    "sent": "S015",
    "text": "salt coffee",
    "occ": 1,
@@ -603,7 +659,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-043",
+   "id": "P33-EN-047",
    "sent": "S015",
    "text": "trend",
    "occ": 1,
@@ -617,7 +673,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-044",
+   "id": "P33-EN-048",
    "sent": "S015",
    "text": "Vietnam",
    "occ": 1,
@@ -631,7 +687,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-045",
+   "id": "P33-EN-049",
    "sent": "S015",
    "text": "Ca Phe Muoi",
    "occ": 1,
@@ -645,7 +701,21 @@
    "note": "the Ca Phe Muoi founders"
   },
   {
-   "id": "P33-EN-046",
+   "id": "P33-EN-050",
+   "sent": "S015",
+   "text": "founders",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: co-owners Ho Thi Thanh Huong and Tran Nguyen Huu Phong",
+   "conf": "high",
+   "alt": null,
+   "note": "đổi danh hiệu cặp chủ (the Ca Phe Muoi founders); VI S012 đối ứng 'người sáng lập' ← 'đồng sở hữu'"
+  },
+  {
+   "id": "P33-EN-051",
    "sent": "S016",
    "text": "Hue",
    "occ": 1,
@@ -659,7 +729,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-047",
+   "id": "P33-EN-052",
    "sent": "S016",
    "text": "salt coffee",
    "occ": 1,
@@ -673,7 +743,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-048",
+   "id": "P33-EN-053",
    "sent": "S016",
    "text": "black coffee",
    "occ": 1,
@@ -687,7 +757,7 @@
    "note": "'white coffee' từ mới, không đánh; 'so' trong câu không đánh C"
   },
   {
-   "id": "P33-EN-049",
+   "id": "P33-EN-054",
    "sent": "S016",
    "text": "this trend",
    "occ": 1,
@@ -702,7 +772,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-050",
+   "id": "P33-EN-055",
    "sent": "S016",
    "text": "our",
    "occ": 1,
@@ -717,7 +787,21 @@
    "ref": "E"
   },
   {
-   "id": "P33-EN-051",
+   "id": "P33-EN-056",
+   "sent": "S016",
+   "text": "a daily drink",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: a specialty drink",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp danh từ drink; 'like black coffee or white coffee' so sánh trong câu (TC) không đánh"
+  },
+  {
+   "id": "P33-EN-057",
    "sent": "S017",
    "text": "the café",
    "occ": 1,
@@ -731,7 +815,7 @@
    "note": "'its' trong câu không đánh"
   },
   {
-   "id": "P33-EN-052",
+   "id": "P33-EN-058",
    "sent": "S017",
    "text": "salt coffee",
    "occ": 1,
@@ -745,7 +829,7 @@
    "note": "VI bỏ 'salt coffee' — chỉ EN có hàng"
   },
   {
-   "id": "P33-EN-053",
+   "id": "P33-EN-059",
    "sent": "S017",
    "text": "Vietnamese",
    "occ": 1,
@@ -759,7 +843,36 @@
    "note": "other Vietnamese cities"
   },
   {
-   "id": "P33-EN-054",
+   "id": "P33-EN-060",
+   "sent": "S017",
+   "text": "Today",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: quote xu hướng sau Covid (chuyển khung về hiện tại)",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §5.8 continuative; VI S014 đối ứng 'Ngày nay' có hàng riêng"
+  },
+  {
+   "id": "P33-EN-061",
+   "sent": "S017",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: In Hue",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = khác với Huế (thành phố của quán); 'as well' cuối câu cùng phép bổ sung, không đánh thêm; VI bỏ comparative ('bán khắp nơi Việt Nam') — dịch chuyển R→zero (NTT 2020 §5)",
+   "ref": "A"
+  },
+  {
+   "id": "P33-EN-062",
    "sent": "S018",
    "text": "the name",
    "occ": 1,
@@ -774,7 +887,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-055",
+   "id": "P33-EN-063",
    "sent": "S018",
    "text": "the flavors",
    "occ": 1,
@@ -788,7 +901,7 @@
    "note": "chuỗi từ câu bị cắt S013 — VI không có đối ứng"
   },
   {
-   "id": "P33-EN-056",
+   "id": "P33-EN-064",
    "sent": "S019",
    "text": "The sweetened milk",
    "occ": 1,
@@ -802,7 +915,7 @@
    "note": "dạng rút gọn của 'sweetened condensed milk' (S003)"
   },
   {
-   "id": "P33-EN-057",
+   "id": "P33-EN-065",
    "sent": "S019",
    "text": "cream",
    "occ": 1,
@@ -816,7 +929,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-058",
+   "id": "P33-EN-066",
    "sent": "S019",
    "text": "balances",
    "occ": 1,
@@ -830,7 +943,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-059",
+   "id": "P33-EN-067",
    "sent": "S019",
    "text": "the bitterness of the coffee",
    "occ": 1,
@@ -844,7 +957,7 @@
    "note": "kết 2 chuỗi bitterness + coffee"
   },
   {
-   "id": "P33-EN-060",
+   "id": "P33-EN-068",
    "sent": "S019",
    "text": "salt",
    "occ": 1,
@@ -858,7 +971,7 @@
    "note": "occ 1: lần 2 nằm trong 'salted caramel' (hàng riêng)"
   },
   {
-   "id": "P33-EN-061",
+   "id": "P33-EN-069",
    "sent": "S019",
    "text": "the sweetness",
    "occ": 1,
@@ -872,7 +985,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-062",
+   "id": "P33-EN-070",
    "sent": "S019",
    "text": "salted caramel",
    "occ": 1,
@@ -886,7 +999,7 @@
    "note": "lặp 'salted'"
   },
   {
-   "id": "P33-EN-063",
+   "id": "P33-EN-071",
    "sent": "S019",
    "text": "caramel flavors",
    "occ": 1,
@@ -900,7 +1013,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-064",
+   "id": "P33-EN-072",
    "sent": "S020",
    "text": "Starbucks",
    "occ": 1,
@@ -914,7 +1027,7 @@
    "note": "'their' trong câu không đánh"
   },
   {
-   "id": "P33-EN-065",
+   "id": "P33-EN-073",
    "sent": "S020",
    "text": "Vietnam",
    "occ": 1,
@@ -928,7 +1041,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-066",
+   "id": "P33-EN-074",
    "sent": "S020",
    "text": "salt coffee",
    "occ": 1,
@@ -942,7 +1055,7 @@
    "note": "the salt coffee wave"
   },
   {
-   "id": "P33-EN-067",
+   "id": "P33-EN-075",
    "sent": "S020",
    "text": "ca phe muoi",
    "occ": 1,
@@ -956,7 +1069,35 @@
    "note": "VI gộp vào 'cà phê muối' occ-note nên chỉ EN có hàng riêng"
   },
   {
-   "id": "P33-EN-068",
+   "id": "P33-EN-076",
+   "sent": "S020",
+   "text": "Even",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: cafes around Vietnam began serving it as well",
+   "conf": "med",
+   "alt": null,
+   "note": "ngay cả Starbucks cũng theo làn sóng; VI S018 đối ứng 'Ngay cả... cũng'"
+  },
+  {
+   "id": "P33-EN-077",
+   "sent": "S020",
+   "text": "wave",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: this trend",
+   "conf": "high",
+   "alt": null,
+   "note": "wave ≈ trend (ẩn dụ 'sóng'); VI S018 đối ứng 'làn sóng' có hàng riêng"
+  },
+  {
+   "id": "P33-EN-078",
    "sent": "S021",
    "text": "Vietnam",
    "occ": 1,
@@ -970,7 +1111,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-069",
+   "id": "P33-EN-079",
    "sent": "S021",
    "text": "salt",
    "occ": 1,
@@ -984,7 +1125,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-070",
+   "id": "P33-EN-080",
    "sent": "S021",
    "text": "coffee",
    "occ": 1,
@@ -998,7 +1139,7 @@
    "note": "'its' trong câu không đánh; khối cắt"
   },
   {
-   "id": "P33-EN-071",
+   "id": "P33-EN-081",
    "sent": "S022",
    "text": "it",
    "occ": 1,
@@ -1013,7 +1154,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-072",
+   "id": "P33-EN-082",
    "sent": "S022",
    "text": "the bitterness",
    "occ": 1,
@@ -1027,7 +1168,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-073",
+   "id": "P33-EN-083",
    "sent": "S022",
    "text": "heighten",
    "occ": 1,
@@ -1041,7 +1182,7 @@
    "note": "heightens → heighten; khối cắt"
   },
   {
-   "id": "P33-EN-074",
+   "id": "P33-EN-084",
    "sent": "S022",
    "text": "the flavors",
    "occ": 1,
@@ -1055,7 +1196,35 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-075",
+   "id": "P33-EN-085",
+   "sent": "S022",
+   "text": "the tradition",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: adds salt to its coffee",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "khối cắt, VI none; danh từ tổng quát chỉ thực hành thêm muối"
+  },
+  {
+   "id": "P33-EN-086",
+   "sent": "S022",
+   "text": "countries",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: the only country",
+   "conf": "med",
+   "alt": null,
+   "note": "khối cắt, VI none; số nhiều phổ quát sau số ít định danh"
+  },
+  {
+   "id": "P33-EN-087",
    "sent": "S024",
    "text": "Vietnam",
    "occ": 1,
@@ -1069,7 +1238,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-076",
+   "id": "P33-EN-088",
    "sent": "S024",
    "text": "coffee",
    "occ": 1,
@@ -1083,7 +1252,7 @@
    "note": "exporter of coffee"
   },
   {
-   "id": "P33-EN-077",
+   "id": "P33-EN-089",
    "sent": "S025",
    "text": "The country’s",
    "occ": 1,
@@ -1098,7 +1267,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-078",
+   "id": "P33-EN-090",
    "sent": "S025",
    "text": "coffee",
    "occ": 1,
@@ -1112,7 +1281,21 @@
    "note": "coffee exports"
   },
   {
-   "id": "P33-EN-079",
+   "id": "P33-EN-091",
+   "sent": "S025",
+   "text": "exports",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: second-largest exporter of coffee",
+   "conf": "high",
+   "alt": null,
+   "note": "exporter → exports (danh hóa cùng hình vị)"
+  },
+  {
+   "id": "P33-EN-092",
    "sent": "S026",
    "text": "salt coffee",
    "occ": 1,
@@ -1126,7 +1309,7 @@
    "note": "'That' chủ ngữ mệnh đề đặt trước, không hồi quy — không đánh"
   },
   {
-   "id": "P33-EN-080",
+   "id": "P33-EN-093",
    "sent": "S026",
    "text": "cafes",
    "occ": 1,
@@ -1140,7 +1323,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-081",
+   "id": "P33-EN-094",
    "sent": "S026",
    "text": "Hue",
    "occ": 1,
@@ -1154,7 +1337,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-082",
+   "id": "P33-EN-095",
    "sent": "S026",
    "text": "Vietnam",
    "occ": 1,
@@ -1168,7 +1351,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-083",
+   "id": "P33-EN-096",
    "sent": "S027",
    "text": "coffee",
    "occ": 1,
@@ -1182,7 +1365,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-084",
+   "id": "P33-EN-097",
    "sent": "S027",
    "text": "the country",
    "occ": 1,
@@ -1197,7 +1380,21 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-085",
+   "id": "P33-EN-098",
+   "sent": "S027",
+   "text": "popular",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: now-famous drink",
+   "conf": "med",
+   "alt": null,
+   "note": "famous ≈ popular; VI đối ứng chuỗi 'phổ biến' (S002, S022, S023)"
+  },
+  {
+   "id": "P33-EN-099",
    "sent": "S028",
    "text": "Coffee outlets",
    "occ": 1,
@@ -1211,7 +1408,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-086",
+   "id": "P33-EN-100",
    "sent": "S028",
    "text": "cafes",
    "occ": 1,
@@ -1225,7 +1422,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-087",
+   "id": "P33-EN-101",
    "sent": "S029",
    "text": "Vietnam’s",
    "occ": 1,
@@ -1239,7 +1436,7 @@
    "note": "câu chú thích biên tập; khối cắt, VI none"
   },
   {
-   "id": "P33-EN-088",
+   "id": "P33-EN-102",
    "sent": "S029",
    "text": "coffee",
    "occ": 1,
@@ -1253,7 +1450,7 @@
    "note": "coffee culture; khối cắt, VI none"
   },
   {
-   "id": "P33-EN-089",
+   "id": "P33-EN-103",
    "sent": "S030",
    "text": "Vietnamese coffee",
    "occ": 1,
@@ -1267,7 +1464,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-090",
+   "id": "P33-EN-104",
    "sent": "S030",
    "text": "brewed",
    "occ": 1,
@@ -1281,7 +1478,7 @@
    "note": "brews → brewed; 'brewing device' lần 2 trong câu (TC) không đánh; khối cắt"
   },
   {
-   "id": "P33-EN-091",
+   "id": "P33-EN-105",
    "sent": "S031",
    "text": "sweetened condensed milk",
    "occ": 1,
@@ -1295,7 +1492,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-092",
+   "id": "P33-EN-106",
    "sent": "S031",
    "text": "brew",
    "occ": 1,
@@ -1309,7 +1506,7 @@
    "note": "the strong brew; khối cắt"
   },
   {
-   "id": "P33-EN-093",
+   "id": "P33-EN-107",
    "sent": "S032",
    "text": "And",
    "occ": 1,
@@ -1323,7 +1520,7 @@
    "note": "VI mở câu mới không có And (khối S029–S031 bị cắt)"
   },
   {
-   "id": "P33-EN-094",
+   "id": "P33-EN-108",
    "sent": "S032",
    "text": "salt coffee",
    "occ": 1,
@@ -1337,7 +1534,7 @@
    "note": "'them' trong câu không đánh"
   },
   {
-   "id": "P33-EN-095",
+   "id": "P33-EN-109",
    "sent": "S032",
    "text": "Vietnamese coffee",
    "occ": 1,
@@ -1351,7 +1548,21 @@
    "note": "kết chuỗi Vietnamese + coffee"
   },
   {
-   "id": "P33-EN-096",
+   "id": "P33-EN-110",
+   "sent": "S032",
+   "text": "drinks",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: a daily drink",
+   "conf": "high",
+   "alt": null,
+   "note": "đầu từ drinks của 'Vietnamese coffee drinks'; 'them' trong câu (TC) không đánh"
+  },
+  {
+   "id": "P33-EN-111",
    "sent": "S033",
    "text": "them all",
    "occ": 1,
@@ -1366,7 +1577,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-097",
+   "id": "P33-EN-112",
    "sent": "S033",
    "text": "condensed milk",
    "occ": 1,
@@ -1380,7 +1591,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-098",
+   "id": "P33-EN-113",
    "sent": "S033",
    "text": "coffee base",
    "occ": 1,
@@ -1394,7 +1605,35 @@
    "note": null
   },
   {
-   "id": "P33-EN-099",
+   "id": "P33-EN-114",
+   "sent": "S033",
+   "text": "Invented",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: widely credited with inventing this now-popular beverage",
+   "conf": "high",
+   "alt": null,
+   "note": "động từ invent lặp (inventing → Invented); VI S027 đối ứng 'phát minh' ← S002 'phát minh ra'"
+  },
+  {
+   "id": "P33-EN-115",
+   "sent": "S033",
+   "text": "famous",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: now-famous drink",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp tính từ famous (most famous)"
+  },
+  {
+   "id": "P33-EN-116",
    "sent": "S034",
    "text": "And then",
    "occ": 1,
@@ -1408,7 +1647,7 @@
    "note": "VI gộp 3 câu đồ uống thành 1 (S028) vẫn giữ 'Và sau đó'"
   },
   {
-   "id": "P33-EN-100",
+   "id": "P33-EN-117",
    "sent": "S034",
    "text": "coffee blended",
    "occ": 1,
@@ -1422,7 +1661,7 @@
    "note": "'coconut milk' vật liệu mới, không đánh"
   },
   {
-   "id": "P33-EN-101",
+   "id": "P33-EN-118",
    "sent": "S035",
    "text": "ca phe",
    "occ": 1,
@@ -1436,7 +1675,7 @@
    "note": "sinh to ca phe — gloss từ Việt"
   },
   {
-   "id": "P33-EN-102",
+   "id": "P33-EN-119",
    "sent": "S035",
    "text": "coffee is combined",
    "occ": 1,
@@ -1450,7 +1689,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-103",
+   "id": "P33-EN-120",
    "sent": "S036",
    "text": "And finally",
    "occ": 1,
@@ -1464,7 +1703,7 @@
    "note": "VI gộp nên mất C riêng — chỉ EN có hàng"
   },
   {
-   "id": "P33-EN-104",
+   "id": "P33-EN-121",
    "sent": "S036",
    "text": "ca phe",
    "occ": 1,
@@ -1478,7 +1717,7 @@
    "note": "sua chua ca phe — gloss (nguồn có ký tự vô hình sau 'phe', ghi §8)"
   },
   {
-   "id": "P33-EN-105",
+   "id": "P33-EN-122",
    "sent": "S036",
    "text": "black coffee",
    "occ": 1,
@@ -1492,7 +1731,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-106",
+   "id": "P33-EN-123",
    "sent": "S036",
    "text": "creamy",
    "occ": 1,
@@ -1506,7 +1745,7 @@
    "note": "hình vị creamy lặp"
   },
   {
-   "id": "P33-EN-107",
+   "id": "P33-EN-124",
    "sent": "S036",
    "text": "Vietnamese",
    "occ": 1,
@@ -1520,7 +1759,7 @@
    "note": "creamy Vietnamese yogurt"
   },
   {
-   "id": "P33-EN-108",
+   "id": "P33-EN-125",
    "sent": "S036",
    "text": "French legacy",
    "occ": 1,
@@ -1534,7 +1773,7 @@
    "note": "'another' nhắc lại di sản thuộc địa"
   },
   {
-   "id": "P33-EN-109",
+   "id": "P33-EN-126",
    "sent": "S037",
    "text": "these novel coffee experiences and flavors",
    "occ": 1,
@@ -1549,7 +1788,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-110",
+   "id": "P33-EN-127",
    "sent": "S038",
    "text": "Mintel",
    "occ": 1,
@@ -1563,7 +1802,7 @@
    "note": "'they' trong câu không đánh"
   },
   {
-   "id": "P33-EN-111",
+   "id": "P33-EN-128",
    "sent": "S038",
    "text": "consumers",
    "occ": 1,
@@ -1577,7 +1816,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-112",
+   "id": "P33-EN-129",
    "sent": "S038",
    "text": "coffee drinks",
    "occ": 1,
@@ -1591,7 +1830,7 @@
    "note": "lặp 'coffee'"
   },
   {
-   "id": "P33-EN-113",
+   "id": "P33-EN-130",
    "sent": "S038",
    "text": "Vietnamese coffee",
    "occ": 1,
@@ -1605,7 +1844,21 @@
    "note": null
   },
   {
-   "id": "P33-EN-114",
+   "id": "P33-EN-131",
+   "sent": "S038",
+   "text": "interested",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S037: increasingly interested in these novel coffee experiences",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp interested (were interested in trying)"
+  },
+  {
+   "id": "P33-EN-132",
    "sent": "S039",
    "text": "In the US",
    "occ": 1,
@@ -1619,7 +1872,7 @@
    "note": "'across the country' trong câu chỉ Mỹ, không đánh"
   },
   {
-   "id": "P33-EN-115",
+   "id": "P33-EN-133",
    "sent": "S039",
    "text": "a café chain",
    "occ": 1,
@@ -1633,7 +1886,7 @@
    "note": "'first café' lần 2 trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P33-EN-116",
+   "id": "P33-EN-134",
    "sent": "S039",
    "text": "Vietnamese drinks",
    "occ": 1,
@@ -1647,7 +1900,21 @@
    "note": "lặp 'Vietnamese'"
   },
   {
-   "id": "P33-EN-117",
+   "id": "P33-EN-135",
+   "sent": "S039",
+   "text": "branches",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: Starbucks' branches",
+   "conf": "high",
+   "alt": null,
+   "note": "more than 40 branches; VI S031 đối ứng 'chi nhánh' có hàng riêng"
+  },
+  {
+   "id": "P33-EN-136",
    "sent": "S040",
    "text": "Meanwhile",
    "occ": 1,
@@ -1661,7 +1928,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-118",
+   "id": "P33-EN-137",
    "sent": "S040",
    "text": "Vietnamese cafes",
    "occ": 1,
@@ -1675,7 +1942,7 @@
    "note": "kết 2 chuỗi Vietnamese + cafes"
   },
   {
-   "id": "P33-EN-119",
+   "id": "P33-EN-138",
    "sent": "S040",
    "text": "the country",
    "occ": 1,
@@ -1690,7 +1957,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-120",
+   "id": "P33-EN-139",
    "sent": "S040",
    "text": "Phin Ca Phe",
    "occ": 1,
@@ -1704,7 +1971,7 @@
    "note": "tên quán chứa chuỗi 'ca phe' (không dấu)"
   },
   {
-   "id": "P33-EN-121",
+   "id": "P33-EN-140",
    "sent": "S040",
    "text": "salt coffee",
    "occ": 1,
@@ -1718,7 +1985,21 @@
    "note": "versions of salt coffee"
   },
   {
-   "id": "P33-EN-122",
+   "id": "P33-EN-141",
+   "sent": "S040",
+   "text": "independent",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S039: a café chain selling Vietnamese drinks",
+   "conf": "med",
+   "alt": null,
+   "note": "independent Vietnamese cafes đối lập chuỗi 7 Leaves (S039); VI S032 'riêng lẻ' có hàng Phase-2 riêng"
+  },
+  {
+   "id": "P33-EN-142",
    "sent": "S041",
    "text": "Vietnamese coffee drinks",
    "occ": 1,
@@ -1732,7 +2013,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-123",
+   "id": "P33-EN-143",
    "sent": "S041",
    "text": "ca phe trung",
    "occ": 1,
@@ -1746,7 +2027,7 @@
    "note": null
   },
   {
-   "id": "P33-EN-124",
+   "id": "P33-EN-144",
    "sent": "S041",
    "text": "Caphe House",
    "occ": 1,
@@ -1760,7 +2041,21 @@
    "note": "tên quán chứa chuỗi 'caphe'"
   },
   {
-   "id": "P33-EN-125",
+   "id": "P33-EN-145",
+   "sent": "S041",
+   "text": "venues",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S040: independent Vietnamese cafes",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát chỉ các quán (venues like Caphe House)"
+  },
+  {
+   "id": "P33-EN-146",
    "sent": "S042",
    "text": "Hue",
    "occ": 1,
@@ -1774,7 +2069,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-126",
+   "id": "P33-EN-147",
    "sent": "S042",
    "text": "Huong and Phong",
    "occ": 1,
@@ -1788,7 +2083,7 @@
    "note": "tên riêng lặp dạng rút gọn; khối cắt"
   },
   {
-   "id": "P33-EN-127",
+   "id": "P33-EN-148",
    "sent": "S042",
    "text": "salt coffee",
    "occ": 1,
@@ -1802,7 +2097,7 @@
    "note": "'their' trong câu không đánh; khối cắt"
   },
   {
-   "id": "P33-EN-128",
+   "id": "P33-EN-149",
    "sent": "S042",
    "text": "salted lemon jam",
    "occ": 1,
@@ -1816,7 +2111,7 @@
    "note": "lặp 'salted'; khối cắt"
   },
   {
-   "id": "P33-EN-129",
+   "id": "P33-EN-150",
    "sent": "S042",
    "text": "chanh xi muoi",
    "occ": 1,
@@ -1830,7 +2125,21 @@
    "note": "tên món chứa 'muoi'; khối cắt"
   },
   {
-   "id": "P33-EN-130",
+   "id": "P33-EN-151",
+   "sent": "S042",
+   "text": "patrons",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: our first customers",
+   "conf": "high",
+   "alt": null,
+   "note": "khối cắt, VI none; 'their' trong câu (TC) không đánh; 'other items' so sánh trong câu (TC) không đánh"
+  },
+  {
+   "id": "P33-EN-152",
    "sent": "S043",
    "text": "they",
    "occ": 1,
@@ -1845,7 +2154,7 @@
    "ref": "A"
   },
   {
-   "id": "P33-EN-131",
+   "id": "P33-EN-153",
    "sent": "S043",
    "text": "salt coffee",
    "occ": 1,
@@ -1859,7 +2168,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-132",
+   "id": "P33-EN-154",
    "sent": "S043",
    "text": "iced",
    "occ": 1,
@@ -1873,7 +2182,21 @@
    "note": "'hot' lần 2 trong câu (TC) không đánh; khối cắt"
   },
   {
-   "id": "P33-EN-133",
+   "id": "P33-EN-155",
+   "sent": "S043",
+   "text": "And",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S042: the majority of their patrons order salt coffee",
+   "conf": "med",
+   "alt": null,
+   "note": "khối cắt, VI none; And though = bổ sung + nhượng bộ trong câu"
+  },
+  {
+   "id": "P33-EN-156",
    "sent": "S044",
    "text": "The couple",
    "occ": 1,
@@ -1887,7 +2210,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-134",
+   "id": "P33-EN-157",
    "sent": "S044",
    "text": "Ca Phe Muoi",
    "occ": 1,
@@ -1901,7 +2224,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P33-EN-135",
+   "id": "P33-EN-158",
    "sent": "S044",
    "text": "Hue",
    "occ": 1,
@@ -1915,7 +2238,36 @@
    "note": "the ancient Hue Imperial City; khối cắt"
   },
   {
-   "id": "P33-EN-136",
+   "id": "P33-EN-159",
+   "sent": "S044",
+   "text": "bigger",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: our first Ca Phe Muoi coffee shop",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: bigger = to hơn quán đầu (S005); nằm cùng NP với phép đối first (S005) ↔ second (S044) — TNT §30",
+   "ref": "A"
+  },
+  {
+   "id": "P33-EN-160",
+   "sent": "S044",
+   "text": "branch",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S039: more than 40 branches",
+   "conf": "high",
+   "alt": null,
+   "note": "khối cắt, VI none; a second, bigger branch of Ca Phe Muoi — referent về quán của Huong & Phong nhưng chuỗi hình vị chạy qua Starbucks (S020), 7 Leaves (S039)"
+  },
+  {
+   "id": "P33-EN-161",
    "sent": "S045",
    "text": "We",
    "occ": 1,
@@ -1930,7 +2282,7 @@
    "ref": "E"
   },
   {
-   "id": "P33-EN-137",
+   "id": "P33-EN-162",
    "sent": "S045",
    "text": "a drink",
    "occ": 1,
@@ -1944,7 +2296,7 @@
    "note": "'it' trong câu không đánh; khối cắt"
   },
   {
-   "id": "P33-EN-138",
+   "id": "P33-EN-163",
    "sent": "S045",
    "text": "a Hue specialty",
    "occ": 1,
@@ -1958,7 +2310,7 @@
    "note": "kết specialty + Hue — hồi quy xa 31 câu; khối cắt"
   },
   {
-   "id": "P33-EN-139",
+   "id": "P33-EN-164",
    "sent": "S045",
    "text": "they say",
    "occ": 1,
