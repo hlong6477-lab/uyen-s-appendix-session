@@ -20,6 +20,20 @@
   },
   {
    "id": "P21-VI-002",
+   "sent": "S002",
+   "text": "còn",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: các chiêu trò lừa đảo đầu tư",
+   "conf": "med",
+   "alt": null,
+   "note": "thậm chí còn = bổ sung việc giả mạo Bunnings vào vụ lừa đảo đã nêu; EN nằm cùng câu nên không đối ứng"
+  },
+  {
+   "id": "P21-VI-003",
    "sent": "S003",
    "text": "cảnh báo",
    "occ": 1,
@@ -33,7 +47,7 @@
    "note": "lặp động từ cảnh báo"
   },
   {
-   "id": "P21-VI-003",
+   "id": "P21-VI-004",
    "sent": "S003",
    "text": "lừa đảo",
    "occ": 1,
@@ -47,7 +61,7 @@
    "note": "lặp lừa đảo (hình thức lừa đảo mới)"
   },
   {
-   "id": "P21-VI-004",
+   "id": "P21-VI-005",
    "sent": "S003",
    "text": "giả mạo",
    "occ": 1,
@@ -61,7 +75,7 @@
    "note": "lặp giả mạo"
   },
   {
-   "id": "P21-VI-005",
+   "id": "P21-VI-006",
    "sent": "S003",
    "text": "Giới hữu trách",
    "occ": 1,
@@ -75,7 +89,7 @@
    "note": "danh hiệu tổng quát hóa (biên) chỉ cơ quan cảnh báo"
   },
   {
-   "id": "P21-VI-006",
+   "id": "P21-VI-007",
    "sent": "S004",
    "text": "Ủy ban Cạnh tranh và Người tiêu dùng Úc",
    "occ": 1,
@@ -89,7 +103,7 @@
    "note": "mở rộng tên chính thức của cùng cơ quan (EN: watchdog → tên đầy đủ)"
   },
   {
-   "id": "P21-VI-007",
+   "id": "P21-VI-008",
    "sent": "S004",
    "text": "trái phiếu",
    "occ": 1,
@@ -103,7 +117,7 @@
    "note": "những trái phiếu hợp pháp"
   },
   {
-   "id": "P21-VI-008",
+   "id": "P21-VI-009",
    "sent": "S004",
    "text": "hợp pháp",
    "occ": 1,
@@ -117,7 +131,21 @@
    "note": "phép đối hợp pháp ↔ giả mạo"
   },
   {
-   "id": "P21-VI-009",
+   "id": "P21-VI-010",
+   "sent": "S004",
+   "text": "hình thức",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: một hình thức lừa đảo mới",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp danh từ hình thức (là hình thức cho… vay tiền); cấu trúc song song 'hình thức lừa đảo' ↔ 'hình thức cho vay' tạo phép đối ngầm (TNT §30)"
+  },
+  {
+   "id": "P21-VI-011",
    "sent": "S005",
    "text": "Nhưng",
    "occ": 1,
@@ -131,7 +159,7 @@
    "note": "đối lập hợp pháp ↔ kẻ gian"
   },
   {
-   "id": "P21-VI-010",
+   "id": "P21-VI-012",
    "sent": "S005",
    "text": "lừa đảo",
    "occ": 1,
@@ -145,7 +173,7 @@
    "note": "các vụ lừa đảo"
   },
   {
-   "id": "P21-VI-011",
+   "id": "P21-VI-013",
    "sent": "S005",
    "text": "trái phiếu",
    "occ": 1,
@@ -159,7 +187,7 @@
    "note": "trái phiếu của họ"
   },
   {
-   "id": "P21-VI-012",
+   "id": "P21-VI-014",
    "sent": "S005",
    "text": "chính phủ",
    "occ": 1,
@@ -173,7 +201,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-013",
+   "id": "P21-VI-015",
    "sent": "S005",
    "text": "Bunnings",
    "occ": 1,
@@ -187,7 +215,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-014",
+   "id": "P21-VI-016",
    "sent": "S006",
    "text": "Những kẻ lừa đảo",
    "occ": 1,
@@ -201,7 +229,7 @@
    "note": "đặt lại tên chủ thể"
   },
   {
-   "id": "P21-VI-015",
+   "id": "P21-VI-017",
    "sent": "S006",
    "text": "gói đầu tư",
    "occ": 1,
@@ -215,7 +243,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-016",
+   "id": "P21-VI-018",
    "sent": "S006",
    "text": "lợi nhuận",
    "occ": 1,
@@ -226,10 +254,24 @@
    "ante": "S001: hứa hẹn lợi nhuận",
    "conf": "high",
    "alt": null,
-   "note": "mức lợi nhuận; động từ hứa hẹn cũng lặp"
+   "note": "mức lợi nhuận"
   },
   {
-   "id": "P21-VI-017",
+   "id": "P21-VI-019",
+   "sent": "S006",
+   "text": "hứa hẹn",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: hứa hẹn lợi nhuận lên tới",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp động từ hứa hẹn (hứa hẹn mức lợi nhuận)"
+  },
+  {
+   "id": "P21-VI-020",
    "sent": "S007",
    "text": "lừa đảo",
    "occ": 1,
@@ -243,7 +285,7 @@
    "note": "trang web lừa đảo"
   },
   {
-   "id": "P21-VI-018",
+   "id": "P21-VI-021",
    "sent": "S007",
    "text": "giả mạo",
    "occ": 1,
@@ -257,7 +299,7 @@
    "note": "nhiều trang giả mạo Bunnings"
   },
   {
-   "id": "P21-VI-019",
+   "id": "P21-VI-022",
    "sent": "S007",
    "text": "Bunnings",
    "occ": 1,
@@ -271,7 +313,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-020",
+   "id": "P21-VI-023",
    "sent": "S008",
    "text": "Bunnings",
    "occ": 1,
@@ -285,7 +327,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-021",
+   "id": "P21-VI-024",
    "sent": "S008",
    "text": "cảnh báo",
    "occ": 1,
@@ -299,7 +341,21 @@
    "note": "đăng tải cảnh báo"
   },
   {
-   "id": "P21-VI-022",
+   "id": "P21-VI-025",
+   "sent": "S008",
+   "text": "chính thức",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: nhiều trang giả mạo Bunnings",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối chính thức ↔ giả mạo (trang web chính thức)"
+  },
+  {
+   "id": "P21-VI-026",
    "sent": "S008",
    "text": "này",
    "occ": 1,
@@ -314,7 +370,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-VI-023",
+   "id": "P21-VI-027",
    "sent": "S009",
    "text": "kẻ lừa đảo",
    "occ": 1,
@@ -328,7 +384,7 @@
    "note": "Một số kẻ lừa đảo"
   },
   {
-   "id": "P21-VI-024",
+   "id": "P21-VI-028",
    "sent": "S009",
    "text": "còn",
    "occ": 1,
@@ -342,7 +398,7 @@
    "note": "bổ sung hoạt động quảng bá; đối ứng EN also"
   },
   {
-   "id": "P21-VI-025",
+   "id": "P21-VI-029",
    "sent": "S009",
    "text": "trái phiếu",
    "occ": 1,
@@ -356,7 +412,7 @@
    "note": "các trái phiếu môi trường"
   },
   {
-   "id": "P21-VI-026",
+   "id": "P21-VI-030",
    "sent": "S009",
    "text": "hứa hẹn",
    "occ": 1,
@@ -370,7 +426,7 @@
    "note": "lặp động từ hứa hẹn (VI tự sinh vế này)"
   },
   {
-   "id": "P21-VI-027",
+   "id": "P21-VI-031",
    "sent": "S010",
    "text": "kẻ gian",
    "occ": 1,
@@ -384,7 +440,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-028",
+   "id": "P21-VI-032",
    "sent": "S010",
    "text": "lừa đảo",
    "occ": 1,
@@ -398,7 +454,36 @@
    "note": "các hành vi lừa đảo khác"
   },
   {
-   "id": "P21-VI-029",
+   "id": "P21-VI-033",
+   "sent": "S010",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: trong các vụ lừa đảo",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = khác với vụ lừa đảo đang nói; H&H §2.5 other; EN further cùng câu → [TC] EN không đánh",
+   "ref": "A"
+  },
+  {
+   "id": "P21-VI-034",
+   "sent": "S010",
+   "text": "tiền",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: cho doanh nghiệp hoặc chính phủ vay tiền",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp tiền (chiếm đoạt tiền)"
+  },
+  {
+   "id": "P21-VI-035",
    "sent": "S012",
    "text": "Scamwatch",
    "occ": 1,
@@ -412,7 +497,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-030",
+   "id": "P21-VI-036",
    "sent": "S012",
    "text": "lừa đảo",
    "occ": 1,
@@ -426,7 +511,7 @@
    "note": "các vụ lừa đảo đầu tư"
   },
   {
-   "id": "P21-VI-031",
+   "id": "P21-VI-037",
    "sent": "S012",
    "text": "đầu tư",
    "occ": 1,
@@ -440,7 +525,21 @@
    "note": "lừa đảo đầu tư"
   },
   {
-   "id": "P21-VI-032",
+   "id": "P21-VI-038",
+   "sent": "S012",
+   "text": "người Úc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: Cơ quan bảo vệ người tiêu dùng Úc",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị Úc; referent mở rộng người tiêu dùng → người Úc"
+  },
+  {
+   "id": "P21-VI-039",
    "sent": "S013",
    "text": "kẻ lừa đảo",
    "occ": 1,
@@ -454,7 +553,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-033",
+   "id": "P21-VI-040",
    "sent": "S013",
    "text": "hợp pháp",
    "occ": 1,
@@ -468,7 +567,7 @@
    "note": "các chuyên viên môi giới hợp pháp; EN dùng those thay thế (S014 EN)"
   },
   {
-   "id": "P21-VI-034",
+   "id": "P21-VI-041",
    "sent": "S014",
    "text": "Chúng",
    "occ": 1,
@@ -483,7 +582,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-VI-035",
+   "id": "P21-VI-042",
    "sent": "S014",
    "text": "cũng",
    "occ": 1,
@@ -497,7 +596,7 @@
    "note": "đối ứng EN also"
   },
   {
-   "id": "P21-VI-036",
+   "id": "P21-VI-043",
    "sent": "S014",
    "text": "trang web",
    "occ": 1,
@@ -511,7 +610,7 @@
    "note": "tạo trang web giả mạo"
   },
   {
-   "id": "P21-VI-037",
+   "id": "P21-VI-044",
    "sent": "S014",
    "text": "giả mạo",
    "occ": 1,
@@ -525,7 +624,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-038",
+   "id": "P21-VI-045",
    "sent": "S014",
    "text": "doanh nghiệp",
    "occ": 1,
@@ -539,7 +638,7 @@
    "note": "một doanh nghiệp có thật"
   },
   {
-   "id": "P21-VI-039",
+   "id": "P21-VI-046",
    "sent": "S015",
    "text": "Scamwatch",
    "occ": 1,
@@ -553,7 +652,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-040",
+   "id": "P21-VI-047",
    "sent": "S015",
    "text": "đầu tư",
    "occ": 1,
@@ -567,7 +666,7 @@
    "note": "lời mời gọi đầu tư"
   },
   {
-   "id": "P21-VI-041",
+   "id": "P21-VI-048",
    "sent": "S016",
    "text": "doanh nghiệp",
    "occ": 1,
@@ -581,7 +680,7 @@
    "note": "thông tin doanh nghiệp"
   },
   {
-   "id": "P21-VI-042",
+   "id": "P21-VI-049",
    "sent": "S016",
    "text": "trang web",
    "occ": 1,
@@ -595,7 +694,35 @@
    "note": "trang web chính thức"
   },
   {
-   "id": "P21-VI-043",
+   "id": "P21-VI-050",
+   "sent": "S016",
+   "text": "chính thức",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: tạo trang web giả mạo",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối chính thức ↔ giả mạo (trang web chính thức của công ty)"
+  },
+  {
+   "id": "P21-VI-051",
+   "sent": "S016",
+   "text": "tổ chức",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: một doanh nghiệp có thật",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát chỉ doanh nghiệp đang kiểm tra (doanh nghiệp → công ty → tổ chức); VI không có mạo từ, định danh bằng ngữ cảnh"
+  },
+  {
+   "id": "P21-VI-052",
    "sent": "S016",
    "text": "công ty",
    "occ": 1,
@@ -609,7 +736,7 @@
    "note": "trang web chính thức của công ty"
   },
   {
-   "id": "P21-VI-044",
+   "id": "P21-VI-053",
    "sent": "S016",
    "text": "bạn",
    "occ": 1,
@@ -624,7 +751,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-VI-045",
+   "id": "P21-VI-054",
    "sent": "S017",
    "text": "Bạn",
    "occ": 1,
@@ -639,7 +766,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-VI-046",
+   "id": "P21-VI-055",
    "sent": "S017",
    "text": "bạn",
    "occ": 1,
@@ -654,7 +781,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-VI-047",
+   "id": "P21-VI-056",
    "sent": "S017",
    "text": "cũng",
    "occ": 1,
@@ -668,7 +795,7 @@
    "note": "đối ứng EN also; \"cũng như\" cuối câu là nối trong câu, không đánh"
   },
   {
-   "id": "P21-VI-048",
+   "id": "P21-VI-057",
    "sent": "S017",
    "text": "kiểm tra",
    "occ": 1,
@@ -682,7 +809,7 @@
    "note": "lặp động từ kiểm tra"
   },
   {
-   "id": "P21-VI-049",
+   "id": "P21-VI-058",
    "sent": "S017",
    "text": "đầu tư",
    "occ": 1,
@@ -696,7 +823,7 @@
    "note": "khoản đầu tư"
   },
   {
-   "id": "P21-VI-050",
+   "id": "P21-VI-059",
    "sent": "S017",
    "text": "trang mạng",
    "occ": 1,
@@ -710,7 +837,7 @@
    "note": "trang mạng ≈ trang web (đồng nghĩa)"
   },
   {
-   "id": "P21-VI-051",
+   "id": "P21-VI-060",
    "sent": "S017",
    "text": "cảnh báo",
    "occ": 1,
@@ -724,7 +851,7 @@
    "note": "danh sách cảnh báo"
   },
   {
-   "id": "P21-VI-052",
+   "id": "P21-VI-061",
    "sent": "S017",
    "text": "công ty",
    "occ": 1,
@@ -738,7 +865,7 @@
    "note": "các công ty"
   },
   {
-   "id": "P21-VI-053",
+   "id": "P21-VI-062",
    "sent": "S019",
    "text": "Bunnings",
    "occ": 1,
@@ -752,7 +879,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-054",
+   "id": "P21-VI-063",
    "sent": "S019",
    "text": "cảnh báo",
    "occ": 1,
@@ -766,7 +893,7 @@
    "note": "đưa ra cảnh báo"
   },
   {
-   "id": "P21-VI-055",
+   "id": "P21-VI-064",
    "sent": "S019",
    "text": "lừa đảo",
    "occ": 1,
@@ -780,7 +907,7 @@
    "note": "các trò lừa đảo"
   },
   {
-   "id": "P21-VI-056",
+   "id": "P21-VI-065",
    "sent": "S019",
    "text": "thông tin cá nhân",
    "occ": 1,
@@ -794,7 +921,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-057",
+   "id": "P21-VI-066",
    "sent": "S019",
    "text": "không có thật",
    "occ": 1,
@@ -808,7 +935,7 @@
    "note": "cơ hội việc làm không có thật"
   },
   {
-   "id": "P21-VI-058",
+   "id": "P21-VI-067",
    "sent": "S019",
    "text": "công ty",
    "occ": 1,
@@ -822,7 +949,7 @@
    "note": "tên và logo của công ty"
   },
   {
-   "id": "P21-VI-059",
+   "id": "P21-VI-068",
    "sent": "S020",
    "text": "Bunnings",
    "occ": 1,
@@ -836,7 +963,7 @@
    "note": "trong quote"
   },
   {
-   "id": "P21-VI-060",
+   "id": "P21-VI-069",
    "sent": "S020",
    "text": "hoạt động",
    "occ": 1,
@@ -850,7 +977,7 @@
    "note": "bất kỳ hoạt động nào nêu trên"
   },
   {
-   "id": "P21-VI-061",
+   "id": "P21-VI-070",
    "sent": "S020",
    "text": "email",
    "occ": 1,
@@ -864,7 +991,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-062",
+   "id": "P21-VI-071",
    "sent": "S020",
    "text": "mạng xã hội",
    "occ": 1,
@@ -878,7 +1005,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-063",
+   "id": "P21-VI-072",
    "sent": "S020",
    "text": "thẻ quà tặng",
    "occ": 1,
@@ -892,7 +1019,7 @@
    "note": "thẻ quà tặng miễn phí"
   },
   {
-   "id": "P21-VI-064",
+   "id": "P21-VI-073",
    "sent": "S020",
    "text": "công ty",
    "occ": 1,
@@ -906,7 +1033,7 @@
    "note": "công ty viết trên trang web chính thức"
   },
   {
-   "id": "P21-VI-065",
+   "id": "P21-VI-074",
    "sent": "S020",
    "text": "trang web",
    "occ": 1,
@@ -920,7 +1047,21 @@
    "note": null
   },
   {
-   "id": "P21-VI-066",
+   "id": "P21-VI-075",
+   "sent": "S020",
+   "text": "chính thức",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: trang web chính thức của công ty",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp chính thức (trên trang web chính thức, trong quote)"
+  },
+  {
+   "id": "P21-VI-076",
    "sent": "S021",
    "text": "bạn",
    "occ": 1,
@@ -935,7 +1076,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-VI-067",
+   "id": "P21-VI-077",
    "sent": "S021",
    "text": "đánh cắp",
    "occ": 1,
@@ -949,7 +1090,7 @@
    "note": "bị đánh cắp tiền hoặc thông tin cá nhân"
   },
   {
-   "id": "P21-VI-068",
+   "id": "P21-VI-078",
    "sent": "S021",
    "text": "tiền",
    "occ": 1,
@@ -963,7 +1104,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-069",
+   "id": "P21-VI-079",
    "sent": "S021",
    "text": "thông tin cá nhân",
    "occ": 1,
@@ -977,7 +1118,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-070",
+   "id": "P21-VI-080",
    "sent": "S022",
    "text": "lừa đảo",
    "occ": 1,
@@ -991,7 +1132,7 @@
    "note": "các vụ lừa đảo"
   },
   {
-   "id": "P21-VI-071",
+   "id": "P21-VI-081",
    "sent": "S022",
    "text": "trang mạng",
    "occ": 1,
@@ -1005,7 +1146,7 @@
    "note": null
   },
   {
-   "id": "P21-VI-072",
+   "id": "P21-VI-082",
    "sent": "S022",
    "text": "Scamwatch",
    "occ": 1,

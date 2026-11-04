@@ -38,13 +38,13 @@
    "text": "Now",
    "occ": 1,
    "cat": "C",
-   "sub": "temporal",
+   "sub": "continuative",
    "dir": "ana",
    "level": "LC",
    "ante": "S001: has warned (chuyển khung thời gian về hiện tại)",
    "conf": "med",
    "alt": null,
-   "note": "nối thời gian đứng đầu câu"
+   "note": "H&H §5.8 continuative: Now mở khung discours, không nối sự kiện trong thế giới mà mở lượt nói"
   },
   {
    "id": "P21-EN-004",
@@ -258,6 +258,34 @@
   },
   {
    "id": "P21-EN-019",
+   "sent": "S007",
+   "text": "promised",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: promising returns on investments",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp động từ promise qua danh hóa động từ (promising → promised)"
+  },
+  {
+   "id": "P21-EN-020",
+   "sent": "S007",
+   "text": "returns",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: promising returns on investments",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp danh từ returns (market returns)"
+  },
+  {
+   "id": "P21-EN-021",
    "sent": "S008",
    "text": "Scamwatch",
    "occ": 1,
@@ -271,7 +299,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-020",
+   "id": "P21-EN-022",
    "sent": "S008",
    "text": "Bunnings",
    "occ": 1,
@@ -285,7 +313,7 @@
    "note": "fake Bunnings websites"
   },
   {
-   "id": "P21-EN-021",
+   "id": "P21-EN-023",
    "sent": "S009",
    "text": "Bunnings",
    "occ": 1,
@@ -299,7 +327,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-022",
+   "id": "P21-EN-024",
    "sent": "S009",
    "text": "scam",
    "occ": 1,
@@ -313,7 +341,7 @@
    "note": "the scam = cả vụ việc (bridging nhẹ)"
   },
   {
-   "id": "P21-EN-023",
+   "id": "P21-EN-025",
    "sent": "S010",
    "text": "Scammers",
    "occ": 1,
@@ -327,7 +355,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-024",
+   "id": "P21-EN-026",
    "sent": "S010",
    "text": "also",
    "occ": 1,
@@ -341,7 +369,7 @@
    "note": "bổ sung hoạt động chào mời thứ hai; đối ứng VI \"còn\""
   },
   {
-   "id": "P21-EN-025",
+   "id": "P21-EN-027",
    "sent": "S010",
    "text": "offered",
    "occ": 1,
@@ -355,7 +383,7 @@
    "note": "lặp động từ chào mời"
   },
   {
-   "id": "P21-EN-026",
+   "id": "P21-EN-028",
    "sent": "S010",
    "text": "bonds",
    "occ": 1,
@@ -369,7 +397,7 @@
    "note": "đầu từ bonds lặp; environmental là thông tin mới"
   },
   {
-   "id": "P21-EN-027",
+   "id": "P21-EN-029",
    "sent": "S010",
    "text": "Scamwatch",
    "occ": 1,
@@ -383,7 +411,7 @@
    "note": "attribution cuối câu"
   },
   {
-   "id": "P21-EN-028",
+   "id": "P21-EN-030",
    "sent": "S011",
    "text": "Bad actors",
    "occ": 1,
@@ -397,7 +425,7 @@
    "note": "đổi danh hiệu chỉ nhóm lừa đảo"
   },
   {
-   "id": "P21-EN-029",
+   "id": "P21-EN-031",
    "sent": "S011",
    "text": "fake investment bond scams",
    "occ": 1,
@@ -411,7 +439,21 @@
    "note": "lặp gần nguyên văn cụm mở đầu"
   },
   {
-   "id": "P21-EN-030",
+   "id": "P21-EN-032",
+   "sent": "S011",
+   "text": "money",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: lending money",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp money (stealing money)"
+  },
+  {
+   "id": "P21-EN-033",
    "sent": "S011",
    "text": "Scamwatch",
    "occ": 1,
@@ -425,7 +467,7 @@
    "note": "according to Scamwatch"
   },
   {
-   "id": "P21-EN-031",
+   "id": "P21-EN-034",
    "sent": "S013",
    "text": "Investment scams",
    "occ": 1,
@@ -439,7 +481,21 @@
    "note": "echo gần nguyên văn câu caption"
   },
   {
-   "id": "P21-EN-032",
+   "id": "P21-EN-035",
+   "sent": "S013",
+   "text": "Australians",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: costing Australians millions",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Australians (nạn nhân của lừa đảo); caption S002 không có bản dịch"
+  },
+  {
+   "id": "P21-EN-036",
    "sent": "S013",
    "text": "Scamwatch",
    "occ": 1,
@@ -453,7 +509,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-033",
+   "id": "P21-EN-037",
    "sent": "S014",
    "text": "It",
    "occ": 1,
@@ -468,7 +524,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-EN-034",
+   "id": "P21-EN-038",
    "sent": "S014",
    "text": "they",
    "occ": 1,
@@ -483,7 +539,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-EN-035",
+   "id": "P21-EN-039",
    "sent": "S014",
    "text": "they",
    "occ": 2,
@@ -498,7 +554,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-EN-036",
+   "id": "P21-EN-040",
    "sent": "S014",
    "text": "those",
    "occ": 1,
@@ -512,7 +568,7 @@
    "note": "[TC] those of legitimate brokers ← emails; VI lặp danh từ \"email\" thay pro-form"
   },
   {
-   "id": "P21-EN-037",
+   "id": "P21-EN-041",
    "sent": "S015",
    "text": "They",
    "occ": 1,
@@ -527,7 +583,7 @@
    "ref": "A"
   },
   {
-   "id": "P21-EN-038",
+   "id": "P21-EN-042",
    "sent": "S015",
    "text": "also",
    "occ": 1,
@@ -541,7 +597,7 @@
    "note": "bổ sung thủ đoạn thứ hai"
   },
   {
-   "id": "P21-EN-039",
+   "id": "P21-EN-043",
    "sent": "S015",
    "text": "fake website",
    "occ": 1,
@@ -555,7 +611,7 @@
    "note": "lặp fake + website (lần 2 trong câu không đánh dấu)"
   },
   {
-   "id": "P21-EN-040",
+   "id": "P21-EN-044",
    "sent": "S015",
    "text": "real business",
    "occ": 1,
@@ -569,7 +625,21 @@
    "note": null
   },
   {
-   "id": "P21-EN-041",
+   "id": "P21-EN-045",
+   "sent": "S015",
+   "text": "investment",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: Investment scams cost Australians",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị investment (investment opportunities); vế bị cắt phía VI"
+  },
+  {
+   "id": "P21-EN-046",
    "sent": "S016",
    "text": "Scamwatch",
    "occ": 1,
@@ -583,7 +653,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-042",
+   "id": "P21-EN-047",
    "sent": "S016",
    "text": "you",
    "occ": 1,
@@ -598,7 +668,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-043",
+   "id": "P21-EN-048",
    "sent": "S016",
    "text": "invest",
    "occ": 1,
@@ -612,7 +682,21 @@
    "note": "lặp hình vị invest (offers to invest)"
   },
   {
-   "id": "P21-EN-044",
+   "id": "P21-EN-049",
+   "sent": "S016",
+   "text": "offers",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: offered environmental bonds",
+   "conf": "high",
+   "alt": null,
+   "note": "surprise offers ← offered: lặp danh từ hóa của động từ chào mời"
+  },
+  {
+   "id": "P21-EN-050",
    "sent": "S017",
    "text": "you",
    "occ": 1,
@@ -627,7 +711,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-045",
+   "id": "P21-EN-051",
    "sent": "S017",
    "text": "business",
    "occ": 1,
@@ -641,7 +725,7 @@
    "note": "business details"
   },
   {
-   "id": "P21-EN-046",
+   "id": "P21-EN-052",
    "sent": "S017",
    "text": "company",
    "occ": 1,
@@ -655,7 +739,7 @@
    "note": "the company's real website"
   },
   {
-   "id": "P21-EN-047",
+   "id": "P21-EN-053",
    "sent": "S017",
    "text": "website",
    "occ": 1,
@@ -669,7 +753,35 @@
    "note": null
   },
   {
-   "id": "P21-EN-048",
+   "id": "P21-EN-054",
+   "sent": "S017",
+   "text": "real",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: fake website",
+   "conf": "high",
+   "alt": "L: repetition ← S015 a real business",
+   "note": "phép đối real ↔ fake (cùng chuỗi real lặp từ S004 real businesses)"
+  },
+  {
+   "id": "P21-EN-055",
+   "sent": "S017",
+   "text": "organisation",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: a real business",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát chỉ doanh nghiệp đang kiểm tra (business → company → organisation)"
+  },
+  {
+   "id": "P21-EN-056",
    "sent": "S018",
    "text": "You",
    "occ": 1,
@@ -684,7 +796,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-049",
+   "id": "P21-EN-057",
    "sent": "S018",
    "text": "also",
    "occ": 1,
@@ -698,7 +810,7 @@
    "note": "bổ sung kênh kiểm tra thứ hai"
   },
   {
-   "id": "P21-EN-050",
+   "id": "P21-EN-058",
    "sent": "S018",
    "text": "ASIC",
    "occ": 1,
@@ -712,7 +824,7 @@
    "note": "viết tắt lặp"
   },
   {
-   "id": "P21-EN-051",
+   "id": "P21-EN-059",
    "sent": "S018",
    "text": "website",
    "occ": 1,
@@ -726,7 +838,7 @@
    "note": "the ASIC website (websites cuối câu cùng chuỗi trong câu, không đánh thêm)"
   },
   {
-   "id": "P21-EN-052",
+   "id": "P21-EN-060",
    "sent": "S018",
    "text": "check",
    "occ": 1,
@@ -740,7 +852,21 @@
    "note": "lặp động từ kiểm tra"
   },
   {
-   "id": "P21-EN-053",
+   "id": "P21-EN-061",
+   "sent": "S018",
+   "text": "companies",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: the company's real website",
+   "conf": "med",
+   "alt": null,
+   "note": "companies and websites you should not trust: số nhiều phổ quát nhưng giữ chuỗi hình vị company"
+  },
+  {
+   "id": "P21-EN-062",
    "sent": "S020",
    "text": "Bunnings",
    "occ": 1,
@@ -754,7 +880,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-054",
+   "id": "P21-EN-063",
    "sent": "S020",
    "text": "scams",
    "occ": 1,
@@ -768,7 +894,7 @@
    "note": "warned of scams"
   },
   {
-   "id": "P21-EN-055",
+   "id": "P21-EN-064",
    "sent": "S020",
    "text": "brand name",
    "occ": 1,
@@ -782,7 +908,7 @@
    "note": "branding → brand name"
   },
   {
-   "id": "P21-EN-056",
+   "id": "P21-EN-065",
    "sent": "S020",
    "text": "personal information",
    "occ": 1,
@@ -796,7 +922,7 @@
    "note": "details ≈ information"
   },
   {
-   "id": "P21-EN-057",
+   "id": "P21-EN-066",
    "sent": "S021",
    "text": "Bunnings",
    "occ": 1,
@@ -810,7 +936,7 @@
    "note": "trong quote"
   },
   {
-   "id": "P21-EN-058",
+   "id": "P21-EN-067",
    "sent": "S021",
    "text": "activities",
    "occ": 1,
@@ -824,7 +950,7 @@
    "note": "danh từ tổng quát tóm chỉ các trò lừa đảo đã nêu"
   },
   {
-   "id": "P21-EN-059",
+   "id": "P21-EN-068",
    "sent": "S021",
    "text": "gift cards",
    "occ": 1,
@@ -838,7 +964,7 @@
    "note": "free gift cards"
   },
   {
-   "id": "P21-EN-060",
+   "id": "P21-EN-069",
    "sent": "S021",
    "text": "email",
    "occ": 1,
@@ -852,7 +978,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-061",
+   "id": "P21-EN-070",
    "sent": "S021",
    "text": "social media",
    "occ": 1,
@@ -866,7 +992,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-062",
+   "id": "P21-EN-071",
    "sent": "S022",
    "text": "Bunnings",
    "occ": 1,
@@ -880,7 +1006,7 @@
    "note": "quote nối tiếp, không có bản dịch"
   },
   {
-   "id": "P21-EN-063",
+   "id": "P21-EN-072",
    "sent": "S022",
    "text": "also",
    "occ": 1,
@@ -894,7 +1020,7 @@
    "note": "lời phủ định bổ sung (will also never ask)"
   },
   {
-   "id": "P21-EN-064",
+   "id": "P21-EN-073",
    "sent": "S022",
    "text": "personal information",
    "occ": 1,
@@ -908,7 +1034,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-065",
+   "id": "P21-EN-074",
    "sent": "S024",
    "text": "you",
    "occ": 1,
@@ -923,7 +1049,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-066",
+   "id": "P21-EN-075",
    "sent": "S024",
    "text": "you",
    "occ": 2,
@@ -938,7 +1064,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-067",
+   "id": "P21-EN-076",
    "sent": "S024",
    "text": "money",
    "occ": 1,
@@ -952,7 +1078,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-068",
+   "id": "P21-EN-077",
    "sent": "S024",
    "text": "personal information",
    "occ": 1,
@@ -966,7 +1092,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-069",
+   "id": "P21-EN-078",
    "sent": "S025",
    "text": "you",
    "occ": 1,
@@ -981,7 +1107,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-070",
+   "id": "P21-EN-079",
    "sent": "S025",
    "text": "scammed",
    "occ": 1,
@@ -995,7 +1121,7 @@
    "note": "hình vị scam lặp qua subhead"
   },
   {
-   "id": "P21-EN-071",
+   "id": "P21-EN-080",
    "sent": "S025",
    "text": "contact",
    "occ": 1,
@@ -1009,7 +1135,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-072",
+   "id": "P21-EN-081",
    "sent": "S026",
    "text": "You",
    "occ": 1,
@@ -1024,7 +1150,7 @@
    "ref": "E"
   },
   {
-   "id": "P21-EN-073",
+   "id": "P21-EN-082",
    "sent": "S026",
    "text": "also",
    "occ": 1,
@@ -1038,7 +1164,7 @@
    "note": "bổ sung kênh trình báo; VI gộp 2 câu nên mất đối ứng liên câu"
   },
   {
-   "id": "P21-EN-074",
+   "id": "P21-EN-083",
    "sent": "S026",
    "text": "scams",
    "occ": 1,
@@ -1052,7 +1178,7 @@
    "note": null
   },
   {
-   "id": "P21-EN-075",
+   "id": "P21-EN-084",
    "sent": "S026",
    "text": "Scamwatch",
    "occ": 1,

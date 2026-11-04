@@ -17,9 +17,12 @@ ST = [
      "lặp investment + scams; caption không có bản dịch VI", 1, None, None,
      "LC", None),
     # S003 — caption trùng nội dung S001, không có bản dịch
-    ("S003", "Now", "C", "temporal",
+    # "Now" = continuative (H&H §5.8: discourse organizer chuyển khung về
+    # hiện tại), trước đây ghi temporal — tinh chỉnh theo references.
+    ("S003", "Now", "C", "continuative",
      "S001: has warned (chuyển khung thời gian về hiện tại)", "med", None,
-     "nối thời gian đứng đầu câu", 1, None, None, "LC", None),
+     "H&H §5.8 continuative: Now mở khung discours, không nối sự kiện "
+     "trong thế giới mà mở lượt nói", 1, None, None, "LC", None),
     ("S003", "consumer watchdog", "L", "repetition",
      "S001: Australia's consumer watchdog", "high", "R: the",
      "lặp NP chủ thể cảnh báo", 1, None, None, "LC", None),
@@ -72,6 +75,16 @@ ST = [
     ("S007", "investment options", "L", "repetition",
      "S001: investments", "med", None, "lặp đầu ngữ investment", 1, None,
      None, "LC", None),
+    # [Phase-2] promised ← promising (S001): chuỗi động từ hứa hẹn (H&H §6.2
+    # reiteration; TNT §26 phép lặp từ vựng) — VI có đối ứng hứa hẹn riêng.
+    ("S007", "promised", "L", "repetition",
+     "S001: promising returns on investments", "high", None,
+     "lặp động từ promise qua danh hóa động từ (promising → promised)", 1,
+     None, None, "LC", None),
+    # [Phase-2] returns ← returns (S001): chuỗi lợi nhuận/returns.
+    ("S007", "returns", "L", "repetition",
+     "S001: promising returns on investments", "high", None,
+     "lặp danh từ returns (market returns)", 1, None, None, "LC", None),
     # S008
     ("S008", "Scamwatch", "L", "repetition",
      "S004: Scamwatch service", "high", None, None, 1, None, None, "LC",
@@ -110,6 +123,10 @@ ST = [
     ("S011", "fake investment bond scams", "L", "repetition",
      "S004: fake investment bonds", "high", None,
      "lặp gần nguyên văn cụm mở đầu", 1, None, None, "LC", None),
+    # [Phase-2] money ← money (S005): chuỗi tiền/money — "stealing money"
+    # nối về "lending money" của định nghĩa trái phiếu (H&H §6.2 reiteration).
+    ("S011", "money", "L", "repetition", "S005: lending money", "high",
+     None, "lặp money (stealing money)", 1, None, None, "LC", None),
     ("S011", "Scamwatch", "L", "repetition",
      "S010: Scamwatch", "high", None, "according to Scamwatch", 1, None,
      None, "LC", None),
@@ -117,6 +134,12 @@ ST = [
     ("S013", "Investment scams", "L", "repetition",
      "S002: Investment scams", "high", None,
      "echo gần nguyên văn câu caption", 1, None, None, "LC", None),
+    # [Phase-2] Australians ← Australians (S002 caption): chuỗi người Úc
+    # (H&H §6.2); VI đối ứng người Úc ← người tiêu dùng Úc (S001).
+    ("S013", "Australians", "L", "repetition",
+     "S002: costing Australians millions", "high", None,
+     "lặp Australians (nạn nhân của lừa đảo); caption S002 không có "
+     "bản dịch", 1, None, None, "LC", None),
     ("S013", "Scamwatch", "L", "repetition",
      "S011: Scamwatch", "high", None, None, 1, None, None, "LC", None),
     # S014
@@ -146,14 +169,28 @@ ST = [
     ("S015", "real business", "L", "repetition",
      "S004: real businesses", "high", "R: a", None, 1, None, None, "LC",
      None),
+    # [Phase-2] investment ← Investment scams (S013): vế "internet searches
+    # for investment opportunities" bị cắt phía VI → tie chỉ EN (quy ước
+    # khối cắt); chuỗi hình vị invest (H&H §6.2 reiteration).
+    ("S015", "investment", "L", "repetition",
+     "S013: Investment scams cost Australians", "med", None,
+     "lặp hình vị investment (investment opportunities); vế bị cắt phía VI", 1,
+     None, None, "LC", None),
     # S016
     ("S016", "Scamwatch", "L", "repetition",
      "S013: Scamwatch", "high", None, None, 1, None, None, "LC", None),
     ("S016", "you", "R", "personal",
      "độc giả (ngoại văn bản — khối lời khuyên)", "high", None,
      "ngoại quy chiếu: you = độc giả", 1, None, None, "LC", "E"),
-    ("S016", "invest", "L", "repetition", "S001: investments", "med", None,
+    ("S016", "invest", "L", "repetition", "S001: investments", "med",
+     None,
      "lặp hình vị invest (offers to invest)", 1, None, None, "LC", None),
+    # [Phase-2] offers ← offered (S010): chuỗi chào mời (H&H §6.2);
+    # VI đối ứng mời gọi ← chào mời (S003) — dịch chuyển 2 cụm khác nhau.
+    ("S016", "offers", "L", "repetition",
+     "S010: offered environmental bonds", "high", None,
+     "surprise offers ← offered: lặp danh từ hóa của động từ chào mời", 1,
+     None, None, "LC", None),
     # S017
     ("S017", "you", "R", "personal", "độc giả (ngoại văn bản)", "high",
      None, "ngoại quy chiếu", 1, None, None, "LC", "E"),
@@ -164,6 +201,18 @@ ST = [
      "the company's real website", 1, None, None, "LC", None),
     ("S017", "website", "L", "repetition", "S015: fake website", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] real ↔ fake (S015): phép đối (TNT §30; H&H §6.4 opposites
+    # là collocation) — real website đối lập fake website của kẻ lừa đảo.
+    ("S017", "real", "L", "antonym", "S015: fake website", "high",
+     "L: repetition ← S015 a real business",
+     "phép đối real ↔ fake (cùng chuỗi real lặp từ S004 real businesses)", 1,
+     None, None, "LC", None),
+    # [Phase-2] organisation ← business/company: danh từ tổng quát (H&H §6.1
+    # general noun); mạo từ the mang định danh → alt R (mapping §3.6).
+    ("S017", "organisation", "L", "general word",
+     "S015: a real business", "med", "R: the",
+     "danh từ tổng quát chỉ doanh nghiệp đang kiểm tra (business → company "
+     "→ organisation)", 1, None, None, "LC", None),
     # S018
     ("S018", "You", "R", "personal", "độc giả (ngoại văn bản)", "high",
      None, "ngoại quy chiếu", 1, None, None, "LC", "E"),
@@ -178,6 +227,12 @@ ST = [
      "không đánh thêm)", 1, None, None, "LC", None),
     ("S018", "check", "L", "repetition", "S017: check", "high", None,
      "lặp động từ kiểm tra", 1, None, None, "LC", None),
+    # [Phase-2] companies ← company (S017): tiếp chuỗi hình vị company với
+    # số nhiều phổ quát (H&H §6.2) — đối xứng VI công ty đã đánh (S017 TT).
+    ("S018", "companies", "L", "repetition",
+     "S017: the company's real website", "med", None,
+     "companies and websites you should not trust: số nhiều phổ quát "
+     "nhưng giữ chuỗi hình vị company", 1, None, None, "LC", None),
     # S020
     ("S020", "Bunnings", "L", "repetition", "S009: Bunnings", "high", None,
      None, 1, None, None, "LC", None),
@@ -249,6 +304,13 @@ TT = [
      "S001: các chiêu trò lừa đảo đầu tư", "high", None,
      "[LC] lược đầu từ sau lượng từ Một số ∅ {chiêu trò lừa đảo}", 1,
      "Một số", "{chiêu trò lừa đảo}", "LC", None),
+    # [Phase-2] còn ← S001: additive liên câu (H&H §5.4) — EN đối ứng là vế
+    # "with some claiming…" trong CÙNG câu S001 nên EN không có C; VI tách
+    # câu đẩy "còn" thành liên câu (cùng cơ chế E-VI1 ở trên).
+    ("S002", "còn", "C", "additive",
+     "S001: các chiêu trò lừa đảo đầu tư", "med", None,
+     "thậm chí còn = bổ sung việc giả mạo Bunnings vào vụ lừa đảo đã nêu; "
+     "EN nằm cùng câu nên không đối ứng", 1, None, None, "LC", None),
     # S003
     ("S003", "cảnh báo", "L", "repetition", "S001: vừa cảnh báo", "high",
      None, "lặp động từ cảnh báo", 1, None, None, "LC", None),
@@ -272,6 +334,13 @@ TT = [
     ("S004", "hợp pháp", "L", "antonym",
      "S003: trái phiếu đầu tư giả mạo", "high", None,
      "phép đối hợp pháp ↔ giả mạo", 1, None, None, "LC", None),
+    # [Phase-2] hình thức ← hình thức (S003): TNT §26 phép lặp từ vựng —
+    # EN không có đối ứng (EN S005 dùng "involve"); VI tự sinh nhãn nhẹ.
+    ("S004", "hình thức", "L", "repetition",
+     "S003: một hình thức lừa đảo mới", "med", None,
+     "lặp danh từ hình thức (là hình thức cho… vay tiền); cấu trúc song "
+     "song 'hình thức lừa đảo' ↔ 'hình thức cho vay' tạo phép đối ngầm "
+     "(TNT §30)", 1, None, None, "LC", None),
     # S005
     ("S005", "Nhưng", "C", "adversative",
      "S004: những trái phiếu hợp pháp", "high", None,
@@ -294,8 +363,15 @@ TT = [
      "S003: các gói đầu tư không có thật", "high", None, None, 1, None,
      None, "LC", None),
     ("S006", "lợi nhuận", "L", "repetition", "S001: hứa hẹn lợi nhuận",
-     "high", None, "mức lợi nhuận; động từ hứa hẹn cũng lặp", 1, None,
+     "high", None, "mức lợi nhuận", 1, None,
      None, "LC", None),
+    # [Phase-2] hứa hẹn ← hứa hẹn (S001): chuỗi động từ hứa hẹn — cho hàng
+    # riêng theo quy ước "một dấu cho mỗi chuỗi" (TNT §26 phép lặp; đối ứng
+    # EN promised ← promising cũng thêm hàng).
+    ("S006", "hứa hẹn", "L", "repetition",
+     "S001: hứa hẹn lợi nhuận lên tới", "high", None,
+     "lặp động từ hứa hẹn (hứa hẹn mức lợi nhuận)", 1, None, None, "LC",
+     None),
     # S007
     ("S007", "lừa đảo", "L", "repetition", "S005: các vụ lừa đảo", "high",
      None, "trang web lừa đảo", 1, None, None, "LC", None),
@@ -309,6 +385,13 @@ TT = [
      "high", None, None, 1, None, None, "LC", None),
     ("S008", "cảnh báo", "L", "repetition", "S003: đang cảnh báo", "high",
      None, "đăng tải cảnh báo", 1, None, None, "LC", None),
+    # [Phase-2] chính thức ↔ giả mạo (S007): phép đối (TNT §30; H&H §6.4
+    # opposites) — trang giả mạo Bunnings → trang web chính thức; EN câu
+    # đối ứng (S009) không có "official" nên đây là tie VI tự sinh.
+    ("S008", "chính thức", "L", "antonym",
+     "S007: nhiều trang giả mạo Bunnings", "med", None,
+     "phép đối chính thức ↔ giả mạo (trang web chính thức)", 1, None, None,
+     "LC", None),
     ("S008", "này", "R", "demonstrative",
      "S001-S007: vụ lừa đảo trái phiếu giả mạo Bunnings", "med", None,
      "chỉ từ tóm lược sự việc (sự việc này)", 1, None, None, "LC", "A"),
@@ -329,6 +412,21 @@ TT = [
      "high", None, None, 1, None, None, "LC", None),
     ("S010", "lừa đảo", "L", "repetition", "S009: Một số kẻ lừa đảo",
      "high", None, "các hành vi lừa đảo khác", 1, None, None, "LC", None),
+    # [Phase-2] khác ← các vụ lừa đảo (S005): quy chiếu so sánh (H&H §2.5
+    # "other") — "hành vi lừa đảo khác" = khác VỚI vụ lừa đảo trái phiếu đã
+    # nêu ở câu trước. EN đối ứng "further scams" nằm trong cùng câu EN
+    # (S011) nên bên EN là [TC], không đánh; VI tái cấu trúc đẩy khác thành
+    # liên câu.
+    ("S010", "khác", "R", "comparative",
+     "S005: trong các vụ lừa đảo", "med", None,
+     "[LC] quy chiếu so sánh: khác = khác với vụ lừa đảo đang nói; H&H §2.5 "
+     "other; EN further cùng câu → [TC] EN không đánh", 1, None, None,
+     "LC", "A"),
+    # [Phase-2] tiền ← tiền (S004): chuỗi tiền — đối xứng EN money (S011)
+    # ← money (S005) (H&H §6.2 reiteration).
+    ("S010", "tiền", "L", "repetition",
+     "S004: cho doanh nghiệp hoặc chính phủ vay tiền", "high", None,
+     "lặp tiền (chiếm đoạt tiền)", 1, None, None, "LC", None),
     # S012
     ("S012", "Scamwatch", "L", "repetition", "S004: dịch vụ Scamwatch",
      "high", None, None, 1, None, None, "LC", None),
@@ -336,6 +434,13 @@ TT = [
      "high", None, "các vụ lừa đảo đầu tư", 1, None, None, "LC", None),
     ("S012", "đầu tư", "L", "repetition", "S006: các gói đầu tư", "med",
      None, "lừa đảo đầu tư", 1, None, None, "LC", None),
+    # [Phase-2] người Úc ← người tiêu dùng Úc (S001): lặp hình vị Úc; referent
+    # mở rộng (người tiêu dùng → toàn dân) — đối xứng EN Australians
+    # (S013) ← Australians (S002) (H&H §6.2).
+    ("S012", "người Úc", "L", "repetition",
+     "S001: Cơ quan bảo vệ người tiêu dùng Úc", "med", None,
+     "lặp hình vị Úc; referent mở rộng người tiêu dùng → người Úc", 1, None,
+     None, "LC", None),
     # S013
     ("S013", "kẻ lừa đảo", "L", "repetition",
      "S009: Một số kẻ lừa đảo", "high", None, None, 1, None, None, "LC",
@@ -369,6 +474,20 @@ TT = [
     ("S016", "trang web", "L", "repetition",
      "S014: tạo trang web giả mạo", "high", None,
      "trang web chính thức", 1, None, None, "LC", None),
+    # [Phase-2] chính thức ↔ giả mạo (S014): phép đối (TNT §30) — đối xứng
+    # EN real (S017) ↔ fake website (S015); lần 2 trong câu (số điện thoại
+    # chính thức) cùng chuỗi trong câu nên không đánh thêm.
+    ("S016", "chính thức", "L", "antonym",
+     "S014: tạo trang web giả mạo", "high", None,
+     "phép đối chính thức ↔ giả mạo (trang web chính thức của công ty)", 1,
+     None, None, "LC", None),
+    # [Phase-2] tổ chức ← doanh nghiệp (S014): danh từ tổng quát (H&H §6.1
+    # general noun) — VI xác định bằng ngữ cảnh thay mạo từ (mapping §4).
+    ("S016", "tổ chức", "L", "general word",
+     "S014: một doanh nghiệp có thật", "med", None,
+     "danh từ tổng quát chỉ doanh nghiệp đang kiểm tra (doanh nghiệp → "
+     "công ty → tổ chức); VI không có mạo từ, định danh bằng ngữ cảnh", 1,
+     None, None, "LC", None),
     ("S016", "công ty", "L", "repetition", "S003: các công ty hợp pháp",
      "high", None, "trang web chính thức của công ty", 1, None, None,
      "LC", None),
@@ -429,6 +548,12 @@ TT = [
      None),
     ("S020", "trang web", "L", "repetition", "S016: trang web chính thức",
      "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] chính thức ← chính thức (S016): tiếp chuỗi phép đối đã mở ở
+    # S008/S016 (TNT §26 phép lặp; TNT §30 phép đối).
+    ("S020", "chính thức", "L", "repetition",
+     "S016: trang web chính thức của công ty", "med", None,
+     "lặp chính thức (trên trang web chính thức, trong quote)", 1, None,
+     None, "LC", None),
     # S021
     ("S021", "bạn", "R", "personal", "độc giả (ngoại văn bản)", "high",
      None, "ngoại quy chiếu; \"mình\" trong câu không đánh", 1, None, None,
