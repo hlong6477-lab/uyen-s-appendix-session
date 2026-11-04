@@ -472,6 +472,20 @@
   {
    "id": "P23-EN-034",
    "sent": "S015",
+   "text": "also",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: a branded version could include basil, garlic, or other flavours",
+   "conf": "med",
+   "alt": null,
+   "note": "price differences ALSO come down to extras — bổ sung nhân tố chênh lệch giá thứ hai"
+  },
+  {
+   "id": "P23-EN-035",
+   "sent": "S015",
    "text": "she",
    "occ": 1,
    "cat": "R",
@@ -485,7 +499,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-035",
+   "id": "P23-EN-036",
    "sent": "S017",
    "text": "Portman",
    "occ": 1,
@@ -499,7 +513,7 @@
    "note": "Portman said"
   },
   {
-   "id": "P23-EN-036",
+   "id": "P23-EN-037",
    "sent": "S017",
    "text": "price differences",
    "occ": 1,
@@ -513,7 +527,7 @@
    "note": "thêm superlative 'the biggest'"
   },
   {
-   "id": "P23-EN-037",
+   "id": "P23-EN-038",
    "sent": "S018",
    "text": "you",
    "occ": 1,
@@ -528,7 +542,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-038",
+   "id": "P23-EN-039",
    "sent": "S018",
    "text": "shower gels",
    "occ": 1,
@@ -542,7 +556,7 @@
    "note": "body wash → shower gels; VI hội tụ cả hai thành 'sữa tắm' (S017)"
   },
   {
-   "id": "P23-EN-039",
+   "id": "P23-EN-040",
    "sent": "S018",
    "text": "mouthwash",
    "occ": 1,
@@ -556,7 +570,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-040",
+   "id": "P23-EN-041",
    "sent": "S018",
    "text": "savings",
    "occ": 1,
@@ -570,7 +584,7 @@
    "note": "the biggest savings"
   },
   {
-   "id": "P23-EN-041",
+   "id": "P23-EN-042",
    "sent": "S018",
    "text": "we",
    "occ": 2,
@@ -585,7 +599,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-042",
+   "id": "P23-EN-043",
    "sent": "S019",
    "text": "also",
    "occ": 1,
@@ -599,7 +613,7 @@
    "note": "bổ sung nhóm tẩy rửa vào danh mục"
   },
   {
-   "id": "P23-EN-043",
+   "id": "P23-EN-044",
    "sent": "S019",
    "text": "those cleaning items",
    "occ": 1,
@@ -614,7 +628,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-044",
+   "id": "P23-EN-045",
    "sent": "S019",
    "text": "price difference",
    "occ": 1,
@@ -628,7 +642,7 @@
    "note": "số ít + 'bigger' so sánh hơn"
   },
   {
-   "id": "P23-EN-045",
+   "id": "P23-EN-046",
    "sent": "S019",
    "text": "he",
    "occ": 1,
@@ -643,7 +657,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-046",
+   "id": "P23-EN-047",
    "sent": "S020",
    "text": "Things",
    "occ": 1,
@@ -657,7 +671,7 @@
    "note": "Things like sponges — echo danh mục"
   },
   {
-   "id": "P23-EN-047",
+   "id": "P23-EN-048",
    "sent": "S020",
    "text": "cleaning",
    "occ": 1,
@@ -671,7 +685,7 @@
    "note": "cleaning wipes ('floor cleaner' khác dạng, không đánh)"
   },
   {
-   "id": "P23-EN-048",
+   "id": "P23-EN-049",
    "sent": "S020",
    "text": "come with",
    "occ": 1,
@@ -685,7 +699,7 @@
    "note": "echo nguyên văn VP"
   },
   {
-   "id": "P23-EN-049",
+   "id": "P23-EN-050",
    "sent": "S020",
    "text": "saving",
    "occ": 1,
@@ -699,7 +713,7 @@
    "note": "a big saving"
   },
   {
-   "id": "P23-EN-050",
+   "id": "P23-EN-051",
    "sent": "S020",
    "text": "you",
    "occ": 1,
@@ -714,7 +728,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-051",
+   "id": "P23-EN-052",
    "sent": "S020",
    "text": "switch",
    "occ": 1,
@@ -728,7 +742,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-052",
+   "id": "P23-EN-053",
    "sent": "S021",
    "text": "savings",
    "occ": 1,
@@ -742,7 +756,7 @@
    "note": "The smallest savings (phản nghĩa 'smallest')"
   },
   {
-   "id": "P23-EN-053",
+   "id": "P23-EN-054",
    "sent": "S021",
    "text": "home-brand",
    "occ": 1,
@@ -756,7 +770,7 @@
    "note": "home-brand food items"
   },
   {
-   "id": "P23-EN-054",
+   "id": "P23-EN-055",
    "sent": "S021",
    "text": "items",
    "occ": 1,
@@ -770,7 +784,21 @@
    "note": null
   },
   {
-   "id": "P23-EN-055",
+   "id": "P23-EN-056",
+   "sent": "S021",
+   "text": "smallest",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: the biggest savings",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối biggest ↔ smallest (cùng chuỗi savings đã đánh)"
+  },
+  {
+   "id": "P23-EN-057",
    "sent": "S022",
    "text": "You",
    "occ": 1,
@@ -785,7 +813,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-056",
+   "id": "P23-EN-058",
    "sent": "S022",
    "text": "save",
    "occ": 1,
@@ -799,7 +827,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-057",
+   "id": "P23-EN-059",
    "sent": "S024",
    "text": "home brand",
    "occ": 1,
@@ -813,7 +841,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-058",
+   "id": "P23-EN-060",
    "sent": "S024",
    "text": "ones",
    "occ": 1,
@@ -827,7 +855,7 @@
    "note": "[TC] branded ones — pro-form thế NP; VI hiện thực hóa 'hàng thương hiệu' nên không có S phía VI"
   },
   {
-   "id": "P23-EN-059",
+   "id": "P23-EN-061",
    "sent": "S024",
    "text": "financial comparison site",
    "occ": 1,
@@ -841,7 +869,7 @@
    "note": "mô tả công ty lặp; Finder ≠ Compare the Market (bẫy tên, §8)"
   },
   {
-   "id": "P23-EN-060",
+   "id": "P23-EN-062",
    "sent": "S024",
    "text": "SBS News",
    "occ": 1,
@@ -855,7 +883,21 @@
    "note": null
   },
   {
-   "id": "P23-EN-061",
+   "id": "P23-EN-063",
+   "sent": "S024",
+   "text": "cost less",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: 49 per cent cheaper than",
+   "conf": "high",
+   "alt": null,
+   "note": "cost less ≈ cheaper — mắt xích thứ hai chuỗi 'rẻ'"
+  },
+  {
+   "id": "P23-EN-064",
    "sent": "S025",
    "text": "These",
    "occ": 1,
@@ -870,7 +912,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-062",
+   "id": "P23-EN-065",
    "sent": "S025",
    "text": "costs",
    "occ": 1,
@@ -884,7 +926,21 @@
    "note": "occ 1 'packaging costs'; 'formulation costs' lần 2 trong câu không đánh thêm"
   },
   {
-   "id": "P23-EN-063",
+   "id": "P23-EN-066",
+   "sent": "S025",
+   "text": "lower",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: home brand products cost less",
+   "conf": "high",
+   "alt": null,
+   "note": "lower ingredient costs ≈ cheaper/cost less"
+  },
+  {
+   "id": "P23-EN-067",
    "sent": "S026",
    "text": "But",
    "occ": 1,
@@ -898,7 +954,7 @@
    "note": "đối lập với danh sách các yếu tố nhỏ"
   },
   {
-   "id": "P23-EN-064",
+   "id": "P23-EN-068",
    "sent": "S026",
    "text": "factor",
    "occ": 1,
@@ -912,7 +968,7 @@
    "note": "reasons → the biggest factor"
   },
   {
-   "id": "P23-EN-065",
+   "id": "P23-EN-069",
    "sent": "S027",
    "text": null,
    "occ": 1,
@@ -928,7 +984,7 @@
    "note": "[LC] mệnh đề trả lời lược khung; VI gộp S026+S027 và lấp bằng 'là' nên không có E phía VI"
   },
   {
-   "id": "P23-EN-066",
+   "id": "P23-EN-070",
    "sent": "S028",
    "text": "Brands",
    "occ": 1,
@@ -942,7 +998,7 @@
    "note": "danh từ số nhiều chỉ các hãng; 'brand development' trong câu không đánh thêm"
   },
   {
-   "id": "P23-EN-067",
+   "id": "P23-EN-071",
    "sent": "S028",
    "text": "marketing",
    "occ": 1,
@@ -956,7 +1012,7 @@
    "note": "marketing campaigns"
   },
   {
-   "id": "P23-EN-068",
+   "id": "P23-EN-072",
    "sent": "S028",
    "text": "spend",
    "occ": 1,
@@ -970,7 +1026,7 @@
    "note": "but they also spend a small fortune"
   },
   {
-   "id": "P23-EN-069",
+   "id": "P23-EN-073",
    "sent": "S028",
    "text": "she",
    "occ": 3,
@@ -985,7 +1041,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-070",
+   "id": "P23-EN-074",
    "sent": "S028",
    "text": "aisles",
    "occ": 1,
@@ -999,7 +1055,7 @@
    "note": "end of aisles; VI dịch 'dãy hàng' chỉ gặp 1 lần (S026) nên chuỗi chết phía VI"
   },
   {
-   "id": "P23-EN-071",
+   "id": "P23-EN-075",
    "sent": "S029",
    "text": "Home brand",
    "occ": 1,
@@ -1013,7 +1069,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-072",
+   "id": "P23-EN-076",
    "sent": "S029",
    "text": "investing",
    "occ": 1,
@@ -1027,7 +1083,7 @@
    "note": "not investing — phủ định lại hành vi S028"
   },
   {
-   "id": "P23-EN-073",
+   "id": "P23-EN-077",
    "sent": "S029",
    "text": "this",
    "occ": 1,
@@ -1042,7 +1098,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-074",
+   "id": "P23-EN-078",
    "sent": "S029",
    "text": "shelves",
    "occ": 1,
@@ -1056,7 +1112,7 @@
    "note": "the bottom shelves"
   },
   {
-   "id": "P23-EN-075",
+   "id": "P23-EN-079",
    "sent": "S029",
    "text": "counterparts",
    "occ": 1,
@@ -1070,7 +1126,21 @@
    "note": "their more expensive counterparts"
   },
   {
-   "id": "P23-EN-076",
+   "id": "P23-EN-080",
+   "sent": "S029",
+   "text": "expensive",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: more expensive products",
+   "conf": "high",
+   "alt": null,
+   "note": "more expensive counterparts — lặp expensive"
+  },
+  {
+   "id": "P23-EN-081",
    "sent": "S030",
    "text": "supermarkets",
    "occ": 1,
@@ -1084,7 +1154,7 @@
    "note": "For supermarkets"
   },
   {
-   "id": "P23-EN-077",
+   "id": "P23-EN-082",
    "sent": "S030",
    "text": "home brand",
    "occ": 1,
@@ -1098,7 +1168,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-078",
+   "id": "P23-EN-083",
    "sent": "S030",
    "text": "shoppers",
    "occ": 1,
@@ -1112,7 +1182,7 @@
    "note": "option for shoppers — lặp nguyên văn sau 27 câu"
   },
   {
-   "id": "P23-EN-079",
+   "id": "P23-EN-084",
    "sent": "S031",
    "text": "Supermarkets",
    "occ": 1,
@@ -1126,7 +1196,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-080",
+   "id": "P23-EN-085",
    "sent": "S031",
    "text": "home brands",
    "occ": 1,
@@ -1140,7 +1210,7 @@
    "note": "love home brands"
   },
   {
-   "id": "P23-EN-081",
+   "id": "P23-EN-086",
    "sent": "S031",
    "text": "Browne",
    "occ": 1,
@@ -1154,7 +1224,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-082",
+   "id": "P23-EN-087",
    "sent": "S032",
    "text": "We",
    "occ": 1,
@@ -1169,7 +1239,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-083",
+   "id": "P23-EN-088",
    "sent": "S032",
    "text": "supermarkets",
    "occ": 1,
@@ -1183,7 +1253,7 @@
    "note": "our supermarkets in Australia"
   },
   {
-   "id": "P23-EN-084",
+   "id": "P23-EN-089",
    "sent": "S032",
    "text": "Australia",
    "occ": 1,
@@ -1197,7 +1267,7 @@
    "note": "danh từ nước tái hiện danh từ quốc dân"
   },
   {
-   "id": "P23-EN-085",
+   "id": "P23-EN-090",
    "sent": "S033",
    "text": "name brands",
    "occ": 1,
@@ -1211,7 +1281,7 @@
    "note": "biến thể 'name brands' — hàng thương hiệu"
   },
   {
-   "id": "P23-EN-086",
+   "id": "P23-EN-091",
    "sent": "S034",
    "text": "Now",
    "occ": 1,
@@ -1225,7 +1295,7 @@
    "note": "đối lập quá khứ — hiện tại"
   },
   {
-   "id": "P23-EN-087",
+   "id": "P23-EN-092",
    "sent": "S034",
    "text": "we",
    "occ": 1,
@@ -1240,7 +1310,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-088",
+   "id": "P23-EN-093",
    "sent": "S034",
    "text": "a huge shift",
    "occ": 1,
@@ -1254,7 +1324,7 @@
    "note": "echo nguyên văn VP; VI bỏ lặp này ở S032"
   },
   {
-   "id": "P23-EN-089",
+   "id": "P23-EN-094",
    "sent": "S034",
    "text": "supermarket-owned brands",
    "occ": 1,
@@ -1268,7 +1338,7 @@
    "note": "biến thể cụm: nhãn do siêu thị sở hữu"
   },
   {
-   "id": "P23-EN-090",
+   "id": "P23-EN-095",
    "sent": "S034",
    "text": "profit",
    "occ": 1,
@@ -1282,7 +1352,7 @@
    "note": "purely for profit"
   },
   {
-   "id": "P23-EN-091",
+   "id": "P23-EN-096",
    "sent": "S036",
    "text": "Portman",
    "occ": 1,
@@ -1296,7 +1366,7 @@
    "note": null
   },
   {
-   "id": "P23-EN-092",
+   "id": "P23-EN-097",
    "sent": "S036",
    "text": "save",
    "occ": 1,
@@ -1310,7 +1380,7 @@
    "note": "several other ways to save"
   },
   {
-   "id": "P23-EN-093",
+   "id": "P23-EN-098",
    "sent": "S036",
    "text": "shopping",
    "occ": 1,
@@ -1324,7 +1394,22 @@
    "note": "shop → shopping (họ từ vựng)"
   },
   {
-   "id": "P23-EN-094",
+   "id": "P23-EN-099",
+   "sent": "S036",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: Making the switch from branded products (cách tiết kiệm đầu tiên)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = ngoài cách đổi nhãn đã nêu; H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P23-EN-100",
    "sent": "S037",
    "text": "plan",
    "occ": 1,
@@ -1338,7 +1423,7 @@
    "note": "Try to plan meals"
   },
   {
-   "id": "P23-EN-095",
+   "id": "P23-EN-101",
    "sent": "S037",
    "text": "items",
    "occ": 1,
@@ -1352,7 +1437,7 @@
    "note": "what items are going to be on special"
   },
   {
-   "id": "P23-EN-096",
+   "id": "P23-EN-102",
    "sent": "S038",
    "text": "It",
    "occ": 1,
@@ -1367,7 +1452,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-097",
+   "id": "P23-EN-103",
    "sent": "S038",
    "text": "also",
    "occ": 1,
@@ -1381,7 +1466,7 @@
    "note": "nghĩa bổ sung: một cách tiết kiệm nữa"
   },
   {
-   "id": "P23-EN-098",
+   "id": "P23-EN-104",
    "sent": "S038",
    "text": "shop",
    "occ": 1,
@@ -1395,7 +1480,7 @@
    "note": "splitting your shop"
   },
   {
-   "id": "P23-EN-099",
+   "id": "P23-EN-105",
    "sent": "S038",
    "text": "he",
    "occ": 2,
@@ -1410,7 +1495,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-100",
+   "id": "P23-EN-106",
    "sent": "S039",
    "text": "We",
    "occ": 1,
@@ -1425,7 +1510,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-101",
+   "id": "P23-EN-107",
    "sent": "S040",
    "text": "He",
    "occ": 1,
@@ -1440,7 +1525,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-102",
+   "id": "P23-EN-108",
    "sent": "S040",
    "text": "also",
    "occ": 1,
@@ -1454,7 +1539,7 @@
    "note": "lời khuyên bổ sung"
   },
   {
-   "id": "P23-EN-103",
+   "id": "P23-EN-109",
    "sent": "S040",
    "text": "cost",
    "occ": 1,
@@ -1468,7 +1553,7 @@
    "note": "the overall cost"
   },
   {
-   "id": "P23-EN-104",
+   "id": "P23-EN-110",
    "sent": "S040",
    "text": "price",
    "occ": 1,
@@ -1482,7 +1567,7 @@
    "note": "the unit price"
   },
   {
-   "id": "P23-EN-105",
+   "id": "P23-EN-111",
    "sent": "S041",
    "text": "That",
    "occ": 1,
@@ -1497,7 +1582,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-EN-106",
+   "id": "P23-EN-112",
    "sent": "S041",
    "text": "you",
    "occ": 1,
@@ -1512,7 +1597,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-107",
+   "id": "P23-EN-113",
    "sent": "S041",
    "text": "you",
    "occ": 2,
@@ -1527,7 +1612,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-EN-108",
+   "id": "P23-EN-114",
    "sent": "S041",
    "text": "save",
    "occ": 1,

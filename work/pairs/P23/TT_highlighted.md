@@ -19,12 +19,12 @@ Phát ngôn nhân Phillip Portman nói với SBS News rằng 🟪⟦chi phí⟧ 
 Kate Browne, trưởng bộ phận nghiên cứu tại Compare Club, cho biết chất lượng 🟪⟦hàng nhãn riêng⟧ của siêu thị ở 🟪⟦Úc⟧ là “rất tốt”.
 Điểm duy nhất có thể thiếu là sự đa dạng lựa chọn.
 “Một loại sốt cà chua 🟪⟦nhãn riêng⟧ của siêu thị có thể chỉ có cà chua, trong khi sản phẩm 🟪⟦thương hiệu⟧ có thể thêm húng quế, tỏi hoặc hương vị khác,” 🟨⟦bà⟧ nói.
-Đôi khi 🟪⟦chênh lệch giá⟧ cũng đến từ chi tiết phụ — chẳng hạn 🟪⟦cà chua⟧ đóng hộp có nắp bật vòng hay không.
+Đôi khi 🟪⟦chênh lệch giá⟧ 🟧⟦cũng⟧ đến từ chi tiết phụ — chẳng hạn 🟪⟦cà chua⟧ đóng hộp có nắp bật vòng hay không.
 Những mặt hàng nào rẻ hơn?
 Theo 🟪⟦ông Portman⟧, sự 🟪⟦khác biệt giá⟧ lớn nhất nằm ở các sản phẩm chăm sóc cá nhân.
 “Nếu 🟨⟦bạn⟧ linh hoạt một chút với các 🟪⟦mặt hàng⟧ như 🟪⟦sữa tắm⟧ hoặc 🟪⟦nước súc miệng⟧, đây chính là nơi có mức 🟪⟦tiết kiệm⟧ nhiều nhất. Các 🟪⟦sản phẩm tẩy rửa⟧ 🟧⟦cũng⟧ thường có 🟪⟦chênh lệch giá⟧ lớn,” 🟨⟦ông⟧ nói.
 “Các 🟪⟦mặt hàng⟧ như bọt biển, khăn lau, nước lau sàn đều 🟪⟦rẻ hơn⟧ đáng kể nếu 🟨⟦bạn⟧ chuyển sang 🟪⟦nhãn riêng⟧ của siêu thị.”
-🟧⟦Trong khi đó⟧, mức 🟪⟦tiết kiệm⟧ nhỏ nhất thường đến từ thực phẩm:
+🟧⟦Trong khi đó⟧, mức 🟪⟦tiết kiệm⟧ 🟪⟦nhỏ nhất⟧ thường đến từ thực phẩm:
 khoảng 30 cent với đậu Hà Lan đông lạnh, 50 cent với bơ, và 75 cent với sữa chua.
 Vì sao hàng nhãn riêng của siêu thị rẻ hơn?
 Sarah Megginson, 🟪⟦phát ngôn nhân⟧ của Finder, từng giải thích với 🟪⟦SBS News⟧ rằng có nhiều lý do khiến sản phẩm 🟪⟦nhãn riêng⟧ của siêu thị 🟪⟦rẻ hơn⟧ so với hàng 🟪⟦thương hiệu⟧.
@@ -35,9 +35,9 @@ Sarah Megginson, 🟪⟦phát ngôn nhân⟧ của Finder, từng giải thích 
 Đối với 🟪⟦siêu thị⟧, 🟪⟦hàng nhãn riêng⟧ không chỉ là lựa chọn 🟪⟦tiết kiệm⟧ cho 🟪⟦khách hàng⟧, mà còn là nguồn lợi nhuận.
 “🟪⟦Siêu thị⟧ thích 🟪⟦nhãn riêng⟧ vì họ là chủ sở hữu,” bà 🟪⟦Browne⟧ nói.
 “🟨⟦Chúng ta⟧ đã thấy một sự thay đổi lớn trong cách bán lẻ của 🟪⟦siêu thị⟧ 🟪⟦Úc⟧. Khoảng 10–12 năm trước, sản phẩm 🟪⟦thương hiệu⟧ nhiều hơn. 🟧⟦Giờ thì⟧ 🟪⟦nhãn hàng riêng⟧ của siêu thị chiếm ngày càng lớn, và 🟪⟦lý do⟧ chính là 🟪⟦lợi nhuận⟧.”
-🟪⟦Hàng nhãn riêng⟧ của siêu thị có đáng tin cậy không? Theo tổ chức bảo vệ quyền lợi 🟪⟦người tiêu dùng⟧ CHOICE, 🟨⟦câu trả lời⟧ là có — thậm chí thường tốt hơn so với kỳ vọng. Trong nhiều năm qua, 🟪⟦CHOICE⟧ đã thử nghiệm nhiều sản phẩm 🟪⟦nhãn riêng⟧ của siêu thị và cho biết chúng thường có 🟪⟦chất lượng⟧ vượt trội so với các lựa chọn 🟪⟦đắt tiền⟧ hơn. “Một số nhóm sản phẩm cho thấy 🟨⟦điều này⟧, bao gồm trà túi lọc, 🟪⟦cà phê⟧, kem, bột rửa chén, giấy vệ sinh và nhiều 🟪⟦mặt hàng⟧ khác,” một chuyên gia của 🟪⟦CHOICE⟧ chia sẻ với 🟪⟦SBS News⟧. “🟧⟦Chẳng hạn⟧, trong bài kiểm tra 🟪⟦trà túi lọc⟧ gần đây nhất, loại Just Organic Black Tea của Aldi đạt điểm cao nhất trong tổng số 32 🟪⟦thương hiệu⟧ trà. Với giá chỉ 6 cent mỗi túi, 🟨⟦chúng tôi⟧ nhận thấy 🟨⟦sản phẩm này⟧ vừa 🟪⟦rẻ hơn⟧ vừa ngon hơn so với các 🟪⟦thương hiệu⟧ như Lipton, Twinings, Tetley và T2.”
+🟪⟦Hàng nhãn riêng⟧ của siêu thị có đáng tin cậy không? Theo tổ chức bảo vệ quyền lợi 🟪⟦người tiêu dùng⟧ CHOICE, 🟨⟦câu trả lời⟧ là có — thậm chí thường tốt hơn so với 🟪⟦kỳ vọng⟧. Trong nhiều năm qua, 🟪⟦CHOICE⟧ đã thử nghiệm nhiều sản phẩm 🟪⟦nhãn riêng⟧ của siêu thị và cho biết chúng thường có 🟪⟦chất lượng⟧ vượt trội so với các lựa chọn 🟪⟦đắt tiền⟧ hơn. “Một số nhóm sản phẩm cho thấy 🟨⟦điều này⟧, bao gồm trà túi lọc, 🟪⟦cà phê⟧, kem, bột rửa chén, giấy vệ sinh và nhiều 🟪⟦mặt hàng⟧ khác,” một chuyên gia của 🟪⟦CHOICE⟧ chia sẻ với 🟪⟦SBS News⟧. “🟧⟦Chẳng hạn⟧, trong bài kiểm tra 🟪⟦trà túi lọc⟧ gần đây nhất, loại Just Organic Black Tea của Aldi đạt điểm cao nhất trong tổng số 32 🟪⟦thương hiệu⟧ trà. Với giá chỉ 6 cent mỗi túi, 🟨⟦chúng tôi⟧ nhận thấy 🟨⟦sản phẩm này⟧ vừa 🟪⟦rẻ hơn⟧ vừa ngon hơn so với các 🟪⟦thương hiệu⟧ như Lipton, Twinings, Tetley và T2.”
 Những cách tiết kiệm khác
-🟪⟦Ông Portman⟧ nói 🟪⟦người tiêu dùng⟧ có thể 🟪⟦tiết kiệm⟧ hơn nữa nếu lên kế hoạch trước khi đi 🟪⟦siêu thị⟧.
+🟪⟦Ông Portman⟧ nói 🟪⟦người tiêu dùng⟧ có thể 🟪⟦tiết kiệm⟧ 🟨⟦hơn nữa⟧ nếu lên kế hoạch trước khi đi 🟪⟦siêu thị⟧.
 “Hãy lên thực đơn dựa trên những 🟪⟦mặt hàng⟧ đang khuyến mãi. Bạn 🟧⟦cũng⟧ có thể 🟪⟦mua sắm⟧ ở nhiều nơi khác nhau thay vì chỉ trung thành với một 🟪⟦siêu thị⟧,” 🟨⟦ông⟧ gợi ý.
 “🟨⟦Chúng tôi⟧ luôn khuyến khích 🟪⟦mọi người⟧ ‘bỏ phiếu bằng ví tiền’.”
 🟨⟦Ông⟧ 🟧⟦cũng⟧ khuyên nên chú ý đến 🟪⟦giá⟧ theo đơn vị thay vì chỉ nhìn tổng giá sản phẩm.

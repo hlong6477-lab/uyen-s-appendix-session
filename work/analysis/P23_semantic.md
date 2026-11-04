@@ -15,6 +15,20 @@
   Finder), chuyên gia CHOICE (chỉ có phía VI). Ba công ty so sánh tài chính
   tên gần giống nhau là bẫy chuỗi (xem §8).
 
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976),
+> *Cohesion in English* (references/halliday-hasan-1976.md): reference
+> (personal, demonstrative, comparative + mạo từ `the`; §2), substitution
+> (§3), ellipsis = substitution by zero (§4), conjunction
+> additive/adversative/causal/temporal + continuatives (§5), lexical
+> cohesion reiteration (§6.2) + collocation gồm cặp đối nghĩa (§6.4). VI —
+> Trần Ngọc Thêm, *Hệ thống liên kết văn bản tiếng Việt* (1985; tái bản
+> 2006) (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối
+> (§30), phép thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ
+> khiếm diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối
+> (§38, §43). Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định
+> references/en-vi-mapping.md §3 (14 phép thử).
+
 ## 1. Tổng quan nội dung, thể loại, bản đồ câu
 
 Nội dung: đổi từ sản phẩm thương hiệu sang "hàng nhãn riêng" (home brand) của
@@ -94,6 +108,12 @@ câu hỏi dẫn trong khối văn VI tự sinh, được đánh tie bình thư�
 
 Nhận định — các chỗ trông giống tỉnh lược nhưng KHÔNG đánh:
 
+**[Phase-2 theo TNT (§23, §37) + mapping §3.5]:** E-VI1 ("giúp ∅ tiết kiệm")
+đọc theo hai luồng: (i) *tỉnh lược* (chữ nghĩa lược, hồi phục được {bạn}) và
+(ii) *thế đại từ khiếm diện* (theo dõi người hưởng lợi không hình thức); theo
+quy tắc "một hình thức, một hàng" (mapping §3.13) bảng giữ duy nhất hàng E và
+phân tích ghi nhận cả hai luồng đọc. H&H (§4) gọi đây là substitution by zero.
+
 - TT S012 "Điểm duy nhất có thể thiếu là sự đa dạng lựa chọn." đối ứng EN
   S013 "The only thing you might miss…" — VI đổi động từ ngoại tiếp "miss"
   thành "thiếu" (không ngoại tiếp), trải nghiệm "you" bị hấp thu vào cấu
@@ -116,6 +136,10 @@ Nhận định — các chỗ trông giống tỉnh lược nhưng KHÔNG đánh
 Nhận định: duy nhất một phép thế trong cặp. VI đối ứng "rẻ hơn so với hàng
 thương hiệu" (TT S023) — hiện thực hóa NP đầy đủ nên KHÔNG có S phía VI
 (quy ước: EN pro-form → VI NP đầy đủ thì chỉ ghi EN + ghi chú). S: EN 1 / VI 0.
+**Theo H&H §3.2:** "ones" là thế danh từ thuần túy (thay thế CHỮ NGHĨA
+"home brand products" — lấp đầy nguyên văn vẫn hợp ngữ pháp, đúng phép thử
+§3.1.1); **TNT (§31 + mapping §3):** phép thế đẳng nghĩa là liên kết từ vựng
+(L) — chuỗi "rẻ hơn/cheaper/cost less/lower" ở §6 xử lý bằng L, không phải S.
 
 ## 4. Phép quy chiếu (reference)
 
@@ -152,19 +176,22 @@ Chuỗi Megginson: EN "she said" (S028, A ← "Sarah Megginson" S024). VI:
 | R-EN11 | "It" (S038) | "Bạn cũng có thể" (S042, tái cấu trúc) | A | S037: kế hoạch theo khuyến mãi | EN pro-it → VI chủ ngữ "bạn" tự sinh |
 | R-EN12 | "We" (S039) | "Chúng tôi" (S043) | A | S008/S006: Compare the Market | we công ty |
 | R-EN13 | "That" (S041) | "Điều này" (S045) | A | S040/S044: checking the unit price / giá theo đơn vị | R đôi song song |
+| R-EN14 | "other" (S036) | — | A | S003: Making the switch (cách tiết kiệm đầu tiên) | **[Phase-2] quy chiếu so sánh (H&H §2.5)**: "several other ways" = ngoài cách đổi nhãn; subhead S035 là tiền trạm không đánh dấu; đối xứng VI "hơn nữa" |
 | R-VI1 | — | "Đây" (S009) | A | S008: khoảng cách 164 ↔ 83 đô la | EN đối ứng là nối "So," (C) — dịch chuyển C→R |
 | R-VI2 | — | "Các yếu tố này" (S024) | A | S023: có nhiều lý do | đầu ngữ tổng quát mới + chỉ từ |
 | R-VI3 | — | "câu trả lời" (S034) | A | S033: câu hỏi "có đáng tin cậy không?" | danh từ xác định quy chiếu mở rộng (khối VI tự sinh) |
 | R-VI4 | — | "điều này" (S036) | A | S035: chất lượng vượt trội | trong khối VI tự sinh |
 | R-VI5 | — | "chúng tôi" (S038) | A | S036: một chuyên gia của CHOICE | "chúng tôi" = ban thử nghiệm CHOICE |
 | R-VI6 | — | "sản phẩm này" (S038) | A | S037: loại Just Organic Black Tea của Aldi | danh từ tổng quát + chỉ từ |
+| R-VI7 | — | "hơn nữa" (S040) | A | S007: chi phí có thể giảm gần một nửa (cách tiết kiệm đã nêu) | **[Phase-2] quy chiếu so sánh (H&H §2.5)**: "tiết kiệm hơn nữa" = hơn mức đã nêu; đối xứng EN "other" (S036) |
 
 ### 4.2. Hướng A/C/E
 
 - **A (hồi quy)**: đa số — toàn bộ chuỗi he/she/ông/bà của ba nhân vật, các
   chỉ từ "These/Các yếu tố này", "this/việc này", "That/Điều này", "It"
-  (S038), "Đây" (S009), "điều này", "sản phẩm này", "câu trả lời". Hai bên
-  đều có 15 tie A.
+  (S038), "Đây" (S009), "điều này", "sản phẩm này", "câu trả lời", và 2 quy
+  chiếu so sánh mới "other" (S036) / "hơn nữa" (S040). Hai bên đều có 16
+  tie A.
 - **C (tiền chỉ)**: đúng một trường hợp — EN S002 "Here's what it found."
   ("Here" trỏ tới toàn bộ văn thân phía sau). VI không có bản dịch dek nên
   phía VI không có C. S019 EN "It's also those cleaning items…" có "It" cleft
@@ -179,8 +206,10 @@ Chuỗi Megginson: EN "she said" (S028, A ← "Sarah Megginson" S024). VI:
 
 - Đại từ [+người] trong câu KHÔNG đánh (quy ước): EN "these transactions"
   (S004, cùng câu), "they buy… their… their" (S008), "we were expecting" +
-  "he said" (S010 — attribution cùng câu nên "we" không đủ điều kiện),
-  "in it" (S014), "your" (S015 — quote, attribution cùng câu), "yourself"
+  "he said" (S010 — attribution cùng câu nên "we" không đủ điều kiện;
+  **[Phase-2] xét lại và GIỮ quy ước loại — mapping §3.14: quy chiếu giải
+  quyết trong câu**), "in it" (S014), "your" (S015 — quote, attribution
+  cùng câu), "yourself"
   (S018 — cùng tham chiếu với "you", chỉ đánh "you"), "that's" (S018),
   "their products… they also spend" (S028), "they're… their" (S029, S030),
   "they own… those brands" (S031), "that is" (S034), "you/your" (S036 —
@@ -197,6 +226,14 @@ Chuỗi Megginson: EN "she said" (S028, A ← "Sarah Megginson" S024). VI:
   dùng đại từ [+người] cho siêu thị; VI "chúng" (S027) cho sản phẩm.
 - Đại từ nhân xưng quốc dân: "We've… our supermarkets" (EN) ↔ "Chúng ta…
   siêu thị Úc" (VI) — hai đầu đều lấy cộng đồng nói chuyện làm tâm.
+- **[Phase-2] Ứng viên so sánh bị loại vì trong câu (H&H §2.5 + quy ước
+  R chỉ [LC]):** EN S005 "more expensive products and cheaper home brand
+  items" (so sánh hai loại trong cùng câu — chuỗi "expensive/cheaper" được
+  đánh bằng L ở S008/S029); EN S014 "other flavours" (so với basil/garlic
+  trong câu); VI S013 "hương vị khác" như trên; EN S033 "a lot more name
+  brands" / VI S031 "sản phẩm thương hiệu nhiều hơn" (chuẩn so sánh ngầm
+  thời gian — quá khứ ↔ hiện tại); EN S041 "better…better…more money" /
+  VI S045 "rẻ hơn…tiết kiệm hơn" (so sánh trong câu).
 
 ## 5. Phép nối (conjunction)
 
@@ -208,6 +245,7 @@ Chuỗi Megginson: EN "she said" (S028, A ← "Sarah Megginson" S024). VI:
 | C-EN4 | "Now" (S034) | "Giờ thì" (S032) | temporal | đối lập quá khứ (S033) — hiện tại |
 | C-EN5 | "also" (S038) | "cũng" (S042) | additive | nghĩa bổ sung của "It could also mean" |
 | C-EN6 | "also" (S040) | "cũng" (S044) | additive | lời khuyên tiếp nối |
+| C-EN7 | "also" (S015) | "cũng" (S014) | additive | **[Phase-2] H&H §5.4 (nhóm 11)**: "price differences also come down to extras" — bổ sung nhân tố chênh lệch giá thứ hai sau "range of options" S013–S014; hai đầu đối xứng 1–1 |
 | C-VI1 | — | "Trong khi đó," (S020) | adversative | VI TỰ SINH nối đối lập "nhiều nhất ↔ nhỏ nhất"; EN S021 không có nối |
 | C-VI2 | — | "Chẳng hạn," (S037) | additive (minh họa) | trong khối VI tự sinh, nối ví dụ vào nhận định S036 |
 
@@ -218,8 +256,12 @@ một nối EN ("So,") bị VI thay bằng quy chiếu; VI tự sinh 2 nối ("T
 trong khi" (S014↔S013), "if/nếu", "whether/liệu", "and not just staying…
 / thay vì chỉ…" (S038↔S042 — EN giải quyết bằng "not just", VI bằng "thay
 vì"), "Sometimes/Đôi khi" và "sometimes/đôi khi" (S015↔S014, S025↔S024) —
-trạng từ tần suất, mốc nội dung; "also/cũng" (S015↔S014) là chốt thêm yếu
-giải thích, hai đầu đối xứng nhưng mỏng, ghi nhận không đánh.
+trạng từ tần suất, mốc nội dung. **[Phase-2] Điều chỉnh theo nhóm 11
+(H&H §5.4):** "also/cũng" (S015↔S014) trước đây ghi "mỏng, không đánh" —
+nay đánh dấu: đây là additive liên câu thật (bổ sung nhân tố giải thích thứ
+hai cho cùng hiện tượng chênh lệch giá), đúng dạng internal additive của
+H&H; "So," (S010) theo H&H §5.6 là causal nội tại (kết luận từ số liệu)
+— giữ nguyên.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -298,7 +340,21 @@ giải thích, hai đầu đối xứng nhưng mỏng, ghi nhận không đánh.
   có cặp EN nhưng vẫn nối về bản dịch chính văn: "cà phê" (S036) ← "cà phê
   hòa tan" (S010); "chất lượng" (S035) ← "chất lượng hàng nhãn riêng"
   (S011); "đắt tiền" (S035) ← "các sản phẩm đắt tiền hơn" (S027); "SBS
-  News" (S036) ← S023; "thương hiệu" (S037, S038) ← S031.
+  News" (S036) ← S023; "thương hiệu" (S037, S038) ← S031; **[Phase-2]
+  "kỳ vọng" (S034) ← "mong đợi" (S009) — đồng nghĩa (H&H §6.2; TNT §31
+  thế đẳng nghĩa), mắt xích thứ hai của chuỗi, reach-back xa nhất của
+  khối (25 câu)**.
+- **[Phase-2] Chuỗi 'rẻ' ba bậc (H&H §6.2; TNT §31):** EN cheaper (S005 →
+  S008) → cost less (S024) → lower (S025); VI rẻ hơn (S007 → S019 → S023)
+  — EN xoay 3 từ đồng nghĩa, VI lặp nguyên một cụm (đúng NTT 2020 §2.1:
+  EN luân chuyển, VI lặp).
+- **[Phase-2] Chuỗi 'expensive/đắt tiền'**: EN expensive (S005 → S029
+  "more expensive counterparts"); VI đắt tiền (S004 → S027 → S035) — hai
+  đầu đều 2 mắt xích sau hạt giống, đối xứng.
+- **[Phase-2] Phép đối lớn–nhỏ (TNT §30; H&H §6.4 opposites):** EN
+  biggest (S018) ↔ smallest (S021); VI nhiều nhất (S017) ↔ nhỏ nhất
+  (S020) — cùng chuỗi savings/tiết kiệm đã đánh; cặp đôi này chính là trục
+  tổ chức của tiểu mục "loại sản phẩm nào rẻ nhất".
 - Số liệu ($23, $9.50, 49%, $164, $83, 4.212, 198,16, 858,69, 10.304,32,
   30/50/75 cents, 750ml, 4kg…) và đơn vị tiền ("đô la", "cent") là nội dung
   số, không lập tie (quy ước); mốc tần suất "each week/mỗi tuần", "each
@@ -324,6 +380,10 @@ giải thích, hai đầu đối xứng nhưng mỏng, ghi nhận không đánh.
 | EN chuỗi aisle (S017→S028) không có đối ứng VI (chuỗi chết) | 1 chuỗi | S017/S028 ↔ S016/S026 |
 | VI thêm danh xưng ông/bà cho attribution (ông Portman, bà Browne, ông nói) | nhiều | S016, S029, S040–S045 |
 | EN gộp câu hỏi–đáp S026+S027 → VI 1 câu lấp "là" (mất E phía VI) | 1 | S026+S027 ↔ S025 |
+| [Phase-2] EN "other" (R so sánh) ↔ VI "hơn nữa" (R so sánh) đối xứng 1–1 | 1 | S036 ↔ S040 — H&H §2.5 |
+| [Phase-2] EN xoay 3 từ đồng nghĩa ↔ VI lặp nguyên cụm (chuỗi "rẻ") | 1 chuỗi | cheaper→cost less→lower ↔ rẻ hơn ×3 — NTT 2020 §2.1 |
+| [Phase-2] Phép đối biggest↔smallest / nhiều nhất↔nhỏ nhất đối xứng hai đầu | 1 cặp mỗi đầu | S018↔S021; S017↔S020 — TNT §30 |
+| [Phase-2] also/cũng (S015↔S014) bổ sung sau khi xét lại theo nhóm 11 | 1 cặp | H&H §5.4 |
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -361,21 +421,21 @@ giải thích, hai đầu đối xứng nhưng mỏng, ghi nhận không đánh.
 
 | Chỉ số | Đọc tay | Đã ghi tie table | Ghi chú |
 |---|---:|---:|---|
-| EN — R | 24 | 24 | A 15, C 1 ("Here" S002), E 8 (you×7, We S032) |
+| EN — R | 25 | 25 | A 16 (15 + [Phase-2] "other" S036), C 1 ("Here" S002), E 8 (you×7, We S032) |
 | EN — S | 1 | 1 | "branded ones" (S024) [TC] |
 | EN — E | 1 | 1 | S027 ∅ khung trả lời [LC] |
-| EN — C | 6 | 6 | So, also×3, But, Now |
-| EN — L | 76 | 76 | home brand 12, save/saving 10, branded 5, price 4, supermarkets 4, items 3, spending/spend 3, Compare the Market 3, SBS News 2, Portman 2, Browne 2, cost 2, shopping/shop 2, + 22 tie đơn (Australians, cheaper, Switching, tomatoes, shower gels, mouthwash, Things, cleaning, come with, switch, financial comparison site, factor, marketing, aisles, investing, shelves, counterparts, shoppers, Australia, a huge shift, profit, plan) |
-| VI — R | 18 | 18 | A 15, E 3 (bạn×2, Chúng ta) |
+| EN — C | 7 | 7 | So, also×4 (S015 mới), But, Now |
+| EN — L | 80 | 80 | +4 hàng Phase-2: smallest (S021, phép đối), cost less (S024), lower (S025), expensive (S029) |
+| VI — R | 19 | 19 | A 16 (15 + [Phase-2] "hơn nữa" S040), E 3 (bạn×2, Chúng ta) |
 | VI — S | 0 | 0 | "hàng thương hiệu" hiện thực hóa NP đầy đủ |
 | VI — E | 1 | 1 | S010 "giúp ∅ {bạn}" [LC] |
-| VI — C | 7 | 7 | nhưng, cũng×3, Giờ thì, Trong khi đó (tự sinh), Chẳng hạn (tự sinh) |
-| VI — L | 96 | 96 | hàng nhãn riêng 15, tiết kiệm 10, thương hiệu 9, siêu thị 7, person-chain 7 (người mua sắm/người Úc/người tiêu dùng/khách hàng/mọi người), mặt hàng 5, rẻ hơn 5, chi/chi phí 5, giá–chênh lệch 4, các cặp ×2 (Compare the Market, CHOICE, SBS News, Úc, đắt tiền, ông Portman, Chuyển), + 15 tie đơn (hàng ngàn đô la, cà chua, sữa tắm, nước súc miệng, sản phẩm tẩy rửa, phát ngôn nhân, nguyên nhân, quảng bá, Browne, lý do, lợi nhuận, chất lượng, cà phê, trà túi lọc, mua sắm) |
+| VI — C | 8 | 8 | nhưng, cũng×4 (S014 mới), Giờ thì, Trong khi đó (tự sinh), Chẳng hạn (tự sinh) |
+| VI — L | 98 | 98 | +2 hàng Phase-2: nhỏ nhất (S020, phép đối), kỳ vọng (S034) |
 
-Tổng: EN 108 tie (2,6 tie/câu × 41 câu), VI 122 tie (2,7 tie/câu × 45 câu)
+Tổng: EN 114 tie (2,8 tie/câu × 41 câu), VI 126 tie (2,8 tie/câu × 45 câu)
 — mật độ thấp hơn cặp chuẩn P31 (4,5 tie/câu) tuy cặp này có 2 khối tự sinh
 làm tăng số câu. Mật độ L chiếm ưu thế tuyệt đối ở cả hai đầu (EN 70%,
-VI 79%) — đặc trưng bài báo dịch vụ đi bằng chuỗi nhãn sản phẩm dày.
+VI 78%) — đặc trưng bài báo dịch vụ đi bằng chuỗi nhãn sản phẩm dày.
 
 **Kết luận:**
 1. Cặp này là "báo khuyên của người tiêu dùng" đi bằng chuỗi từ vựng: hai
@@ -393,5 +453,13 @@ VI 79%) — đặc trưng bài báo dịch vụ đi bằng chuỗi nhãn sản p
    cả khối CHOICE 6 câu (S033–S038) với câu hỏi dẫn, nối "Chẳng hạn" và
    reach-back về "cà phê/chất lượng/đắt tiền" — minh họa bản dịch tự tạo
    liên kết mới.
-5. Các mục [TC] chỉ có 1 (EN "branded ones"); mọi kết luận liên câu chỉ dựa
-   vào 229 tie [LC] (không kể [TC]) — không dùng [TC] làm bằng chứng.
+5. **[Phase-2 theo references]:** +10 tie (EN 6 / VI 4) gồm: quy chiếu so
+   sánh "other"/"hơn nữa" (H&H §2.5 — đối xứng 1–1 hiếm), phép đối
+   biggest↔smallest / nhiều nhất↔nhỏ nhất (TNT §30) hai đầu, chuỗi 'rẻ'
+   ba bậc (cheaper→cost less→lower ↔ rẻ hơn — minh họa NTT 2020 §2.1),
+   additive "also/cũng" S015↔S014 (nhóm 11, H&H §5.4), và reach-back xa
+   nhất của khối CHOICE ("kỳ vọng" ← "mong đợi", 25 câu). Hai ứng viên
+   "we/chúng tôi" (S010/S009) được XÉT LẠI và giữ quy ước loại (attribution
+   cùng câu — mapping §3.14).
+6. Các mục [TC] chỉ có 1 (EN "branded ones"); mọi kết luận liên câu chỉ dựa
+   vào 239 tie [LC] (không kể [TC]) — không dùng [TC] làm bằng chứng.

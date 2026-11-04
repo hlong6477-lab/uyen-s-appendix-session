@@ -74,6 +74,9 @@ ST = [
      "LC", None),
     ("S010", "saving", "L", "repetition", "S005: could save $4,212", "high",
      None, "danh từ hóa: a huge saving", 1, None, None, "LC", None),
+    # [Phase-2] XÉT RỒI BỎ: "we" (what we were expecting) — attribution "he
+    # said" nằm CÙNG câu nên quy chiếu giải quyết trong câu → theo quy ước
+    # hiệu chuẩn của cặp (analysis §4.3, mapping §3.14) không đánh dấu.
     # S011
     ("S011", "Switching", "L", "repetition", "S003: Making the switch", "high",
      None, "động từ hóa lại 'the switch'", 1, None, None, "LC", None),
@@ -108,6 +111,14 @@ ST = [
      "LC", None),
     ("S015", "tomatoes", "L", "repetition", "S014: only tomatoes", "high",
      None, "your tinned tomatoes", 1, None, None, "LC", None),
+    # [Phase-2] also: additive liên câu (H&H §5.4; nhóm 11) — bổ sung nhân
+    # tố thứ hai của chênh lệch giá (sau 'a range of options' S013–S014);
+    # đối xứng VI "cũng" (S014).
+    ("S015", "also", "C", "additive",
+     "S014: a branded version could include basil, garlic, or other "
+     "flavours", "med", None,
+     "price differences ALSO come down to extras — bổ sung nhân tố chênh "
+     "lệch giá thứ hai", 1, None, None, "LC", None),
     ("S015", "she", "R", "personal", "S014: Browne", "high", None,
      "chủ ngữ attribution (she said) hồi quy Browne", 1, None, None, "LC",
      "A"),
@@ -172,6 +183,13 @@ ST = [
      "high", None, "home-brand food items", 1, None, None, "LC", None),
     ("S021", "items", "L", "repetition", "S019: those cleaning items",
      "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] smallest ↔ biggest (S018): phép đối liên câu (TNT §30; H&H
+    # §6.4 opposites) — mức tiết kiệm nhỏ nhất đối lập lớn nhất; đối xứng
+    # VI "nhỏ nhất" (S020).
+    ("S021", "smallest", "L", "antonym",
+     "S018: the biggest savings", "high", None,
+     "phép đối biggest ↔ smallest (cùng chuỗi savings đã đánh)", 1, None,
+     None, "LC", None),
     # S022
     ("S022", "You", "R", "personal", "hướng độc giả (ngoài văn bản)", "high",
      None, "[LC] câu khuyên của người dẫn", 1, None, None, "LC", "E"),
@@ -191,12 +209,25 @@ ST = [
      None, None, "LC", None),
     ("S024", "SBS News", "L", "repetition", "S012: told SBS News", "high",
      None, None, 1, None, None, "LC", None),
+    # [Phase-2] cost less ← cheaper (S008): đồng nghĩa chuỗi 'rẻ' (H&H §6.2;
+    # TNT §31 thế đẳng nghĩa) — cheaper (S005→S008) → cost less (S024);
+    # VI thực hiện bằng 'rẻ hơn' (S023 đã có hàng).
+    ("S024", "cost less", "L", "synonym",
+     "S008: 49 per cent cheaper than", "high", None,
+     "cost less ≈ cheaper — mắt xích thứ hai chuỗi 'rẻ'", 1, None, None,
+     "LC", None),
     # S025
     ("S025", "These", "R", "demonstrative", "S024: a few reasons", "high",
      None, "These include — chỉ các lý do vừa nêu", 1, None, None, "LC", "A"),
     ("S025", "costs", "L", "repetition", "S024: cost less", "high", None,
      "occ 1 'packaging costs'; 'formulation costs' lần 2 trong câu không "
      "đánh thêm", 1, None, None, "LC", None),
+    # [Phase-2] lower ← cost less (S024): mắt xích thứ ba chuỗi 'rẻ'
+    # (H&H §6.2; TNT §31) — cheaper → cost less → lower (ingredient costs).
+    ("S025", "lower", "L", "synonym",
+     "S024: home brand products cost less", "high", None,
+     "lower ingredient costs ≈ cheaper/cost less", 1, None, None, "LC",
+     None),
     # S026
     ("S026", "But", "C", "adversative",
      "S025: These include reduced packaging costs", "high", None,
@@ -237,6 +268,13 @@ ST = [
     ("S029", "counterparts", "L", "repetition",
      "S008: brand-name counterparts", "high", None,
      "their more expensive counterparts", 1, None, None, "LC", None),
+    # [Phase-2] expensive ← expensive (S005): mắt xích thứ hai chuỗi
+    # 'expensive' (H&H §6.2) — VI đối ứng 'đắt tiền' (S027) đã có hàng;
+    # phép đối với chuỗi cheaper được ghi ở analysis §6.
+    ("S029", "expensive", "L", "repetition",
+     "S005: more expensive products", "high", None,
+     "more expensive counterparts — lặp expensive", 1, None, None, "LC",
+     None),
     # S030
     ("S030", "supermarkets", "L", "repetition",
      "S005: two major supermarkets", "high", None, "For supermarkets", 1,
@@ -287,6 +325,15 @@ ST = [
      "several other ways to save", 1, None, None, "LC", None),
     ("S036", "shopping", "L", "repetition", "S007: their weekly shop", "med",
      None, "shop → shopping (họ từ vựng)", 1, None, None, "LC", None),
+    # [Phase-2] other: quy chiếu so sánh (H&H §2.5 "other") — 'several
+    # other ways to save' = ngoài cách đổi sang hàng nhãn đã mô tả từ S003;
+    # subhead S035 'Other ways to save' là tiền trạm không đánh dấu; đối
+    # xứng VI "hơn nữa" (S040).
+    ("S036", "other", "R", "comparative",
+     "S003: Making the switch from branded products (cách tiết kiệm đầu "
+     "tiên)", "med", None,
+     "[LC] quy chiếu so sánh: other = ngoài cách đổi nhãn đã nêu; H&H §2.5", 1,
+     None, None, "LC", "A"),
     # S037
     ("S037", "plan", "L", "repetition", "S036: plan ahead", "high", None,
      "Try to plan meals", 1, None, None, "LC", None),
@@ -417,6 +464,9 @@ TT = [
     ("S009", "tiết kiệm", "L", "repetition",
      "S004: tiết kiệm 4.212 đô la", "high", None, "mức tiết kiệm", 1, None,
      None, "LC", None),
+    # [Phase-2] XÉT RỒI BỎ: "chúng tôi" — attribution "ông nói" nằm CÙNG
+    # câu → quy chiếu giải quyết trong câu → không đánh dấu (§4.3, đối
+    # xứng với EN "we" S010 cũng bỏ).
     # S010
     ("S010", "Chuyển", "L", "repetition",
      "S002: Chuyển sang dùng hàng nhãn riêng", "high", None, None, 1, None,
@@ -452,6 +502,12 @@ TT = [
      "VI hợp nhất chuỗi 'chênh lệch' + 'giá'", 1, None, None, "LC", None),
     ("S014", "cà chua", "L", "repetition", "S013: chỉ có cà chua", "high",
      None, "cà chua đóng hộp", 1, None, None, "LC", None),
+    # [Phase-2] cũng: additive liên câu (H&H §5.4; nhóm 11) — đối xứng
+    # EN "also" (S015).
+    ("S014", "cũng", "C", "additive",
+     "S013: sản phẩm thương hiệu có thể thêm húng quế", "med", None,
+     "chênh lệch giá CŨNG đến từ chi tiết phụ — bổ sung nhân tố thứ hai", 1,
+     None, None, "LC", None),
     # S016
     ("S016", "ông Portman", "L", "repetition",
      "S007: Phát ngôn nhân Phillip Portman", "high", None,
@@ -508,6 +564,12 @@ TT = [
      "S017: mức tiết kiệm nhiều nhất", "high", None,
      "mức tiết kiệm nhỏ nhất (phản nghĩa 'nhỏ nhất')", 1, None, None, "LC",
      None),
+    # [Phase-2] nhỏ nhất ↔ nhiều nhất (S017): phép đối liên câu (TNT §30;
+    # H&H §6.4) — đối xứng EN "smallest" (S021).
+    ("S020", "nhỏ nhất", "L", "antonym",
+     "S017: mức tiết kiệm nhiều nhất", "high", None,
+     "phép đối nhiều nhất ↔ nhỏ nhất (cùng chuỗi tiết kiệm đã đánh)", 1,
+     None, None, "LC", None),
     # S023
     ("S023", "phát ngôn nhân", "L", "repetition",
      "S007: Phát ngôn nhân Phillip Portman", "med", None,
@@ -628,6 +690,13 @@ TT = [
      None,
      "danh từ xác định quy chiếu mở rộng về câu hỏi trước đó", 1, None,
      None, "LC", "A"),
+    # [Phase-2] kỳ vọng ← mong đợi (S009): đồng nghĩa (H&H §6.2; TNT §31)
+    # — VI tự sinh khối CHOICE; khoảng cách xa (25 câu) nhưng hai mắt xích
+    # là toàn bộ chuỗi 'mong đợi/kỳ vọng'.
+    ("S034", "kỳ vọng", "L", "synonym",
+     "S009: vượt ngoài mong đợi của chúng tôi", "med", None,
+     "kỳ vọng ≈ mong đợi — mắt xích thứ hai của chuỗi 'kỳ vọng' (VI tự "
+     "sinh khối CHOICE)", 1, None, None, "LC", None),
     # S035
     ("S035", "CHOICE", "L", "repetition",
      "S034: tổ chức bảo vệ quyền lợi người tiêu dùng CHOICE", "high", None,
@@ -690,6 +759,14 @@ TT = [
      "high", None, "tiết kiệm hơn nữa", 1, None, None, "LC", None),
     ("S040", "siêu thị", "L", "repetition", "S030: siêu thị Úc", "high",
      None, "trước khi đi siêu thị", 1, None, None, "LC", None),
+    # [Phase-2] hơn nữa: quy chiếu so sánh (H&H §2.5) — 'tiết kiệm hơn
+    # nữa' = hơn các cách tiết kiệm đã nêu (đổi nhãn S001–S019...); đối
+    # xứng EN "other" (S036).
+    ("S040", "hơn nữa", "R", "comparative",
+     "S007: chi phí có thể giảm gần một nửa (cách tiết kiệm đã nêu)", "med",
+     None,
+     "[LC] quy chiếu so sánh: hơn nữa = hơn mức tiết kiệm đã nêu; H&H §2.5", 1,
+     None, None, "LC", "A"),
     # S041
     ("S041", "mặt hàng", "L", "repetition",
      "S036: nhiều mặt hàng khác", "high", None,

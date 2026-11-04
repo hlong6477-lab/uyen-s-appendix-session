@@ -19,25 +19,25 @@ What were the biggest price differences?
 Kate Browne, head of research at Compare Club, told 🟪⟦SBS News⟧ 🟪⟦home brand⟧ quality in Australia is "very good".
 The only thing 🟨⟦you⟧ might miss is a range of options.
 A 🟪⟦home brand⟧ pasta sauce might just have only tomatoes in it, 🟪⟦Browne⟧ said, while a 🟪⟦branded⟧ version could include basil, garlic, or other flavours.
-Sometimes, 🟪⟦price differences⟧ also come down to extras — like whether your tinned 🟪⟦tomatoes⟧ have a ring-pull lid or not, 🟨⟦she⟧ said.
+Sometimes, 🟪⟦price differences⟧ 🟧⟦also⟧ come down to extras — like whether your tinned 🟪⟦tomatoes⟧ have a ring-pull lid or not, 🟨⟦she⟧ said.
 Which types of products were cheaper?
 🟪⟦Portman⟧ said the biggest 🟪⟦price differences⟧ are in the toiletries aisle.
 "If 🟨⟦you⟧ give yourself a bit of wiggle room around things like 🟪⟦shower gels⟧ or 🟪⟦mouthwash⟧, that's where 🟨⟦we⟧ stand to see the biggest 🟪⟦savings⟧. It's 🟧⟦also⟧ 🟨⟦those cleaning items⟧ that tend to come with a bigger 🟪⟦price difference⟧," 🟨⟦he⟧ said.
 "🟪⟦Things⟧ like sponges, 🟪⟦cleaning⟧ wipes, floor cleaner, they all 🟪⟦come with⟧ a big 🟪⟦saving⟧ if 🟨⟦you⟧ are willing to 🟪⟦switch⟧."
-The smallest 🟪⟦savings⟧ were made on 🟪⟦home-brand⟧ food 🟪⟦items⟧.
+The 🟪⟦smallest⟧ 🟪⟦savings⟧ were made on 🟪⟦home-brand⟧ food 🟪⟦items⟧.
 🟨⟦You⟧ could 🟪⟦save⟧ around 30 cents on frozen peas, 50 cents on butter, and 75 cents on yoghurt.
 Why are home brand products cheaper?
-Sarah Megginson, media spokesperson at 🟪⟦financial comparison site⟧ Finder, previously told 🟪⟦SBS News⟧ there are a few reasons why 🟪⟦home brand⟧ products cost less than branded 🟩⟦ones⟧.
-🟨⟦These⟧ include reduced packaging 🟪⟦costs⟧, fewer or no margins for intermediaries in the supply chain, and sometimes lower ingredient or formulation costs.
+Sarah Megginson, media spokesperson at 🟪⟦financial comparison site⟧ Finder, previously told 🟪⟦SBS News⟧ there are a few reasons why 🟪⟦home brand⟧ products 🟪⟦cost less⟧ than branded 🟩⟦ones⟧.
+🟨⟦These⟧ include reduced packaging 🟪⟦costs⟧, fewer or no margins for intermediaries in the supply chain, and sometimes 🟪⟦lower⟧ ingredient or formulation costs.
 🟧⟦But⟧ the biggest 🟪⟦factor⟧? 🟦⟦∅⟧Minimal marketing spend.
 "🟪⟦Brands⟧ not only invest huge dollars in brand development and 🟪⟦marketing⟧ campaigns for their products out in the world, but they also 🟪⟦spend⟧ a small fortune with Woolworths to secure 'shelf space' in the prized eye-level shelves or end of 🟪⟦aisles⟧," 🟨⟦she⟧ said.
-"🟪⟦Home brand⟧ products are obviously not 🟪⟦investing⟧ in 🟨⟦this⟧ — they're happily sitting on the bottom 🟪⟦shelves⟧, out of the way of their more expensive 🟪⟦counterparts⟧."
+"🟪⟦Home brand⟧ products are obviously not 🟪⟦investing⟧ in 🟨⟦this⟧ — they're happily sitting on the bottom 🟪⟦shelves⟧, out of the way of their more 🟪⟦expensive⟧ 🟪⟦counterparts⟧."
 For 🟪⟦supermarkets⟧, 🟪⟦home brand⟧ products can be more than a budget-friendly option for 🟪⟦shoppers⟧ — they're also a profit booster.
 "🟪⟦Supermarkets⟧ love 🟪⟦home brands⟧ because they own those brands," 🟪⟦Browne⟧ said.
 "🟨⟦We⟧'ve seen a huge shift in the way our 🟪⟦supermarkets⟧ in 🟪⟦Australia⟧ retail. Ten or 12 years ago, there were a lot more 🟪⟦name brands⟧. 🟧⟦Now⟧ 🟨⟦we⟧'ve seen 🟪⟦a huge shift⟧ to more and more 🟪⟦supermarket-owned brands⟧, and that is purely for 🟪⟦profit⟧."
 
 Other ways to save
-🟪⟦Portman⟧ said there are several other ways to 🟪⟦save⟧ on your grocery bill if you plan ahead of your 🟪⟦shopping⟧.
+🟪⟦Portman⟧ said there are several 🟨⟦other⟧ ways to 🟪⟦save⟧ on your grocery bill if you plan ahead of your 🟪⟦shopping⟧.
 "Try to 🟪⟦plan⟧ meals around what 🟪⟦items⟧ are going to be on special. 🟨⟦It⟧ could 🟧⟦also⟧ mean splitting your 🟪⟦shop⟧ between multiple stores and not just staying loyal to the one store," 🟨⟦he⟧ said.
 "🟨⟦We⟧ always encourage people to vote with their wallets."
 🟨⟦He⟧ 🟧⟦also⟧ suggested looking past the overall 🟪⟦cost⟧ of a product and checking the unit 🟪⟦price⟧.

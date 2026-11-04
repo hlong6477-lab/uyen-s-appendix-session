@@ -498,6 +498,20 @@
   },
   {
    "id": "P23-VI-036",
+   "sent": "S014",
+   "text": "cũng",
+   "occ": 1,
+   "cat": "C",
+   "sub": "additive",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: sản phẩm thương hiệu có thể thêm húng quế",
+   "conf": "med",
+   "alt": null,
+   "note": "chênh lệch giá CŨNG đến từ chi tiết phụ — bổ sung nhân tố thứ hai"
+  },
+  {
+   "id": "P23-VI-037",
    "sent": "S016",
    "text": "ông Portman",
    "occ": 1,
@@ -511,7 +525,7 @@
    "note": "Theo ông Portman — danh xưng + tên"
   },
   {
-   "id": "P23-VI-037",
+   "id": "P23-VI-038",
    "sent": "S016",
    "text": "khác biệt giá",
    "occ": 1,
@@ -525,7 +539,7 @@
    "note": "khác biệt ≈ chênh lệch (đồng nghĩa)"
   },
   {
-   "id": "P23-VI-038",
+   "id": "P23-VI-039",
    "sent": "S017",
    "text": "bạn",
    "occ": 1,
@@ -540,7 +554,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-VI-039",
+   "id": "P23-VI-040",
    "sent": "S017",
    "text": "mặt hàng",
    "occ": 1,
@@ -554,7 +568,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-040",
+   "id": "P23-VI-041",
    "sent": "S017",
    "text": "sữa tắm",
    "occ": 1,
@@ -568,7 +582,7 @@
    "note": "EN 'body wash' + 'shower gels' hội tụ về 'sữa tắm'"
   },
   {
-   "id": "P23-VI-041",
+   "id": "P23-VI-042",
    "sent": "S017",
    "text": "nước súc miệng",
    "occ": 1,
@@ -582,7 +596,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-042",
+   "id": "P23-VI-043",
    "sent": "S017",
    "text": "tiết kiệm",
    "occ": 1,
@@ -596,7 +610,7 @@
    "note": "mức tiết kiệm nhiều nhất"
   },
   {
-   "id": "P23-VI-043",
+   "id": "P23-VI-044",
    "sent": "S018",
    "text": "sản phẩm tẩy rửa",
    "occ": 1,
@@ -610,7 +624,7 @@
    "note": "danh mục gần nghĩa trong cùng khu bán; EN 'those cleaning items' là R (chỉ từ) — dịch chuyển R→L"
   },
   {
-   "id": "P23-VI-044",
+   "id": "P23-VI-045",
    "sent": "S018",
    "text": "cũng",
    "occ": 1,
@@ -624,7 +638,7 @@
    "note": "bổ sung nhóm tẩy rửa vào danh mục"
   },
   {
-   "id": "P23-VI-045",
+   "id": "P23-VI-046",
    "sent": "S018",
    "text": "chênh lệch giá",
    "occ": 1,
@@ -638,7 +652,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-046",
+   "id": "P23-VI-047",
    "sent": "S018",
    "text": "ông",
    "occ": 1,
@@ -653,7 +667,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-047",
+   "id": "P23-VI-048",
    "sent": "S019",
    "text": "mặt hàng",
    "occ": 1,
@@ -667,7 +681,7 @@
    "note": "Các mặt hàng như bọt biển"
   },
   {
-   "id": "P23-VI-048",
+   "id": "P23-VI-049",
    "sent": "S019",
    "text": "rẻ hơn",
    "occ": 1,
@@ -681,7 +695,7 @@
    "note": "đều rẻ hơn đáng kể"
   },
   {
-   "id": "P23-VI-049",
+   "id": "P23-VI-050",
    "sent": "S019",
    "text": "bạn",
    "occ": 1,
@@ -696,7 +710,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-VI-050",
+   "id": "P23-VI-051",
    "sent": "S019",
    "text": "nhãn riêng",
    "occ": 1,
@@ -710,7 +724,7 @@
    "note": "chuyển sang nhãn riêng của siêu thị"
   },
   {
-   "id": "P23-VI-051",
+   "id": "P23-VI-052",
    "sent": "S020",
    "text": "Trong khi đó",
    "occ": 1,
@@ -724,7 +738,7 @@
    "note": "VI TỰ SINH nối đối lập 'nhiều nhất ↔ nhỏ nhất'; EN S021 không có nối"
   },
   {
-   "id": "P23-VI-052",
+   "id": "P23-VI-053",
    "sent": "S020",
    "text": "tiết kiệm",
    "occ": 1,
@@ -738,7 +752,21 @@
    "note": "mức tiết kiệm nhỏ nhất (phản nghĩa 'nhỏ nhất')"
   },
   {
-   "id": "P23-VI-053",
+   "id": "P23-VI-054",
+   "sent": "S020",
+   "text": "nhỏ nhất",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: mức tiết kiệm nhiều nhất",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối nhiều nhất ↔ nhỏ nhất (cùng chuỗi tiết kiệm đã đánh)"
+  },
+  {
+   "id": "P23-VI-055",
    "sent": "S023",
    "text": "phát ngôn nhân",
    "occ": 1,
@@ -752,7 +780,7 @@
    "note": "lặp chức danh; Finder là công ty khác (§8)"
   },
   {
-   "id": "P23-VI-054",
+   "id": "P23-VI-056",
    "sent": "S023",
    "text": "SBS News",
    "occ": 1,
@@ -766,7 +794,7 @@
    "note": "từng giải thích với SBS News"
   },
   {
-   "id": "P23-VI-055",
+   "id": "P23-VI-057",
    "sent": "S023",
    "text": "nhãn riêng",
    "occ": 1,
@@ -780,7 +808,7 @@
    "note": "sản phẩm nhãn riêng của siêu thị"
   },
   {
-   "id": "P23-VI-056",
+   "id": "P23-VI-058",
    "sent": "S023",
    "text": "rẻ hơn",
    "occ": 1,
@@ -794,7 +822,7 @@
    "note": "rẻ hơn so với hàng thương hiệu"
   },
   {
-   "id": "P23-VI-057",
+   "id": "P23-VI-059",
    "sent": "S023",
    "text": "thương hiệu",
    "occ": 1,
@@ -808,7 +836,7 @@
    "note": "hàng thương hiệu — hiện thực hóa 'branded ones' của EN bằng NP đầy đủ"
   },
   {
-   "id": "P23-VI-058",
+   "id": "P23-VI-060",
    "sent": "S024",
    "text": "Các yếu tố này",
    "occ": 1,
@@ -823,7 +851,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-059",
+   "id": "P23-VI-061",
    "sent": "S024",
    "text": "chi phí",
    "occ": 1,
@@ -837,7 +865,7 @@
    "note": "chi phí bao bì thấp hơn"
   },
   {
-   "id": "P23-VI-060",
+   "id": "P23-VI-062",
    "sent": "S025",
    "text": "Nhưng",
    "occ": 1,
@@ -851,7 +879,7 @@
    "note": "đối lập với danh sách các yếu tố; VI gộp EN S026+S027"
   },
   {
-   "id": "P23-VI-061",
+   "id": "P23-VI-063",
    "sent": "S025",
    "text": "nguyên nhân",
    "occ": 1,
@@ -865,7 +893,7 @@
    "note": "lý do → nguyên nhân; EN 'factor'"
   },
   {
-   "id": "P23-VI-062",
+   "id": "P23-VI-064",
    "sent": "S025",
    "text": "chi phí",
    "occ": 1,
@@ -879,7 +907,7 @@
    "note": "chi phí tiếp thị ở mức tối thiểu"
   },
   {
-   "id": "P23-VI-063",
+   "id": "P23-VI-065",
    "sent": "S026",
    "text": "thương hiệu",
    "occ": 1,
@@ -893,7 +921,7 @@
    "note": "Các thương hiệu — chỉ các hãng"
   },
   {
-   "id": "P23-VI-064",
+   "id": "P23-VI-066",
    "sent": "S026",
    "text": "chi",
    "occ": 1,
@@ -907,7 +935,7 @@
    "note": "chi rất nhiều ('không chỉ' không tính — 'chỉ' khác 'chi')"
   },
   {
-   "id": "P23-VI-065",
+   "id": "P23-VI-067",
    "sent": "S026",
    "text": "quảng bá",
    "occ": 1,
@@ -921,7 +949,7 @@
    "note": "tiếp thị → quảng bá (trường nghĩa marketing)"
   },
   {
-   "id": "P23-VI-066",
+   "id": "P23-VI-068",
    "sent": "S026",
    "text": "bà",
    "occ": 2,
@@ -936,7 +964,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-067",
+   "id": "P23-VI-069",
    "sent": "S027",
    "text": "Hàng nhãn riêng",
    "occ": 1,
@@ -950,7 +978,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-068",
+   "id": "P23-VI-070",
    "sent": "S027",
    "text": "chi",
    "occ": 1,
@@ -964,7 +992,7 @@
    "note": "không chi cho việc này — phủ định lại"
   },
   {
-   "id": "P23-VI-069",
+   "id": "P23-VI-071",
    "sent": "S027",
    "text": "việc này",
    "occ": 1,
@@ -979,7 +1007,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-070",
+   "id": "P23-VI-072",
    "sent": "S027",
    "text": "đắt tiền",
    "occ": 1,
@@ -993,7 +1021,7 @@
    "note": "các sản phẩm đắt tiền hơn"
   },
   {
-   "id": "P23-VI-071",
+   "id": "P23-VI-073",
    "sent": "S028",
    "text": "siêu thị",
    "occ": 1,
@@ -1007,7 +1035,7 @@
    "note": "Đối với siêu thị"
   },
   {
-   "id": "P23-VI-072",
+   "id": "P23-VI-074",
    "sent": "S028",
    "text": "hàng nhãn riêng",
    "occ": 1,
@@ -1021,7 +1049,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-073",
+   "id": "P23-VI-075",
    "sent": "S028",
    "text": "tiết kiệm",
    "occ": 1,
@@ -1035,7 +1063,7 @@
    "note": "lựa chọn tiết kiệm — EN 'budget-friendly' (đồng nghĩa gia tiết kiệm)"
   },
   {
-   "id": "P23-VI-074",
+   "id": "P23-VI-076",
    "sent": "S028",
    "text": "khách hàng",
    "occ": 1,
@@ -1049,7 +1077,7 @@
    "note": "đổi nhãn person-chain"
   },
   {
-   "id": "P23-VI-075",
+   "id": "P23-VI-077",
    "sent": "S029",
    "text": "Siêu thị",
    "occ": 1,
@@ -1063,7 +1091,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-076",
+   "id": "P23-VI-078",
    "sent": "S029",
    "text": "nhãn riêng",
    "occ": 1,
@@ -1077,7 +1105,7 @@
    "note": "thích nhãn riêng"
   },
   {
-   "id": "P23-VI-077",
+   "id": "P23-VI-079",
    "sent": "S029",
    "text": "Browne",
    "occ": 1,
@@ -1091,7 +1119,7 @@
    "note": "bà Browne — VI thêm danh xưng (EN chỉ 'Browne')"
   },
   {
-   "id": "P23-VI-078",
+   "id": "P23-VI-080",
    "sent": "S030",
    "text": "Chúng ta",
    "occ": 1,
@@ -1106,7 +1134,7 @@
    "ref": "E"
   },
   {
-   "id": "P23-VI-079",
+   "id": "P23-VI-081",
    "sent": "S030",
    "text": "siêu thị",
    "occ": 1,
@@ -1120,7 +1148,7 @@
    "note": "cách bán lẻ của siêu thị Úc"
   },
   {
-   "id": "P23-VI-080",
+   "id": "P23-VI-082",
    "sent": "S030",
    "text": "Úc",
    "occ": 1,
@@ -1134,7 +1162,7 @@
    "note": "siêu thị Úc"
   },
   {
-   "id": "P23-VI-081",
+   "id": "P23-VI-083",
    "sent": "S031",
    "text": "thương hiệu",
    "occ": 1,
@@ -1148,7 +1176,7 @@
    "note": "sản phẩm thương hiệu nhiều hơn"
   },
   {
-   "id": "P23-VI-082",
+   "id": "P23-VI-084",
    "sent": "S032",
    "text": "Giờ thì",
    "occ": 1,
@@ -1162,7 +1190,7 @@
    "note": "đối lập quá khứ — hiện tại; EN 'Now' (S034)"
   },
   {
-   "id": "P23-VI-083",
+   "id": "P23-VI-085",
    "sent": "S032",
    "text": "nhãn hàng riêng",
    "occ": 1,
@@ -1176,7 +1204,7 @@
    "note": "biến thể đảo 'nhãn hàng riêng' (§8)"
   },
   {
-   "id": "P23-VI-084",
+   "id": "P23-VI-086",
    "sent": "S032",
    "text": "lý do",
    "occ": 1,
@@ -1190,7 +1218,7 @@
    "note": "VI tự sinh 'lý do chính' (EN chỉ có 'that is purely for profit')"
   },
   {
-   "id": "P23-VI-085",
+   "id": "P23-VI-087",
    "sent": "S032",
    "text": "lợi nhuận",
    "occ": 1,
@@ -1204,7 +1232,7 @@
    "note": "lý do chính là lợi nhuận"
   },
   {
-   "id": "P23-VI-086",
+   "id": "P23-VI-088",
    "sent": "S033",
    "text": "Hàng nhãn riêng",
    "occ": 1,
@@ -1218,7 +1246,7 @@
    "note": "câu hỏi dẫn trong khối VI tự sinh (không phải subhead)"
   },
   {
-   "id": "P23-VI-087",
+   "id": "P23-VI-089",
    "sent": "S034",
    "text": "người tiêu dùng",
    "occ": 1,
@@ -1232,7 +1260,7 @@
    "note": "lặp nguyên văn; S028 'khách hàng' gần hơn về khoảng cách nhưng khác nhãn"
   },
   {
-   "id": "P23-VI-088",
+   "id": "P23-VI-090",
    "sent": "S034",
    "text": "câu trả lời",
    "occ": 1,
@@ -1247,7 +1275,21 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-089",
+   "id": "P23-VI-091",
+   "sent": "S034",
+   "text": "kỳ vọng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: vượt ngoài mong đợi của chúng tôi",
+   "conf": "med",
+   "alt": null,
+   "note": "kỳ vọng ≈ mong đợi — mắt xích thứ hai của chuỗi 'kỳ vọng' (VI tự sinh khối CHOICE)"
+  },
+  {
+   "id": "P23-VI-092",
    "sent": "S035",
    "text": "CHOICE",
    "occ": 1,
@@ -1261,7 +1303,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-090",
+   "id": "P23-VI-093",
    "sent": "S035",
    "text": "nhãn riêng",
    "occ": 1,
@@ -1275,7 +1317,7 @@
    "note": "sản phẩm nhãn riêng của siêu thị"
   },
   {
-   "id": "P23-VI-091",
+   "id": "P23-VI-094",
    "sent": "S035",
    "text": "chất lượng",
    "occ": 1,
@@ -1289,7 +1331,7 @@
    "note": "reach-back về bản dịch chính văn"
   },
   {
-   "id": "P23-VI-092",
+   "id": "P23-VI-095",
    "sent": "S035",
    "text": "đắt tiền",
    "occ": 1,
@@ -1303,7 +1345,7 @@
    "note": "so với các lựa chọn đắt tiền hơn"
   },
   {
-   "id": "P23-VI-093",
+   "id": "P23-VI-096",
    "sent": "S036",
    "text": "điều này",
    "occ": 1,
@@ -1318,7 +1360,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-094",
+   "id": "P23-VI-097",
    "sent": "S036",
    "text": "mặt hàng",
    "occ": 1,
@@ -1332,7 +1374,7 @@
    "note": "và nhiều mặt hàng khác"
   },
   {
-   "id": "P23-VI-095",
+   "id": "P23-VI-098",
    "sent": "S036",
    "text": "CHOICE",
    "occ": 1,
@@ -1346,7 +1388,7 @@
    "note": "một chuyên gia của CHOICE"
   },
   {
-   "id": "P23-VI-096",
+   "id": "P23-VI-099",
    "sent": "S036",
    "text": "SBS News",
    "occ": 1,
@@ -1360,7 +1402,7 @@
    "note": "chia sẻ với SBS News"
   },
   {
-   "id": "P23-VI-097",
+   "id": "P23-VI-100",
    "sent": "S036",
    "text": "cà phê",
    "occ": 1,
@@ -1374,7 +1416,7 @@
    "note": "trà túi lọc, cà phê, kem — vươn về bản dịch chính văn"
   },
   {
-   "id": "P23-VI-098",
+   "id": "P23-VI-101",
    "sent": "S037",
    "text": "Chẳng hạn",
    "occ": 1,
@@ -1388,7 +1430,7 @@
    "note": "nối ví dụ — minh họa; trong khối VI tự sinh"
   },
   {
-   "id": "P23-VI-099",
+   "id": "P23-VI-102",
    "sent": "S037",
    "text": "trà túi lọc",
    "occ": 1,
@@ -1402,7 +1444,7 @@
    "note": "bài kiểm tra trà túi lọc"
   },
   {
-   "id": "P23-VI-100",
+   "id": "P23-VI-103",
    "sent": "S037",
    "text": "thương hiệu",
    "occ": 1,
@@ -1416,7 +1458,7 @@
    "note": "trong tổng số 32 thương hiệu trà"
   },
   {
-   "id": "P23-VI-101",
+   "id": "P23-VI-104",
    "sent": "S038",
    "text": "chúng tôi",
    "occ": 1,
@@ -1431,7 +1473,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-102",
+   "id": "P23-VI-105",
    "sent": "S038",
    "text": "sản phẩm này",
    "occ": 1,
@@ -1446,7 +1488,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-103",
+   "id": "P23-VI-106",
    "sent": "S038",
    "text": "rẻ hơn",
    "occ": 1,
@@ -1460,7 +1502,7 @@
    "note": "vừa rẻ hơn vừa ngon hơn"
   },
   {
-   "id": "P23-VI-104",
+   "id": "P23-VI-107",
    "sent": "S038",
    "text": "thương hiệu",
    "occ": 1,
@@ -1474,7 +1516,7 @@
    "note": "các thương hiệu như Lipton, Twinings, Tetley và T2"
   },
   {
-   "id": "P23-VI-105",
+   "id": "P23-VI-108",
    "sent": "S040",
    "text": "Ông Portman",
    "occ": 1,
@@ -1488,7 +1530,7 @@
    "note": "danh xưng + tên"
   },
   {
-   "id": "P23-VI-106",
+   "id": "P23-VI-109",
    "sent": "S040",
    "text": "người tiêu dùng",
    "occ": 1,
@@ -1502,7 +1544,7 @@
    "note": null
   },
   {
-   "id": "P23-VI-107",
+   "id": "P23-VI-110",
    "sent": "S040",
    "text": "tiết kiệm",
    "occ": 1,
@@ -1516,7 +1558,7 @@
    "note": "tiết kiệm hơn nữa"
   },
   {
-   "id": "P23-VI-108",
+   "id": "P23-VI-111",
    "sent": "S040",
    "text": "siêu thị",
    "occ": 1,
@@ -1530,7 +1572,22 @@
    "note": "trước khi đi siêu thị"
   },
   {
-   "id": "P23-VI-109",
+   "id": "P23-VI-112",
+   "sent": "S040",
+   "text": "hơn nữa",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: chi phí có thể giảm gần một nửa (cách tiết kiệm đã nêu)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: hơn nữa = hơn mức tiết kiệm đã nêu; H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P23-VI-113",
    "sent": "S041",
    "text": "mặt hàng",
    "occ": 1,
@@ -1544,7 +1601,7 @@
    "note": "những mặt hàng đang khuyến mãi"
   },
   {
-   "id": "P23-VI-110",
+   "id": "P23-VI-114",
    "sent": "S042",
    "text": "cũng",
    "occ": 1,
@@ -1558,7 +1615,7 @@
    "note": "cách tiết kiệm bổ sung; song song EN 'also' (S038)"
   },
   {
-   "id": "P23-VI-111",
+   "id": "P23-VI-115",
    "sent": "S042",
    "text": "mua sắm",
    "occ": 1,
@@ -1572,7 +1629,7 @@
    "note": "có thể mua sắm ở nhiều nơi khác nhau"
   },
   {
-   "id": "P23-VI-112",
+   "id": "P23-VI-116",
    "sent": "S042",
    "text": "siêu thị",
    "occ": 1,
@@ -1586,7 +1643,7 @@
    "note": "trung thành với một siêu thị"
   },
   {
-   "id": "P23-VI-113",
+   "id": "P23-VI-117",
    "sent": "S042",
    "text": "ông",
    "occ": 1,
@@ -1601,7 +1658,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-114",
+   "id": "P23-VI-118",
    "sent": "S043",
    "text": "Chúng tôi",
    "occ": 1,
@@ -1616,7 +1673,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-115",
+   "id": "P23-VI-119",
    "sent": "S043",
    "text": "mọi người",
    "occ": 1,
@@ -1630,7 +1687,7 @@
    "note": "đổi nhãn person-chain"
   },
   {
-   "id": "P23-VI-116",
+   "id": "P23-VI-120",
    "sent": "S044",
    "text": "Ông",
    "occ": 1,
@@ -1645,7 +1702,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-117",
+   "id": "P23-VI-121",
    "sent": "S044",
    "text": "cũng",
    "occ": 1,
@@ -1659,7 +1716,7 @@
    "note": "lời khuyên bổ sung; song song EN 'also' (S040)"
   },
   {
-   "id": "P23-VI-118",
+   "id": "P23-VI-122",
    "sent": "S044",
    "text": "giá",
    "occ": 1,
@@ -1673,7 +1730,7 @@
    "note": "occ 1 'giá theo đơn vị'; 'tổng giá' lần 2 trong câu không đánh thêm"
   },
   {
-   "id": "P23-VI-119",
+   "id": "P23-VI-123",
    "sent": "S045",
    "text": "Điều này",
    "occ": 1,
@@ -1688,7 +1745,7 @@
    "ref": "A"
   },
   {
-   "id": "P23-VI-120",
+   "id": "P23-VI-124",
    "sent": "S045",
    "text": "rẻ hơn",
    "occ": 1,
@@ -1702,7 +1759,7 @@
    "note": "mua gói nhỏ sẽ rẻ hơn"
   },
   {
-   "id": "P23-VI-121",
+   "id": "P23-VI-125",
    "sent": "S045",
    "text": "tiết kiệm",
    "occ": 1,
@@ -1716,7 +1773,7 @@
    "note": "mua số lượng lớn sẽ tiết kiệm hơn"
   },
   {
-   "id": "P23-VI-122",
+   "id": "P23-VI-126",
    "sent": "S045",
    "text": "ông",
    "occ": 1,
