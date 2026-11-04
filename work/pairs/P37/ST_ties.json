@@ -61,6 +61,20 @@
   },
   {
    "id": "P37-EN-005",
+   "sent": "S003",
+   "text": "particle",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: these microscopic plastic pieces",
+   "conf": "med",
+   "alt": null,
+   "note": "pieces ≈ particles (particle levels); mở chuỗi 'particles'"
+  },
+  {
+   "id": "P37-EN-006",
    "sent": "S004",
    "text": "These",
    "occ": 1,
@@ -75,7 +89,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-006",
+   "id": "P37-EN-007",
    "sent": "S004",
    "text": "particles",
    "occ": 1,
@@ -89,7 +103,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-007",
+   "id": "P37-EN-008",
    "sent": "S005",
    "text": "microns",
    "occ": 1,
@@ -103,7 +117,7 @@
    "note": "'micrometers' trong câu là đổi tên trong câu (TC), không đánh; 'it' trong câu không đánh"
   },
   {
-   "id": "P37-EN-008",
+   "id": "P37-EN-009",
    "sent": "S006",
    "text": "microns",
    "occ": 1,
@@ -117,7 +131,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-009",
+   "id": "P37-EN-010",
    "sent": "S007",
    "text": "Previous studies",
    "occ": 1,
@@ -131,21 +145,36 @@
    "note": "mở chuỗi 'studies'"
   },
   {
-   "id": "P37-EN-010",
+   "id": "P37-EN-011",
+   "sent": "S007",
+   "text": "bigger",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: particles that are less than a micron in size",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] 'slightly bigger' = lớn hơn hạt nano đã tả ở S004; H&H §2.5 comparative (tính từ so sánh có chuẩn trong văn bản)",
+   "ref": "A"
+  },
+  {
+   "id": "P37-EN-012",
    "sent": "S007",
    "text": "microplastics",
    "occ": 1,
    "cat": "L",
-   "sub": "collocation",
+   "sub": "antonym",
    "dir": "ana",
    "level": "LC",
    "ante": "S001: nanoplastics",
    "conf": "med",
    "alt": null,
-   "note": "trường nhựa: micro ↔ nano đối lập kích thước; 'micron' trong câu có hàng riêng"
+   "note": "phép đối micro ↔ nano (đối lập kích thước, TNT §30; H&H §6.4 opposites); 'micron' trong câu có hàng riêng"
   },
   {
-   "id": "P37-EN-011",
+   "id": "P37-EN-013",
    "sent": "S007",
    "text": "micron",
    "occ": 1,
@@ -159,7 +188,7 @@
    "note": "to one micron"
   },
   {
-   "id": "P37-EN-012",
+   "id": "P37-EN-014",
    "sent": "S008",
    "text": "nanoplastics",
    "occ": 1,
@@ -167,13 +196,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S007: slightly bigger microplastics",
+   "ante": "S001: ever so tiny nanoplastics",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "lặp nanoplastics (chuỗi từ S001)"
   },
   {
-   "id": "P37-EN-013",
+   "id": "P37-EN-015",
    "sent": "S008",
    "text": "microplastics",
    "occ": 1,
@@ -187,7 +216,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-014",
+   "id": "P37-EN-016",
    "sent": "S008",
    "text": "bottled water",
    "occ": 1,
@@ -201,7 +230,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-015",
+   "id": "P37-EN-017",
    "sent": "S008",
    "text": "the study",
    "occ": 1,
@@ -211,11 +240,11 @@
    "level": "LC",
    "ante": "S003: a study",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "mạo từ xác định — nghiên cứu đã được nhận diện"
   },
   {
-   "id": "P37-EN-016",
+   "id": "P37-EN-018",
    "sent": "S009",
    "text": "the plastic",
    "occ": 1,
@@ -225,11 +254,11 @@
    "level": "LC",
    "ante": "S008: nanoplastics than microplastics",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "hình vị 'plastic' trong nanoplastics/microplastics"
   },
   {
-   "id": "P37-EN-017",
+   "id": "P37-EN-019",
    "sent": "S009",
    "text": "the bottle",
    "occ": 1,
@@ -243,7 +272,7 @@
    "note": "bottled → bottle"
   },
   {
-   "id": "P37-EN-018",
+   "id": "P37-EN-020",
    "sent": "S009",
    "text": "study",
    "occ": 1,
@@ -257,7 +286,7 @@
    "note": "study lead author"
   },
   {
-   "id": "P37-EN-019",
+   "id": "P37-EN-021",
    "sent": "S009",
    "text": "Columbia",
    "occ": 1,
@@ -271,7 +300,7 @@
    "note": "a Columbia physical chemist"
   },
   {
-   "id": "P37-EN-020",
+   "id": "P37-EN-022",
    "sent": "S010",
    "text": "She",
    "occ": 1,
@@ -286,7 +315,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-021",
+   "id": "P37-EN-023",
    "sent": "S010",
    "text": "the three brands",
    "occ": 1,
@@ -301,7 +330,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-022",
+   "id": "P37-EN-024",
    "sent": "S010",
    "text": "researchers",
    "occ": 1,
@@ -315,7 +344,36 @@
    "note": null
   },
   {
-   "id": "P37-EN-023",
+   "id": "P37-EN-025",
+   "sent": "S010",
+   "text": "more",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: five samples each of three common bottled water brands",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] more samples = nhiều hơn 5 mẫu đã xem xét (S003); H&H §2.5 comparative; 'more brands' trong câu → [TC]",
+   "ref": "A"
+  },
+  {
+   "id": "P37-EN-026",
+   "sent": "S010",
+   "text": "samples",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: five samples each of three common bottled water brands",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp samples (want more samples)"
+  },
+  {
+   "id": "P37-EN-027",
    "sent": "S010",
    "text": "study",
    "occ": 1,
@@ -329,7 +387,7 @@
    "note": "danh từ → động từ cùng hình vị"
   },
   {
-   "id": "P37-EN-024",
+   "id": "P37-EN-028",
    "sent": "S011",
    "text": "Still",
    "occ": 1,
@@ -343,7 +401,7 @@
    "note": "nối nhượng bộ liên câu; VI 'Tuy nhiên' đối xứng"
   },
   {
-   "id": "P37-EN-025",
+   "id": "P37-EN-029",
    "sent": "S011",
    "text": "she",
    "occ": 1,
@@ -358,7 +416,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-026",
+   "id": "P37-EN-030",
    "sent": "S011",
    "text": "they",
    "occ": 1,
@@ -373,7 +431,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-027",
+   "id": "P37-EN-031",
    "sent": "S011",
    "text": "common",
    "occ": 1,
@@ -387,7 +445,7 @@
    "note": "cụm 'bought at a WalMart' bị VI cắt, không tạo tie"
   },
   {
-   "id": "P37-EN-028",
+   "id": "P37-EN-032",
    "sent": "S012",
    "text": "Researchers",
    "occ": 1,
@@ -401,7 +459,7 @@
    "note": "'still' là trạng từ thời gian (vẫn chưa), không phải nối"
   },
   {
-   "id": "P37-EN-029",
+   "id": "P37-EN-033",
    "sent": "S012",
    "text": "those nanoplastic pieces",
    "occ": 1,
@@ -416,7 +474,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-030",
+   "id": "P37-EN-034",
    "sent": "S013",
    "text": "That",
    "occ": 1,
@@ -431,7 +489,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-031",
+   "id": "P37-EN-035",
    "sent": "S014",
    "text": "We",
    "occ": 1,
@@ -446,7 +504,7 @@
    "ref": "E"
   },
   {
-   "id": "P37-EN-032",
+   "id": "P37-EN-036",
    "sent": "S014",
    "text": "it",
    "occ": 1,
@@ -457,11 +515,39 @@
    "ante": "S012: are those nanoplastic pieces harmful to health",
    "conf": "med",
    "alt": null,
-   "note": "it = vấn đề nhựa nano gây hại; 'dangerous' lặp 2 lần trong câu (TC) không đánh",
+   "note": "it = vấn đề nhựa nano gây hại; 'dangerous' lần 2 trong câu (TC) không đánh; lần 1 có hàng [Phase-2] ← S012 harmful",
    "ref": "A"
   },
   {
-   "id": "P37-EN-033",
+   "id": "P37-EN-037",
+   "sent": "S014",
+   "text": "don’t know",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: they never knew how many or what kind",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp know (cùng phủ định); bắc cầu xa (TNT §8)"
+  },
+  {
+   "id": "P37-EN-038",
+   "sent": "S014",
+   "text": "dangerous",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Are those nanoplastic pieces harmful to health",
+   "conf": "high",
+   "alt": null,
+   "note": "dangerous ≈ harmful; lần 2 trong câu (TC) không đánh"
+  },
+  {
+   "id": "P37-EN-039",
    "sent": "S014",
    "text": "study",
    "occ": 1,
@@ -475,7 +561,21 @@
    "note": "study co-author"
   },
   {
-   "id": "P37-EN-034",
+   "id": "P37-EN-040",
+   "sent": "S014",
+   "text": "co-author",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: study lead author Naixin Qian",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị author (lead author → co-author, đổi vai)"
+  },
+  {
+   "id": "P37-EN-041",
    "sent": "S014",
    "text": "Rutgers",
    "occ": 1,
@@ -489,7 +589,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-035",
+   "id": "P37-EN-042",
    "sent": "S015",
    "text": "We",
    "occ": 1,
@@ -504,7 +604,21 @@
    "ref": "E"
   },
   {
-   "id": "P37-EN-036",
+   "id": "P37-EN-043",
+   "sent": "S015",
+   "text": "do know",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: We don't know if it's dangerous",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối do know ↔ don't know (không biết ↔ biết)"
+  },
+  {
+   "id": "P37-EN-044",
    "sent": "S015",
    "text": "they",
    "occ": 1,
@@ -519,7 +633,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-037",
+   "id": "P37-EN-045",
    "sent": "S015",
    "text": "the current research",
    "occ": 1,
@@ -529,11 +643,11 @@
    "level": "LC",
    "ante": "S008: the study",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "research ≈ study"
   },
   {
-   "id": "P37-EN-038",
+   "id": "P37-EN-046",
    "sent": "S015",
    "text": "people",
    "occ": 1,
@@ -547,7 +661,7 @@
    "note": "human ↔ people (đồng nghĩa); VI 'con người' lặp nguyên từ"
   },
   {
-   "id": "P37-EN-039",
+   "id": "P37-EN-047",
    "sent": "S016",
    "text": "Bottled Water",
    "occ": 1,
@@ -561,7 +675,7 @@
    "note": "tên tổ chức chứa chuỗi 'bottled water'"
   },
   {
-   "id": "P37-EN-040",
+   "id": "P37-EN-048",
    "sent": "S016",
    "text": "nano-",
    "occ": 1,
@@ -575,7 +689,7 @@
    "note": "dấu gạch nối treo của nguồn, giữ nguyên văn"
   },
   {
-   "id": "P37-EN-041",
+   "id": "P37-EN-049",
    "sent": "S016",
    "text": "microplastic",
    "occ": 1,
@@ -589,7 +703,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-042",
+   "id": "P37-EN-050",
    "sent": "S016",
    "text": "particles",
    "occ": 1,
@@ -603,7 +717,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-043",
+   "id": "P37-EN-051",
    "sent": "S016",
    "text": "health",
    "occ": 1,
@@ -617,7 +731,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-044",
+   "id": "P37-EN-052",
    "sent": "S017",
    "text": "Therefore",
    "occ": 1,
@@ -631,7 +745,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-045",
+   "id": "P37-EN-053",
    "sent": "S017",
    "text": "these particles",
    "occ": 1,
@@ -646,7 +760,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-046",
+   "id": "P37-EN-054",
    "sent": "S017",
    "text": "drinking water",
    "occ": 1,
@@ -660,7 +774,7 @@
    "note": "nước uống ⊃ nước đóng chai (trường nước)"
   },
   {
-   "id": "P37-EN-047",
+   "id": "P37-EN-055",
    "sent": "S018",
    "text": "plastics",
    "occ": 1,
@@ -674,7 +788,7 @@
    "note": "plastics manufacturers"
   },
   {
-   "id": "P37-EN-048",
+   "id": "P37-EN-056",
    "sent": "S019",
    "text": "world",
    "occ": 1,
@@ -688,7 +802,7 @@
    "note": "occ 1: lần 2 ('the world's oceans') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P37-EN-049",
+   "id": "P37-EN-057",
    "sent": "S019",
    "text": "plastic",
    "occ": 1,
@@ -702,7 +816,7 @@
    "note": "occ 1 vì 'microplastics' cũng chứa 'plastic' (hàng riêng); lần 2 ('tonnes of plastic') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P37-EN-050",
+   "id": "P37-EN-058",
    "sent": "S019",
    "text": "microplastics",
    "occ": 1,
@@ -716,7 +830,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-051",
+   "id": "P37-EN-059",
    "sent": "S019",
    "text": "drinking water",
    "occ": 1,
@@ -730,7 +844,7 @@
    "note": "'some of them' trong câu không đánh"
   },
   {
-   "id": "P37-EN-052",
+   "id": "P37-EN-060",
    "sent": "S020",
    "text": "plastics",
    "occ": 1,
@@ -744,7 +858,7 @@
    "note": "a global plastics treaty"
   },
   {
-   "id": "P37-EN-053",
+   "id": "P37-EN-061",
    "sent": "S021",
    "text": "co-authors",
    "occ": 1,
@@ -758,7 +872,7 @@
    "note": "'they/their' trong câu chỉ 4 tác giả, không đánh"
   },
   {
-   "id": "P37-EN-054",
+   "id": "P37-EN-062",
    "sent": "S021",
    "text": "bottled water",
    "occ": 1,
@@ -772,7 +886,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-055",
+   "id": "P37-EN-063",
    "sent": "S021",
    "text": "the study",
    "occ": 1,
@@ -780,13 +894,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S016: the study — như S014: study",
+   "ante": "S014: study co-author",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "nguồn lỗi chính tả 'conduced' (= conducted), ghi §8"
   },
   {
-   "id": "P37-EN-056",
+   "id": "P37-EN-064",
    "sent": "S022",
    "text": "the Columbia physical chemist",
    "occ": 1,
@@ -796,11 +910,11 @@
    "level": "LC",
    "ante": "S009: a Columbia physical chemist",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "lặp cả cụm danh hiệu (chỉ Min); 'he/his' trong câu không đánh"
   },
   {
-   "id": "P37-EN-057",
+   "id": "P37-EN-065",
    "sent": "S022",
    "text": "dual laser microscope technology",
    "occ": 1,
@@ -814,7 +928,7 @@
    "note": "lặp microscope + dual laser"
   },
   {
-   "id": "P37-EN-058",
+   "id": "P37-EN-066",
    "sent": "S022",
    "text": "bottled water",
    "occ": 1,
@@ -828,7 +942,21 @@
    "note": null
   },
   {
-   "id": "P37-EN-059",
+   "id": "P37-EN-067",
+   "sent": "S022",
+   "text": "reduced",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: cutting back on their bottled water use",
+   "conf": "high",
+   "alt": null,
+   "note": "reduced ≈ cutting back (reduced ... by half)"
+  },
+  {
+   "id": "P37-EN-068",
    "sent": "S023",
    "text": "Stapleton",
    "occ": 1,
@@ -842,7 +970,7 @@
    "note": "'she' trong câu không đánh"
   },
   {
-   "id": "P37-EN-060",
+   "id": "P37-EN-069",
    "sent": "S023",
    "text": "filtered water",
    "occ": 1,
@@ -856,7 +984,7 @@
    "note": "filter → filtered; cùng trường nước"
   },
   {
-   "id": "P37-EN-061",
+   "id": "P37-EN-070",
    "sent": "S024",
    "text": "But",
    "occ": 1,
@@ -870,7 +998,7 @@
    "note": "nối liên câu"
   },
   {
-   "id": "P37-EN-062",
+   "id": "P37-EN-071",
    "sent": "S024",
    "text": "study co-author",
    "occ": 1,
@@ -884,7 +1012,21 @@
    "note": "kết chuỗi co-author + study"
   },
   {
-   "id": "P37-EN-063",
+   "id": "P37-EN-072",
+   "sent": "S024",
+   "text": "increased",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: reduced his bottled water use by half",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối increased ↔ reduced (increased his tap water usage)"
+  },
+  {
+   "id": "P37-EN-073",
    "sent": "S024",
    "text": "a Columbia environmental chemist",
    "occ": 1,
@@ -898,7 +1040,7 @@
    "note": "kết chuỗi Columbia + chemist; 'his' trong câu không đánh"
   },
   {
-   "id": "P37-EN-064",
+   "id": "P37-EN-074",
    "sent": "S024",
    "text": "filters",
    "occ": 1,
@@ -912,7 +1054,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-065",
+   "id": "P37-EN-075",
    "sent": "S024",
    "text": "plastics",
    "occ": 1,
@@ -926,7 +1068,7 @@
    "note": "by introducing plastics"
   },
   {
-   "id": "P37-EN-066",
+   "id": "P37-EN-076",
    "sent": "S025",
    "text": "Stapleton",
    "occ": 1,
@@ -940,7 +1082,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-067",
+   "id": "P37-EN-077",
    "sent": "S026",
    "text": "the study",
    "occ": 1,
@@ -950,11 +1092,25 @@
    "level": "LC",
    "ante": "S021: the study",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "VI đối ứng 'nghiên cứu này' là quy chiếu (R) — dịch chuyển"
   },
   {
-   "id": "P37-EN-068",
+   "id": "P37-EN-078",
+   "sent": "S026",
+   "text": "perils",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: if it's dangerous or how dangerous",
+   "conf": "med",
+   "alt": null,
+   "note": "perils ≈ danger; mắt xích giữa dangerous (S014) và The danger (S027)"
+  },
+  {
+   "id": "P37-EN-079",
    "sent": "S026",
    "text": "fine plastics particles",
    "occ": 1,
@@ -968,21 +1124,21 @@
    "note": "kết chuỗi plastics + particles; 'it's too early' trong câu không đánh"
   },
   {
-   "id": "P37-EN-069",
+   "id": "P37-EN-080",
    "sent": "S027",
    "text": "The danger",
    "occ": 1,
    "cat": "L",
-   "sub": "repetition",
+   "sub": "synonym",
    "dir": "ana",
    "level": "LC",
-   "ante": "S014: if it's dangerous or how dangerous",
+   "ante": "S026: perils of fine plastics particles",
    "conf": "high",
-   "alt": null,
-   "note": "dangerous → danger; câu quote bị tách (mở lờ, ghi §8)"
+   "alt": "R: the",
+   "note": "danger ≈ perils (cùng chuỗi harmful→dangerous→perils); câu quote bị tách (mở lờ, ghi §8)"
   },
   {
-   "id": "P37-EN-070",
+   "id": "P37-EN-081",
    "sent": "S027",
    "text": "the plastics",
    "occ": 1,
@@ -996,7 +1152,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-071",
+   "id": "P37-EN-082",
    "sent": "S027",
    "text": "question",
    "occ": 1,
@@ -1007,10 +1163,24 @@
    "ante": "S012: the big question",
    "conf": "high",
    "alt": null,
-   "note": "'unanswered' bổ nghĩa mới"
+   "note": "'unanswered' có hàng [Phase-2] riêng ← S012 answer"
   },
   {
-   "id": "P37-EN-072",
+   "id": "P37-EN-083",
+   "sent": "S027",
+   "text": "unanswered",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Researchers still can't answer the big question",
+   "conf": "med",
+   "alt": null,
+   "note": "answer → unanswered (phủ định hóa hình vị)"
+  },
+  {
+   "id": "P37-EN-084",
    "sent": "S028",
    "text": "the research",
    "occ": 1,
@@ -1020,11 +1190,25 @@
    "level": "LC",
    "ante": "S015: the current research",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": null
   },
   {
-   "id": "P37-EN-073",
+   "id": "P37-EN-085",
+   "sent": "S028",
+   "text": "concerning",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: a general unease about perils",
+   "conf": "med",
+   "alt": null,
+   "note": "the most concerning ≈ unease (điều đáng lo ngại nhất)"
+  },
+  {
+   "id": "P37-EN-086",
    "sent": "S029",
    "text": "We",
    "occ": 1,
@@ -1039,7 +1223,7 @@
    "ref": "E"
   },
   {
-   "id": "P37-EN-074",
+   "id": "P37-EN-087",
    "sent": "S029",
    "text": "these nanoplastics",
    "occ": 1,
@@ -1054,7 +1238,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-075",
+   "id": "P37-EN-088",
    "sent": "S029",
    "text": "cells",
    "occ": 1,
@@ -1068,7 +1252,7 @@
    "note": "'cell stress', 'cell function' lần 2,3 trong câu cùng chuỗi (biến thể), không đánh"
   },
   {
-   "id": "P37-EN-076",
+   "id": "P37-EN-089",
    "sent": "S029",
    "text": "chemical additives",
    "occ": 1,
@@ -1082,7 +1266,7 @@
    "note": "lặp 'additives'; 'chemical' khởi tạo chuỗi hóa học"
   },
   {
-   "id": "P37-EN-077",
+   "id": "P37-EN-090",
    "sent": "S030",
    "text": "Somarelli",
    "occ": 1,
@@ -1096,7 +1280,7 @@
    "note": "'his own' trong câu không đánh"
   },
   {
-   "id": "P37-EN-078",
+   "id": "P37-EN-091",
    "sent": "S030",
    "text": "chemicals",
    "occ": 1,
@@ -1110,7 +1294,21 @@
    "note": "cancer-causing chemicals"
   },
   {
-   "id": "P37-EN-079",
+   "id": "P37-EN-092",
+   "sent": "S030",
+   "text": "cancer-causing",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S028: professor of medicine and comparative oncology",
+   "conf": "med",
+   "alt": null,
+   "note": "oncology ≈ cancer (cùng trường ung thư); chức danh Somarelli nêu ở câu trước"
+  },
+  {
+   "id": "P37-EN-093",
    "sent": "S030",
    "text": "these plastics",
    "occ": 1,
@@ -1125,7 +1323,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-080",
+   "id": "P37-EN-094",
    "sent": "S031",
    "text": "small particles",
    "occ": 1,
@@ -1139,7 +1337,21 @@
    "note": "lặp 'particles'; 'they' trong câu không đánh"
   },
   {
-   "id": "P37-EN-081",
+   "id": "P37-EN-095",
+   "sent": "S031",
+   "text": "disturbing",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S028: the additives are the most concerning",
+   "conf": "med",
+   "alt": null,
+   "note": "disturbing ≈ concerning (điều đáng lo ngại)"
+  },
+  {
+   "id": "P37-EN-096",
    "sent": "S032",
    "text": "Diana",
    "occ": 1,
@@ -1153,7 +1365,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-082",
+   "id": "P37-EN-097",
    "sent": "S032",
    "text": "the study",
    "occ": 1,
@@ -1163,11 +1375,11 @@
    "level": "LC",
    "ante": "S026: the study",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "occ 1: lần 2 ('the study of plastics' = lĩnh vực, nghĩa khác) không đánh"
   },
   {
-   "id": "P37-EN-083",
+   "id": "P37-EN-098",
    "sent": "S032",
    "text": "researchers",
    "occ": 1,
@@ -1181,7 +1393,7 @@
    "note": "the new tool researchers used"
   },
   {
-   "id": "P37-EN-084",
+   "id": "P37-EN-099",
    "sent": "S032",
    "text": "the new tool",
    "occ": 1,
@@ -1196,7 +1408,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-085",
+   "id": "P37-EN-100",
    "sent": "S032",
    "text": "plastics",
    "occ": 1,
@@ -1210,7 +1422,7 @@
    "note": "in the environment and body"
   },
   {
-   "id": "P37-EN-086",
+   "id": "P37-EN-101",
    "sent": "S033",
    "text": "Min",
    "occ": 1,
@@ -1224,7 +1436,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-087",
+   "id": "P37-EN-102",
    "sent": "S033",
    "text": "dual laser microscope technology",
    "occ": 1,
@@ -1238,7 +1450,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-088",
+   "id": "P37-EN-103",
    "sent": "S033",
    "text": "the lasers",
    "occ": 1,
@@ -1248,11 +1460,11 @@
    "level": "LC",
    "ante": "S001: a microscope using dual lasers",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "exposed to the lasers"
   },
   {
-   "id": "P37-EN-089",
+   "id": "P37-EN-104",
    "sent": "S033",
    "text": "chemical properties",
    "occ": 1,
@@ -1266,7 +1478,7 @@
    "note": "hình vị 'chemical' lặp (tính chất ↔ chất)"
   },
   {
-   "id": "P37-EN-090",
+   "id": "P37-EN-105",
    "sent": "S034",
    "text": "Yan",
    "occ": 1,
@@ -1280,7 +1492,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-091",
+   "id": "P37-EN-106",
    "sent": "S034",
    "text": "Qian",
    "occ": 1,
@@ -1294,7 +1506,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-092",
+   "id": "P37-EN-107",
    "sent": "S034",
    "text": "him",
    "occ": 1,
@@ -1309,7 +1521,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-093",
+   "id": "P37-EN-108",
    "sent": "S034",
    "text": "that technique",
    "occ": 1,
@@ -1324,7 +1536,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-EN-094",
+   "id": "P37-EN-109",
    "sent": "S034",
    "text": "plastics",
    "occ": 1,
@@ -1338,7 +1550,7 @@
    "note": "find and identify plastics"
   },
   {
-   "id": "P37-EN-095",
+   "id": "P37-EN-110",
    "sent": "S034",
    "text": "researchers",
    "occ": 1,
@@ -1352,7 +1564,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-096",
+   "id": "P37-EN-111",
    "sent": "S034",
    "text": "established methods",
    "occ": 1,
@@ -1366,7 +1578,21 @@
    "note": "lặp 'methods'"
   },
   {
-   "id": "P37-EN-097",
+   "id": "P37-EN-112",
+   "sent": "S034",
+   "text": "identify",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: identifies specific compounds",
+   "conf": "high",
+   "alt": null,
+   "note": "identifies → identify (find and identify plastics)"
+  },
+  {
+   "id": "P37-EN-113",
    "sent": "S035",
    "text": "the work",
    "occ": 1,
@@ -1376,11 +1602,11 @@
    "level": "LC",
    "ante": "S026: the study",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "work ≈ study; VI 'công trình này' là quy chiếu (R)"
   },
   {
-   "id": "P37-EN-098",
+   "id": "P37-EN-114",
    "sent": "S035",
    "text": "the detection",
    "occ": 1,
@@ -1390,11 +1616,11 @@
    "level": "LC",
    "ante": "S001: detected and categorized",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "detect → detection"
   },
   {
-   "id": "P37-EN-099",
+   "id": "P37-EN-115",
    "sent": "S035",
    "text": "nanoplastics",
    "occ": 1,
@@ -1408,7 +1634,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-100",
+   "id": "P37-EN-116",
    "sent": "S035",
    "text": "the technique",
    "occ": 1,
@@ -1418,11 +1644,54 @@
    "level": "LC",
    "ante": "S034: that technique",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "'she said she'd' trong câu không đánh"
   },
   {
-   "id": "P37-EN-101",
+   "id": "P37-EN-117",
+   "sent": "S035",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: a Columbia environmental chemist (các nhà hóa học của nghiên cứu)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] other analytical chemists = khác với nhóm nhà hóa học của nghiên cứu; H&H §2.5 other",
+   "ref": "A"
+  },
+  {
+   "id": "P37-EN-118",
+   "sent": "S035",
+   "text": "advance",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S032: an exciting development",
+   "conf": "high",
+   "alt": null,
+   "note": "advance ≈ development (an important advance)"
+  },
+  {
+   "id": "P37-EN-119",
+   "sent": "S035",
+   "text": "results",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: researchers found particle levels ranged from 110,000 to 400,000",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "the results = kết quả nghiên cứu (mức độ hạt) đã báo ở S003"
+  },
+  {
+   "id": "P37-EN-120",
    "sent": "S035",
    "text": "chemists",
    "occ": 1,
@@ -1436,7 +1705,7 @@
    "note": "other analytical chemists"
   },
   {
-   "id": "P37-EN-102",
+   "id": "P37-EN-121",
    "sent": "S036",
    "text": "oceanographer",
    "occ": 1,
@@ -1450,7 +1719,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-103",
+   "id": "P37-EN-122",
    "sent": "S036",
    "text": "plastic waste",
    "occ": 1,
@@ -1464,7 +1733,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-104",
+   "id": "P37-EN-123",
    "sent": "S037",
    "text": "the nanoplastic",
    "occ": 1,
@@ -1474,11 +1743,11 @@
    "level": "LC",
    "ante": "S035: the detection of nanoplastics",
    "conf": "high",
-   "alt": null,
+   "alt": "R: the",
    "note": "biến thể số ít; khối cắt, VI none"
   },
   {
-   "id": "P37-EN-105",
+   "id": "P37-EN-124",
    "sent": "S038",
    "text": "Hardesty",
    "occ": 1,
@@ -1492,7 +1761,7 @@
    "note": "khối cắt, VI none; 'I' trong câu chỉ Hardesty, không đánh"
   },
   {
-   "id": "P37-EN-106",
+   "id": "P37-EN-125",
    "sent": "S038",
    "text": "nanoplastics",
    "occ": 1,
@@ -1506,7 +1775,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-107",
+   "id": "P37-EN-126",
    "sent": "S038",
    "text": "bottled water",
    "occ": 1,
@@ -1520,7 +1789,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-108",
+   "id": "P37-EN-127",
    "sent": "S038",
    "text": "tap water",
    "occ": 1,
@@ -1534,7 +1803,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-109",
+   "id": "P37-EN-128",
    "sent": "S038",
    "text": "drinking water",
    "occ": 1,
@@ -1548,7 +1817,7 @@
    "note": "khối cắt, VI none"
   },
   {
-   "id": "P37-EN-110",
+   "id": "P37-EN-129",
    "sent": "S039",
    "text": "Yan",
    "occ": 1,
@@ -1562,7 +1831,7 @@
    "note": "'he…their' trong câu không đánh"
   },
   {
-   "id": "P37-EN-111",
+   "id": "P37-EN-130",
    "sent": "S039",
    "text": "to study",
    "occ": 1,
@@ -1576,7 +1845,36 @@
    "note": "danh từ → động từ; 'water supplies' trường nước quá rộng, không đánh"
   },
   {
-   "id": "P37-EN-112",
+   "id": "P37-EN-131",
+   "sent": "S039",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S038: nanoplastics in bottled water",
+   "conf": "low",
+   "alt": null,
+   "note": "[LC] other municipal water supplies = nguồn nước khác với nước đóng chai của nghiên cứu (H&H §2.5); đọc phụ 'thành phố khác' → conf low",
+   "ref": "A"
+  },
+  {
+   "id": "P37-EN-132",
+   "sent": "S039",
+   "text": "plastics",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S034: find and identify plastics",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp plastics (how much plastics are in their tap water)"
+  },
+  {
+   "id": "P37-EN-133",
    "sent": "S039",
    "text": "tap water",
    "occ": 1,
@@ -1590,7 +1888,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-113",
+   "id": "P37-EN-134",
    "sent": "S040",
    "text": "Previous studies",
    "occ": 1,
@@ -1604,7 +1902,7 @@
    "note": "lặp nguyên cụm mở đầu"
   },
   {
-   "id": "P37-EN-114",
+   "id": "P37-EN-135",
    "sent": "S040",
    "text": "microplastics",
    "occ": 1,
@@ -1618,7 +1916,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-115",
+   "id": "P37-EN-136",
    "sent": "S040",
    "text": "nanoplastic",
    "occ": 1,
@@ -1632,7 +1930,7 @@
    "note": "biến thể số ít"
   },
   {
-   "id": "P37-EN-116",
+   "id": "P37-EN-137",
    "sent": "S040",
    "text": "tap water",
    "occ": 1,
@@ -1646,7 +1944,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-117",
+   "id": "P37-EN-138",
    "sent": "S040",
    "text": null,
    "occ": 1,
@@ -1662,7 +1960,7 @@
    "note": "[LC] tỉnh lược 'water' sau 'bottled' (than bottled [∅ water]); VI lấp đầy 'nước đóng chai' nên không có E phía VI"
   },
   {
-   "id": "P37-EN-118",
+   "id": "P37-EN-139",
    "sent": "S041",
    "text": "human health",
    "occ": 1,
@@ -1676,7 +1974,35 @@
    "note": "lặp 'health'; 'he' trong câu không đánh"
   },
   {
-   "id": "P37-EN-119",
+   "id": "P37-EN-140",
+   "sent": "S041",
+   "text": "unknowns",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S027: still an unanswered question",
+   "conf": "med",
+   "alt": null,
+   "note": "unknowns ≈ unanswered question (vấn đề chưa biết); VI 'chưa biết rõ' hiện thực hóa"
+  },
+  {
+   "id": "P37-EN-141",
+   "sent": "S041",
+   "text": "worried",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S031: What's disturbing",
+   "conf": "med",
+   "alt": null,
+   "note": "worried ≈ disturbing/concerning (people who are worried)"
+  },
+  {
+   "id": "P37-EN-142",
    "sent": "S041",
    "text": "Yan",
    "occ": 1,
@@ -1690,7 +2016,7 @@
    "note": null
   },
   {
-   "id": "P37-EN-120",
+   "id": "P37-EN-143",
    "sent": "S041",
    "text": "reusable bottles",
    "occ": 1,
@@ -1704,7 +2030,7 @@
    "note": "hình vị 'bottle'"
   },
   {
-   "id": "P37-EN-121",
+   "id": "P37-EN-144",
    "sent": "S041",
    "text": "single-use plastics",
    "occ": 1,

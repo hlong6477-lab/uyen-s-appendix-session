@@ -133,10 +133,16 @@ ST = [
      "S006: water borne diseases", "high", None,
      "lặp chuỗi bệnh (biến thể có gạch nối); không có bản dịch", 1, None,
      None, "LC", None),
-    ("S011", "contaminated water", "L", "repetition",
-     "S010: water points", "med", None,
-     "chuỗi nước; đối lập nước bẩn ↔ safe drinking water (phép đối); "
-     "không có bản dịch", 1, None, None, "LC", None),
+    # [Phase-2] contaminated ↔ safe (S006): phép đối liên câu (TNT §30;
+    # H&H §6.4 opposites) — reclassify sub repetition → antonym vì quan hệ
+    # nổi bật của NP này là đối lập với "safe drinking water" (S006); chuỗi
+    # nước ← S010 water points chuyển thành alt (một hình thức một hàng —
+    # mapping §3.13, khuôn P21 "real").
+    ("S011", "contaminated water", "L", "antonym",
+     "S006: safe drinking water", "med", "L: repetition ← S010 water points",
+     "[Phase-2] phép đối contaminated ↔ safe: nước bẩn đối lập nước uống "
+     "an toàn đã nêu ở S006; chuỗi nước xem alt; không có bản dịch", 1,
+     None, None, "LC", None),
     ("S011", "people", "L", "repetition", "S002: Dozens of people", "med",
      None, "mở rộng referent sang dân vùng lũ; không có bản dịch", 1, None,
      None, "LC", None),
@@ -186,6 +192,13 @@ ST = [
     ("S015", "risk", "L", "repetition", "S007: at high risk", "high",
      "R: the", "The risk of drowning — chuỗi rủi ro; không có bản dịch", 1,
      None, None, "LC", None),
+    # [Phase-2] drowning ← the floods hit (S013): collocation nguyên nhân–
+    # hệ quả kiểu rain…wet (H&H §6.4) — rủi ro đuối nước là hệ quả trực
+    # tiếp của đợt lũ; câu trong khối cắt nên tie chỉ tồn tại phía EN.
+    ("S015", "drowning", "L", "collocation",
+     "S013: before the floods hit", "med", None,
+     "[Phase-2] collocation lũ → đuối nước (H&H §6.4); không có bản dịch", 1,
+     None, None, "LC", None),
 
     # ---- S016 (khối cắt)
     ("S016", "children", "L", "repetition", "S013: 2,000 children", "high",
@@ -203,6 +216,14 @@ ST = [
     ("S017", "people", "L", "repetition",
      "S011: people are forced to drink", "high", None,
      "half-a-million people; không có bản dịch", 1, None, None, "LC", None),
+    # [Phase-2] evacuated ↔ left stranded (S002): phép đối qua câu (TNT §30;
+    # H&H §6.4 opposites) — hàng trăm nghìn người mắc kẹt (S002) đối lập gần
+    # nửa triệu người được sơ tán; "evacuation centers" cùng câu cùng chuỗi
+    # nên không đánh lần 2; khối cắt → tie chỉ EN (VI chỉ còn "mắc kẹt").
+    ("S017", "evacuated", "L", "antonym",
+     "S002: left stranded", "med", None,
+     "[Phase-2] phép đối stranded ↔ evacuated (mắc kẹt ↔ sơ tán); TNT §30; "
+     "H&H §6.4; không có bản dịch", 1, None, None, "LC", None),
 
     # ---- S018 (khối cắt)
     ("S018", "And", "C", "additive",

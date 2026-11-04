@@ -4,6 +4,8 @@
 # Text/gap_after là chuỗi con nguyên văn trong câu (đã kiểm tra số lần xuất hiện).
 # Bản tin ngắn 7 câu EN (S002+S003 là MỘT câu bị segmentation chẻ tại "Aug.") / 6 câu VI.
 # Không có câu cắt, không có câu VI tự sinh. EN: 0 R liên câu (his/its đều trong câu).
+# [Phase-2] 2 hàng VI mới (chuyển S002 — nhóm 4+12; số tiền S004 — nhóm 3)
+# + 1 alt EN (charity money S006, alt "R: the" — nhóm 8).
 
 ST = [
     # S002 — nhắc lại nước đầu tiên trong danh sách cứu trợ
@@ -61,8 +63,12 @@ ST = [
      "(S004)", 1, None, None, "LC", None),
 
     # S006 — nguồn gốc quỹ Peter's Pence
+    # [Phase-2] Bổ sung alt "R: the" (nhóm 8; mapping §3.6; NTT 2020 §2.2):
+    # "Much of the charity money" — mạo từ xác định thâu vào alt như mọi
+    # hàng the+NP khác của cặp (sums/countries/pope/fund); VI thực hiện
+    # định danh bằng chỉ từ này (S005 VI, R) — dịch chuyển the↔demonstrative.
     ("S006", "charity money", "L", "repetition",
-     "S001: charity funds", "high", None,
+     "S001: charity funds", "high", "R: the",
      "charity lặp; money ≈ funds (đồng nghĩa)", 1, None, None,
      "LC", None),
     ("S006", "pope", "L", "repetition",
@@ -88,6 +94,17 @@ ST = [
 
 TT = [
     # S002 — khoản Haiti
+    # [Phase-2] "chuyển" ← "gửi" (S001): mắt xích chuỗi động từ gửi/chuyển
+    # phân tích ở §6 nhưng trước đây chưa có hàng riêng, trong khi S004
+    # "chuyển giao" đã cite S002 làm tiền trạm (rà chuỗi ngược, nhóm 12;
+    # H&H §6.2 reiteration; TNT §31 phép thế đẳng nghĩa → L). VI tự sinh
+    # mắt xích: EN S002 "was going" né lặp động từ gửi (NTT 2020 §2).
+    ("S002", "chuyển", "L", "synonym",
+     "S001: vừa gửi", "med", None,
+     "gửi ≈ chuyển (gần nghĩa trường chuyển tiền); VI tự sinh mắt xích — "
+     "EN S002 dùng 'was going' không lặp động từ gửi; chuỗi: gửi (S001) → "
+     "chuyển (S002) → gửi (S003) → chuyển giao (S004)", 1, None, None,
+     "LC", None),
     ("S002", "Haiti", "L", "repetition",
      "S001: Haiti, Bangladesh và Việt Nam", "high", None,
      "lặp tên nước Haiti", 1, None, None, "LC", None),
@@ -128,6 +145,18 @@ TT = [
      "đặt lại tên chủ thể; Vatican xuất hiện 2 lần trong câu (các đại sứ quán "
      "của Vatican) — 1 chuỗi 1 dấu, lần thứ hai không đánh", 1, None, None,
      "LC", None),
+    # [Phase-2] "số tiền" ← các khoản đã liệt kê (S002–S003): danh từ tổng
+    # quát (H&H §6.1) tóm chỉ các khoản, đồng thời tiếp chuỗi tiền từ
+    # "quỹ từ thiện" (S001); EN đối ứng the sums (S005 EN, L general word,
+    # alt "R: the"). Đủ căn cứ theo quy ước của chính cặp: S005 "số tiền từ
+    # thiện này" và S006 "quỹ này" đều có hàng L (đầu từ) + hàng R (chỉ từ).
+    ("S004", "số tiền", "L", "general word",
+     "S002-S003: 200.000 euro / Khoảng 70.000 đôla / khoảng 100.000 euro",
+     "med", None,
+     "danh từ tổng quát tóm chỉ các khoản tiền đã nêu (H&H §6.1); tiếp "
+     "chuỗi tiền từ quỹ từ thiện (S001); EN đối ứng the sums (S005 EN) — "
+     "VI thực hiện bằng đầu từ tổng quát (L) + chỉ từ này (R đánh riêng)",
+     1, None, None, "LC", None),
     ("S004", "này", "R", "demonstrative",
      "S002-S003: 200.000 euro ... Khoảng 70.000 đôla ... khoảng 100.000 euro",
      "high", None,

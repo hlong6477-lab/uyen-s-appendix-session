@@ -4,6 +4,21 @@
 **TT (VI):** WHO: Ăn nhiều muối có thể mất mạng
 
 - Nguồn: VOA (EN) → VOA Tiếng Việt (VI), cặp đồng nhà xuất bản, bản dịch chính thức. 25 câu EN ↔ 25 câu VI, ánh xạ 1–1 toàn bộ; **không có dòng cắt, không có câu VI tự sinh, không gộp/tách câu**.
+
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; H&H §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (repetition/synonym/superordinate/general
+> word, §6.2) + collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ
+> thống liên kết văn bản tiếng Việt* (1985; tái bản 2006)
+> (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối (§30), phép
+> thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ khiếm
+> diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối (§38, §43).
+> Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L.
+
 - Quy ước: [LC] = liên câu (đơn vị chính); [TC] = trong câu (lớp bổ sung cho S/E); [TD] = tiêu đề (không render). ∅ = thành phần bị lược; {…} = phần bù hồi phục bằng ngữ nghĩa.
 - Thể loại: tin y tế VOA kiểu "phóng sự dữ kiện + trích dẫn": mệnh đề dẫn (S001–S002) → lời Tedros (S003–S006) → phúc trình WHO + khảo sát (S007–S009) → Branca + số liệu tim mạch (S010–S012) → subhead (S013) → 9 quốc gia, Chile dẫn đầu (S014–S017) → thực phẩm chế biến & chính sách bắt buộc (S018–S022) → chiến lược thay thế muối (S023–S025).
 - Ba diễn giả tạo ba chuỗi nhân vật [+người]: Tedros (S003–S006), Branca (S010, S018–S020), Frieden (S015–S017, S021–S025). Tiêu đề [TD]: EN giữ khung "WHO Chief:" và đại từ "You", VI lược cả hai và giữ nguyên chữ Latin "WHO" — lần duy nhất "WHO" xuất hiện ngoài thân bài VI (thân bài VI mở đầu bằng tên đầy đủ "Tổ chức Y tế Thế giới" rồi mới chuyển sang "WHO").
@@ -53,11 +68,11 @@ Cắt: không. VI tự sinh câu: không. Gộp/tách: không. Subhead: S013 hai
 | E-EN2 | ST S020 | "how much they understand or ∅ have access to information on labels" | chủ ngữ vế tọa hợp thứ hai lược sau "or"; hồi phục {they} | [TC] |
 | E-VI2 | TT S020 | "họ hiểu hay ∅ tiếp cận thông tin trên nhãn" | song song E-EN2; hồi phục {họ} | [TC] |
 
-**Nhận định:** hai cặp tỉnh lược song song tuyệt đối, cùng vị trí ngữ nghĩa, cùng cấp [TC]; VI không lấp chủ ngữ vế sau "hay" (nếu VI lấp thì phải đổi thành S — đã kiểm tra, VI cũng lược nên E hợp lệ). Các chỗ đã soi và **không** đánh ∅: (a) "Imagine ∅ / Hãy tưởng tượng ∅" (S025) — tỉnh lược tình huống của câu mệnh lệnh, chủ ngữ là người đọc, không có tiền trạm trong văn bản (đối ứng exophoric đã được ghi qua R "you/bạn"); (b) "Muối ∅ cần thiết" (S001 VI) — zero copula là ngữ pháp VI, không phải tỉnh lược diễn ngôn; (c) "such as increasing ∅" (S023) — danh động từ có chủ ngữ điều khiển "countries" hiển ngôn trong câu; (d) "changing the brand ∅" (S025) — danh từ hóa ("việc thay đổi") hai bên. Không có ∅ liên câu [LC] nào: mọi mệnh đề không chủ ngữ đều được điều khiển ngay trong câu.
+**Nhận định:** hai cặp tỉnh lược song song tuyệt đối, cùng vị trí ngữ nghĩa, cùng cấp [TC]; VI không lấp chủ ngữ vế sau "hay" (nếu VI lấp thì phải đổi thành S — đã kiểm tra, VI cũng lược nên E hợp lệ). Các chỗ đã soi và **không** đánh ∅: (a) "Imagine ∅ / Hãy tưởng tượng ∅" (S025) — tỉnh lược tình huống của câu mệnh lệnh, chủ ngữ là người đọc, không có tiền trạm trong văn bản (đối ứng exophoric đã được ghi qua R "you/bạn"); (b) "Muối ∅ cần thiết" (S001 VI) — zero copula là ngữ pháp VI, không phải tỉnh lược diễn ngôn; (c) "such as increasing ∅" (S023) — danh động từ có chủ ngữ điều khiển "countries" hiển ngôn trong câu; (d) "changing the brand ∅" (S025) — danh từ hóa ("việc thay đổi") hai bên. Không có ∅ liên câu [LC] nào: mọi mệnh đề không chủ ngữ đều được điều khiển ngay trong câu. **Theo H&H §4 + TNT §23/§37:** hai cặp ∅ đều là *tỉnh lược yếu* của câu hợp nghĩa (chủ ngữ điều khiển nằm ngay trong câu nên chỉ đạt [TC]); tiêu chí của H&H là khả năng HỒI PHỤC — cả hai ∅ đều hồi phục được từ đồng văn ({Frieden}/{ông Frieden}, {they}/{họ}), khác *thế đại từ khiếm diện* của TNT (theo dõi tham chiếu bằng hình thức rỗng, không phải chữ nghĩa bị lược).
 
 ## 3. Phép thế (substitution)
 
-Không có pro-form thế (one/those/do/như vậy/làm vậy) nào ở hai đầu → S = 0/0. Các trường hợp đã soi: EN "one teaspoon of salt" (S006) — "one" là số từ, không phải thế danh từ; EN "such policies" (S009) ↔ VI "các chính sách đó" (S009) — chỉ từ giữ nguyên đầu ngữ danh từ nên là quy chiếu trong câu, không phải thế (danh từ không bị thay); EN "similar policies" ↔ VI "các chính sách tương tự" (S017) — so sánh + danh từ giữ nguyên, đã xử lý ở phép lặp (L) với ghi chú; EN "these substitutes" ↔ VI "những chất thay thế này" (S024) — chỉ từ + đầu ngữ lặp → L theo quy ước thâu chỉ từ vào alt. **Nhận định:** hai đầu chuộng lặp danh từ đầy đủ hơn là dùng hình thức thế — bản tin y tế dịch thuật càng né đại từ mờ, càng lặp lại thuật ngữ.
+Không có pro-form thế (one/those/do/như vậy/làm vậy) nào ở hai đầu → S = 0/0. Các trường hợp đã soi: EN "one teaspoon of salt" (S006) — "one" là số từ, không phải thế danh từ; EN "such policies" (S009) ↔ VI "các chính sách đó" (S009) — chỉ từ giữ nguyên đầu ngữ danh từ nên là quy chiếu trong câu, không phải thế (danh từ không bị thay); EN "similar policies" ↔ VI "các chính sách tương tự" (S017) — so sánh + danh từ giữ nguyên, đã xử lý ở phép lặp (L) với ghi chú; EN "these substitutes" ↔ VI "những chất thay thế này" (S024) — chỉ từ + đầu ngữ lặp → L theo quy ước thâu chỉ từ vào alt. **Nhận định:** hai đầu chuộng lặp danh từ đầy đủ hơn là dùng hình thức thế — bản tin y tế dịch thuật càng né đại từ mờ, càng lặp lại thuật ngữ. **Theo H&H §3.1.1 (phép thử thế ↔ quy chiếu):** "one teaspoon of salt" đọc lấp đầy được nhưng "one" là SỐ TỪ (một), không thay thế chữ nghĩa; "such policies/các chính sách đó" giữ nguyên đầu ngữ danh từ nên là quy chiếu bằng chỉ từ chứ không phải thế; **[Phase-2]** "similar/tương tự" (S017) cũng KHÔNG phải thế (danh từ policies giữ nguyên) mà là quy chiếu so sánh (H&H §2.5) — xử lý ở §4.
 
 ## 4. Phép quy chiếu (reference)
 
@@ -72,12 +87,13 @@ Không có pro-form thế (one/those/do/như vậy/làm vậy) nào ở hai đ�
 | R-EN5 | S020 "They" | — (VI: "Các giới hạn này" = L) | A | S019: mandatory maximum limits / Các giới hạn tối đa bắt buộc | quy chiếu [−người]: EN dùng đại từ, VI hiện thực hóa danh ngữ + chỉ từ → dịch chuyển R→L |
 | R-EN6 | S024 "he" | S024 "Ông" | A | S023: Frieden | tiếp chuỗi Frieden |
 | R-EN7 | S025 "you" | S025 "bạn" | E | ngoài văn bản: bạn đọc/người tiêu dùng | trong quote Frieden, attribution ở S024 (câu trước) → đủ điều kiện đánh |
+| R-EN8 **[Phase-2]** | S017 "similar" | S017 "tương tự" (thâu vào alt của hàng L "các chính sách tương tự") | A | S016: bộ chính sách Chile (luật dán nhãn – quảng cáo thực phẩm) | quy chiếu so sánh H&H §2.5 — tie R so sánh đầu tiên của cặp; VI nằm trùng span hàng L nên theo mapping §3.13 thâu vào alt, không lập hàng riêng |
 
-Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R phía VI.
+Tổng: EN 8 (A×7, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R phía VI; **[Phase-2]** R-EN8 có đối ứng VI là "tương tự" nằm trong alt (không lập hàng riêng vì trùng span — mapping §3.13).
 
 ### 4.2. Hướng A/C/E
 
-- A (hồi quy): toàn bộ "he/Ông" (S004, S017, S019, S024), "That/Lượng này" (S006), "They" (S020 EN).
+- A (hồi quy): toàn bộ "he/Ông" (S004, S017, S019, S024), "That/Lượng này" (S006), "They" (S020 EN), "similar" (S017 EN — **[Phase-2]**). **Theo H&H §2.5:** quy chiếu so sánh (same/similar/different/other/more/less/such) lấy chuẩn so sánh từ chỗ khác trong văn bản — "similar policies" (S017) lấy chuẩn là bộ chính sách Chile mô tả ở S016 nên là [LC] hồi quy; ngược lại "such policies" (S009) lấy chuẩn trong cùng câu nên chỉ [TC].
 - C (tiền chỉ): không có.
 - E (ngoại văn bản): "you"/"bạn" (S025) — lời Frieden hướng thẳng người đọc ("Imagine that changing the brand of salt that you use …"); không có tiền trạm trong văn bản.
 
@@ -88,6 +104,8 @@ Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R ph
 - Đại từ trong câu, không đánh (intra-sentential): EN S022 "it" (= a mandatory approach), S022 "they" (= companies), S020 "they" (= people — người mua sắm nói chung), S016 "that" (quan hệ); VI S022 "nó" (= cách tiếp cận), S022 "họ" (= các công ty), S020 "họ" (= mọi người).
 - Chỉ từ trong câu, không đánh: EN S009 "such policies", S016 "those warning labels / those products"; VI S009 "các chính sách đó", S016 "nhãn cảnh báo đó / những sản phẩm đó" — tiền trạm nằm cùng câu.
 - Quote pronoun 2 ngôi: EN "you" (S025) ↔ VI "bạn" — đủ điều kiện vì attribution ("he said"/"Ông nói") ở câu trước (S024).
+- **[Phase-2] So sánh trong câu, không đánh (quy ước R/C/L chỉ [LC]):** EN S005 "more than double" (chuẩn là khuyến nghị WHO cùng câu), S012 "more than four out of five" (cùng câu), S023 "increasing the availability" ↔ "reduce sodium" (cặp tăng/giảm nằm trong CÙNG câu S023 — phép đối TNT §30 chỉ ghi nhận, không đánh); VI tương ứng "cao hơn gấp đôi" (S005), "trên bốn trường hợp" (S012), "tăng tính sẵn có/giảm muối" (S023).
+- **[Phase-2] Ứng viên từ vựng đã soi và loại (mapping §3.1 — không nêu được hai hạng chữ rạch ròi, hoặc từ chức năng):** "the WHO recommendation/khuyến nghị" (S005) là lần đầu nêu (không phải danh từ tổng quát quy về tình huống câu trước); "the existing proven strategies/các chiến lược hiện có" (S023) có tiền trạm khuếch tán (cả khối chính sách S016–S021) nên không nêu một hạng chữ riêng; "director-general/Giám đốc" (S003↔S010↔S015) là chức danh attribution; "WHO reports/báo cáo" (S012) là động từ tường thuật (quy ước không đánh); "significant(ly)/đáng kể" (S018↔S024) và "full(y)/đầy đủ" (S009↔S014) là từ mức độ không tạo chuỗi nghĩa; "lives/sinh mạng" (S011) ↔ "lifesaving/cứu sinh" (S015) giữ quyết định Phase-1 (không lập tie); "leading" (S011) ↔ "leader/lead" (S015/S017) trùng gốc từ nhưng khác trường nghĩa (nguyên nhân hàng đầu ≠ quốc gia dẫn đầu); "use/sử dụng" (S023→S025), "đạt được" (S007→S008), "sale/sold" là động từ/từ nhẹ hoặc lặp tình cờ; "non-communicable diseases ↔ cardiovascular diseases" (S010↔S011) là quan hệ bao hàm dịch tễ học, đọc mờ.
 
 ## 5. Phép nối (conjunction)
 
@@ -95,10 +113,10 @@ Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R ph
 |---|---|---|---|---|
 | C-EN1 | S002 "But" | S002 "Nhưng" | adversative | giữ 1–1, mở bài luận |
 | C-EN2 | S005 "And yet" | S005 "Tuy nhiên" | adversative | EN để trong quote, VI tách ra đầu câu (VI không mở lại dấu quote, §8) |
-| C-EN3 | S022 "In fact" | S022 "Trên thực tế" | adversative (diễn giải tương phản) | chống luận điểm "tự nguyện không hiệu quả" (S021) |
+| C-EN3 | S022 "In fact" | S022 "Trên thực tế" | **continuative** ([Phase-2] điều chỉnh từ adversative) | H&H §5.8: mở lượt nói củng cố lập luận chống chính sách tự nguyện (S021) — discourse organizer, không nối tương phản mệnh đề |
 | C-EN4 | S023 "In addition to" | S023 "ngoài" | additive | giữ quan hệ bổ sung "ngoài các chiến lược hiện có" |
 
-**Nhận định:** 4 cặp nối liên câu giữ nguyên kiểu 1–1, không lược, không tự sinh liên từ liên câu. Các nối trong câu (không đánh dấu theo quy ước liên câu): "as" (S010) ↔ "vì" (S010) nhân quả trong quote Branca; "because" ↔ "bởi vì" (S022); "not only … but even" ↔ "không chỉ … mà còn" (S024); "regardless of" ↔ "bất kể" (S020). Như P31, mạch liên câu của tin này gần như không đi bằng nối tường minh mà đi bằng chuỗi từ vựng.
+**Nhận định:** 4 cặp nối liên câu giữ nguyên kiểu 1–1, không lược, không tự sinh liên từ liên câu. Các nối trong câu (không đánh dấu theo quy ước liên câu): "as" (S010) ↔ "vì" (S010) nhân quả trong quote Branca; "because" ↔ "bởi vì" (S022); "not only … but even" ↔ "không chỉ … mà còn" (S024); "regardless of" ↔ "bất kể" (S020). Như P31, mạch liên câu của tin này gần như không đi bằng nối tường minh mà đi bằng chuỗi từ vựng. **Theo H&H §5:** nối là quan hệ NGHĨA giữa câu chứ không phải từ loại; **[Phase-2] điều chỉnh sub** của C-EN3/C-VI3 từ adversative sang **continuative** (H&H §5.8 — chuẩn đã đồng bộ P21/P22/P24/P28): "In fact/Trên thực tế" không phủ định mệnh đề trước mà mở lượt củng cố (tiếp tục cùng hướng lập luận chống chính sách tự nguyện), khác "But/Nhưng", "And yet/Tuy nhiên" là adversative thật (đối lập hai mệnh đề). Cặp tăng/giảm (S023: tăng tính sẵn có của chất thay thế ↔ giảm muối) nằm trong cùng câu nên không đánh, chỉ ghi nhận phép đối (TNT §30).
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -114,6 +132,15 @@ Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R ph
 - **Chuỗi người phát ngôn:** Tedros (S003) + he (S004); Branca (S010) → Branca (S018) → he/Ông (S019); Frieden (S015) → Frieden (S016) → He/Ông (S017) → Frieden (S021) → Frieden (S023) → he/Ông (S024).
 - **Chuỗi khác song song:** giới hạn limits (S019) → They/Các giới hạn này (S020); nhãn warning labels (S016 lần đầu) → labels/nhãn (S020); food thực phẩm (S016 lần đầu, trong "food labeling") phân nhánh processed foods/thực phẩm chế biến (S018, nhánh mới lần đầu) → sodium-processed foods/chế biến bằng muối (S019) → food options/lựa chọn thực phẩm (S020) → food manufacturing industry/ngành sản xuất thực phẩm (S021); industrywide/toàn ngành (S019 lần đầu) → industry/ngành (S021); diet/chế độ ăn uống (S002 → S018, liên kết xa 16 câu); globally/trên toàn cầu (S005 → S008 "global target/mục tiêu toàn cầu" → S011); blood pressure/huyết áp (S004 → S024); substitutes/chất thay thế (S023 lần đầu → S024); risk/nguy cơ (S004 → S025); passed/thông qua (S016 → S017).
 - **Phân rã:** EN "intake" diễn đạt đều (S003, S005, S007, S008, S010, S014) còn VI phân ra "hấp thụ" (S005) / "tiêu thụ" (S008) / "ăn" (S003, S010) / trống (còn lại) → chuỗi intake VI rời rạc, chỉ ghi trong muối-chain notes, không lập tie riêng.
+- **[Phase-2] Chuỗi implement/thực hiện (bị sót — H&H §6.2; TNT §26/§31):** EN implementing (S007) → implementation (S009) → implementation (S015) — lặp nguyên từ bằng danh từ hóa; VI thực hiện (S007) → thi hành (S009, đồng nghĩa) → thực hiện (S015) — VI đổi từ nơi EN giữ nguyên; "thực hiện" ở S022 (các bước tích cực) là động từ đa dụng, ngoài chuỗi.
+- **[Phase-2] Chuỗi launch/công bố:** EN launched (S007) → launch (S016, danh từ hóa); VI công bố (S007) → công bố (S016) lặp nguyên văn — cùng sự kiện công bố phúc trình.
+- **[Phase-2] Chuỗi food/foods/thực phẩm (rà chuỗi ngược P28):** mắt xích S018 (processed and highly processed foods / thực phẩm chế biến và chế biến cao) được hàng S019 cite làm tiền trạm nhưng chưa có hàng → bổ sung; chuỗi đầy đủ: food labeling/quảng cáo thực phẩm (S016) → foods/thực phẩm (S018) → sodium-processed foods/thực phẩm chế biến bằng muối (S019) → food options/lựa chọn thực phẩm (S020) → food manufacturing industry/ngành sản xuất thực phẩm (S021).
+- **[Phase-2] Chuỗi lead/đi đầu–dẫn đầu:** EN "a leader" (S015, lần đầu) → "Chile's lead" (S017 — danh từ tổng quát H&H §6.1 tóm cả tình huống S016); VI "đi đầu" (S015, lần đầu) → "dẫn đầu" (S017, đồng nghĩa TNT §31 — EN dùng danh từ, VI dùng động từ).
+- **[Phase-2] Chuỗi recommend/khuyến nghị:** EN recommendation (S005) → recommended (S014); VI khuyến nghị (S005) → khuyến nghị (S014) — quan hệ TỪ VỰNG (lặp gốc từ), referent dịch chuyển (mức 2.000 mg ↔ chính sách được khuyến nghị).
+- **[Phase-2] Chuỗi enact–pass/ban hành–thông qua:** EN enacted (S014) → passed (S016) → passed (S017); VI ban hành (S014) → thông qua (S016) → thông qua (S017) — hai đầu đều đổi sang từ đồng nghĩa ở mắt xích giữa (TNT §31 phép thế đẳng nghĩa).
+- **[Phase-2] Chuỗi restrict/hạn chế:** EN restricted (S016) → restricts (S020); VI hạn chế (S016) → hạn chế (S020) lặp nguyên văn.
+- **[Phase-2] Phép đối effective ↔ ineffective (TNT §30; H&H §6.4 opposites):** EN cost-effective (S010) ↔ ineffective (S021); VI hiệu quả (S010) ↔ không hiệu quả (S021) — đối lập "can thiệp hiệu quả ↔ tự điều chỉnh vô hiệu"; cách 11 câu nên conf med.
+- **[Phase-2] Chuỗi proven (chỉ EN):** EN proven (S021) → proven (S023) — echo tương phản "proven ineffective" ↔ "proven strategies"; VI chỉ dùng "chứng minh" một lần (S021), S023 lược tính từ.
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
 
@@ -129,6 +156,13 @@ Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R ph
 | EN nối trong quote → VI nối ngoài quote | 1 | S005 "And yet" → "Tuy nhiên" |
 | Nội địa hóa mốc thời gian | 1 | S007 "Thursday" → "hôm 9/3" |
 | EN chỉ từ đơn → VI chỉ từ + danh từ tổng quát | 1 | S006 "That" → "Lượng này" |
+| EN danh từ tổng quát "lead" → VI động từ "dẫn đầu" (đồng nghĩa "đi đầu" S015) | 1 | S017 "following Chile's lead" → "sau khi Chile dẫn đầu" |
+| EN "implementation" lặp nguyên từ → VI đổi "thực hiện/thi hành" | 1 | S007/S009/S015 (đảo hướng NTT §2.1: EN lặp, VI đa dạng hóa) |
+| EN "proven" lặp (S021→S023) → VI lược tính từ | 1 | "các chiến lược hiện có" không lặp "chứng minh" |
+| EN "recommendation→recommended" đổi hình thái → VI "khuyến nghị" lặp nguyên từ | 1 | S005→S014 |
+| EN "launched→launch" danh từ hóa → VI "công bố" giữ nguyên động từ | 1 | S007→S016 |
+| EN "enacted→passed" đổi từ → VI "ban hành→thông qua" đổi từ (đối xứng) | 1 | S014→S016 |
+| EN "restricted→restricts" lặp nguyên từ → VI "hạn chế" lặp nguyên văn (đối xứng) | 1 | S016→S020 |
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -143,26 +177,27 @@ Tổng: EN 7 (A×6, E×1); VI 6 (A×5, E×1). R-EN5 không có đối ứng R ph
 9. **VI S012 đổi khung số:** "more than four out of five of these deaths" → "cứ năm ca tử vong này thì có trên bốn trường hợp" — cùng số liệu (4/5), khác cấu trúc đếm.
 10. **Tiêu đề [TD] lệch khung:** EN "WHO Chief: … Can Kill You" có khung nguồn + đại từ 2 ngôi; VI "WHO: Ăn nhiều muối có thể mất mạng" bỏ cả hai; không render, chỉ ghi nhận.
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Đã ghi tie table | Ghi chú |
 |---|---:|---:|---|
-| EN — R | 7 | 7 | he×4 (S004, S017, S019, S024), That (S006), They (S020), you (S025, E) |
+| EN — R | 8 | 8 | he×4 (S004, S017, S019, S024), That (S006), They (S020), you (S025, E), similar (S017, A — [Phase-2]) |
 | EN — S | 0 | 0 | không có pro-form |
 | EN — E | 2 | 2 | Speaking (S016), or ∅ (S020) — đều [TC] |
-| EN — C | 4 | 4 | But, And yet, In fact, In addition to |
-| EN — L | 68 | 68 | sodium 14 + salt 3, WHO 7 (1 gộp member states), report 3, policies 3 (+2 gộp), countries 3, deaths 5, cardiovascular 4, mandatory/voluntary 4, Frieden 3, Branca 1, Chile 3, Brazil/Mexico/Uruguay 3, food 2, global 2, diet 1, labels 1, industry 1, blood pressure 1, heart attacks 1, substitutes 1, risk 1, passed 1 |
-| VI — R | 6 | 6 | Ông×4 (S004, S017, S019, S024), Lượng này (S006), bạn (S025, E) |
+| EN — C | 4 | 4 | But, And yet, In fact (continuative — [Phase-2] đổi sub), In addition to |
+| EN — L | 78 | 78 | +10 hàng Phase-2: implementation (S009), recommended (S014), implementation (S015), launch (S016), passed (S016), lead (S017), foods (S018), restricts (S020), ineffective (S021), proven (S023) — cộng vào chuỗi Phase-1 (sodium 14, salt 3, WHO 7, report 3 + launch, policies/recommend 3+1, countries 3, deaths 5, cardiovascular 4, mandatory/voluntary + ineffective, food 2 + foods, Frieden 3, Branca 1, Chile 3 + lead, Brazil/Mexico/Uruguay 3, global 2, diet 1, labels 1, industry 1, blood pressure 1, heart attacks 1, substitutes 1, risk 1, passed 1 + passed S016, restrict/proven mới) |
+| VI — R | 6 | 6 | Ông×4 (S004, S017, S019, S024), Lượng này (S006), bạn (S025, E); "tương tự" (S017) nằm trong alt hàng L — [Phase-2] |
 | VI — S | 0 | 0 | |
 | VI — E | 2 | 2 | Phát biểu (S016), hay ∅ (S020) — đều [TC] |
-| VI — C | 4 | 4 | Nhưng, Tuy nhiên, Trên thực tế, ngoài |
-| VI — L | 72 | 72 | muối 16, WHO 7, phúc trình 3, quốc gia/nước 6, chính sách 3 (+2 gộp), tử vong 6, tim mạch 4, bắt buộc/tự nguyện 4, Frieden 3, Branca 1, Chile 3, Brazil/Mexico/Uruguay 3, thực phẩm 2, toàn cầu 2, ngành 1, nhãn 1, huyết áp 1, đau tim 1, chất thay thế 1, nguy cơ 1, thông qua 1, chế độ ăn uống 1, giới hạn 1 |
+| VI — C | 4 | 4 | Nhưng, Tuy nhiên, Trên thực tế (continuative — [Phase-2] đổi sub), ngoài |
+| VI — L | 81 | 81 | +9 hàng Phase-2: thi hành (S009), khuyến nghị (S014), thực hiện (S015), công bố (S016), thông qua (S016), dẫn đầu (S017), thực phẩm (S018), hạn chế (S020), không hiệu quả (S021) |
 
-Tổng: EN 81 tie (R7/S0/E2/C4/L68), VI 84 tie (R6/S0/E2/C4/L72).
+Tổng (sau Phase-2): EN 92 tie (R8/S0/E2/C4/L78), VI 93 tie (R6/S0/E2/C4/L81) — khớp pipeline.annotate; trước Phase-2: EN 81 (R7/S0/E2/C4/L68), VI 84 (R6/S0/E2/C4/L72).
 
 **Kết luận:**
-1. Cặp tin y tế "dữ kiện + trích dẫn" đi mạch gần như trọn bằng chuỗi từ vựng (EN 68/81 ≈ 84%, VI 72/84 ≈ 86%), thấp hơn P31 một chút vì P38 có lớp attribution đại từ "he/Ông" dày.
+1. Cặp tin y tế "dữ kiện + trích dẫn" đi mạch gần như trọn bằng chuỗi từ vựng (Phase-1: EN 68/81 ≈ 84%, VI 72/84 ≈ 86%; sau Phase-2: EN 78/92 ≈ 85%, VI 81/93 ≈ 87%), thấp hơn P31 một chút vì P38 có lớp attribution đại từ "he/Ông" dày.
 2. Phát hiện lớn nhất: EN tách **sodium** (khoa học) khỏi **salt** (đời thường) còn VI **hội tụ về "muối"** — VI nhiều hơn 2 tie muối, và chuỗi salt EN thưa (S005→S006→S023→S025) nhưng vẫn tách bạch — bằng chứng từ vựng học cho luận điểm "dịch VI san bằng khoảng cách thuật ngữ".
 3. Dịch chuyển loại duy nhất: EN "They" (R, [−người]) → VI "Các giới hạn này" (L + chỉ từ "này") — VI không nhận đại từ cho vật vô tri mà lặp đầu ngữ kèm chỉ từ.
 4. VI thay đại từ người bằng **danh xưng trần "Ông"** (×4) — chiến lược kính ngữ riêng, giữ [+người] rõ ràng hơn EN.
 5. Hai cặp tỉnh lược đều [TC] (Speaking/Phát biểu; or/hay ∅) — không có ∅ liên câu [LC] nào; các chỗ VI tự sinh danh từ ("quốc gia đi đầu", "Lượng này") được xếp đúng loại R/L, không bịa ∅; không dùng 2 mục [TC] này để kết luận về liên kết liên câu.
+6. **Phase-2 (theo references):** 20 tie mới (EN 11 / VI 9) gồm: quy chiếu so sánh "similar/tương tự" (H&H §2.5 — tie R so sánh đầu tiên của cặp), danh từ tổng quát "Chile's lead" (H&H §6.1) kèm VI đồng nghĩa "dẫn đầu ← đi đầu" (TNT §31), chuỗi lặp bị sót (implement/thực hiện–thi hành, launch/công bố, food/foods/thực phẩm — rà chuỗi ngược P28, restrict/hạn chế, recommend/khuyến nghị, proven), đồng nghĩa lập pháp enact–pass/ban hành–thông qua (TNT §31), phép đối effective ↔ ineffective / hiệu quả ↔ không hiệu quả (TNT §30); kèm điều chỉnh sub "In fact/Trên thực tế" (S022) adversative → continuative (H&H §5.8, chuẩn đã đồng bộ P21/P22/P24/P28); các đối xứng EN↔VI này đều đúng bảng dịch chuyển của NTT (2020) §5.

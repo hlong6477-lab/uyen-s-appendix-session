@@ -5,6 +5,20 @@
   {
    "id": "P40-VI-001",
    "sent": "S002",
+   "text": "chuyển",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: vừa gửi",
+   "conf": "med",
+   "alt": null,
+   "note": "gửi ≈ chuyển (gần nghĩa trường chuyển tiền); VI tự sinh mắt xích — EN S002 dùng 'was going' không lặp động từ gửi; chuỗi: gửi (S001) → chuyển (S002) → gửi (S003) → chuyển giao (S004)"
+  },
+  {
+   "id": "P40-VI-002",
+   "sent": "S002",
    "text": "Haiti",
    "occ": 1,
    "cat": "L",
@@ -17,7 +31,7 @@
    "note": "lặp tên nước Haiti"
   },
   {
-   "id": "P40-VI-002",
+   "id": "P40-VI-003",
    "sent": "S002",
    "text": "giúp đỡ",
    "occ": 1,
@@ -31,7 +45,7 @@
    "note": "lặp hình vị giúp (giúp cứu trợ → giúp đỡ); đối ứng EN help (S002)"
   },
   {
-   "id": "P40-VI-003",
+   "id": "P40-VI-004",
    "sent": "S003",
    "text": "gửi",
    "occ": 1,
@@ -45,7 +59,7 @@
    "note": "lặp động từ gửi (vừa gửi → đã được gửi)"
   },
   {
-   "id": "P40-VI-004",
+   "id": "P40-VI-005",
    "sent": "S003",
    "text": "Bangldesh",
    "occ": 1,
@@ -59,7 +73,7 @@
    "note": "copy nguyên lỗi chính tả Bangldesh của bản EN"
   },
   {
-   "id": "P40-VI-005",
+   "id": "P40-VI-006",
    "sent": "S003",
    "text": "hỗ trợ",
    "occ": 1,
@@ -73,7 +87,7 @@
    "note": "hỗ trợ ≈ giúp đỡ; hình vị trợ lặp với cứu trợ (S001)"
   },
   {
-   "id": "P40-VI-006",
+   "id": "P40-VI-007",
    "sent": "S003",
    "text": "người",
    "occ": 1,
@@ -87,7 +101,7 @@
    "note": "lặp danh từ tổng quát người; nhóm người khác nhau (nạn nhân động đất ↔ nạn nhân bão)"
   },
   {
-   "id": "P40-VI-007",
+   "id": "P40-VI-008",
    "sent": "S003",
    "text": null,
    "occ": 1,
@@ -103,7 +117,7 @@
    "note": "[TC] lược động từ trong vế tọa hợp thứ hai sau và; hồi phục {đã được gửi}; đối ứng E-EN1 (S004 EN)"
   },
   {
-   "id": "P40-VI-008",
+   "id": "P40-VI-009",
    "sent": "S003",
    "text": "Việt Nam",
    "occ": 1,
@@ -117,7 +131,7 @@
    "note": "lặp tên nước Việt Nam"
   },
   {
-   "id": "P40-VI-009",
+   "id": "P40-VI-010",
    "sent": "S004",
    "text": "Vatican",
    "occ": 1,
@@ -131,7 +145,21 @@
    "note": "đặt lại tên chủ thể; Vatican xuất hiện 2 lần trong câu (các đại sứ quán của Vatican) — 1 chuỗi 1 dấu, lần thứ hai không đánh"
   },
   {
-   "id": "P40-VI-010",
+   "id": "P40-VI-011",
+   "sent": "S004",
+   "text": "số tiền",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002-S003: 200.000 euro / Khoảng 70.000 đôla / khoảng 100.000 euro",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát tóm chỉ các khoản tiền đã nêu (H&H §6.1); tiếp chuỗi tiền từ quỹ từ thiện (S001); EN đối ứng the sums (S005 EN) — VI thực hiện bằng đầu từ tổng quát (L) + chỉ từ này (R đánh riêng)"
+  },
+  {
+   "id": "P40-VI-012",
    "sent": "S004",
    "text": "này",
    "occ": 1,
@@ -146,7 +174,7 @@
    "ref": "A"
   },
   {
-   "id": "P40-VI-011",
+   "id": "P40-VI-013",
    "sent": "S004",
    "text": null,
    "occ": 1,
@@ -162,7 +190,7 @@
    "note": "[TC] lược chủ ngữ vế tọa hợp thứ hai sau và; hồi phục {số tiền này}; đối ứng E-EN2 (S005 EN)"
   },
   {
-   "id": "P40-VI-012",
+   "id": "P40-VI-014",
    "sent": "S004",
    "text": "chuyển giao",
    "occ": 1,
@@ -176,7 +204,7 @@
    "note": "lặp hình vị chuyển (chuyển → chuyển giao); EN đổi động từ (administered) nên không có đối ứng EN — VI tự sinh mắt xích chuỗi động từ"
   },
   {
-   "id": "P40-VI-013",
+   "id": "P40-VI-015",
    "sent": "S004",
    "text": "các nước",
    "occ": 1,
@@ -190,7 +218,7 @@
    "note": "danh từ tổng quát tóm chỉ ba nước nhận viện trợ; đối ứng EN the countries (S005)"
   },
   {
-   "id": "P40-VI-014",
+   "id": "P40-VI-016",
    "sent": "S005",
    "text": "số tiền từ thiện",
    "occ": 1,
@@ -204,7 +232,7 @@
    "note": "từ thiện lặp; quỹ ≈ số tiền; chuỗi đi qua S004 (số tiền này); đối ứng EN charity money (S006)"
   },
   {
-   "id": "P40-VI-015",
+   "id": "P40-VI-017",
    "sent": "S005",
    "text": "này",
    "occ": 1,
@@ -219,7 +247,7 @@
    "ref": "A"
   },
   {
-   "id": "P40-VI-016",
+   "id": "P40-VI-018",
    "sent": "S005",
    "text": "Giáo hoàng",
    "occ": 1,
@@ -233,7 +261,7 @@
    "note": "danh xưng viết hoa giữa câu, bỏ Ðức so với S001; đối ứng EN the pope's (S006)"
   },
   {
-   "id": "P40-VI-017",
+   "id": "P40-VI-019",
    "sent": "S005",
    "text": "danh nghĩa cá nhân",
    "occ": 1,
@@ -247,7 +275,7 @@
    "note": "lặp nguyên cụm (dấu vết tái dùng công thức câu mở đầu); đối ứng EN personal disposal (S006)"
   },
   {
-   "id": "P40-VI-018",
+   "id": "P40-VI-020",
    "sent": "S005",
    "text": "đóng góp",
    "occ": 1,
@@ -261,7 +289,7 @@
    "note": "lặp hình vị đóng góp; hướng cho khác nhau (khoản của giáo hoàng ↔ tín hữu đóng vào quỹ); đối ứng EN contribute (S006)"
   },
   {
-   "id": "P40-VI-019",
+   "id": "P40-VI-021",
    "sent": "S006",
    "text": "quỹ",
    "occ": 1,
@@ -275,7 +303,7 @@
    "note": "quỹ này ← quỹ Peter's Pence/một quỹ; đối ứng EN The fund (S007)"
   },
   {
-   "id": "P40-VI-020",
+   "id": "P40-VI-022",
    "sent": "S006",
    "text": "này",
    "occ": 1,

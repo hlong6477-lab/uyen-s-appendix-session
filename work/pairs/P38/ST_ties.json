@@ -258,6 +258,20 @@
   },
   {
    "id": "P38-EN-019",
+   "sent": "S009",
+   "text": "implementation",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: in implementing sodium intake reduction policies",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] full range of implementation — lặp danh từ hóa của động từ implementing (S007)"
+  },
+  {
+   "id": "P38-EN-020",
    "sent": "S010",
    "text": "WHO",
    "occ": 1,
@@ -271,7 +285,7 @@
    "note": "[LC] WHO's Department of Nutrition"
   },
   {
-   "id": "P38-EN-020",
+   "id": "P38-EN-021",
    "sent": "S010",
    "text": "reducing sodium intake",
    "occ": 1,
@@ -285,7 +299,7 @@
    "note": "[LC] echo nguyên văn cụm của S008"
   },
   {
-   "id": "P38-EN-021",
+   "id": "P38-EN-022",
    "sent": "S010",
    "text": "cardiovascular events",
    "occ": 1,
@@ -299,7 +313,7 @@
    "note": "[LC] xoay diseases → events, giữ tính từ cardiovascular"
   },
   {
-   "id": "P38-EN-022",
+   "id": "P38-EN-023",
    "sent": "S010",
    "text": "deaths",
    "occ": 1,
@@ -313,7 +327,7 @@
    "note": "[LC] chuỗi tử vong; VI gộp kill/deaths nên VI có thêm 1 tie ở S003"
   },
   {
-   "id": "P38-EN-023",
+   "id": "P38-EN-024",
    "sent": "S011",
    "text": "Cardiovascular diseases",
    "occ": 1,
@@ -327,7 +341,7 @@
    "note": "[LC] xoay lại diseases"
   },
   {
-   "id": "P38-EN-024",
+   "id": "P38-EN-025",
    "sent": "S011",
    "text": "death",
    "occ": 1,
@@ -341,7 +355,7 @@
    "note": "[LC] the leading cause of death"
   },
   {
-   "id": "P38-EN-025",
+   "id": "P38-EN-026",
    "sent": "S011",
    "text": "globally",
    "occ": 1,
@@ -355,7 +369,7 @@
    "note": "[LC] echo nguyên văn 'globally' của S005; lần nhắc gần nhất của chuỗi global là S008"
   },
   {
-   "id": "P38-EN-026",
+   "id": "P38-EN-027",
    "sent": "S012",
    "text": "WHO",
    "occ": 1,
@@ -369,7 +383,7 @@
    "note": "[LC] WHO reports"
   },
   {
-   "id": "P38-EN-027",
+   "id": "P38-EN-028",
    "sent": "S012",
    "text": "these deaths",
    "occ": 1,
@@ -383,7 +397,7 @@
    "note": "[LC] đầu ngữ 'deaths' lặp, chỉ từ 'these' thâu vào alt; chỉ 17,9 triệu sinh mạng của S011"
   },
   {
-   "id": "P38-EN-028",
+   "id": "P38-EN-029",
    "sent": "S012",
    "text": "heart attacks and strokes",
    "occ": 1,
@@ -397,7 +411,7 @@
    "note": "[LC] cụ thể hóa bệnh tim mạch thành hai bệnh (bridging nhẹ)"
   },
   {
-   "id": "P38-EN-029",
+   "id": "P38-EN-030",
    "sent": "S014",
    "text": "The report",
    "occ": 1,
@@ -411,7 +425,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-EN-030",
+   "id": "P38-EN-031",
    "sent": "S014",
    "text": "countries",
    "occ": 1,
@@ -425,7 +439,7 @@
    "note": "[LC] nine countries — 'nine' là thông tin mới; 9 tên quốc gia lần đầu không đánh"
   },
   {
-   "id": "P38-EN-031",
+   "id": "P38-EN-032",
    "sent": "S014",
    "text": "WHO",
    "occ": 1,
@@ -439,7 +453,7 @@
    "note": "[LC] WHO's recommended policies"
   },
   {
-   "id": "P38-EN-032",
+   "id": "P38-EN-033",
    "sent": "S014",
    "text": "policies",
    "occ": 1,
@@ -453,7 +467,21 @@
    "note": "[LC] recommended policies"
   },
   {
-   "id": "P38-EN-033",
+   "id": "P38-EN-034",
+   "sent": "S014",
+   "text": "recommended",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: the WHO recommendation for adults",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] WHO's recommended policies — lặp gốc recommend của 'recommendation' (S005); lexical cohesion không đòi hỏi đồng nhất referent (H&H §6.2)"
+  },
+  {
+   "id": "P38-EN-035",
    "sent": "S014",
    "text": "reduce sodium intake",
    "occ": 1,
@@ -467,7 +495,7 @@
    "note": "[LC] lặp gần nguyên văn (reducing → reduce)"
   },
   {
-   "id": "P38-EN-034",
+   "id": "P38-EN-036",
    "sent": "S015",
    "text": "Chile",
    "occ": 1,
@@ -481,7 +509,7 @@
    "note": "[LC] cites Chile as a leader — nhắc lại tên trong danh sách 9 quốc gia"
   },
   {
-   "id": "P38-EN-035",
+   "id": "P38-EN-037",
    "sent": "S015",
    "text": "sodium-reduction policies",
    "occ": 1,
@@ -495,7 +523,21 @@
    "note": "[LC] gộp chuỗi sodium + policies thành tính từ ghép"
   },
   {
-   "id": "P38-EN-036",
+   "id": "P38-EN-038",
+   "sent": "S015",
+   "text": "implementation",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: lack full range of implementation",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] the implementation of lifesaving sodium-reduction policies — chuỗi implement (S007 → S009 → S015)"
+  },
+  {
+   "id": "P38-EN-039",
    "sent": "S016",
    "text": null,
    "occ": 1,
@@ -511,7 +553,7 @@
    "note": "[TC] chủ ngữ mệnh đề phân từ 'Speaking in a webinar...' trống; hồi phục {Frieden} (điều khiển trong câu)"
   },
   {
-   "id": "P38-EN-037",
+   "id": "P38-EN-040",
    "sent": "S016",
    "text": "report",
    "occ": 1,
@@ -525,7 +567,21 @@
    "note": "[LC] the report's launch"
   },
   {
-   "id": "P38-EN-038",
+   "id": "P38-EN-041",
+   "sent": "S016",
+   "text": "launch",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: A WHO report launched Thursday",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] the report's launch — danh từ hóa của 'launched' (S007)"
+  },
+  {
+   "id": "P38-EN-042",
    "sent": "S016",
    "text": "Frieden",
    "occ": 1,
@@ -539,7 +595,7 @@
    "note": "[LC] họ trong attribution (bỏ tên đệm Tom); S017 sẽ tiếp bằng đại từ He"
   },
   {
-   "id": "P38-EN-039",
+   "id": "P38-EN-043",
    "sent": "S016",
    "text": "Chile",
    "occ": 1,
@@ -553,7 +609,21 @@
    "note": "[LC] Chile had passed the law"
   },
   {
-   "id": "P38-EN-040",
+   "id": "P38-EN-044",
+   "sent": "S016",
+   "text": "passed",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: have fully enacted WHO's recommended policies",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] passed the law ≈ enacted (S014); mắt xích mới của chuỗi enact/pass (S014 → S016 → S017)"
+  },
+  {
+   "id": "P38-EN-045",
    "sent": "S016",
    "text": "mandatory",
    "occ": 1,
@@ -567,7 +637,7 @@
    "note": "[LC] mandatory front-of pack warning labels"
   },
   {
-   "id": "P38-EN-041",
+   "id": "P38-EN-046",
    "sent": "S016",
    "text": "sodium",
    "occ": 1,
@@ -581,7 +651,7 @@
    "note": "[LC] including on sodium; 'those warning labels/those products' trong câu là quy chiếu nội câu, không đánh"
   },
   {
-   "id": "P38-EN-042",
+   "id": "P38-EN-047",
    "sent": "S017",
    "text": "He",
    "occ": 1,
@@ -596,7 +666,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-EN-043",
+   "id": "P38-EN-048",
    "sent": "S017",
    "text": "Brazil",
    "occ": 1,
@@ -610,7 +680,7 @@
    "note": "[LC] nhắc lại trong danh sách 9 quốc gia; Argentina lần đầu nên không đánh"
   },
   {
-   "id": "P38-EN-044",
+   "id": "P38-EN-049",
    "sent": "S017",
    "text": "Mexico",
    "occ": 1,
@@ -624,7 +694,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-EN-045",
+   "id": "P38-EN-050",
    "sent": "S017",
    "text": "Uruguay",
    "occ": 1,
@@ -638,7 +708,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-EN-046",
+   "id": "P38-EN-051",
    "sent": "S017",
    "text": "passed",
    "occ": 1,
@@ -652,7 +722,22 @@
    "note": "[LC] động từ lập pháp lặp 'passed' (động từ nội dung, không phải động từ tường thuật)"
   },
   {
-   "id": "P38-EN-047",
+   "id": "P38-EN-052",
+   "sent": "S017",
+   "text": "similar",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: Chile had passed the law of food labeling and advertising (bộ chính sách của Chile)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] similar policies = chính sách TƯƠNG TỰ với bộ chính sách Chile đã mô tả ở S016; H&H §2.5 comparative; conf med vì 'Chile's lead' trong cùng câu cũng gợi chuẩn so sánh",
+   "ref": "A"
+  },
+  {
+   "id": "P38-EN-053",
    "sent": "S017",
    "text": "policies",
    "occ": 1,
@@ -666,7 +751,7 @@
    "note": "[LC] similar policies — 'similar' so với chính sách Chile (S016)"
   },
   {
-   "id": "P38-EN-048",
+   "id": "P38-EN-054",
    "sent": "S017",
    "text": "Chile",
    "occ": 1,
@@ -680,7 +765,21 @@
    "note": "[LC] following Chile's lead"
   },
   {
-   "id": "P38-EN-049",
+   "id": "P38-EN-055",
+   "sent": "S017",
+   "text": "lead",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: Chile had passed the law of food labeling and advertising",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] following Chile's lead — danh từ tổng quát tóm tình huống S016 (bridging H&H §6.1); đọc phụ: lặp gốc từ 'leader' (S015)"
+  },
+  {
+   "id": "P38-EN-056",
    "sent": "S018",
    "text": "Branca",
    "occ": 1,
@@ -694,7 +793,7 @@
    "note": "[LC] họ trong attribution, bỏ tên đệm Francesco"
   },
   {
-   "id": "P38-EN-050",
+   "id": "P38-EN-057",
    "sent": "S018",
    "text": "sodium",
    "occ": 1,
@@ -708,7 +807,7 @@
    "note": "[LC] a significant proportion of sodium"
   },
   {
-   "id": "P38-EN-051",
+   "id": "P38-EN-058",
    "sent": "S018",
    "text": "the diet",
    "occ": 1,
@@ -722,7 +821,7 @@
    "note": "[LC] liên kết xa (16 câu): sodium in the diet"
   },
   {
-   "id": "P38-EN-052",
+   "id": "P38-EN-059",
    "sent": "S018",
    "text": "countries",
    "occ": 1,
@@ -736,7 +835,21 @@
    "note": "[LC] lần 1 trong câu (high-income countries); lần 2 (low- and middle-income countries) không đánh thêm"
   },
   {
-   "id": "P38-EN-053",
+   "id": "P38-EN-060",
+   "sent": "S018",
+   "text": "foods",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: the law of food labeling",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] processed and highly processed foods — nhánh mới của chuỗi food (food labeling S016 → foods S018 → sodium-processed foods S019); bổ sung hàng vì S019 cite S018 làm tiền trạm (P28)"
+  },
+  {
+   "id": "P38-EN-061",
    "sent": "S019",
    "text": "he",
    "occ": 1,
@@ -751,7 +864,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-EN-054",
+   "id": "P38-EN-062",
    "sent": "S019",
    "text": "mandatory",
    "occ": 1,
@@ -765,7 +878,7 @@
    "note": "[LC] mandatory maximum limits"
   },
   {
-   "id": "P38-EN-055",
+   "id": "P38-EN-063",
    "sent": "S019",
    "text": "sodium-processed foods",
    "occ": 1,
@@ -779,7 +892,7 @@
    "note": "[LC] gộp chuỗi sodium + processed foods thành tính từ ghép"
   },
   {
-   "id": "P38-EN-056",
+   "id": "P38-EN-064",
    "sent": "S020",
    "text": "They",
    "occ": 1,
@@ -794,7 +907,21 @@
    "ref": "A"
   },
   {
-   "id": "P38-EN-057",
+   "id": "P38-EN-065",
+   "sent": "S020",
+   "text": "restricts",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: restricted marketing of products",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] restricts the less healthy food options — lặp động từ restrict (restricted marketing S016)"
+  },
+  {
+   "id": "P38-EN-066",
    "sent": "S020",
    "text": null,
    "occ": 2,
@@ -810,7 +937,7 @@
    "note": "[TC] chủ ngữ vế tọa hợp thứ hai sau 'or' bị lược; hồi phục {they} (trong câu); song song phía VI 'hay ∅'"
   },
   {
-   "id": "P38-EN-058",
+   "id": "P38-EN-067",
    "sent": "S020",
    "text": "labels",
    "occ": 1,
@@ -824,7 +951,7 @@
    "note": "[LC] information on labels"
   },
   {
-   "id": "P38-EN-059",
+   "id": "P38-EN-068",
    "sent": "S020",
    "text": "food",
    "occ": 1,
@@ -838,7 +965,7 @@
    "note": "[LC] the less healthy food options — chuỗi food (phân nhánh từ 'food labeling' S016)"
   },
   {
-   "id": "P38-EN-060",
+   "id": "P38-EN-069",
    "sent": "S021",
    "text": "Frieden",
    "occ": 1,
@@ -852,7 +979,7 @@
    "note": "[LC] tên trong attribution; S017 dùng đại từ He nên truy về nhắc tên gần nhất S016"
   },
   {
-   "id": "P38-EN-061",
+   "id": "P38-EN-070",
    "sent": "S021",
    "text": "food",
    "occ": 1,
@@ -866,7 +993,7 @@
    "note": "[LC] the food manufacturing industry"
   },
   {
-   "id": "P38-EN-062",
+   "id": "P38-EN-071",
    "sent": "S021",
    "text": "industry",
    "occ": 1,
@@ -880,7 +1007,21 @@
    "note": "[LC] lặp gốc 'industry' của 'industrywide'"
   },
   {
-   "id": "P38-EN-063",
+   "id": "P38-EN-072",
+   "sent": "S021",
+   "text": "ineffective",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: one of the most cost-effective ways to improve health",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] phép đối effective ↔ ineffective (cost-effective S010 ↔ ineffective S021); conf med vì cách xa 11 câu"
+  },
+  {
+   "id": "P38-EN-073",
    "sent": "S021",
    "text": "voluntary",
    "occ": 1,
@@ -894,7 +1035,7 @@
    "note": "[LC] phép đối: voluntary đối lập mandatory (chuỗi thuộc tính chính sách)"
   },
   {
-   "id": "P38-EN-064",
+   "id": "P38-EN-074",
    "sent": "S021",
    "text": "policies",
    "occ": 1,
@@ -908,21 +1049,21 @@
    "note": "[LC] voluntary policies"
   },
   {
-   "id": "P38-EN-065",
+   "id": "P38-EN-075",
    "sent": "S022",
    "text": "In fact",
    "occ": 1,
    "cat": "C",
-   "sub": "adversative",
+   "sub": "continuative",
    "dir": "ana",
    "level": "LC",
    "ante": "S021: voluntary policies are often ignored",
    "conf": "high",
    "alt": null,
-   "note": "[LC] nối diễn giải tương phản, chống lại tính hiệu quả của tự nguyện (S021); 'because' trong câu không đánh"
+   "note": "[LC] continuative (H&H §5.8): mở lượt củng cố lập luận chống chính sách tự nguyện (S021); trước Phase-2 ghi adversative — điều chỉnh theo chuẩn P21/P22/P24/P28; 'because' trong câu không đánh"
   },
   {
-   "id": "P38-EN-066",
+   "id": "P38-EN-076",
    "sent": "S022",
    "text": "mandatory",
    "occ": 1,
@@ -936,7 +1077,7 @@
    "note": "[LC] a mandatory approach — đối lập 'voluntary' của S021 (phép đối)"
   },
   {
-   "id": "P38-EN-067",
+   "id": "P38-EN-077",
    "sent": "S023",
    "text": "In addition to",
    "occ": 1,
@@ -950,7 +1091,21 @@
    "note": "[LC] nối bổ sung: ngoài các chiến lược đã bàn S016-S022"
   },
   {
-   "id": "P38-EN-068",
+   "id": "P38-EN-078",
+   "sent": "S023",
+   "text": "proven",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: has repeatedly proven to be ineffective",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] the existing proven strategies — lặp 'proven' (S021) với cực tính đảo (vô hiệu ↔ hiệu quả); VI không lặp ('các chiến lược hiện có')"
+  },
+  {
+   "id": "P38-EN-079",
    "sent": "S023",
    "text": "reduce sodium",
    "occ": 1,
@@ -964,7 +1119,7 @@
    "note": "[LC] echo nguyên văn 'reduce sodium intake' (bỏ 'intake')"
   },
   {
-   "id": "P38-EN-069",
+   "id": "P38-EN-080",
    "sent": "S023",
    "text": "salt",
    "occ": 1,
@@ -978,7 +1133,7 @@
    "note": "[LC] salt substitutes — chuỗi salt thưa: S005→S006→S023; lần 'sodium' thứ 2 trong câu (sodium and salt substitutes) không đánh thêm"
   },
   {
-   "id": "P38-EN-070",
+   "id": "P38-EN-081",
    "sent": "S023",
    "text": "Frieden",
    "occ": 1,
@@ -992,7 +1147,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-EN-071",
+   "id": "P38-EN-082",
    "sent": "S023",
    "text": "countries",
    "occ": 1,
@@ -1006,7 +1161,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-EN-072",
+   "id": "P38-EN-083",
    "sent": "S024",
    "text": "these substitutes",
    "occ": 1,
@@ -1020,7 +1175,7 @@
    "note": "[LC] đầu ngữ 'substitutes' lặp, chỉ từ 'these' thâu vào alt"
   },
   {
-   "id": "P38-EN-073",
+   "id": "P38-EN-084",
    "sent": "S024",
    "text": "blood pressure",
    "occ": 1,
@@ -1034,7 +1189,7 @@
    "note": "[LC] liên kết xa (20 câu)"
   },
   {
-   "id": "P38-EN-074",
+   "id": "P38-EN-085",
    "sent": "S024",
    "text": "heart attack and strokes",
    "occ": 1,
@@ -1048,7 +1203,7 @@
    "note": "[LC] heart attack đổi sang số ít"
   },
   {
-   "id": "P38-EN-075",
+   "id": "P38-EN-086",
    "sent": "S024",
    "text": "death",
    "occ": 1,
@@ -1062,7 +1217,7 @@
    "note": "[LC] death from cardiovascular events"
   },
   {
-   "id": "P38-EN-076",
+   "id": "P38-EN-087",
    "sent": "S024",
    "text": "cardiovascular events",
    "occ": 1,
@@ -1076,7 +1231,7 @@
    "note": "[LC] xoay lại 'events' (trùng cụm của S010)"
   },
   {
-   "id": "P38-EN-077",
+   "id": "P38-EN-088",
    "sent": "S024",
    "text": "he",
    "occ": 3,
@@ -1091,7 +1246,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-EN-078",
+   "id": "P38-EN-089",
    "sent": "S025",
    "text": "salt",
    "occ": 1,
@@ -1105,7 +1260,7 @@
    "note": "[LC] the brand of salt — chuỗi salt chốt bài"
   },
   {
-   "id": "P38-EN-079",
+   "id": "P38-EN-090",
    "sent": "S025",
    "text": "you",
    "occ": 1,
@@ -1120,7 +1275,7 @@
    "ref": "E"
   },
   {
-   "id": "P38-EN-080",
+   "id": "P38-EN-091",
    "sent": "S025",
    "text": "risk",
    "occ": 1,
@@ -1134,7 +1289,7 @@
    "note": "[LC] the risk of death — liên kết xa (21 câu)"
   },
   {
-   "id": "P38-EN-081",
+   "id": "P38-EN-092",
    "sent": "S025",
    "text": "death",
    "occ": 1,

@@ -20,6 +20,13 @@ ST = [
      "trong 'bottled water brands'", 1, None, None, "LC", None),
     ("S003", "per liter", "L", "repetition", "S001: The average liter",
      "high", None, "đơn vị lặp", 1, None, None, "LC", None),
+    # [Phase-2] particle ← S002 pieces: đồng nghĩa pieces ≈ particles (H&H
+    # §6.2 reiteration; TNT §31 phép thế đẳng nghĩa) — mắt xích được S004
+    # (These/particles) cite làm tiền trạm nhưng chưa có hàng (nhóm 12).
+    ("S003", "particle", "L", "synonym",
+     "S002: these microscopic plastic pieces", "med", None,
+     "pieces ≈ particles (particle levels); mở chuỗi 'particles'", 1, None,
+     None, "LC", None),
     # S004
     ("S004", "These", "R", "demonstrative",
      "S003: particle levels ranged from 110,000 to 400,000", "high", None,
@@ -37,27 +44,41 @@ ST = [
     # S007
     ("S007", "Previous studies", "L", "repetition", "S003: a study",
      "high", None, "mở chuỗi 'studies'", 1, None, None, "LC", None),
-    ("S007", "microplastics", "L", "collocation",
+    # [Phase-2] bigger: quy chiếu so sánh (H&H §2.5) — chuẩn so sánh là
+    # hạt nano < 1 micron tả ở câu trước (S004) → [LC]; VI đối ứng "hơn".
+    ("S007", "bigger", "R", "comparative",
+     "S004: particles that are less than a micron in size", "med", None,
+     "[LC] 'slightly bigger' = lớn hơn hạt nano đã tả ở S004; H&H §2.5 "
+     "comparative (tính từ so sánh có chuẩn trong văn bản)", 1, None, None,
+     "LC", "A"),
+    # [Phase-2] tái phân loại sub collocation → antonym: micro ↔ nano là cặp
+    # đối nghĩa kích thước qua câu (TNT §30 phép đối; H&H §6.4 opposites).
+    ("S007", "microplastics", "L", "antonym",
      "S001: nanoplastics", "med", None,
-     "trường nhựa: micro ↔ nano đối lập kích thước; 'micron' trong câu "
-     "có hàng riêng", 1, None, None, "LC", None),
+     "phép đối micro ↔ nano (đối lập kích thước, TNT §30; H&H §6.4 "
+     "opposites); 'micron' trong câu có hàng riêng", 1, None, None, "LC",
+     None),
     ("S007", "micron", "L", "repetition", "S006: 83 microns", "high",
      None, "to one micron", 1, None, None, "LC", None),
     # S008
+    # [Phase-2] sửa ante theo tiền trạm gần nhất (nhóm 4): nhắc gần nhất
+    # của 'nanoplastics' là S001, không phải S007 microplastics (TNT §26).
     ("S008", "nanoplastics", "L", "repetition",
-     "S007: slightly bigger microplastics", "high", None, None, 1, None,
-     None, "LC", None),
+     "S001: ever so tiny nanoplastics", "high", None,
+     "lặp nanoplastics (chuỗi từ S001)", 1, None, None, "LC", None),
     ("S008", "microplastics", "L", "repetition", "S007: microplastics",
      "high", None, None, 1, None, None, "LC", None),
     ("S008", "bottled water", "L", "repetition",
      "S003: three common bottled water brands", "high", None, None, 1,
      None, None, "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S008", "the study", "L", "repetition", "S003: a study", "high",
-     None, "mạo từ xác định — nghiên cứu đã được nhận diện", 1, None,
+     "R: the", "mạo từ xác định — nghiên cứu đã được nhận diện", 1, None,
      None, "LC", None),
     # S009
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S009", "the plastic", "L", "repetition",
-     "S008: nanoplastics than microplastics", "high", None,
+     "S008: nanoplastics than microplastics", "high", "R: the",
      "hình vị 'plastic' trong nanoplastics/microplastics", 1, None, None,
      "LC", None),
     ("S009", "the bottle", "L", "repetition",
@@ -78,6 +99,22 @@ ST = [
      None, None, "LC", "A"),
     ("S010", "researchers", "L", "repetition", "S003: researchers",
      "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] more (occ 1, "more samples"): quy chiếu so sánh (H&H §2.5)
+    # — chuẩn so sánh là 5 mẫu mỗi nhãn hiệu ở S003, câu trước → [LC];
+    # "more brands" (occ 2) so với "the three brands" trong cùng câu →
+    # [TC] không đánh (ghi §4.3 analysis).
+    ("S010", "more", "R", "comparative",
+     "S003: five samples each of three common bottled water brands", "med",
+     None,
+     "[LC] more samples = nhiều hơn 5 mẫu đã xem xét (S003); H&H §2.5 "
+     "comparative; 'more brands' trong câu → [TC]", 1, None, None, "LC",
+     "A"),
+    # [Phase-2] samples ← S003 five samples: chuỗi 'samples' bị sót (H&H
+    # §6.2 reiteration; TNT §26 phép lặp).
+    ("S010", "samples", "L", "repetition",
+     "S003: five samples each of three common bottled water brands",
+     "high", None, "lặp samples (want more samples)", 1, None, None,
+     "LC", None),
     ("S010", "study", "L", "repetition", "S009: study lead author",
      "med", None, "danh từ → động từ cùng hình vị", 1, None, None,
      "LC", None),
@@ -113,10 +150,31 @@ ST = [
      "ngoại quy chiếu", 1, None, None, "LC", "E"),
     ("S014", "it", "R", "personal",
      "S012: are those nanoplastic pieces harmful to health", "med",
-     None, "it = vấn đề nhựa nano gây hại; 'dangerous' lặp 2 lần trong "
-     "câu (TC) không đánh", 1, None, None, "LC", "A"),
+     None, "it = vấn đề nhựa nano gây hại; 'dangerous' lần 2 trong câu "
+     "(TC) không đánh; lần 1 có hàng [Phase-2] ← S012 harmful", 1, None,
+     None, "LC", "A"),
+    # [Phase-2] don't know ← S002 never knew: chuỗi 'know' (H&H §6.2; TNT
+    # §26 phép lặp, liên kết bắc cầu TNT §8) — mắt xích được hàng "do know"
+    # (S015) cite làm tiền trạm (nhóm 12).
+    ("S014", "don’t know", "L", "repetition",
+     "S002: they never knew how many or what kind", "med", None,
+     "lặp know (cùng phủ định); bắc cầu xa (TNT §8)", 1, None, None,
+     "LC", None),
+    # [Phase-2] dangerous (occ 1) ← S012 harmful: đồng nghĩa (H&H §6.2) —
+    # mắt xích được S027 "The danger" cite làm tiền trạm (nhóm 12).
+    ("S014", "dangerous", "L", "synonym",
+     "S012: Are those nanoplastic pieces harmful to health", "high",
+     None,
+     "dangerous ≈ harmful; lần 2 trong câu (TC) không đánh", 1, None,
+     None, "LC", None),
     ("S014", "study", "L", "repetition", "S010: study", "high", None,
      "study co-author", 1, None, None, "LC", None),
+    # [Phase-2] co-author ← S009 lead author: lặp hình vị author (H&H §6.2;
+    # TNT §26) — mắt xích được S021 co-authors cite (nhóm 12).
+    ("S014", "co-author", "L", "repetition",
+     "S009: study lead author Naixin Qian", "med", None,
+     "lặp hình vị author (lead author → co-author, đổi vai)", 1, None,
+     None, "LC", None),
     ("S014", "Rutgers", "L", "repetition",
      "S002: Columbia and Rutgers universities", "high", None, None, 1,
      None, None, "LC", None),
@@ -124,12 +182,20 @@ ST = [
     ("S015", "We", "R", "personal",
      "giới nghiên cứu (ngoại văn bản — quote Stapleton)", "med", None,
      "câu mới trong cùng quote nên đánh dấu", 1, None, None, "LC", "E"),
+    # [Phase-2] do know ↔ don't know (S014): phép đối phủ định–khẳng định
+    # qua câu (TNT §30; H&H §6.4 opposites) — "We don't know X; we do
+    # know Y"; VI đối ứng biết ↔ không biết.
+    ("S015", "do know", "L", "antonym",
+     "S014: We don't know if it's dangerous", "high", None,
+     "phép đối do know ↔ don't know (không biết ↔ biết)", 1, None, None,
+     "LC", None),
     ("S015", "they", "R", "personal",
      "S012: those nanoplastic pieces", "high", None,
      "occ 1: lần 2 ('they're doing') trong câu cùng chuỗi, không đánh",
      1, None, None, "LC", "A"),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S015", "the current research", "L", "synonym",
-     "S008: the study", "high", None, "research ≈ study", 1, None,
+     "S008: the study", "high", "R: the", "research ≈ study", 1, None,
      None, "LC", None),
     ("S015", "people", "L", "synonym", "S006: A human hair", "med",
      None, "human ↔ people (đồng nghĩa); VI 'con người' lặp nguyên từ",
@@ -189,13 +255,16 @@ ST = [
      "LC", None),
     ("S021", "bottled water", "L", "repetition", "S016: Bottled Water",
      "high", None, None, 1, None, None, "LC", None),
-    ("S021", "the study", "L", "repetition", "S016: the study — như "
-     "S014: study", "high", None,
+    # [Phase-2] sửa ante (nhóm 4/12): S016 không chứa 'the study'; nhắc gần
+    # nhất là S014 study co-author; alt "R: the" (mapping §3.6).
+    ("S021", "the study", "L", "repetition", "S014: study co-author",
+     "high", "R: the",
      "nguồn lỗi chính tả 'conduced' (= conducted), ghi §8", 1, None,
      None, "LC", None),
     # S022
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S022", "the Columbia physical chemist", "L", "repetition",
-     "S009: a Columbia physical chemist", "high", None,
+     "S009: a Columbia physical chemist", "high", "R: the",
      "lặp cả cụm danh hiệu (chỉ Min); 'he/his' trong câu không đánh", 1,
      None, None, "LC", None),
     ("S022", "dual laser microscope technology", "L", "repetition",
@@ -204,6 +273,12 @@ ST = [
     ("S022", "bottled water", "L", "repetition",
      "S021: their bottled water use", "high", None, None, 1, None,
      None, "LC", None),
+    # [Phase-2] reduced ← S021 cutting back: đồng nghĩa (H&H §6.2) — chuỗi
+    # 'giảm dùng nước đóng chai'; VI đối ứng 'giảm' ← 'cắt giảm'.
+    ("S022", "reduced", "L", "synonym",
+     "S021: cutting back on their bottled water use", "high", None,
+     "reduced ≈ cutting back (reduced ... by half)", 1, None, None,
+     "LC", None),
     # S023
     ("S023", "Stapleton", "L", "repetition",
      "S014: study co-author Phoebe Stapleton", "high", None,
@@ -218,6 +293,12 @@ ST = [
     ("S024", "study co-author", "L", "repetition", "S021: co-authors",
      "high", None, "kết chuỗi co-author + study", 1, None, None, "LC",
      None),
+    # [Phase-2] increased ↔ reduced (S022): phép đối tăng–giảm qua câu (TNT
+    # §30; H&H §6.4 opposites) — nước đóng chai giảm ↔ nước máy tăng.
+    ("S024", "increased", "L", "antonym",
+     "S022: reduced his bottled water use by half", "high", None,
+     "phép đối increased ↔ reduced (increased his tap water usage)", 1,
+     None, None, "LC", None),
     ("S024", "a Columbia environmental chemist", "L", "repetition",
      "S022: the Columbia physical chemist", "high", None,
      "kết chuỗi Columbia + chemist; 'his' trong câu không đánh", 1,
@@ -231,28 +312,52 @@ ST = [
     ("S025", "Stapleton", "L", "repetition", "S023: Stapleton", "high",
      None, "khối cắt, VI none", 1, None, None, "LC", None),
     # S026
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S026", "the study", "L", "repetition", "S021: the study",
-     "high", None,
+     "high", "R: the",
      "VI đối ứng 'nghiên cứu này' là quy chiếu (R) — dịch chuyển", 1,
      None, None, "LC", None),
+    # [Phase-2] perils ← S014 dangerous: đồng nghĩa (H&H §6.2) — chuỗi
+    # 'nguy hiểm' harmful→dangerous→perils→danger; VI đối ứng mối nguy
+    # hiểm (S025 TT) ← nguy hiểm (S014 TT).
+    ("S026", "perils", "L", "synonym",
+     "S014: if it's dangerous or how dangerous", "med", None,
+     "perils ≈ danger; mắt xích giữa dangerous (S014) và The danger "
+     "(S027)", 1, None, None, "LC", None),
     ("S026", "fine plastics particles", "L", "repetition",
      "S016: nano- and microplastic particles", "high", None,
      "kết chuỗi plastics + particles; 'it's too early' trong câu "
      "không đánh", 1, None, None, "LC", None),
     # S027
-    ("S027", "The danger", "L", "repetition",
-     "S014: if it's dangerous or how dangerous", "high", None,
-     "dangerous → danger; câu quote bị tách (mở lờ, ghi §8)", 1, None,
-     None, "LC", None),
+    # [Phase-2] cập nhật ante theo tiền trạm gần nhất (nhóm 4): S026 perils
+    # là mắt xích gần hơn; danger ≈ perils → sub synonym; alt "R: the"
+    # (mapping §3.6).
+    ("S027", "The danger", "L", "synonym",
+     "S026: perils of fine plastics particles", "high", "R: the",
+     "danger ≈ perils (cùng chuỗi harmful→dangerous→perils); câu quote bị "
+     "tách (mở lờ, ghi §8)", 1, None, None, "LC", None),
     ("S027", "the plastics", "L", "repetition",
      "S026: fine plastics particles", "high", None, None, 1, None,
      None, "LC", None),
     ("S027", "question", "L", "repetition", "S012: the big question",
-     "high", None, "'unanswered' bổ nghĩa mới", 1, None, None, "LC",
-     None),
-    # S028
+     "high", None, "'unanswered' có hàng [Phase-2] riêng ← S012 answer", 1,
+     None, None, "LC", None),
+    # [Phase-2] unanswered ← S012 can't answer: lặp hình vị answer (H&H
+    # §6.2; TNT §26) — chuỗi 'câu hỏi chưa có lời đáp'; VI đối ứng 'lời đáp'
+    # ← 'trả lời'.
+    ("S027", "unanswered", "L", "repetition",
+     "S012: Researchers still can't answer the big question", "med",
+     None, "answer → unanswered (phủ định hóa hình vị)", 1, None, None,
+     "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S028", "the research", "L", "synonym", "S015: the current research",
-     "high", None, None, 1, None, None, "LC", None),
+     "high", "R: the", None, 1, None, None, "LC", None),
+    # [Phase-2] concerning ← S026 unease: đồng nghĩa (H&H §6.2) — mở chuỗi
+    # 'lo âu' unease→concerning→disturbing→worried; VI đối ứng 'lo ngại'.
+    ("S028", "concerning", "L", "synonym",
+     "S026: a general unease about perils", "med", None,
+     "the most concerning ≈ unease (điều đáng lo ngại nhất)", 1, None,
+     None, "LC", None),
     # S029
     ("S029", "We", "R", "personal",
      "Somarelli + giới nghiên cứu (ngoại văn bản — quote)", "med", None,
@@ -277,6 +382,13 @@ ST = [
     ("S030", "chemicals", "L", "repetition",
      "S029: chemical additives", "high", None,
      "cancer-causing chemicals", 1, None, None, "LC", None),
+    # [Phase-2] cancer-causing ← S028 oncology: collocation trường 'ung
+    # thư' (H&H §6.4) — VI đối ứng lặp nguyên từ 'ung thư' (S027→S029 TT).
+    ("S030", "cancer-causing", "L", "collocation",
+     "S028: professor of medicine and comparative oncology", "med",
+     None,
+     "oncology ≈ cancer (cùng trường ung thư); chức danh Somarelli nêu "
+     "ở câu trước", 1, None, None, "LC", None),
     ("S030", "these plastics", "R", "demonstrative",
      "S027: the plastics themselves", "high", None, None, 1, None,
      None, "LC", "A"),
@@ -285,12 +397,19 @@ ST = [
      "S026: fine plastics particles", "high", None,
      "lặp 'particles'; 'they' trong câu không đánh", 1, None, None,
      "LC", None),
+    # [Phase-2] disturbing ← S028 concerning: đồng nghĩa (H&H §6.2) — tiếp
+    # chuỗi 'lo âu'; VI đối ứng 'lo ngại' (S030 TT).
+    ("S031", "disturbing", "L", "synonym",
+     "S028: the additives are the most concerning", "med", None,
+     "disturbing ≈ concerning (điều đáng lo ngại)", 1, None, None, "LC",
+     None),
     # S032
     ("S032", "Diana", "L", "repetition",
      "S031: University of Toronto evolutionary biologist Zoie Diana",
      "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S032", "the study", "L", "repetition", "S026: the study",
-     "high", None,
+     "high", "R: the",
      "occ 1: lần 2 ('the study of plastics' = lĩnh vực, nghĩa khác) "
      "không đánh", 1, None, None, "LC", None),
     ("S032", "researchers", "L", "repetition", "S012: Researchers",
@@ -309,8 +428,9 @@ ST = [
     ("S033", "dual laser microscope technology", "L", "repetition",
      "S022: dual laser microscope technology", "high", None, None, 1,
      None, None, "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S033", "the lasers", "L", "repetition",
-     "S001: a microscope using dual lasers", "high", None,
+     "S001: a microscope using dual lasers", "high", "R: the",
      "exposed to the lasers", 1, None, None, "LC", None),
     ("S033", "chemical properties", "L", "repetition",
      "S030: cancer-causing chemicals", "med", None,
@@ -337,19 +457,49 @@ ST = [
     ("S034", "established methods", "L", "repetition",
      "S016: standardized (measuring) methods", "high", None,
      "lặp 'methods'", 1, None, None, "LC", None),
+    # [Phase-2] identify ← S033 identifies: lặp động từ kỹ thuật (H&H §6.2;
+    # TNT §26) — VI đối ứng 'xác định' lặp nguyên từ.
+    ("S034", "identify", "L", "repetition",
+     "S033: identifies specific compounds", "high", None,
+     "identifies → identify (find and identify plastics)", 1, None,
+     None, "LC", None),
     # S035
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S035", "the work", "L", "synonym", "S026: the study", "high",
-     None, "work ≈ study; VI 'công trình này' là quy chiếu (R)", 1,
+     "R: the", "work ≈ study; VI 'công trình này' là quy chiếu (R)", 1,
      None, None, "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S035", "the detection", "L", "repetition",
-     "S001: detected and categorized", "high", None,
+     "S001: detected and categorized", "high", "R: the",
      "detect → detection", 1, None, None, "LC", None),
     ("S035", "nanoplastics", "L", "repetition", "S029: these "
      "nanoplastics", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S035", "the technique", "L", "repetition",
-     "S034: that technique", "high", None,
+     "S034: that technique", "high", "R: the",
      "'she said she'd' trong câu không đánh", 1, None, None, "LC",
      None),
+    # [Phase-2] other: quy chiếu so sánh (H&H §2.5 "other") — "other
+    # analytical chemists" = nhà hóa học khác VỚI các nhà hóa học của nghiên
+    # cứu đã nêu ở câu trước → [LC]; VI đối ứng "khác" (S034 TT).
+    ("S035", "other", "R", "comparative",
+     "S024: a Columbia environmental chemist (các nhà hóa học của nghiên "
+     "cứu)", "med", None,
+     "[LC] other analytical chemists = khác với nhóm nhà hóa học của "
+     "nghiên cứu; H&H §2.5 other", 1, None, None, "LC", "A"),
+    # [Phase-2] advance ← S032 development: đồng nghĩa (H&H §6.2) — VI đối
+    # ứng 'tiến bộ' ← 'bước phát triển'.
+    ("S035", "advance", "L", "synonym",
+     "S032: an exciting development", "high", None,
+     "advance ≈ development (an important advance)", 1, None, None,
+     "LC", None),
+    # [Phase-2] results: danh từ tổng quát tóm kết quả đã báo ở S003 (H&H
+    # §6.1 general word; mapping §3.6 → alt "R: the").
+    ("S035", "results", "L", "general word",
+     "S003: researchers found particle levels ranged from 110,000 to "
+     "400,000", "med", "R: the",
+     "the results = kết quả nghiên cứu (mức độ hạt) đã báo ở S003", 1,
+     None, None, "LC", None),
     ("S035", "chemists", "L", "repetition",
      "S024: a Columbia environmental chemist", "high", None,
      "other analytical chemists", 1, None, None, "LC", None),
@@ -360,8 +510,9 @@ ST = [
     ("S036", "plastic waste", "L", "repetition", "S034: plastics",
      "high", None, "khối cắt, VI none", 1, None, None, "LC", None),
     # S037 — KHỐI CẮT
+    # [Phase-2] alt "R: the": mạo từ xác định thâu vào hàng L (mapping §3.6).
     ("S037", "the nanoplastic", "L", "repetition",
-     "S035: the detection of nanoplastics", "high", None,
+     "S035: the detection of nanoplastics", "high", "R: the",
      "biến thể số ít; khối cắt, VI none", 1, None, None, "LC", None),
     # S038 — KHỐI CẮT
     ("S038", "Hardesty", "L", "repetition",
@@ -386,6 +537,20 @@ ST = [
     ("S039", "to study", "L", "repetition", "S032: the study", "med",
      None, "danh từ → động từ; 'water supplies' trường nước quá rộng, "
      "không đánh", 1, None, None, "LC", None),
+    # [Phase-2] other: quy chiếu so sánh (H&H §2.5) — "other municipal water
+    # supplies" = nguồn khác với nước đóng chai đã nghiên cứu; có thể đọc
+    # ngoại cảnh ('thành phố khác') nên conf low (mapping §7).
+    ("S039", "other", "R", "comparative",
+     "S038: nanoplastics in bottled water", "low", None,
+     "[LC] other municipal water supplies = nguồn nước khác với nước "
+     "đóng chai của nghiên cứu (H&H §2.5); đọc phụ 'thành phố khác' → "
+     "conf low", 1, None, None, "LC", "A"),
+    # [Phase-2] plastics ← S034: mắt xích được S041 "single-use plastics"
+    # cite làm tiền trạm nhưng chưa có hàng (nhóm 12; H&H §6.2; TNT §26).
+    ("S039", "plastics", "L", "repetition",
+     "S034: find and identify plastics", "high", None,
+     "lặp plastics (how much plastics are in their tap water)", 1, None,
+     None, "LC", None),
     ("S039", "tap water", "L", "repetition",
      "S038: 'clean' tap water (khối cắt)", "high", None, None, 1,
      None, None, "LC", None),
@@ -410,6 +575,20 @@ ST = [
      "S016: potential health impacts", "high", None,
      "lặp 'health'; 'he' trong câu không đánh", 1, None, None, "LC",
      None),
+    # [Phase-2] unknowns ← S027 unanswered question: danh từ tổng quát tóm
+    # 'vấn đề chưa có lời đáp' (H&H §6.1 general word; §6.2 synonym); VI
+    # hiện thực hóa bằng cụm động từ 'chưa biết rõ' → không có hàng VI.
+    ("S041", "unknowns", "L", "general word",
+     "S027: still an unanswered question", "med", None,
+     "unknowns ≈ unanswered question (vấn đề chưa biết); VI 'chưa biết "
+     "rõ' hiện thực hóa", 1, None, None, "LC", None),
+    # [Phase-2] worried ← S031 disturbing: đồng nghĩa (H&H §6.2) — khép chuỗi
+    # 'lo âu' unease→concerning→disturbing→worried; VI 'lo lắng' ← 'lo
+    # ngại'.
+    ("S041", "worried", "L", "synonym",
+     "S031: What's disturbing", "med", None,
+     "worried ≈ disturbing/concerning (people who are worried)", 1,
+     None, None, "LC", None),
     ("S041", "Yan", "L", "repetition", "S039: Yan said", "high", None,
      None, 1, None, None, "LC", None),
     ("S041", "reusable bottles", "L", "repetition",
@@ -436,6 +615,13 @@ TT = [
      None),
     ("S003", "mỗi lít", "L", "repetition", "S001: một lít nước đóng chai",
      "high", None, "đơn vị lặp", 1, None, None, "LC", None),
+    # [Phase-2] hạt ← S002 mảnh: đồng nghĩa mảnh ≈ hạt (H&H §6.2; TNT §31
+    # phép thế đẳng nghĩa) — mắt xích được S004 (Đây/những hạt) cite làm tiền
+    # trạm nhưng chưa có hàng (nhóm 12).
+    ("S003", "hạt", "L", "synonym",
+     "S002: mảnh nhựa siêu nhỏ này", "med", None,
+     "mảnh ≈ hạt (mức độ hạt); mở chuỗi 'hạt'", 1, None, None, "LC",
+     None),
     # S004
     ("S004", "Đây", "R", "demonstrative", "S003: mức độ hạt dao động",
      "high", None, "đối ứng EN 'These'", 1, None, None, "LC", "A"),
@@ -453,9 +639,19 @@ TT = [
     ("S007", "Các nghiên cứu trước đây", "L", "repetition",
      "S003: một nghiên cứu", "high", None, "mở chuỗi 'nghiên cứu'", 1,
      None, None, "LC", None),
-    ("S007", "vi nhựa", "L", "collocation", "S001: mảnh nhựa nano",
-     "med", None, "trường nhựa: vi ↔ nano đối lập kích thước", 1, None,
-     None, "LC", None),
+    # [Phase-2] hơn: quy chiếu so sánh (H&H §2.5) — 'lớn hơn' so với hạt nano
+    # < 1 micron tả ở câu trước (S004) → [LC]; EN đối ứng "bigger" (S007 ST).
+    ("S007", "hơn", "R", "comparative",
+     "S004: những hạt có kích thước nhỏ hơn một micron", "med", None,
+     "[LC] 'lớn hơn một chút' = lớn hơn hạt nano đã tả ở S004; H&H §2.5 "
+     "comparative; 'nhỏ hơn' trong S004 là so sánh trong câu", 1, None,
+     None, "LC", "A"),
+    # [Phase-2] tái phân loại sub collocation → antonym: vi ↔ nano là cặp đối
+    # nghĩa kích thước qua câu (TNT §30 phép đối; H&H §6.4 opposites).
+    ("S007", "vi nhựa", "L", "antonym", "S001: mảnh nhựa nano",
+     "med", None,
+     "phép đối vi ↔ nano (đối lập kích thước, TNT §30; H&H §6.4)", 1,
+     None, None, "LC", None),
     ("S007", "hạt", "L", "repetition", "S004: những hạt", "high", None,
      "trong 'các hạt vi nhựa'", 1, None, None, "LC", None),
     ("S007", "micron", "L", "repetition", "S006: 83 micron", "high",
@@ -500,6 +696,17 @@ TT = [
      "'họ' trong câu không đánh; EN 'the three brands' có hàng R nhưng "
      "VI 'ba thương hiệu' không tín hiệu — chỉ ghi nhận", 1, None,
      None, "LC", None),
+    # [Phase-2] hơn (occ 1, "mẫu hơn"): quy chiếu so sánh (H&H §2.5) — chuẩn
+    # so sánh là 5 mẫu (S003) ở câu trước → [LC]; 'thương hiệu hơn' (occ 2)
+    # so với 'ba thương hiệu' trong cùng câu → [TC] (ghi §4.3 analysis).
+    ("S010", "hơn", "R", "comparative",
+     "S003: năm mẫu của ba nhãn hiệu nước đóng chai", "med", None,
+     "[LC] 'nhiều mẫu hơn' = nhiều hơn 5 mẫu đã xem xét (S003); H&H §2.5; "
+     "'thương hiệu hơn' trong câu → [TC]", 1, None, None, "LC", "A"),
+    # [Phase-2] mẫu ← S003: chuỗi 'mẫu' bị sót (TNT §26 phép lặp; H&H §6.2).
+    ("S010", "mẫu", "L", "repetition",
+     "S003: năm mẫu của ba nhãn hiệu nước đóng chai", "high", None,
+     "lặp mẫu (muốn có nhiều mẫu hơn)", 1, None, None, "LC", None),
     ("S010", "nghiên cứu", "L", "repetition", "S009: nghiên cứu",
      "med", None,
      "occ 2: lần 1 nằm trong 'các nhà nghiên cứu' (hàng riêng), lần 2 "
@@ -538,7 +745,8 @@ TT = [
      "S012: mảnh nhựa nano có gây hại cho sức khỏe không", "med",
      None,
      "occ 1 vì 'nói' chứa 'nó'; nó = vấn đề nhựa nano gây hại; "
-     "'nguy hiểm' lặp 2 lần trong câu (TC) không đánh", 1, None, None,
+     "'nguy hiểm' lần 2 trong câu (TC) không đánh; lần 1 có hàng "
+     "[Phase-2] ← S012 gây hại", 1, None, None,
      "LC", "A"),
     ("S014", "nghiên cứu", "L", "repetition", "S010: nghiên cứu",
      "high", None,
@@ -548,6 +756,27 @@ TT = [
      "S012: Các nhà nghiên cứu", "med", None,
      "VI tự sinh lặp chuỗi trong chức danh 'một nhà nghiên cứu chất "
      "độc'; EN 'a toxicologist' không có", 1, None, None, "LC", None),
+    # [Phase-2] không biết ← S002 chưa bao giờ biết: chuỗi 'biết' (TNT §26;
+    # bắc cầu §8) — mắt xích được hàng "biết" (S015) cite (nhóm 12).
+    ("S014", "không biết", "L", "repetition",
+     "S002: họ chưa bao giờ biết có bao nhiêu và loại nào", "med",
+     None,
+     "lặp biết (cùng phủ định); bắc cầu xa (TNT §8)", 1, None, None,
+     "LC", None),
+    # [Phase-2] nguy hiểm (occ 1) ← S012 gây hại: đồng nghĩa (H&H §6.2) —
+    # mắt xích được S026 "nguy hiểm" cite (nhóm 12).
+    ("S014", "nguy hiểm", "L", "synonym",
+     "S012: Những mảnh nhựa nano đó có gây hại cho sức khỏe không",
+     "high", None,
+     "nguy hiểm ≈ gây hại; lần 2 trong câu (TC) không đánh", 1, None,
+     None, "LC", None),
+    # [Phase-2] đồng tác giả ← S009 Tác giả chính: lặp hình vị 'tác giả'
+    # (TNT §26) — mắt xích được S021 "đồng tác giả" cite (nhóm 12); EN đối
+    # ứng co-author (S014 ST).
+    ("S014", "đồng tác giả", "L", "repetition",
+     "S009: Tác giả chính của nghiên cứu", "med", None,
+     "lặp hình vị 'tác giả' (tác giả chính → đồng tác giả, đổi vai)", 1,
+     None, None, "LC", None),
     ("S014", "Rutgers", "L", "repetition",
      "S002: trường đại học Columbia và Rutgers", "high", None, None,
      1, None, None, "LC", None),
@@ -556,6 +785,13 @@ TT = [
      "giới nghiên cứu (ngoại văn bản — quote)", "med", None,
      "ngoại quy chiếu; VI dùng 'chúng ta' thay cho EN 'we'", 1, None,
      None, "LC", "E"),
+    # [Phase-2] biết ↔ không biết (S014): phép đối phủ định–khẳng định qua
+    # câu (TNT §30; H&H §6.4 opposites) — đối xứng EN "do know" ↔ "don't
+    # know" (S015/S014 ST).
+    ("S015", "biết", "L", "antonym",
+     "S014: Chúng tôi không biết", "high", None,
+     "phép đối biết ↔ không biết ('Chúng ta biết' ↔ 'Chúng tôi không "
+     "biết')", 1, None, None, "LC", None),
     ("S015", "chúng", "R", "personal",
      "S012: Những mảnh nhựa nano đó", "high", None,
      "occ 1: lần 2 ('chúng đang làm') trong câu cùng chuỗi, không đánh",
@@ -629,6 +865,11 @@ TT = [
     ("S022", "nước đóng chai", "L", "repetition",
      "S021: nước đóng chai", "high", None, None, 1, None, None, "LC",
      None),
+    # [Phase-2] giảm ← S021 cắt giảm: lặp hình vị 'giảm' (TNT §26 phép lặp)
+    # — đối xứng EN reduced (S022 ST) ← cutting back (S021 ST).
+    ("S022", "giảm", "L", "repetition",
+     "S021: cắt giảm việc sử dụng nước đóng chai", "high", None,
+     "giảm một nửa ← cắt giảm", 1, None, None, "LC", None),
     # S023
     ("S023", "Stapleton", "L", "repetition",
      "S014: Phoebe Stapleton", "high", None,
@@ -648,6 +889,13 @@ TT = [
     ("S024", "một nhà hóa học môi trường ở Columbia", "L", "repetition",
      "S022: nhà hóa học vật lý ở Columbia", "high", None,
      "kết chuỗi nhà hóa học + Columbia", 1, None, None, "LC", None),
+    # [Phase-2] tăng cường ↔ giảm (S022): phép đối tăng–giảm qua câu (TNT
+    # §30; H&H §6.4 opposites) — nước máy tăng ↔ nước đóng chai giảm; đối
+    # xứng EN increased ↔ reduced (S024/S022 ST).
+    ("S024", "tăng cường", "L", "antonym",
+     "S022: giảm một nửa lượng nước đóng chai", "high", None,
+     "phép đối tăng cường ↔ giảm (tăng cường sử dụng nước máy)", 1,
+     None, None, "LC", None),
     ("S024", "bộ lọc", "L", "repetition",
      "S009: bộ lọc màng thẩm thấu ngược", "high", None, None, 1, None,
      None, "LC", None),
@@ -659,25 +907,47 @@ TT = [
      "S021: tiến hành nghiên cứu", "high", None,
      "hậu chỉ từ 'này'; EN đối ứng 'the study' là lặp từ (L) — dịch "
      "chuyển", 1, None, None, "LC", "A"),
+    # [Phase-2] nguy hiểm ← S014: lặp nguyên từ trong 'mối nguy hiểm' (TNT
+    # §26) — mắt xích giữa nguy hiểm (S014) và sự nguy hiểm (S026); đối
+    # xứng EN perils (S026 ST).
+    ("S025", "nguy hiểm", "L", "repetition",
+     "S014: có nguy hiểm hay nguy hiểm đến mức nào", "high", None,
+     "lặp nguy hiểm (mối nguy hiểm của các hạt nhựa mịn)", 1, None,
+     None, "LC", None),
     ("S025", "các hạt nhựa mịn", "L", "repetition",
      "S019: hạt vi nhựa", "high", None,
      "kết chuỗi hạt + nhựa; 'mịn' từ mới; 'nhưng còn quá sớm' trong "
      "câu, không đánh", 1, None, None, "LC", None),
     # S026 (= EN S027)
+    # [Phase-2] cập nhật ante theo tiền trạm gần nhất (nhóm 4): S025 'mối
+    # nguy hiểm' là nhắc gần nhất (TNT §26).
     ("S026", "nguy hiểm", "L", "repetition",
-     "S014: có nguy hiểm hay nguy hiểm đến mức nào", "high", None,
+     "S025: mối nguy hiểm của các hạt nhựa mịn", "high", None,
      "sự nguy hiểm; câu quote bị tách như EN, ghi §8", 1, None, None,
      "LC", None),
     ("S026", "nhựa", "L", "repetition", "S025: các hạt nhựa mịn",
      "high", None, None, 1, None, None, "LC", None),
     ("S026", "câu hỏi", "L", "repetition", "S012: câu hỏi lớn",
-     "high", None, "'chưa có lời đáp' bổ nghĩa mới", 1, None, None,
-     "LC", None),
+     "high", None, "'chưa có lời đáp' có hàng [Phase-2] riêng ← S012 "
+     "trả lời", 1, None, None, "LC", None),
+    # [Phase-2] lời đáp ← S012 trả lời: đồng nghĩa (H&H §6.2; TNT §31 phép
+    # thế đẳng nghĩa) — đối xứng EN unanswered (S027 ST) ← answer.
+    ("S026", "lời đáp", "L", "synonym",
+     "S012: vẫn chưa thể trả lời câu hỏi lớn", "med", None,
+     "lời đáp ≈ trả lời ('chưa có lời đáp')", 1, None, None, "LC",
+     None),
     # S027 (= EN S028)
     ("S027", "nghiên cứu", "L", "repetition",
      "S025: nghiên cứu này", "high", None,
      "người không tham gia nghiên cứu; 'tôi' hư chỉ trong quote", 1,
      None, None, "LC", None),
+    # [Phase-2] lo ngại ← S025: lặp nguyên từ ('đáng lo ngại nhất' ← 'sự
+    # lo ngại') (TNT §26) — mở chuỗi 'lo' lo ngại→lo lắng; đối xứng EN
+    # concerning (S028 ST) ← unease (S026 ST).
+    ("S027", "lo ngại", "L", "repetition",
+     "S025: có sự lo ngại chung", "high", None,
+     "lặp lo ngại (điều đáng lo ngại nhất)", 1, None, None, "LC",
+     None),
     # S028 (= EN S029)
     ("S028", "Chúng tôi", "R", "personal",
      "Somarelli + giới nghiên cứu (ngoại văn bản — quote)", "med",
@@ -694,6 +964,12 @@ TT = [
     ("S028", "phụ gia hóa học", "L", "repetition",
      "S027: các chất phụ gia", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] chỉ ra ← S024 đã chỉ ra: VI lặp nguyên cụm động từ (TNT
+    # §26) — EN đổi 'pointed out' → 'shown' nên không có hàng EN đối ứng.
+    ("S028", "chỉ ra", "L", "repetition",
+     "S024: đã chỉ ra rằng bản thân các bộ lọc", "med", None,
+     "lặp 'đã chỉ ra' (We and others have shown); EN đổi động từ", 1,
+     None, None, "LC", None),
     # S029 (= EN S030)
     ("S029", "Somarelli", "L", "repetition",
      "S027: Jason Somarelli", "high", None,
@@ -705,6 +981,13 @@ TT = [
     ("S029", "hóa chất", "L", "repetition",
      "S028: phụ gia hóa học", "high", None,
      "hóa chất gây ung thư", 1, None, None, "LC", None),
+    # [Phase-2] ung thư ← S027 'nhóm ung thư đối chiếu': lặp nguyên từ
+    # trong chức danh (TNT §26) — EN đối ứng là collocation oncology ≈
+    # cancer (S028/S030 ST).
+    ("S029", "ung thư", "L", "repetition",
+     "S027: giám đốc nhóm ung thư đối chiếu", "med", None,
+     "lặp ung thư (hóa chất gây ung thư ← chức danh Somarelli)", 1,
+     None, None, "LC", None),
     ("S029", "những loại nhựa này", "R", "demonstrative",
      "S028: những loại nhựa nano này", "high", None,
      "lặp khung 'những loại … này'", 1, None, None, "LC", "A"),
@@ -713,17 +996,31 @@ TT = [
      "S025: các hạt nhựa mịn", "high", None,
      "lặp 'hạt'; 'nhỏ' tiếp trường kích thước; 'chúng' trong câu "
      "không đánh", 1, None, None, "LC", None),
+    # [Phase-2] lo ngại ← S027 đáng lo ngại: lặp nguyên từ (TNT §26) — đối
+    # xứng EN disturbing (S031 ST) ← concerning (S028 ST).
+    ("S030", "lo ngại", "L", "repetition",
+     "S027: điều đáng lo ngại nhất", "high", None,
+     "lặp lo ngại (Điều đáng lo ngại)", 1, None, None, "LC", None),
     # S031 (= EN S032)
     ("S031", "Diana", "L", "repetition",
      "S030: nhà sinh vật học tiến hóa Zoie Diana", "high", None, None,
      1, None, None, "LC", None),
+    # [Phase-2] tham gia ← S027 'không tham gia nghiên cứu': VI lặp nguyên
+    # cụm khẳng định tính chuyên gia ngoài (TNT §26) — EN 'was/was not part
+    # of' dùng giới từ chức năng nên không có hàng EN.
+    ("S031", "tham gia", "L", "repetition",
+     "S027: người không tham gia nghiên cứu", "med", None,
+     "lặp 'không tham gia nghiên cứu' (công thức dẫn nguồn)", 1, None,
+     None, "LC", None),
     ("S031", "nghiên cứu", "L", "repetition", "S029: công trình nghiên "
      "cứu", "high", None,
      "occ 1: lần 2 nằm trong 'các nhà nghiên cứu' (hàng riêng), lần 3 "
      "('nghiên cứu về nhựa' = lĩnh vực) không đánh", 1, None, None,
      "LC", None),
+    # [Phase-2] sửa ante (nhóm 12): S021 không chứa 'các nhà nghiên cứu';
+    # nhắc gần nhất là S012 (TNT §26).
     ("S031", "các nhà nghiên cứu", "L", "repetition",
-     "S021: các nhà nghiên cứu", "high", None,
+     "S012: Các nhà nghiên cứu", "high", None,
      "công cụ mới mà các nhà nghiên cứu sử dụng", 1, None, None, "LC",
      None),
     ("S031", "công cụ mới", "R", "nominal",
@@ -760,6 +1057,12 @@ TT = [
      None, None, "LC", "A"),
     ("S033", "nhựa", "L", "repetition", "S031: nhựa", "high", None,
      "các loại nhựa quá nhỏ", 1, None, None, "LC", None),
+    # [Phase-2] xác định ← S032: lặp động từ kỹ thuật (TNT §26) — đối xứng
+    # EN identify (S034 ST) ← identifies (S033 ST).
+    ("S033", "xác định", "L", "repetition",
+     "S032: giúp xác định các hợp chất cụ thể", "high", None,
+     "lặp xác định (để tìm và xác định các loại nhựa)", 1, None, None,
+     "LC", None),
     ("S033", "các nhà nghiên cứu", "L", "repetition",
      "S031: các nhà nghiên cứu", "high", None, None, 1, None, None,
      "LC", None),
@@ -779,6 +1082,28 @@ TT = [
      "nano này", "high", None, None, 1, None, None, "LC", None),
     ("S034", "kỹ thuật", "L", "repetition", "S033: kỹ thuật đó",
      "high", None, "nhân rộng kỹ thuật", 1, None, None, "LC", None),
+    # [Phase-2] tiến bộ ← S031 'bước phát triển': đồng nghĩa (H&H §6.2) —
+    # đối xứng EN advance (S035 ST) ← development (S032 ST).
+    ("S034", "tiến bộ", "L", "synonym",
+     "S031: một bước phát triển thú vị", "high", None,
+     "tiến bộ ≈ phát triển (một tiến bộ quan trọng)", 1, None, None,
+     "LC", None),
+    # [Phase-2] kết quả: danh từ tổng quát tóm kết quả đã báo ở S003 (H&H
+    # §6.1 general word); VI không có mạo từ, định danh bằng ngữ cảnh
+    # (mapping §4) — đối xứng EN results (S035 ST).
+    ("S034", "kết quả", "L", "general word",
+     "S003: các nhà nghiên cứu nhận thấy mức độ hạt dao động", "med",
+     None,
+     "kết quả = kết quả nghiên cứu (mức độ hạt) đã báo ở S003; VI định "
+     "danh bằng ngữ cảnh", 1, None, None, "LC", None),
+    # [Phase-2] khác: quy chiếu so sánh (H&H §2.5 "other/khác") — 'các nhà
+    # hóa học phân tích khác' = khác với các nhà hóa học của nghiên cứu đã
+    # nêu → [LC]; EN đối ứng "other" (S035 ST).
+    ("S034", "khác", "R", "comparative",
+     "S024: một nhà hóa học môi trường ở Columbia (các nhà hóa học của "
+     "nghiên cứu)", "med", None,
+     "[LC] khác = nhà hóa học khác với nhóm của nghiên cứu; H&H §2.5 "
+     "other", 1, None, None, "LC", "A"),
     ("S034", "nhà hóa học", "L", "repetition",
      "S024: nhà hóa học môi trường", "high", None,
      "các nhà hóa học phân tích", 1, None, None, "LC", None),
@@ -789,6 +1114,22 @@ TT = [
      "S031: nghiên cứu", "med", None,
      "danh từ → động từ; 'nguồn cung cấp nước' trường nước quá rộng, "
      "không đánh", 1, None, None, "LC", None),
+    # [Phase-2] khác (occ 1, "nước khác"): quy chiếu so sánh (H&H §2.5) —
+    # nguồn khác với nước đóng chai đã nghiên cứu; occ 2 'những nơi khác'
+    # so với các thành phố liệt kê trong cùng câu → [TC] (ghi §4.3);
+    # conf low vì có thể đọc ngoại cảnh 'thành phố khác' (mapping §7);
+    # EN đối ứng "other" (S039 ST).
+    ("S035", "khác", "R", "comparative",
+     "S022: nước đóng chai (của nghiên cứu)", "low", None,
+     "[LC] 'nguồn cung cấp nước khác' = khác với nước đóng chai đã "
+     "nghiên cứu; H&H §2.5; 'những nơi khác' (occ 2) trong câu → "
+     "[TC]", 1, None, None, "LC", "A"),
+    # [Phase-2] nhựa ← S033: lặp nguyên từ (TNT §26) — đối xứng EN plastics
+    # (S039 ST) ← S034.
+    ("S035", "nhựa", "L", "repetition",
+     "S033: các loại nhựa quá nhỏ", "high", None,
+     "lặp nhựa (có bao nhiêu nhựa trong nước máy)", 1, None, None,
+     "LC", None),
     ("S035", "nước máy", "L", "repetition", "S024: nước máy",
      "high", None, None, 1, None, None, "LC", None),
     # S036 (= EN S040)
@@ -803,10 +1144,24 @@ TT = [
      "high", None,
      "EN có E 'than bottled [∅ water]' nhưng VI lấp đầy 'nước đóng "
      "chai' nên không có E phía VI", 1, None, None, "LC", None),
+    # [Phase-2] nước đóng chai ← S022: vế lấp E của EN (S040 "than bottled
+    # [∅]") là lặp chuỗi 'nước đóng chai' (TNT §26) — dịch chuyển EN E ↔
+    # VI L.
+    ("S036", "nước đóng chai", "L", "repetition",
+     "S022: giảm một nửa lượng nước đóng chai sử dụng", "high", None,
+     "lặp nước đóng chai (vế lấp tỉnh lược EN)", 1, None, None, "LC",
+     None),
     # S037 (= EN S041)
     ("S037", "sức khỏe con người", "L", "repetition",
      "S016: sức khỏe", "high", None,
      "lặp 'sức khỏe'; 'con người' tiếp chuỗi (S015)", 1, None, None,
+     "LC", None),
+    # [Phase-2] lo lắng ← S030 đáng lo ngại: lặp hình vị 'lo' (TNT §26) —
+    # khép chuỗi lo ngại→lo lắng; đối xứng EN worried (S041 ST) ←
+    # disturbing (S031 ST).
+    ("S037", "lo lắng", "L", "repetition",
+     "S030: Điều đáng lo ngại", "med", None,
+     "lặp hình vị 'lo' (những người đang lo lắng)", 1, None, None,
      "LC", None),
     ("S037", "Yan", "L", "repetition", "S035: ông Yan", "high", None,
      "'ông' trong câu không đánh", 1, None, None, "LC", None),

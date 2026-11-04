@@ -87,6 +87,15 @@ ST = [
      "[LC] gần nguyên văn (bỏ 'intake'); 'such policies' trong câu là quy "
      "chiếu nội câu, không đánh",
      1, None, None, "LC", None),
+    # [Phase-2] implementation ← implementing (S007): chuỗi động từ implement
+    # bị sót (H&H §6.2 reiteration — danh từ hóa; TNT §26 phép lặp từ vựng);
+    # VI đối ứng bằng biến thể đồng nghĩa "thi hành".
+    ("S009", "implementation", "L", "repetition",
+     "S007: in implementing sodium intake reduction policies", "high",
+     None,
+     "[LC] full range of implementation — lặp danh từ hóa của động từ "
+     "implementing (S007)",
+     1, None, None, "LC", None),
     # S010
     ("S010", "WHO", "L", "repetition", "S009: WHO member states", "high",
      None, "[LC] WHO's Department of Nutrition", 1, None, None, "LC", None),
@@ -137,6 +146,16 @@ ST = [
     ("S014", "policies", "L", "repetition",
      "S009: sodium reduction policies", "high", None,
      "[LC] recommended policies", 1, None, None, "LC", None),
+    # [Phase-2] recommended ← recommendation (S005): lặp hình vị recommend
+    # (H&H §6.2; TNT §26) — quan hệ TỪ VỰNG (referent dịch chuyển: mức
+    # 2.000 mg ↔ chính sách được khuyến nghị) nên conf med; VI lặp nguyên từ
+    # "khuyến nghị".
+    ("S014", "recommended", "L", "repetition",
+     "S005: the WHO recommendation for adults", "med", None,
+     "[LC] WHO's recommended policies — lặp gốc recommend của "
+     "'recommendation' (S005); lexical cohesion không đòi hỏi đồng nhất "
+     "referent (H&H §6.2)",
+     1, None, None, "LC", None),
     ("S014", "reduce sodium intake", "L", "repetition",
      "S010: reducing sodium intake", "high", None,
      "[LC] lặp gần nguyên văn (reducing → reduce)",
@@ -150,6 +169,13 @@ ST = [
      None,
      "[LC] gộp chuỗi sodium + policies thành tính từ ghép",
      1, None, None, "LC", None),
+    # [Phase-2] implementation ← implementation (S009): mắt xích giữa của
+    # chuỗi implement (H&H §6.2); tiền trạm = nhắc gần nhất S009.
+    ("S015", "implementation", "L", "repetition",
+     "S009: lack full range of implementation", "high", None,
+     "[LC] the implementation of lifesaving sodium-reduction policies — "
+     "chuỗi implement (S007 → S009 → S015)",
+     1, None, None, "LC", None),
     # S016
     ("S016", None, "E", "nominal", "S016 (trong câu): Frieden said", "med",
      None,
@@ -158,12 +184,27 @@ ST = [
      1, "", "{Frieden}", "TC", None),
     ("S016", "report", "L", "repetition", "S014: The report", "high", None,
      "[LC] the report's launch", 1, None, None, "LC", None),
+    # [Phase-2] launch ← launched (S007): danh từ hóa của động từ launch
+    # (H&H §6.2 reiteration; TNT §26) — cùng sự kiện công bố phúc trình; VI
+    # đối ứng "công bố" lặp nguyên văn.
+    ("S016", "launch", "L", "repetition",
+     "S007: A WHO report launched Thursday", "high", None,
+     "[LC] the report's launch — danh từ hóa của 'launched' (S007)",
+     1, None, None, "LC", None),
     ("S016", "Frieden", "L", "repetition", "S015: Tom Frieden", "high",
      None,
      "[LC] họ trong attribution (bỏ tên đệm Tom); S017 sẽ tiếp bằng đại từ He",
      1, None, None, "LC", None),
     ("S016", "Chile", "L", "repetition", "S015: Chile", "high", None,
      "[LC] Chile had passed the law", 1, None, None, "LC", None),
+    # [Phase-2] passed ← enacted (S014): đồng nghĩa lập pháp enact ≈ pass
+    # (TNT §31 phép thế đẳng nghĩa; H&H §6.2 synonym) — nối báo cáo 9 nước
+    # ban hành chính sách (S014) với việc Chile thông qua luật (S016).
+    ("S016", "passed", "L", "synonym",
+     "S014: have fully enacted WHO's recommended policies", "med", None,
+     "[LC] passed the law ≈ enacted (S014); mắt xích mới của chuỗi enact/pass "
+     "(S014 → S016 → S017)",
+     1, None, None, "LC", None),
     ("S016", "mandatory", "L", "repetition",
      "S009: mandatory and comprehensive sodium reduction policies", "high",
      None,
@@ -191,12 +232,32 @@ ST = [
      "[LC] động từ lập pháp lặp 'passed' (động từ nội dung, không phải "
      "động từ tường thuật)",
      1, None, None, "LC", None),
+    # [Phase-2] similar (R so sánh, H&H §2.5 "similar"): chuẩn so sánh là bộ
+    # chính sách Chile mô tả ở CÂU TRƯỚC (S016) → [LC] R, ref A — tie R so
+    # sánh đầu tiên của cặp; VI "tương tự" trùng span hàng L nên thâu vào
+    # alt "R: tương tự" (mapping §3.13 một hình thức một hàng).
+    ("S017", "similar", "R", "comparative",
+     "S016: Chile had passed the law of food labeling and advertising "
+     "(bộ chính sách của Chile)", "med", None,
+     "[LC] similar policies = chính sách TƯƠNG TỰ với bộ chính sách Chile "
+     "đã mô tả ở S016; H&H §2.5 comparative; conf med vì 'Chile's lead' "
+     "trong cùng câu cũng gợi chuẩn so sánh",
+     1, None, None, "LC", "A"),
     ("S017", "policies", "L", "repetition",
      "S015: sodium-reduction policies", "high", None,
      "[LC] similar policies — 'similar' so với chính sách Chile (S016)",
      1, None, None, "LC", None),
     ("S017", "Chile", "L", "repetition", "S016: Chile", "high", None,
      "[LC] following Chile's lead", 1, None, None, "LC", None),
+    # [Phase-2] lead (danh từ tổng quát, H&H §6.1): "Chile's lead" tóm cả
+    # tình huống câu trước (Chile thông qua luật S016) — bridging; đọc phụ:
+    # lặp gốc từ của "a leader" (S015).
+    ("S017", "lead", "L", "general word",
+     "S016: Chile had passed the law of food labeling and advertising",
+     "med", None,
+     "[LC] following Chile's lead — danh từ tổng quát tóm tình huống S016 "
+     "(bridging H&H §6.1); đọc phụ: lặp gốc từ 'leader' (S015)",
+     1, None, None, "LC", None),
     # S018
     ("S018", "Branca", "L", "repetition", "S010: Francesco Branca", "high",
      None,
@@ -213,6 +274,15 @@ ST = [
      None,
      "[LC] lần 1 trong câu (high-income countries); lần 2 (low- and "
      "middle-income countries) không đánh thêm",
+     1, None, None, "LC", None),
+    # [Phase-2] foods ← food labeling (S016): mắt xích chuỗi food được cite
+    # làm tiền trạm ở hàng S019 (sodium-processed foods) nhưng chưa có hàng
+    # (rà chuỗi ngược "ante không có hàng" — bài học P28); H&H §6.2.
+    ("S018", "foods", "L", "repetition",
+     "S016: the law of food labeling", "med", None,
+     "[LC] processed and highly processed foods — nhánh mới của chuỗi food "
+     "(food labeling S016 → foods S018 → sodium-processed foods S019); "
+     "bổ sung hàng vì S019 cite S018 làm tiền trạm (P28)",
      1, None, None, "LC", None),
     # S019
     ("S019", "he", "R", "personal", "S018: Branca noted", "high", None,
@@ -231,6 +301,13 @@ ST = [
      "[LC] đại từ [−người] chỉ 'limits' của S019; VI hiện thực hóa thành "
      "'Các giới hạn này' (L) — dịch chuyển R→L",
      1, None, None, "LC", "A"),
+    # [Phase-2] restricts ← restricted (S016): chuỗi động từ restrict bị sót
+    # (H&H §6.2 reiteration; TNT §26); VI đối ứng "hạn chế" lặp nguyên văn.
+    ("S020", "restricts", "L", "repetition",
+     "S016: restricted marketing of products", "high", None,
+     "[LC] restricts the less healthy food options — lặp động từ restrict "
+     "(restricted marketing S016)",
+     1, None, None, "LC", None),
     ("S020", None, "E", "nominal", "S020 (trong câu): they (understand)",
      "med", None,
      "[TC] chủ ngữ vế tọa hợp thứ hai sau 'or' bị lược; hồi phục {they} "
@@ -256,17 +333,30 @@ ST = [
      None,
      "[LC] lặp gốc 'industry' của 'industrywide'",
      1, None, None, "LC", None),
+    # [Phase-2] ineffective ↔ cost-effective (S010): phép đối qua câu
+    # effective ↔ ineffective (TNT §30 phép đối; H&H §6.4 opposites) — giảm
+    # muối hiệu quả về chi phí (S010) đối lập tự điều chỉnh vô hiệu (S021).
+    ("S021", "ineffective", "L", "antonym",
+     "S010: one of the most cost-effective ways to improve health", "med",
+     None,
+     "[LC] phép đối effective ↔ ineffective (cost-effective S010 ↔ "
+     "ineffective S021); conf med vì cách xa 11 câu",
+     1, None, None, "LC", None),
     ("S021", "voluntary", "L", "antonym",
      "S019: mandatory maximum limits", "med", None,
      "[LC] phép đối: voluntary đối lập mandatory (chuỗi thuộc tính chính sách)",
      1, None, None, "LC", None),
     ("S021", "policies", "L", "repetition", "S017: similar policies",
      "high", None, "[LC] voluntary policies", 1, None, None, "LC", None),
-    # S022
-    ("S022", "In fact", "C", "adversative",
+    # S022 — [Phase-2] điều chỉnh sub: adversative → continuative theo
+    # H&H §5.8 (chuẩn đã đồng bộ P21/P22/P24/P28): "In fact" mở lượt nói
+    # củng cố lập luận (discourse organizer), không phải nối tương phản
+    # mệnh đề trong thế giới.
+    ("S022", "In fact", "C", "continuative",
      "S021: voluntary policies are often ignored", "high", None,
-     "[LC] nối diễn giải tương phản, chống lại tính hiệu quả của tự nguyện "
-     "(S021); 'because' trong câu không đánh",
+     "[LC] continuative (H&H §5.8): mở lượt củng cố lập luận chống chính "
+     "sách tự nguyện (S021); trước Phase-2 ghi adversative — điều chỉnh "
+     "theo chuẩn P21/P22/P24/P28; 'because' trong câu không đánh",
      1, None, None, "LC", None),
     ("S022", "mandatory", "L", "repetition",
      "S019: mandatory maximum limits", "high", None,
@@ -277,6 +367,14 @@ ST = [
      "S022: a mandatory approach (bối cảnh các chiến lược hiện có)",
      "high", None,
      "[LC] nối bổ sung: ngoài các chiến lược đã bàn S016-S022",
+     1, None, None, "LC", None),
+    # [Phase-2] proven ← proven (S021): lặp phân từ prove (H&H §6.2) — echo
+    # tương phản "proven ineffective" (S021) ↔ "proven strategies" (S023);
+    # VI lược tính từ này (dịch chuyển EN lặp → VI lược, NTT 2020 §5).
+    ("S023", "proven", "L", "repetition",
+     "S021: has repeatedly proven to be ineffective", "med", None,
+     "[LC] the existing proven strategies — lặp 'proven' (S021) với cực "
+     "tính đảo (vô hiệu ↔ hiệu quả); VI không lặp ('các chiến lược hiện có')",
      1, None, None, "LC", None),
     ("S023", "reduce sodium", "L", "repetition",
      "S014: to reduce sodium intake", "high", None,
@@ -432,6 +530,15 @@ TT = [
      "[LC] gộp chuỗi chính sách + muối trong một tie; 'các chính sách đó' "
      "trong câu là quy chiếu nội câu, không đánh",
      1, None, None, "LC", None),
+    # [Phase-2] thi hành ← thực hiện (S007): mắt xích chuỗi implement bằng biến
+    # thể đồng nghĩa (TNT §31 phép thế đẳng nghĩa; H&H §6.2) — EN lặp nguyên
+    # từ "implementation" còn VI đổi từ (dịch chuyển NTT 2020 §5).
+    ("S009", "thi hành", "L", "synonym",
+     "S007: trong việc thực hiện các chính sách giảm lượng muối", "med",
+     None,
+     "[LC] thiếu thi hành đầy đủ — đồng nghĩa với 'thực hiện' (S007); "
+     "chuỗi thực hiện (S007) → thi hành (S009) → thực hiện (S015)",
+     1, None, None, "LC", None),
     # S010
     ("S010", "WHO", "L", "repetition",
      "S009: các quốc gia thành viên của WHO", "high", None,
@@ -484,6 +591,14 @@ TT = [
     ("S014", "chính sách", "L", "repetition",
      "S009: các chính sách giảm muối", "high", None,
      "[LC] các chính sách khuyến nghị", 1, None, None, "LC", None),
+    # [Phase-2] khuyến nghị ← khuyến nghị (S005): lặp nguyên từ (TNT §26 phép
+    # lặp từ vựng; H&H §6.2) — quan hệ TỪ VỰNG, referent dịch chuyển (mức
+    # 2.000 mg ↔ chính sách được khuyến nghị); đối xứng EN "recommended".
+    ("S014", "khuyến nghị", "L", "repetition",
+     "S005: khuyến nghị của WHO đối với người lớn", "med", None,
+     "[LC] các chính sách khuyến nghị của WHO — lặp 'khuyến nghị' (S005); "
+     "lexical cohesion không đòi hỏi đồng nhất referent (H&H §6.2)",
+     1, None, None, "LC", None),
     ("S014", "giảm lượng muối", "L", "repetition",
      "S007: giảm lượng muối", "high", None,
      "[LC] tái lập cụm nguyên văn của S007 (S010 VI dùng 'giảm ăn muối')",
@@ -500,6 +615,14 @@ TT = [
      None,
      "[LC] gộp chuỗi chính sách + muối; EN là 'sodium-reduction policies'",
      1, None, None, "LC", None),
+    # [Phase-2] thực hiện ← thi hành (S009): mắt xích giữa của chuỗi thực
+    # hiện/thi hành (TNT §26; tiền trạm = nhắc gần nhất S009); 'thực hiện'
+    # ở S022 (các bước tích cực) là động từ đa dụng, ngoài chuỗi (xem §6).
+    ("S015", "thực hiện", "L", "repetition",
+     "S009: thiếu thi hành đầy đủ (≈ thực hiện S007)", "high", None,
+     "[LC] trong việc thực hiện các chính sách giảm muối cứu sinh — chuỗi "
+     "thực hiện (S007) → thi hành (S009) → thực hiện (S015)",
+     1, None, None, "LC", None),
     # S016
     ("S016", None, "E", "nominal", "S016 (trong câu): ông Frieden nói",
      "med", None,
@@ -510,12 +633,26 @@ TT = [
     ("S016", "phúc trình", "L", "repetition", "S014: Phúc trình", "high",
      None,
      "[LC] sau khi phúc trình được công bố", 1, None, None, "LC", None),
+    # [Phase-2] công bố ← công bố (S007): lặp nguyên văn (TNT §26 phép lặp
+    # từ vựng); đối xứng EN launch ← launched (EN danh từ hóa, VI giữ nguyên
+    # dạng động từ).
+    ("S016", "công bố", "L", "repetition",
+     "S007: Một phúc trình của WHO được công bố hôm 9/3", "high", None,
+     "[LC] sau khi phúc trình được công bố — lặp 'công bố' (S007)",
+     1, None, None, "LC", None),
     ("S016", "Frieden", "L", "repetition", "S015: Ông Tom Frieden", "high",
      None,
      "[LC] họ trong attribution (bỏ tên đệm Tom); S017 sẽ tiếp bằng 'Ông'",
      1, None, None, "LC", None),
     ("S016", "Chile", "L", "repetition", "S015: Chile", "high", None,
      "[LC] Chile đã thông qua luật", 1, None, None, "LC", None),
+    # [Phase-2] thông qua ← ban hành (S014): đồng nghĩa lập pháp (TNT §31
+    # phép thế đẳng nghĩa); đối xứng EN passed ← enacted (S014).
+    ("S016", "thông qua", "L", "synonym",
+     "S014: đã ban hành đầy đủ các chính sách khuyến nghị", "med", None,
+     "[LC] Chile đã thông qua luật ≈ ban hành (S014); mắt xích mới của "
+     "chuỗi ban hành/thông qua (S014 → S016 → S017)",
+     1, None, None, "LC", None),
     ("S016", "bắt buộc", "L", "repetition",
      "S009: các chính sách giảm muối bắt buộc", "high", None,
      "[LC] nhãn cảnh báo bắt buộc", 1, None, None, "LC", None),
@@ -541,12 +678,25 @@ TT = [
      "S016: thông qua luật dán nhãn", "high", None,
      "[LC] động từ lập pháp lặp (động từ nội dung)",
      1, None, None, "LC", None),
+    # [Phase-2] thêm alt "R: tương tự": "tương tự" là quy chiếu so sánh
+    # (H&H §2.5) chỉ bộ chính sách Chile (S016) nhưng nằm trùng span hàng L
+    # nên thâu vào alt (mapping §3.13 một hình thức một hàng) — đối xứng EN
+    # có hàng R "similar" riêng (tránh chồng marker).
     ("S017", "các chính sách tương tự", "L", "repetition",
-     "S015: các chính sách giảm muối", "high", None,
-     "[LC] 'tương tự' so sánh với chính sách Chile (S016)",
+     "S015: các chính sách giảm muối", "high", "R: tương tự",
+     "[LC] 'tương tự' so sánh với chính sách Chile (S016) — H&H §2.5 "
+     "comparative; thâu vào alt vì trùng span",
      1, None, None, "LC", None),
     ("S017", "Chile", "L", "repetition", "S016: Chile", "high", None,
      "[LC] sau khi Chile dẫn đầu", 1, None, None, "LC", None),
+    # [Phase-2] dẫn đầu ← đi đầu (S015): đồng nghĩa (TNT §31 phép thế đẳng
+    # nghĩa) — đối ứng EN dùng danh từ tổng quát "lead" (H&H §6.1): dịch
+    # chuyển loại từ EN danh từ ↔ VI động từ (NTT 2020 §5).
+    ("S017", "dẫn đầu", "L", "synonym",
+     "S015: Chile là quốc gia đi đầu", "med", None,
+     "[LC] sau khi Chile dẫn đầu — đồng nghĩa với 'đi đầu' (S015); EN "
+     "'Chile's lead' là danh từ tổng quát",
+     1, None, None, "LC", None),
     # S018
     ("S018", "Branca", "L", "repetition", "S010: Ông Francesco Branca",
      "high", None,
@@ -561,6 +711,15 @@ TT = [
      "med", None,
      "[LC] danh từ tổng quát 'nước' thay 'quốc gia'; lần 1 trong câu, lần 2 "
      "(các nước thu nhập thấp) không đánh thêm",
+     1, None, None, "LC", None),
+    # [Phase-2] thực phẩm ← thực phẩm (S016): mắt xích chuỗi thực phẩm được
+    # cite làm tiền trạm ở hàng S019 nhưng chưa có hàng (rà chuỗi ngược
+    # "ante không có hàng" — bài học P28); TNT §26 phép lặp từ vựng.
+    ("S018", "thực phẩm", "L", "repetition",
+     "S016: luật dán nhãn và quảng cáo thực phẩm", "med", None,
+     "[LC] thực phẩm chế biến và chế biến cao — nhánh mới của chuỗi thực "
+     "phẩm (S016 → S018 → S019); bổ sung hàng vì S019 cite S018 làm tiền "
+     "trạm (P28)",
      1, None, None, "LC", None),
     # S019
     ("S019", "Ông", "R", "personal", "S018: Ông Branca lưu ý", "high",
@@ -580,6 +739,13 @@ TT = [
      "S019: Các giới hạn tối đa bắt buộc", "high", "R: này",
      "[LC] đầu ngữ 'giới hạn' lặp + chỉ từ 'này' thâu vào alt; EN dùng đại "
      "từ 'They' (R) → dịch chuyển R→L",
+     1, None, None, "LC", None),
+    # [Phase-2] hạn chế ← hạn chế (S016): lặp nguyên văn động từ (TNT §26
+    # phép lặp; H&H §6.2) — đối xứng EN restricts ← restricted (S016).
+    ("S020", "hạn chế", "L", "repetition",
+     "S016: hạn chế tiếp thị các sản phẩm", "high", None,
+     "[LC] thị trường hạn chế các lựa chọn thực phẩm — lặp 'hạn chế' "
+     "(hạn chế tiếp thị S016)",
      1, None, None, "LC", None),
     ("S020", None, "E", "nominal", "S020 (trong câu): họ (hiểu)", "med",
      None,
@@ -606,6 +772,14 @@ TT = [
     ("S021", "thực phẩm", "L", "repetition",
      "S020: các lựa chọn thực phẩm", "high", None,
      "[LC] ngành sản xuất thực phẩm", 1, None, None, "LC", None),
+    # [Phase-2] không hiệu quả ↔ hiệu quả (S010): phép đối qua câu (TNT §30
+    # phép đối; H&H §6.4 opposites) — VI phủ định bằng 'không'; đối xứng EN
+    # ineffective ↔ cost-effective.
+    ("S021", "không hiệu quả", "L", "antonym",
+     "S010: cách hiệu quả nhất về chi phí", "med", None,
+     "[LC] phép đối hiệu quả ↔ không hiệu quả (S010 ↔ S021); cách xa 11 câu "
+     "nên conf med",
+     1, None, None, "LC", None),
     ("S021", "tự nguyện", "L", "antonym",
      "S019: Các giới hạn tối đa bắt buộc", "med", None,
      "[LC] phép đối: tự nguyện đối lập bắt buộc (chuỗi thuộc tính chính sách)",
@@ -613,11 +787,13 @@ TT = [
     ("S021", "các chính sách", "L", "repetition",
      "S017: các chính sách tương tự", "high", None,
      "[LC] các chính sách tự nguyện", 1, None, None, "LC", None),
-    # S022
-    ("S022", "Trên thực tế", "C", "adversative",
+    # S022 — [Phase-2] điều chỉnh sub: adversative → continuative theo
+    # H&H §5.8 (chuẩn đã đồng bộ P21/P22/P24/P28): "Trên thực tế" mở lượt
+    # củng cố lập luận, không phải nối tương phản mệnh đề.
+    ("S022", "Trên thực tế", "C", "continuative",
      "S021: các chính sách tự nguyện thường bị bỏ qua", "high", None,
-     "[LC] nối diễn giải tương phản; song song EN 'In fact'; 'bởi vì' "
-     "trong câu không đánh",
+     "[LC] continuative (H&H §5.8); trước Phase-2 ghi adversative — điều "
+     "chỉnh theo chuẩn P21/P22/P24/P28; 'bởi vì' trong câu không đánh",
      1, None, None, "LC", None),
     ("S022", "bắt buộc", "L", "repetition",
      "S019: Các giới hạn tối đa bắt buộc", "high", None,

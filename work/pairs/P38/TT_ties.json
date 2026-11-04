@@ -300,6 +300,20 @@
   },
   {
    "id": "P38-VI-022",
+   "sent": "S009",
+   "text": "thi hành",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: trong việc thực hiện các chính sách giảm lượng muối",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] thiếu thi hành đầy đủ — đồng nghĩa với 'thực hiện' (S007); chuỗi thực hiện (S007) → thi hành (S009) → thực hiện (S015)"
+  },
+  {
+   "id": "P38-VI-023",
    "sent": "S010",
    "text": "WHO",
    "occ": 1,
@@ -313,7 +327,7 @@
    "note": "[LC] Ban Dinh dưỡng vì Sức khỏe và Phát triển của WHO"
   },
   {
-   "id": "P38-VI-023",
+   "id": "P38-VI-024",
    "sent": "S010",
    "text": "giảm ăn muối",
    "occ": 1,
@@ -327,7 +341,7 @@
    "note": "[LC] chuỗi giảm + muối; VI lược cụm 'at very low program costs' (xem §8)"
   },
   {
-   "id": "P38-VI-024",
+   "id": "P38-VI-025",
    "sent": "S010",
    "text": "bệnh tim mạch",
    "occ": 1,
@@ -341,7 +355,7 @@
    "note": "[LC] các ca bệnh tim mạch"
   },
   {
-   "id": "P38-VI-025",
+   "id": "P38-VI-026",
    "sent": "S010",
    "text": "tử vong",
    "occ": 1,
@@ -355,7 +369,7 @@
    "note": "[LC] chuỗi tử vong quay lại sau S003"
   },
   {
-   "id": "P38-VI-026",
+   "id": "P38-VI-027",
    "sent": "S011",
    "text": "Các bệnh tim mạch",
    "occ": 1,
@@ -369,7 +383,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-VI-027",
+   "id": "P38-VI-028",
    "sent": "S011",
    "text": "tử vong",
    "occ": 1,
@@ -383,7 +397,7 @@
    "note": "[LC] nguyên nhân gây tử vong hàng đầu"
   },
   {
-   "id": "P38-VI-028",
+   "id": "P38-VI-029",
    "sent": "S011",
    "text": "trên toàn cầu",
    "occ": 1,
@@ -397,7 +411,7 @@
    "note": "[LC] echo nguyên văn 'trên toàn cầu' của S005; lần nhắc gần nhất của chuỗi toàn cầu là S008"
   },
   {
-   "id": "P38-VI-029",
+   "id": "P38-VI-030",
    "sent": "S012",
    "text": "WHO",
    "occ": 1,
@@ -411,7 +425,7 @@
    "note": "[LC] WHO báo cáo"
   },
   {
-   "id": "P38-VI-030",
+   "id": "P38-VI-031",
    "sent": "S012",
    "text": "ca tử vong",
    "occ": 1,
@@ -425,7 +439,7 @@
    "note": "[LC] đầu ngữ lặp, chỉ từ 'này' thâu vào alt; 'năm ca tử vong này' chỉ 17,9 triệu ca của S011; VI tái cấu trúc 'four out of five'"
   },
   {
-   "id": "P38-VI-031",
+   "id": "P38-VI-032",
    "sent": "S012",
    "text": "đau tim và đột quỵ",
    "occ": 1,
@@ -439,7 +453,7 @@
    "note": "[LC] cụ thể hóa bệnh tim mạch thành hai bệnh (bridging nhẹ)"
   },
   {
-   "id": "P38-VI-032",
+   "id": "P38-VI-033",
    "sent": "S014",
    "text": "Phúc trình",
    "occ": 1,
@@ -453,7 +467,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-VI-033",
+   "id": "P38-VI-034",
    "sent": "S014",
    "text": "quốc gia",
    "occ": 1,
@@ -467,7 +481,7 @@
    "note": "[LC] 9 quốc gia; 9 tên riêng lần đầu không đánh"
   },
   {
-   "id": "P38-VI-034",
+   "id": "P38-VI-035",
    "sent": "S014",
    "text": "WHO",
    "occ": 1,
@@ -481,7 +495,7 @@
    "note": "[LC] chính sách khuyến nghị của WHO"
   },
   {
-   "id": "P38-VI-035",
+   "id": "P38-VI-036",
    "sent": "S014",
    "text": "chính sách",
    "occ": 1,
@@ -495,7 +509,21 @@
    "note": "[LC] các chính sách khuyến nghị"
   },
   {
-   "id": "P38-VI-036",
+   "id": "P38-VI-037",
+   "sent": "S014",
+   "text": "khuyến nghị",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: khuyến nghị của WHO đối với người lớn",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] các chính sách khuyến nghị của WHO — lặp 'khuyến nghị' (S005); lexical cohesion không đòi hỏi đồng nhất referent (H&H §6.2)"
+  },
+  {
+   "id": "P38-VI-038",
    "sent": "S014",
    "text": "giảm lượng muối",
    "occ": 1,
@@ -509,7 +537,7 @@
    "note": "[LC] tái lập cụm nguyên văn của S007 (S010 VI dùng 'giảm ăn muối')"
   },
   {
-   "id": "P38-VI-037",
+   "id": "P38-VI-039",
    "sent": "S015",
    "text": "Chile",
    "occ": 1,
@@ -523,7 +551,7 @@
    "note": "[LC] Chile là quốc gia đi đầu"
   },
   {
-   "id": "P38-VI-038",
+   "id": "P38-VI-040",
    "sent": "S015",
    "text": "quốc gia",
    "occ": 1,
@@ -537,7 +565,7 @@
    "note": "[LC] VI tự sinh danh từ tổng quát 'quốc gia' (EN chỉ có 'a leader')"
   },
   {
-   "id": "P38-VI-039",
+   "id": "P38-VI-041",
    "sent": "S015",
    "text": "các chính sách giảm muối",
    "occ": 1,
@@ -551,7 +579,21 @@
    "note": "[LC] gộp chuỗi chính sách + muối; EN là 'sodium-reduction policies'"
   },
   {
-   "id": "P38-VI-040",
+   "id": "P38-VI-042",
+   "sent": "S015",
+   "text": "thực hiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: thiếu thi hành đầy đủ (≈ thực hiện S007)",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] trong việc thực hiện các chính sách giảm muối cứu sinh — chuỗi thực hiện (S007) → thi hành (S009) → thực hiện (S015)"
+  },
+  {
+   "id": "P38-VI-043",
    "sent": "S016",
    "text": null,
    "occ": 1,
@@ -567,7 +609,7 @@
    "note": "[TC] chủ ngữ mệnh đề 'Phát biểu trong một hội thảo trực tuyến...' trống; hồi phục {ông Frieden} (điều khiển trong câu); song song E-EN 'Speaking'"
   },
   {
-   "id": "P38-VI-041",
+   "id": "P38-VI-044",
    "sent": "S016",
    "text": "phúc trình",
    "occ": 1,
@@ -581,7 +623,21 @@
    "note": "[LC] sau khi phúc trình được công bố"
   },
   {
-   "id": "P38-VI-042",
+   "id": "P38-VI-045",
+   "sent": "S016",
+   "text": "công bố",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: Một phúc trình của WHO được công bố hôm 9/3",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] sau khi phúc trình được công bố — lặp 'công bố' (S007)"
+  },
+  {
+   "id": "P38-VI-046",
    "sent": "S016",
    "text": "Frieden",
    "occ": 1,
@@ -595,7 +651,7 @@
    "note": "[LC] họ trong attribution (bỏ tên đệm Tom); S017 sẽ tiếp bằng 'Ông'"
   },
   {
-   "id": "P38-VI-043",
+   "id": "P38-VI-047",
    "sent": "S016",
    "text": "Chile",
    "occ": 1,
@@ -609,7 +665,21 @@
    "note": "[LC] Chile đã thông qua luật"
   },
   {
-   "id": "P38-VI-044",
+   "id": "P38-VI-048",
+   "sent": "S016",
+   "text": "thông qua",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: đã ban hành đầy đủ các chính sách khuyến nghị",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] Chile đã thông qua luật ≈ ban hành (S014); mắt xích mới của chuỗi ban hành/thông qua (S014 → S016 → S017)"
+  },
+  {
+   "id": "P38-VI-049",
    "sent": "S016",
    "text": "bắt buộc",
    "occ": 1,
@@ -623,7 +693,7 @@
    "note": "[LC] nhãn cảnh báo bắt buộc"
   },
   {
-   "id": "P38-VI-045",
+   "id": "P38-VI-050",
    "sent": "S016",
    "text": "muối",
    "occ": 1,
@@ -637,7 +707,7 @@
    "note": "[LC] trước bao bì về muối (EN 'including on sodium'); 'nhãn cảnh báo đó / những sản phẩm đó' trong câu không đánh"
   },
   {
-   "id": "P38-VI-046",
+   "id": "P38-VI-051",
    "sent": "S017",
    "text": "Ông",
    "occ": 1,
@@ -652,7 +722,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-VI-047",
+   "id": "P38-VI-052",
    "sent": "S017",
    "text": "Brazil",
    "occ": 1,
@@ -666,7 +736,7 @@
    "note": "[LC] nhắc lại trong danh sách 9 quốc gia; Argentina lần đầu nên không đánh"
   },
   {
-   "id": "P38-VI-048",
+   "id": "P38-VI-053",
    "sent": "S017",
    "text": "Mexico",
    "occ": 1,
@@ -680,7 +750,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-VI-049",
+   "id": "P38-VI-054",
    "sent": "S017",
    "text": "Uruguay",
    "occ": 1,
@@ -694,7 +764,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-VI-050",
+   "id": "P38-VI-055",
    "sent": "S017",
    "text": "thông qua",
    "occ": 1,
@@ -708,7 +778,7 @@
    "note": "[LC] động từ lập pháp lặp (động từ nội dung)"
   },
   {
-   "id": "P38-VI-051",
+   "id": "P38-VI-056",
    "sent": "S017",
    "text": "các chính sách tương tự",
    "occ": 1,
@@ -718,11 +788,11 @@
    "level": "LC",
    "ante": "S015: các chính sách giảm muối",
    "conf": "high",
-   "alt": null,
-   "note": "[LC] 'tương tự' so sánh với chính sách Chile (S016)"
+   "alt": "R: tương tự",
+   "note": "[LC] 'tương tự' so sánh với chính sách Chile (S016) — H&H §2.5 comparative; thâu vào alt vì trùng span"
   },
   {
-   "id": "P38-VI-052",
+   "id": "P38-VI-057",
    "sent": "S017",
    "text": "Chile",
    "occ": 1,
@@ -736,7 +806,21 @@
    "note": "[LC] sau khi Chile dẫn đầu"
   },
   {
-   "id": "P38-VI-053",
+   "id": "P38-VI-058",
+   "sent": "S017",
+   "text": "dẫn đầu",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: Chile là quốc gia đi đầu",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] sau khi Chile dẫn đầu — đồng nghĩa với 'đi đầu' (S015); EN 'Chile's lead' là danh từ tổng quát"
+  },
+  {
+   "id": "P38-VI-059",
    "sent": "S018",
    "text": "Branca",
    "occ": 1,
@@ -750,7 +834,7 @@
    "note": "[LC] họ trong attribution, bỏ tên đệm Francesco"
   },
   {
-   "id": "P38-VI-054",
+   "id": "P38-VI-060",
    "sent": "S018",
    "text": "muối",
    "occ": 1,
@@ -764,7 +848,7 @@
    "note": "[LC] một tỷ lệ muối đáng kể"
   },
   {
-   "id": "P38-VI-055",
+   "id": "P38-VI-061",
    "sent": "S018",
    "text": "chế độ ăn uống",
    "occ": 1,
@@ -778,7 +862,7 @@
    "note": "[LC] liên kết xa (16 câu)"
   },
   {
-   "id": "P38-VI-056",
+   "id": "P38-VI-062",
    "sent": "S018",
    "text": "nước",
    "occ": 1,
@@ -792,7 +876,21 @@
    "note": "[LC] danh từ tổng quát 'nước' thay 'quốc gia'; lần 1 trong câu, lần 2 (các nước thu nhập thấp) không đánh thêm"
   },
   {
-   "id": "P38-VI-057",
+   "id": "P38-VI-063",
+   "sent": "S018",
+   "text": "thực phẩm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: luật dán nhãn và quảng cáo thực phẩm",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] thực phẩm chế biến và chế biến cao — nhánh mới của chuỗi thực phẩm (S016 → S018 → S019); bổ sung hàng vì S019 cite S018 làm tiền trạm (P28)"
+  },
+  {
+   "id": "P38-VI-064",
    "sent": "S019",
    "text": "Ông",
    "occ": 1,
@@ -807,7 +905,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-VI-058",
+   "id": "P38-VI-065",
    "sent": "S019",
    "text": "bắt buộc",
    "occ": 1,
@@ -821,7 +919,7 @@
    "note": "[LC] các giới hạn tối đa bắt buộc"
   },
   {
-   "id": "P38-VI-059",
+   "id": "P38-VI-066",
    "sent": "S019",
    "text": "thực phẩm chế biến bằng muối",
    "occ": 1,
@@ -835,7 +933,7 @@
    "note": "[LC] gộp chuỗi thực phẩm + muối; EN là 'sodium-processed foods'"
   },
   {
-   "id": "P38-VI-060",
+   "id": "P38-VI-067",
    "sent": "S020",
    "text": "Các giới hạn này",
    "occ": 1,
@@ -849,7 +947,21 @@
    "note": "[LC] đầu ngữ 'giới hạn' lặp + chỉ từ 'này' thâu vào alt; EN dùng đại từ 'They' (R) → dịch chuyển R→L"
   },
   {
-   "id": "P38-VI-061",
+   "id": "P38-VI-068",
+   "sent": "S020",
+   "text": "hạn chế",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: hạn chế tiếp thị các sản phẩm",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] thị trường hạn chế các lựa chọn thực phẩm — lặp 'hạn chế' (hạn chế tiếp thị S016)"
+  },
+  {
+   "id": "P38-VI-069",
    "sent": "S020",
    "text": null,
    "occ": 1,
@@ -865,7 +977,7 @@
    "note": "[TC] chủ ngữ vế tọa hợp thứ hai sau 'hay' bị lược; hồi phục {họ} (trong câu); song song E-EN 'or ∅'"
   },
   {
-   "id": "P38-VI-062",
+   "id": "P38-VI-070",
    "sent": "S020",
    "text": "nhãn",
    "occ": 1,
@@ -879,7 +991,7 @@
    "note": "[LC] thông tin trên nhãn"
   },
   {
-   "id": "P38-VI-063",
+   "id": "P38-VI-071",
    "sent": "S020",
    "text": "thực phẩm",
    "occ": 1,
@@ -893,7 +1005,7 @@
    "note": "[LC] các lựa chọn thực phẩm kém lành mạnh"
   },
   {
-   "id": "P38-VI-064",
+   "id": "P38-VI-072",
    "sent": "S021",
    "text": "Frieden",
    "occ": 1,
@@ -907,7 +1019,7 @@
    "note": "[LC] tên trong attribution; S017 dùng 'Ông' nên truy về nhắc tên gần nhất S016"
   },
   {
-   "id": "P38-VI-065",
+   "id": "P38-VI-073",
    "sent": "S021",
    "text": "ngành",
    "occ": 1,
@@ -921,7 +1033,7 @@
    "note": "[LC] lặp gốc 'ngành' của 'toàn ngành'"
   },
   {
-   "id": "P38-VI-066",
+   "id": "P38-VI-074",
    "sent": "S021",
    "text": "thực phẩm",
    "occ": 1,
@@ -935,7 +1047,21 @@
    "note": "[LC] ngành sản xuất thực phẩm"
   },
   {
-   "id": "P38-VI-067",
+   "id": "P38-VI-075",
+   "sent": "S021",
+   "text": "không hiệu quả",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: cách hiệu quả nhất về chi phí",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] phép đối hiệu quả ↔ không hiệu quả (S010 ↔ S021); cách xa 11 câu nên conf med"
+  },
+  {
+   "id": "P38-VI-076",
    "sent": "S021",
    "text": "tự nguyện",
    "occ": 1,
@@ -949,7 +1075,7 @@
    "note": "[LC] phép đối: tự nguyện đối lập bắt buộc (chuỗi thuộc tính chính sách)"
   },
   {
-   "id": "P38-VI-068",
+   "id": "P38-VI-077",
    "sent": "S021",
    "text": "các chính sách",
    "occ": 1,
@@ -963,21 +1089,21 @@
    "note": "[LC] các chính sách tự nguyện"
   },
   {
-   "id": "P38-VI-069",
+   "id": "P38-VI-078",
    "sent": "S022",
    "text": "Trên thực tế",
    "occ": 1,
    "cat": "C",
-   "sub": "adversative",
+   "sub": "continuative",
    "dir": "ana",
    "level": "LC",
    "ante": "S021: các chính sách tự nguyện thường bị bỏ qua",
    "conf": "high",
    "alt": null,
-   "note": "[LC] nối diễn giải tương phản; song song EN 'In fact'; 'bởi vì' trong câu không đánh"
+   "note": "[LC] continuative (H&H §5.8); trước Phase-2 ghi adversative — điều chỉnh theo chuẩn P21/P22/P24/P28; 'bởi vì' trong câu không đánh"
   },
   {
-   "id": "P38-VI-070",
+   "id": "P38-VI-079",
    "sent": "S022",
    "text": "bắt buộc",
    "occ": 1,
@@ -991,7 +1117,7 @@
    "note": "[LC] một cách tiếp cận bắt buộc — đối lập 'tự nguyện' S021 (phép đối)"
   },
   {
-   "id": "P38-VI-071",
+   "id": "P38-VI-080",
    "sent": "S023",
    "text": "Frieden",
    "occ": 1,
@@ -1005,7 +1131,7 @@
    "note": "[LC]"
   },
   {
-   "id": "P38-VI-072",
+   "id": "P38-VI-081",
    "sent": "S023",
    "text": "ngoài",
    "occ": 1,
@@ -1019,7 +1145,7 @@
    "note": "[LC] nối bổ sung ngoài các chiến lược đã bàn; song song EN 'In addition to'"
   },
   {
-   "id": "P38-VI-073",
+   "id": "P38-VI-082",
    "sent": "S023",
    "text": "giảm muối",
    "occ": 1,
@@ -1033,7 +1159,7 @@
    "note": "[LC] tái lập cụm 'giảm muối' đã dùng ở S009/S015; lần 'chất thay thế muối' trong câu không đánh thêm"
   },
   {
-   "id": "P38-VI-074",
+   "id": "P38-VI-083",
    "sent": "S023",
    "text": "các quốc gia",
    "occ": 1,
@@ -1047,7 +1173,7 @@
    "note": "[LC] nước (S018) → quốc gia; quay lại cách dùng của S014"
   },
   {
-   "id": "P38-VI-075",
+   "id": "P38-VI-084",
    "sent": "S024",
    "text": "Ông",
    "occ": 1,
@@ -1062,7 +1188,7 @@
    "ref": "A"
   },
   {
-   "id": "P38-VI-076",
+   "id": "P38-VI-085",
    "sent": "S024",
    "text": "những chất thay thế này",
    "occ": 1,
@@ -1076,7 +1202,7 @@
    "note": "[LC] đầu ngữ lặp, chỉ từ 'này' thâu vào alt; EN 'these substitutes'"
   },
   {
-   "id": "P38-VI-077",
+   "id": "P38-VI-086",
    "sent": "S024",
    "text": "huyết áp",
    "occ": 1,
@@ -1090,7 +1216,7 @@
    "note": "[LC] liên kết xa (20 câu)"
   },
   {
-   "id": "P38-VI-078",
+   "id": "P38-VI-087",
    "sent": "S024",
    "text": "đau tim và đột quỵ",
    "occ": 1,
@@ -1104,7 +1230,7 @@
    "note": "[LC] lặp nguyên văn"
   },
   {
-   "id": "P38-VI-079",
+   "id": "P38-VI-088",
    "sent": "S024",
    "text": "tử vong",
    "occ": 1,
@@ -1118,7 +1244,7 @@
    "note": "[LC] giảm tử vong do các biến cố tim mạch"
   },
   {
-   "id": "P38-VI-080",
+   "id": "P38-VI-089",
    "sent": "S024",
    "text": "biến cố tim mạch",
    "occ": 1,
@@ -1132,7 +1258,7 @@
    "note": "[LC] bệnh → biến cố (events), giữ gốc 'tim mạch'"
   },
   {
-   "id": "P38-VI-081",
+   "id": "P38-VI-090",
    "sent": "S025",
    "text": "muối",
    "occ": 1,
@@ -1146,7 +1272,7 @@
    "note": "[LC] nhãn hiệu muối — chuỗi muối chốt bài (EN 'brand of salt' thuộc chuỗi salt riêng)"
   },
   {
-   "id": "P38-VI-082",
+   "id": "P38-VI-091",
    "sent": "S025",
    "text": "bạn",
    "occ": 1,
@@ -1161,7 +1287,7 @@
    "ref": "E"
   },
   {
-   "id": "P38-VI-083",
+   "id": "P38-VI-092",
    "sent": "S025",
    "text": "nguy cơ",
    "occ": 1,
@@ -1175,7 +1301,7 @@
    "note": "[LC] liên kết xa (21 câu)"
   },
   {
-   "id": "P38-VI-084",
+   "id": "P38-VI-093",
    "sent": "S025",
    "text": "tử vong",
    "occ": 1,

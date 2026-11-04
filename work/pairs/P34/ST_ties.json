@@ -188,6 +188,20 @@
   {
    "id": "P34-EN-014",
    "sent": "S005",
+   "text": "company",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: Google did not immediately respond",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "tổng quát hóa chuỗi Google (S001 Alphabet's Google → S003 Google); quy chiếu trong câu (Google's own failure) thâu vào alt R: the; VI đối xứng theo vị trí là lặp hình vị công ty (S001 công ty Alphabet)"
+  },
+  {
+   "id": "P34-EN-015",
+   "sent": "S005",
    "text": "technology",
    "occ": 1,
    "cat": "L",
@@ -200,7 +214,7 @@
    "note": "lặp hình vị technology (technology experts)"
   },
   {
-   "id": "P34-EN-015",
+   "id": "P34-EN-016",
    "sent": "S006",
    "text": "Putin",
    "occ": 1,
@@ -214,7 +228,7 @@
    "note": "lặp họ Putin; VI thêm danh xưng 'ông'"
   },
   {
-   "id": "P34-EN-016",
+   "id": "P34-EN-017",
    "sent": "S006",
    "text": "accused",
    "occ": 1,
@@ -228,7 +242,7 @@
    "note": "accuse → accused lặp hình vị; charge (câu trước) là thành viên đồng nghĩa cùng chuỗi"
   },
   {
-   "id": "P34-EN-017",
+   "id": "P34-EN-018",
    "sent": "S006",
    "text": "Google",
    "occ": 1,
@@ -242,7 +256,7 @@
    "note": "tên riêng lặp (accused Google of being a tool)"
   },
   {
-   "id": "P34-EN-018",
+   "id": "P34-EN-019",
    "sent": "S006",
    "text": "government",
    "occ": 1,

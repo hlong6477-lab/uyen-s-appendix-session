@@ -405,13 +405,13 @@
    "text": "contaminated water",
    "occ": 1,
    "cat": "L",
-   "sub": "repetition",
+   "sub": "antonym",
    "dir": "ana",
    "level": "LC",
-   "ante": "S010: water points",
+   "ante": "S006: safe drinking water",
    "conf": "med",
-   "alt": null,
-   "note": "chuỗi nước; đối lập nước bẩn ↔ safe drinking water (phép đối); không có bản dịch"
+   "alt": "L: repetition ← S010 water points",
+   "note": "[Phase-2] phép đối contaminated ↔ safe: nước bẩn đối lập nước uống an toàn đã nêu ở S006; chuỗi nước xem alt; không có bản dịch"
   },
   {
    "id": "P39-EN-030",
@@ -585,6 +585,20 @@
   },
   {
    "id": "P39-EN-042",
+   "sent": "S015",
+   "text": "drowning",
+   "occ": 1,
+   "cat": "L",
+   "sub": "collocation",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: before the floods hit",
+   "conf": "med",
+   "alt": null,
+   "note": "[Phase-2] collocation lũ → đuối nước (H&H §6.4); không có bản dịch"
+  },
+  {
+   "id": "P39-EN-043",
    "sent": "S016",
    "text": "children",
    "occ": 1,
@@ -598,7 +612,7 @@
    "note": "At least 15 children; không có bản dịch"
   },
   {
-   "id": "P39-EN-043",
+   "id": "P39-EN-044",
    "sent": "S016",
    "text": "lost their lives",
    "occ": 1,
@@ -612,7 +626,7 @@
    "note": "đồng nghĩa giảm nhẹ (tử vong); their quy chiếu trong câu; không có bản dịch"
   },
   {
-   "id": "P39-EN-044",
+   "id": "P39-EN-045",
    "sent": "S016",
    "text": "Yett",
    "occ": 1,
@@ -626,7 +640,7 @@
    "note": "nối lại tên sau 2 đại từ He (S013, S014); không có bản dịch"
   },
   {
-   "id": "P39-EN-045",
+   "id": "P39-EN-046",
    "sent": "S017",
    "text": "people",
    "occ": 1,
@@ -640,7 +654,21 @@
    "note": "half-a-million people; không có bản dịch"
   },
   {
-   "id": "P39-EN-046",
+   "id": "P39-EN-047",
+   "sent": "S017",
+   "text": "evacuated",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: left stranded",
+   "conf": "med",
+   "alt": null,
+   "note": "[Phase-2] phép đối stranded ↔ evacuated (mắc kẹt ↔ sơ tán); TNT §30; H&H §6.4; không có bản dịch"
+  },
+  {
+   "id": "P39-EN-048",
    "sent": "S018",
    "text": "And",
    "occ": 1,
@@ -654,7 +682,7 @@
    "note": "And đầu câu nối quote với câu sơ tán trước đó; không có bản dịch"
   },
   {
-   "id": "P39-EN-047",
+   "id": "P39-EN-049",
    "sent": "S018",
    "text": "I",
    "occ": 1,
@@ -669,7 +697,7 @@
    "ref": "A"
   },
   {
-   "id": "P39-EN-048",
+   "id": "P39-EN-050",
    "sent": "S018",
    "text": "children",
    "occ": 1,
@@ -683,7 +711,7 @@
    "note": "concerned for children; 'Children and their families' cuối câu cùng chuỗi trong câu, không đánh lần 2; không có bản dịch"
   },
   {
-   "id": "P39-EN-049",
+   "id": "P39-EN-051",
    "sent": "S018",
    "text": "need help",
    "occ": 1,
@@ -697,7 +725,7 @@
    "note": "need lặp + help ≈ assistance; khép vòng về câu mở đầu; không có bản dịch"
   },
   {
-   "id": "P39-EN-050",
+   "id": "P39-EN-052",
    "sent": "S019",
    "text": "Yett",
    "occ": 1,
@@ -711,7 +739,7 @@
    "note": "nối lại tên nhân vật"
   },
   {
-   "id": "P39-EN-051",
+   "id": "P39-EN-053",
    "sent": "S019",
    "text": "UNICEF",
    "occ": 1,
@@ -725,7 +753,7 @@
    "note": "UNICEF and partners"
   },
   {
-   "id": "P39-EN-052",
+   "id": "P39-EN-054",
    "sent": "S019",
    "text": "support",
    "occ": 1,
@@ -739,7 +767,7 @@
    "note": "to support the government ≈ assistance (đồng nghĩa xa trong trường hỗ trợ)"
   },
   {
-   "id": "P39-EN-053",
+   "id": "P39-EN-055",
    "sent": "S020",
    "text": "He",
    "occ": 1,
@@ -754,7 +782,7 @@
    "ref": "A"
   },
   {
-   "id": "P39-EN-054",
+   "id": "P39-EN-056",
    "sent": "S020",
    "text": "they",
    "occ": 1,
@@ -769,7 +797,7 @@
    "ref": "A"
   },
   {
-   "id": "P39-EN-055",
+   "id": "P39-EN-057",
    "sent": "S020",
    "text": "water purification tablets",
    "occ": 1,
@@ -783,7 +811,7 @@
    "note": "lặp hình vị water — chuỗi nước"
   },
   {
-   "id": "P39-EN-056",
+   "id": "P39-EN-058",
    "sent": "S020",
    "text": "hygiene kits",
    "occ": 1,
@@ -797,7 +825,7 @@
    "note": "liên tưởng vệ sinh: toilets → hygiene kits; VI mất mắt xích này (S010 bị cắt)"
   },
   {
-   "id": "P39-EN-057",
+   "id": "P39-EN-059",
    "sent": "S020",
    "text": "supplies",
    "occ": 1,
@@ -811,7 +839,7 @@
    "note": "other crucial supplies; VI mất mắt xích này (S006 bị cắt)"
   },
   {
-   "id": "P39-EN-058",
+   "id": "P39-EN-060",
    "sent": "S021",
    "text": "He",
    "occ": 1,
@@ -826,7 +854,7 @@
    "ref": "A"
   },
   {
-   "id": "P39-EN-059",
+   "id": "P39-EN-061",
    "sent": "S021",
    "text": "UNICEF",
    "occ": 1,
@@ -840,7 +868,7 @@
    "note": "lặp viết tắt"
   },
   {
-   "id": "P39-EN-060",
+   "id": "P39-EN-062",
    "sent": "S021",
    "text": "urgently",
    "occ": 1,

@@ -7,6 +7,21 @@
   Francis gửi trên 350.000 euro từ quỹ từ thiện cá nhân cho Haiti, Bangladesh, Việt Nam.
 - Nguồn: Reuters (EN) → VOA Tiếng Việt (VI). Độ dài: 6 đoạn 1 câu phía EN (segmentation thành
   7 câu) / 6 câu phía VI.
+
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; H&H §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (repetition/synonym/superordinate/general
+> word, §6.2) + collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ
+> thống liên kết văn bản tiếng Việt* (1985; tái bản 2006)
+> (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối (§30), phép
+> thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ khiếm
+> diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối (§38, §43).
+> Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L.
+
 - Quy ước: [LC] liên câu; [TC] trong câu; [TD] tiêu đề; `∅` = thành phần bị lược; `{…}` = phần
   bù hồi phục bằng ngữ nghĩa. Tiêu đề hai bên không nằm trong flow nên không có tie trên tiêu đề.
 
@@ -48,7 +63,11 @@ personal disposal" (S001 EN) → "mà ngài có thể dùng…" (VI dùng đại
 "its embassies" (S005 EN) → "các đại sứ quán của Vatican" (VI lặp danh từ). Riêng hai chỗ "dùng"
 ở VI ("mà ngài có thể dùng", "Giáo hoàng có thể dùng") là gap tân ngữ trong mệnh đề quan hệ
 ("mà") / vế "theo đó" — gap cú pháp của quan hệ từ, không phải tỉnh lược liên kết, nên không
-đánh dấu E.
+đánh dấu E. **Theo H&H §4:** cả bốn ∅ đều là "substitution by zero" nominal/verbal thuần
+trong câu. **Theo TNT (§23, §37):** đây là *phép tỉnh lược* (liên kết khiếm diện) của câu
+hợp nghĩa — phần bù {…} là CHỮ NGHĨA (động từ/danh ngữ) hồi phục từ đồng văn, không phải
+*thế đại từ khiếm diện* theo dõi tham chiếu; vì tiền trạm luôn cùng câu nên nhóm 6 checklist
+(tăng cấp [TC]→[LC] do VI tách câu) không có ứng viên — VI không tách câu nào của EN.
 
 ## 3. Phép thế (substitution)
 
@@ -57,6 +76,11 @@ Không phát hiện phép thế nào ở hai bên: EN không có pro-form one/th
 (S007 EN) là danh ngữ đầy đủ có mạo từ (quy chiếu + từ vựng, xem §4–§6); "số tiền này", "quỹ này"
 (VI) là danh ngữ chỉ từ (phép quy chiếu demonstrative), không thay thế bằng pro-form. → S = 0
 ở cả hai phía; đây là điểm đồng dạng của cặp: cả hai bản đều "đặt lại tên" thay vì "thế".
+**Theo H&H §3 (phép thử §3.1.1):** không hình thức nào của cặp lấp đầy được bằng mục từ
+nguyên văn mà vẫn hợp ngữ pháp → không có S thực. **Theo TNT (§31) + mapping §3.10 và
+§3.13:** "số tiền này"/"quỹ này" giữ đồng nhất THAM CHIẾU (quy chiếu demonstrative, R) chứ
+không thay thế CHỮ NGHĨA, còn *phép thế đẳng nghĩa* là liên kết từ vựng (L) — hai cách đọc
+không đụng nhau theo nguyên tắc "một hình thức, một hàng".
 
 ## 4. Phép quy chiếu (reference)
 
@@ -76,6 +100,11 @@ hóa (The Vatican, the sums, the charity money, The fund).
 - A (hồi quy): cả 3 chỉ từ "này" của VI (S004, S005, S006) — tiền trạm đều trước.
 - C (tiền chỉ): không có (tin tức thuần tường thuật, không gặp).
 - E (ngoại văn bản): không có — bản tin không có we/you, không khối lời khuyên hướng độc giả.
+- **[Phase-2] Theo H&H §2.5 (comparative) + §2.3.3/§2.4.1.4 (extended reference):** "more
+  than" (S001, S003 EN) và "hơn" (S001, S002 VI) không phải quy chiếu so sánh vì đối tượng
+  so sánh là chính con số trong cùng cụm (giá trị xấp xỉ), không có tiền trạm ở câu trước; cặp
+  cũng không có This/That/It hay "điều đó/việc này" trỏ cả mệnh đề → nhóm 1 và nhóm 7
+  checklist không sinh hàng.
 
 ### 4.3. Hệ đại từ / danh xưng / [±người]
 
@@ -91,6 +120,15 @@ hóa (The Vatican, the sums, the charity money, The fund).
   kính bằng danh xưng, EN trung tính hóa bằng mạo từ + thường hóa chữ.
 - Danh từ tổng quát hóa: EN "the sums"/"the countries" (S005) — phần mạo từ thâu vào alt của
   tie L; VI "số tiền này"/"các nước" — phần chỉ từ "này" đánh dấu R riêng (xem §6).
+- **[Phase-2] Ứng viên nhóm 1 (so sánh) bị loại:** EN "more than 350,000 euros" (S001), "more
+  than 2,000 people" (S003); VI "hơn 350.000 euro" (S001), "hơn 2.000 người" (S002) — so
+  sánh lượng với số từ trong cùng cụm, không tiền trạm liên câu (H&H §2.5 đòi hỏi đối tượng so
+  sánh nằm ở câu trước mới là R comparative).
+- **[Phase-2] Ứng viên quy chiếu bị loại vì lần đầu nêu (không có hàng):** "A statement" (S002
+  EN) / "Một tuyên bố" (S002 VI) lần đầu giới thiệu nguồn; "the aftermath" (S002), "trận
+  động đất" (S002 VI), "quỹ Peter's Pence" (S005 VI), "initial contributions" (S005 EN),
+  "khoản đóng góp" (S004 VI), "people" (S003 EN), "người" (S002 VI) — các danh từ lần đầu
+  chỉ được CITE làm tiền trạm cho hàng sau (tiền lệ P21: danh từ lần đầu không đánh).
 
 ## 5. Phép nối (conjunction)
 
@@ -103,7 +141,13 @@ hóa (The Vatican, the sums, the charity money, The fund).
 **Nhận định:** hai bên đều **không có nối liên câu** (C = 0). Bản tin ngắn nối các câu bằng quan
 hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn) — đặc trưng thể loại news brief.
 Đáng chú ý: VI không tự sinh thêm liên từ nào; các liên từ "và"/"hoặc" của VI đều đối ứng "and"/
-"or" của EN và đều nằm trong câu.
+"or" của EN và đều nằm trong câu. **Theo H&H §5:** nối là quan hệ NGĨA giữa câu, không phải
+từ loại — vì các câu nối nhau bằng quan hệ ngầm như đã mô tả ở trên, C = 0 hai bên là kết quả
+đọc nghĩa, không phải thiếu sót. **Theo H&H §5.8 (continuatives):**
+không có Now/Well/Anyway/In fact đầu câu nào; "theo đó" (S005 VI) là quan hệ từ "nơi mà" trỏ
+"quỹ Peter's Pence" cùng câu; "tiếp tục" (S003 VI ↔ continuing S004 EN) là bổ ngữ trong cụm
+"khắc phục hậu quả"; "Theo (một báo cáo…)" (S006 VI) là attribution = according to (động từ
+chức năng báo chí) → nhóm 5 và nhóm 11 checklist không sinh hàng.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -138,6 +182,31 @@ hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn)
 - **"people/người"**: EN 2,000 people (S003) → people (S004); VI 2.000 người (S002) → người
   (S003) — lặp danh từ tổng quát chỉ nhóm người khác nhau (nạn nhân động đất ↔ nạn nhân bão),
   conf med.
+- **[Phase-2] "số tiền" (S004 VI — nhóm 3, H&H §6.1 general noun):** đầu từ của "số tiền
+  này" tóm chỉ ba khoản đã liệt kê (S002–S003) và tiếp chuỗi tiền từ "quỹ từ thiện" (S001) —
+  thêm hàng L general word cho đầu từ, hoàn tất quy ước của chính cặp: cả 3 vị trí NP+"này"
+  (S004, S005, S006) đều có hàng L (đầu từ) + hàng R (chỉ từ); đối xứng EN "the sums" (S005)
+  vốn là L general word với alt "R: the".
+- **[Phase-2] "chuyển" (S002 VI — nhóm 4+12 checklist):** mắt xích "sẽ được chuyển" được hàng
+  "chuyển giao" (S004) cite làm tiền trạm nhưng chưa có hàng riêng → thêm hàng L synonym ←
+  "vừa gửi" (S001) theo H&H §6.2 reiteration / TNT §31 (phép thế đẳng nghĩa → L); VI tự sinh
+  mắt xích ở đúng chỗ EN S002 dùng "was going" né lặp động từ.
+- **[Phase-2] alt "R: the" cho EN "charity money" (S006 — nhóm 8, mapping §3.6; NTT 2020
+  §2.2):** "Much of the charity money" giờ thâu mạo từ vào alt như mọi hàng the+NP khác của
+  cặp (sums/countries/pope/fund) — EN đủ 5/5 hàng the+rename có alt "R: the".
+- **[Phase-2] Phép đối liên câu (nhóm 2, TNT §30):** không có cặp đối nghĩa qua câu; cặp
+  "general or specific" / "chung hoặc cụ thể" là disjunctive trong câu (đã ghi §5); "ban
+  đầu" (S004 VI) và "tiếp tục" (S003 VI) mỗi từ chỉnh thể khác nhau, không lập cặp đối lập
+  diễn ngôn.
+- **[Phase-2] Collocation (nhóm 9, H&H §6.4; TNT §32):** earthquake (S002/S003) ↔ Cyclone
+  Yaas (S004) (VI: động đất ↔ bão Yaas) là đồng hạ vị trường thiên tai nhưng văn bản không
+  có thượng vị chung (không có "disaster/thiên tai") — quan hệ là cấu trúc chủ đề của ba
+  khoản cứu trợ chứ không phải chuỗi đồng hiện từ vựng; theo mapping §6 (cấm L từ topic
+  continuity) không đánh dấu.
+- **[Phase-2] Công thức "có thể dùng với danh nghĩa cá nhân" (S001 → S005 VI):** "dùng" và
+  "có thể" thuộc cùng công thức được tái dùng với "danh nghĩa cá nhân"; theo quy ước một
+  dấu cho một chuỗi trong mỗi câu, dấu của công thức đặt ở "danh nghĩa cá nhân" — không
+  thêm hàng thứ hai cho "dùng".
 - **Không đưa vào inventory**: số liệu và đơn vị tiền lặp (350.000/411.000/200.000/70.000/
   100.000/50 triệu; euros ↔ euro, đôla) — nội dung định lượng, VI giữ "euro/đôla" và đổi dấu
   phẩy ngăn cách nghìn thành dấu chấm; động từ attribution said/cho biết (S001, S002 EN/VI) —
@@ -150,10 +219,10 @@ hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn)
 
 | Kiểu dịch chuyển | Số lần | Ví dụ |
 |---|---:|---|
-| EN mạo từ + NP (tổng quát/đầy đủ) → VI NP + chỉ từ "này" | 3 | the sums (S005) → "số tiền này" (S004); the charity money (S006) → "số tiền từ thiện này" (S005); The fund (S007) → "quỹ này" (S006) |
+| EN mạo từ + NP (tổng quát/đầy đủ, alt "R: the") → VI đầu từ (hàng L) + chỉ từ "này" (hàng R) | 3 | the sums (S005, alt "R: the") → "số tiền" (L) + "này" (R) (S004); the charity money (S006, [Phase-2] alt "R: the") → "số tiền từ thiện" + "này" (S005); The fund (S007) → "quỹ" + "này" (S006) |
 | EN đại từ trong câu → VI hiện thực hóa / danh xưng | 2 | his → "ngài" (S001); its embassies → "các đại sứ quán của Vatican" (S005 → S004) |
 | EN 0 quy chiếu liên câu → VI 3 chỉ từ liên câu | 3 | "này" ×3 (S004–S006) |
-| VI tự sinh mắt xích chuỗi động từ | 1 | "chuyển" (S002) → "chuyển giao" (S004) ở chỗ EN đổi động từ (going → administered) |
+| VI tự sinh mắt xích chuỗi động từ (EN né lặp ↔ VI xây chuỗi gần nghĩa) | 1 | "gửi" (S001) → "chuyển" (S002, [Phase-2] thêm hàng) → "gửi" (S003) → "chuyển giao" (S004) ở chỗ EN đổi động từ (going → administered) — hướng "VI lặp/từ vựng hóa" của NTT (2020) §2 |
 | EN segmentation chẻ 1 câu thành 2 | 1 | S002+S003 (chẻ tại "Aug.") ↔ S002 VI |
 | VI đảo vị trí attribution | 2 | dateline → "Reuters dẫn nguồn tin từ Vatican cho biết hôm 24/8" (cuối S001); "Theo một báo cáo…" lên đầu S006 |
 | Nối liên câu | 0 | hai bên đều không có; and/và/hoặc đều trong câu |
@@ -178,7 +247,7 @@ hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn)
 7. Echo giả "statement" (S002 "A statement said" ↔ S007 "a consolidated financial statement")
    — khác referent, đã loại khỏi chuỗi L; VI tách "tuyên bố"/"báo cáo" nên không có echo này.
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Tie table | Ghi chú |
 |---|---:|---:|---|
@@ -186,19 +255,24 @@ hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn)
 | EN — S | 0 | 0 | không có pro-form |
 | EN — E | 2 | 2 | đều [TC] (gapping S004, lược chủ ngữ S005) |
 | EN — C | 0 | 0 | "and" ×2 đều trong câu |
-| EN — L | 15 | 15 | Haiti, help; sent, Bangldesh, assistance, people, Vietnam; Vatican, sums, countries; charity money, pope, personal disposal, contribute; fund |
+| EN — L | 15 | 15 | Haiti, help; sent, Bangldesh, assistance, people, Vietnam; Vatican, sums, countries; charity money, pope, personal disposal, contribute; fund — [Phase-2] charity money (S006) thêm alt "R: the", không đổi số đếm |
 | VI — R | 3 | 3 | "này" ×3 (S004, S005, S006), đều A |
 | VI — S | 0 | 0 | |
 | VI — E | 2 | 2 | đều [TC] (S003, S004) |
 | VI — C | 0 | 0 | "và" ×2, "hoặc" đều trong câu |
-| VI — L | 15 | 15 | Haiti, giúp đỡ; gửi, Bangldesh, hỗ trợ, người, Việt Nam; Vatican, các nước, chuyển giao; số tiền từ thiện, Giáo hoàng, danh nghĩa cá nhân, đóng góp; quỹ |
+| VI — L | 17 | 17 | chuyển, Haiti, giúp đỡ; gửi, Bangldesh, hỗ trợ, người, Việt Nam; Vatican, số tiền, các nước, chuyển giao; số tiền từ thiện, Giáo hoàng, danh nghĩa cá nhân, đóng góp; quỹ ([Phase-2]: chuyển S002, số tiền S004) |
+
+Số lấy từ pipeline.annotate sau Phase-2: EN 17 (E 2, L 15) / VI 22 (R 3, E 2, L 17) — khớp
+cả hai cột. **+2 hàng Phase-2 (VI):** "chuyển" (S002, L synonym — nhóm 4+12 checklist) và
+"số tiền" (S004, L general word — nhóm 3); EN chỉ +1 alt ("R: the" cho charity money
+S006 — nhóm 8) nên số đếm EN không đổi.
 
 **Kết luận:**
 
 1. Điểm nổi bật nhất của P40: EN đạt liên kết liên câu **hoàn toàn bằng từ vựng** (15 L, 0 R, 0
-   S, 0 C) — bản tin dùng danh ngữ đầy đủ ở mọi vị trí chéo câu; VI cũng có 15 L nhưng **thêm
-   3 chỉ từ "này"** đúng vào 3 chỗ EN chỉ dùng mạo từ (the sums / the charity money / The fund)
-   — hệ quy chiếu VI bù đắp bằng demonstrative thay vì dựa vào mạo từ.
+   S, 0 C) — bản tin dùng danh ngữ đầy đủ ở mọi vị trí chéo câu; VI có 17 L (sau Phase-2) và
+   **thêm 3 chỉ từ "này"** đúng vào 3 chỗ EN chỉ dùng mạo từ (the sums / the charity money /
+   The fund) — hệ quy chiếu VI bù đắp bằng demonstrative thay vì dựa vào mạo từ.
 2. Hai bên có cùng 2 tỉnh lược [TC] bảo toàn cấu trúc 1–1 (tọa hợp lược động từ, lược chủ ngữ)
    — các mục này chỉ là lớp bổ sung, **không dùng làm bằng chứng liên kết liên câu**.
 3. Nối liên câu bằng 0 ở cả hai phía (đặc trưng news brief: quan hệ ngầm giữa các câu); toàn
@@ -208,3 +282,9 @@ hệ ngầm (liệt kê chi tiết từng khoản, bổ sung thông tin nguồn)
    — hai chiến lược hình thức ngược chiều trên cùng một trọng tâm nghĩa.
 5. Các lỗi nguồn (Bangldesh, glyph Ð, chẻ "Aug.") đã được khoanh vùng ở §8 và không tạo tie
    giả; echo "statement" (S002↔S007 EN) đã chủ động loại.
+6. **Phase-2 (theo references):** 2 tie mới (EN 0 / VI 2) gồm: "chuyển" S002 VI (mắt xích
+   chuỗi động từ gửi/chuyển được "chuyển giao" S004 cite nhưng thiếu hàng — nhóm 4+12
+   checklist; H&H §6.2, TNT §31) và "số tiền" S004 VI (danh từ tổng quát H&H §6.1 đối xứng
+   "the sums" EN, hoàn tất cặp hàng L đầu từ + R chỉ từ ở cả 3 vị trí "…này"); cộng 1 alt
+   EN "R: the" (charity money S006 — mapping §3.6). Các đối xứng này đúng bảng dịch chuyển
+   của NTT (2020) §5: the ↔ chỉ từ demonstrative, EN né lặp ↔ VI xây chuỗi gần nghĩa.

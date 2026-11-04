@@ -68,6 +68,16 @@ ST = [
      "charge ≈ accuse (cùng trường tố cáo; đây là tuyên bố của Nga, khác cáo "
      "buộc của giới chỉ trích); VI giữ một từ cáo buộc nên bên VI là lặp", 1,
      None, None, "LC", None),
+    # [Phase-2] the company ← Google: mạo từ the + rename bằng danh từ tổng
+    # quát (mapping §3.6; H&H §6.1 general noun / §6.2 reiteration by general
+    # word — Google → the company như "a bull" → "the animal"); một hình thức
+    # một hàng nên the thâu vào alt (mapping §3.13).
+    ("S005", "company", "L", "general word",
+     "S003: Google did not immediately respond", "med", "R: the",
+     "tổng quát hóa chuỗi Google (S001 Alphabet's Google → S003 Google); "
+     "quy chiếu trong câu (Google's own failure) thâu vào alt R: the; VI đối "
+     "xứng theo vị trí là lặp hình vị công ty (S001 công ty Alphabet)", 1,
+     None, None, "LC", None),
     ("S005", "technology", "L", "repetition",
      "S002: foreign technology platforms", "med", None,
      "lặp hình vị technology (technology experts)", 1, None, None, "LC",

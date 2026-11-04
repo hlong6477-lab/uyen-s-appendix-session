@@ -6,6 +6,20 @@
 - Nguồn: VOA News (EN) / VOA Tiếng Việt. Thể loại: tin tức nhân đạo về khủng hoảng thiên
   tai (humanitarian crisis news), gần như toàn bài là chuỗi attribution dẫn lời một quan
   chức UNICEF ("He says… / He notes… / He warns… / Yett says…").
+
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; H&H §2), substitution (§3), ellipsis = substitution by
+> zero (§4), conjunction additive/adversative/causal/temporal + continuatives (§5),
+> lexical cohesion reiteration (repetition/synonym/superordinate/general word, §6.2) +
+> collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ thống liên kết văn
+> bản tiếng Việt* (1985; tái bản 2006) (references/tran-ngoc-them-2006.md): phép lặp
+> (§26–29), phép đối (§30), phép thế đẳng nghĩa (§31), phép liên tưởng (§32), phép
+> thế đại từ khiếm diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối
+> (§38, §43). Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L.
+
 - Quy ước: `[LC]` liên câu; `[TC]` trong câu; `[TD]` tiêu đề (tiêu đề không nằm trong flow,
   không gán nhãn). `∅` thành phần bị lược; `{…}` phần bù hồi phục bằng ngữ nghĩa.
 - Không có subhead. Cặp này là cặp bị cắt nặng nhất trong corpus: 11/21 câu EN không có
@@ -68,6 +82,13 @@ nghĩa chủ đạo: trẻ em; Yett–UNICEF–ông; lũ/lũ quét/ngập lụt;
   (xem §3), không phải E. Ngoài hai vị trí trên không còn chỗ trống thật nào; các câu VI
   đều đủ chủ ngữ–vị ngữ.
 
+**Theo H&H §4:** tỉnh lược là "substitution by zero" — chữ nghĩa bị lược nhưng hồi phục
+được; E-EN1 là nominal ellipsis sau lượng từ, E-VI1 là lược chủ ngữ vế báo cáo gián tiếp.
+**Theo TNT (§23, §37):** E-VI1 có thể đọc theo *thế đại từ khiếm diện* (theo dõi tham
+chiếu "UNICEF và các đối tác" không hình thức) hoặc *tỉnh lược yếu*; theo quy ước "một
+hình thức, một hàng" (mapping §3.5) chỉ giữ một hàng E, không đánh song R — bối cảnh
+khiếm diện đã ghi ở đây.
+
 ## 3. Phép thế (substitution)
 
 | # | Ngôn ngữ | Nguyên văn | Phân tích | Cấp |
@@ -82,6 +103,13 @@ chính "trẻ em" gánh ("that of the children" ↔ "trẻ em"). Hai bên đều
 nguyên khung hai vế của câu EN (không tách câu). Chênh lệch 2 tie EN ↔ 1 tie VI ở đây là
 của hệ thống ngôn ngữ (VI không có pro-form thế danh từ tương đương "that of"), không phải
 lỗi người dịch. Không có thế mệnh đề (so/not) nào khác trong bài.
+
+**Theo H&H §3 (phép thử §3.1.1):** "that of the children" lấp đầy được bằng "the
+situation" trong khi vẫn hợp ngữ pháp → thế danh từ; "so" lấp đầy bằng "has
+deteriorated rapidly" → thế động từ; cả hai đều quan hệ CHỮ NGHĨA, khác quy chiếu (chỉ
+về vật). **Theo TNT (§31 + mapping §3.7):** "vậy" là *phép thế đại từ* của VI (một
+pro-form gánh cả hai chức năng so + that); *phép thế đẳng nghĩa* (thay bằng đồng
+nghĩa) là liên kết từ vựng (L) nên không áp cho "vậy".
 
 ## 4. Phép quy chiếu (reference)
 
@@ -113,6 +141,10 @@ lỗi người dịch. Không có thế mệnh đề (so/not) nào khác trong b
   cặp này không có đại từ ngôi 2 nào. Đại từ "I" duy nhất (S018) là ngôi 1 trong quote và
   có tiền trạm trong văn bản, nên vẫn là A.
 
+**Theo H&H §2 (mapping §3.3–3.4):** hướng A/C/E phải quyết TỪNG R, không mặc định A;
+"I" (S018) là ngôi 1 trong quote nhưng attribution "said Yett" nằm ở câu TRƯỚC nên đủ
+điều kiện truy hồi trong văn bản → A, không phải ngoại văn bản.
+
 ### 4.3. Hệ đại từ / danh xưng / [±người]
 
 - [+người] He (×6: S009, S011, S013, S014, S020, S021) → VI Ông (×4) + ∅ (×1). VI thay
@@ -129,6 +161,18 @@ lỗi người dịch. Không có thế mệnh đề (so/not) nào khác trong b
 - Danh từ tổng quát + mạo từ: "the situation" (S003), "this desperate situation" (S007),
   "the UNICEF official" (S010), "the condition" (S014) — phần mạo từ/chỉ từ thâu vào
   `alt` ("R: the", "R: this") của tie L tương ứng, đánh ở đầu từ nội dung.
+- **[Phase-2] Ứng viên so sánh bị loại vì trong câu (H&H §2.5; quy ước R chỉ [LC]):**
+  EN S008 "other deadly diseases" (other so với diarrhea cùng câu), S012 "other vital
+  services" (so với immunization cùng câu), S020 "thousands of other crucial supplies"
+  (so với tablets/hygiene kits cùng câu); VI S005 "các dịch vụ quan trọng khác" (so với
+  việc tiêm chủng cùng câu), S009 "đồ vật thiết yếu khác" (so với bộ vệ sinh cùng câu).
+  Cả năm ghi nhận ở đây, không vào tie table (đúng precedent P21 "thousands of others").
+- **[Phase-2] Ứng viên quy chiếu/liên tưởng bị loại:** EN S019 "the government" (mạo từ
+  kết hợp liên tưởng nước → chính phủ; referent lần đầu chưa có tiền trạm — quy ước
+  không lập hàng cho danh từ lần đầu; VI tự sinh "Bangladesh" đã có hàng L riêng S008);
+  EN S018 "need help now" (now = phó từ thời gian ngoại chỉ, trỏ thời điểm nói — theo
+  H&H một tie cần hai mục nhận diện, đây chỉ có deixis tình huống); EN S010 "the capital"
+  loại ở §8 vì lỗi nguồn Dakar.
 
 ## 5. Phép nối (conjunction)
 
@@ -142,6 +186,12 @@ lỗi người dịch. Không có thế mệnh đề (so/not) nào khác trong b
 từ vựng) chứ không bằng liên từ; cặp liên câu duy nhất also ↔ cũng giữ 1–1. Các "and/và"
 liệt kê (S006, S019, S020, S009 VI), "as" phụ đề (S002, S011), "…" trong quote đều nằm
 trong câu, không đánh dấu.
+
+**Theo H&H §5:** nối là quan hệ NGHĨA giữa câu, không phải từ loại. P39 không có
+continuative (§5.8: Now/Well/Indeed/In fact…) và không có "For example/though/In fact"
+đầu–cuối câu (protocol nhóm 11) ở hai đầu — mạch bài do chuỗi quy chiếu He↔Ông và chuỗi
+từ vựng gánh, đúng nhận định trên. **Theo TNT (§38):** "cũng" (S007) là phép nối lỏng
+của câu hợp nghĩa; "And" đầu câu quote (S018) là additive nội bộ lượt nói.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -198,12 +248,32 @@ trong câu, không đánh dấu.
 - Động từ attribution (says, notes, warns, said; cho biết, nói, lưu ý) không đánh theo
   quy ước; động từ nội dung được đánh: "disrupted" (S014) ↔ "bị gián đoạn" (S007),
   "support" (S019, conf low) ↔ "hỗ trợ" (S008).
+- **[Phase-2] Phép đối an toàn–nhiễm bẩn (TNT §30; H&H §6.4 opposites):** EN safe
+  drinking water (S004, S006) ↔ **contaminated water (S011 — reclassify sub repetition
+  → antonym, chuỗi nước ← S010 water points chuyển sang alt)** — người dân buộc phải
+  uống nước bẩn đối lập nước an toàn đã nêu. VI mất mắt xích đối lập (S011 EN bị cắt;
+  VI chỉ còn "nước uống an toàn" S004) nên phép đối này chỉ tồn tại phía EN.
+- **[Phase-2] Phép đối mắc kẹt–sơ tán (TNT §30; H&H §6.4):** EN left stranded (S002) ↔
+  **have been evacuated (S017, hàng mới)** — hàng trăm nghìn người mắc kẹt đối lập gần
+  nửa triệu người được sơ tán; S017 nằm trong khối cắt nên tie chỉ EN.
+- **[Phase-2] Collocation lũ → đuối nước (H&H §6.4, kiểu rain…wet):** EN **drowning
+  (S015, hàng mới) ← the floods hit (S013)** — rủi ro đuối nước là hệ quả trực tiếp
+  của đợt lũ; câu trong khối cắt, tie chỉ EN.
+- **[Phase-2] Rà chuỗi ngược (protocol nhóm 12):** mọi tiền trạm được cite (3.5 million
+  children S004; safe drinking water S006; before the floods hit S013; left stranded
+  S002; Dozens of people S002…) đều đã có hàng hoặc là lần đầu của chuỗi — không có mắt
+  xích nào bị cite mà thiếu hàng.
+- **[Phase-2] Ứng viên đã xét và loại:** EN warns (S011) ← is warning (S001) là chuỗi
+  động từ attribution → bỏ theo quy ước chức năng báo chí; VI "cung cấp" (S010) ←
+  "phân phối" (S009) đọc mờ vì EN dùng "pay for" (≠ deliver) — rơi vào "topic
+  continuity" cấm theo mapping §6, không lập hàng; EN hit (S002→S013) trùng chuỗi lũ
+  đã đánh ở flooding/floods nên không thêm hàng thứ hai.
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
 
 | Kiểu dịch chuyển | Số lần | Ví dụ |
 |---|---:|---|
-| EN cắt khối (2 quote + đoạn Dakar) → tie chỉ còn phía EN | 11 câu / 26 tie | S005–S011, S015–S018 |
+| EN cắt khối (2 quote + đoạn Dakar) → tie chỉ còn phía EN | 11 câu / 28 tie | S005–S011, S015–S018 (26 tie gốc + 2 hàng Phase-2: drowning S015, evacuated S017) |
 | EN đại từ He → VI danh xưng Ông | 4 | S013→S006, S014→S007, S020→S009, S021→S010 |
 | EN đại từ they → VI ∅ (pro-drop) | 1 | S020 "they have managed" → S009 "∅ đã phân phối" |
 | EN R → VI E (đổi loại hình tại cùng vị trí) | 1 | R-EN7 ↔ E-VI1 |
@@ -239,7 +309,7 @@ trong câu, không đánh dấu.
 7. Số liệu hai bên khớp nhau; khác biệt chỉ là định dạng (3.5 ↔ 3,5; 2,000 ↔ 2.000; 90
    percent ↔ 90%).
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Đã ghi tie table | Ghi chú |
 |---|---:|---:|---|
@@ -247,15 +317,16 @@ trong câu, không đánh dấu.
 | EN — S | 2 | 2 | that + so (S003), đều [TC] |
 | EN — E | 1 | 1 | S002 [TC] |
 | EN — C | 2 | 2 | also (S014), And (S018) |
-| EN — L | 46 | 46 | 20 trong 11 câu bị cắt |
+| EN — L | 48 | 48 | 23 trong 11 câu bị cắt (đếm lại Phase-2; số 20 cũ đếm nhầm); +2 hàng Phase-2: evacuated (S017), drowning (S015); S011 contaminated water reclassify sub → antonym (không đổi tổng số) |
 | VI — R | 5 | 5 | 5 hướng A (Ông ×4, này); 0 C, 0 E |
 | VI — S | 1 | 1 | vậy (S003) [TC] |
 | VI — E | 1 | 1 | S009 [LC] |
 | VI — C | 1 | 1 | cũng (S007) |
-| VI — L | 24 | 24 | |
+| VI — L | 24 | 24 | không có hàng Phase-2 mới phía VI (chuỗi đã kín, các mắt xích VI còn lại đều là lần đầu) |
 
-Tổng: EN 60 tie / VI 32 tie. Chênh lệch 28 tie trùng khớp gần đúng với 26 tie nằm trong
-11 câu bị cắt.
+Tổng: EN 62 tie / VI 32 tie. Chênh lệch 30 tie, trong đó 28 tie nằm trọn trong 11 câu bị
+cắt (gồm 2 hàng Phase-2 mới); 2 tie còn lại là chênh lệch hệ thống đã nêu ở kết luận 2
+(S003: EN 2 pro-form ↔ VI 1 pro-form; S002: E EN ↔ hiện thực hóa VI).
 
 **Kết luận:**
 1. Bất đối xứng EN/VI của P39 chủ yếu do BIÊN TẬP (11/21 câu bị cắt), không phải do hệ
@@ -269,6 +340,14 @@ Tổng: EN 60 tie / VI 32 tie. Chênh lệch 28 tie trùng khớp gần đúng v
    có C — thể loại tường thuật quyết định hướng quy chiếu.
 4. Danh xưng "Ông" là công cụ liên kết riêng phía VI: EN phải đặt lại tên "Yett" 4 lần, VI
    chỉ 2 lần, xen các "Ông" trần → mật độ quy chiếu danh xưng của VI cao hơn EN.
-5. Mật độ tie/câu thực tế VI (3,2) cao hơn EN (2,9) vì VI giữ lại đúng các câu tóm lược
-   dày chuỗi; các mục [TC] (E-EN1, S-EN1, S-EN2, S-VI1) không dùng làm bằng chứng liên
-   câu; E-VI1 mới là [LC] thật.
+5. Mật độ tie/câu thực tế VI (3,2) cao hơn EN (2,95 sau Phase-2) vì VI giữ lại đúng các
+   câu tóm lược dày chuỗi; các mục [TC] (E-EN1, S-EN1, S-EN2, S-VI1) không dùng làm bằng
+   chứng liên câu; E-VI1 mới là [LC] thật.
+6. **Phase-2 (theo references):** 3 tie mới/reclassify (EN 2 hàng mới + 1 reclassify, VI 0)
+   gồm: phép đối contaminated ↔ safe drinking water (S011 reclassify — TNT §30; H&H §6.4
+   opposites), phép đối stranded ↔ evacuated (S017 hàng mới — TNT §30), collocation lũ →
+   drowning (S015 hàng mới — H&H §6.4 kiểu rain…wet); mọi ứng viên còn lại (other/khác ×5,
+   now, the government, warns, cung cấp, hit) đều bị loại vì [TC], quy ước chức năng báo
+   chí hoặc rủi ro "topic continuity" (mapping §6). Cả hai hàng mới + hàng reclassify đều
+   nằm trọn trong khối cắt nên chỉ tồn tại phía EN — đúng bảng dịch chuyển NTT (2020) §5
+   về bất đối xứng do biên tập cắt (cắt khối, không phải dịch chuyển hệ thống ngôn ngữ).

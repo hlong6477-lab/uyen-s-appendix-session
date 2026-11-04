@@ -61,6 +61,20 @@
   },
   {
    "id": "P37-VI-005",
+   "sent": "S003",
+   "text": "hạt",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: mảnh nhựa siêu nhỏ này",
+   "conf": "med",
+   "alt": null,
+   "note": "mảnh ≈ hạt (mức độ hạt); mở chuỗi 'hạt'"
+  },
+  {
+   "id": "P37-VI-006",
    "sent": "S004",
    "text": "Đây",
    "occ": 1,
@@ -75,7 +89,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-006",
+   "id": "P37-VI-007",
    "sent": "S004",
    "text": "những hạt",
    "occ": 1,
@@ -89,7 +103,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-007",
+   "id": "P37-VI-008",
    "sent": "S005",
    "text": "micron",
    "occ": 1,
@@ -103,7 +117,7 @@
    "note": "'micromet' là đổi tên trong câu (TC), không đánh; 'nó' trong câu không đánh"
   },
   {
-   "id": "P37-VI-008",
+   "id": "P37-VI-009",
    "sent": "S006",
    "text": "micron",
    "occ": 1,
@@ -117,7 +131,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-009",
+   "id": "P37-VI-010",
    "sent": "S007",
    "text": "Các nghiên cứu trước đây",
    "occ": 1,
@@ -131,21 +145,36 @@
    "note": "mở chuỗi 'nghiên cứu'"
   },
   {
-   "id": "P37-VI-010",
+   "id": "P37-VI-011",
+   "sent": "S007",
+   "text": "hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: những hạt có kích thước nhỏ hơn một micron",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] 'lớn hơn một chút' = lớn hơn hạt nano đã tả ở S004; H&H §2.5 comparative; 'nhỏ hơn' trong S004 là so sánh trong câu",
+   "ref": "A"
+  },
+  {
+   "id": "P37-VI-012",
    "sent": "S007",
    "text": "vi nhựa",
    "occ": 1,
    "cat": "L",
-   "sub": "collocation",
+   "sub": "antonym",
    "dir": "ana",
    "level": "LC",
    "ante": "S001: mảnh nhựa nano",
    "conf": "med",
    "alt": null,
-   "note": "trường nhựa: vi ↔ nano đối lập kích thước"
+   "note": "phép đối vi ↔ nano (đối lập kích thước, TNT §30; H&H §6.4)"
   },
   {
-   "id": "P37-VI-011",
+   "id": "P37-VI-013",
    "sent": "S007",
    "text": "hạt",
    "occ": 1,
@@ -159,7 +188,7 @@
    "note": "trong 'các hạt vi nhựa'"
   },
   {
-   "id": "P37-VI-012",
+   "id": "P37-VI-014",
    "sent": "S007",
    "text": "micron",
    "occ": 1,
@@ -173,7 +202,7 @@
    "note": "đến 1 micron"
   },
   {
-   "id": "P37-VI-013",
+   "id": "P37-VI-015",
    "sent": "S008",
    "text": "Nghiên cứu",
    "occ": 1,
@@ -187,7 +216,7 @@
    "note": "danh từ không xác định VI; mạo từ hiểu ngầm = nghiên cứu đã nhắc"
   },
   {
-   "id": "P37-VI-014",
+   "id": "P37-VI-016",
    "sent": "S008",
    "text": "nhựa nano",
    "occ": 1,
@@ -201,7 +230,7 @@
    "note": "lượng nhựa nano"
   },
   {
-   "id": "P37-VI-015",
+   "id": "P37-VI-017",
    "sent": "S008",
    "text": "vi nhựa",
    "occ": 1,
@@ -215,7 +244,7 @@
    "note": "so với hạt vi nhựa"
   },
   {
-   "id": "P37-VI-016",
+   "id": "P37-VI-018",
    "sent": "S008",
    "text": "nước đóng chai",
    "occ": 1,
@@ -229,7 +258,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-017",
+   "id": "P37-VI-019",
    "sent": "S009",
    "text": "nghiên cứu",
    "occ": 1,
@@ -243,7 +272,7 @@
    "note": "Tác giả chính của nghiên cứu"
   },
   {
-   "id": "P37-VI-018",
+   "id": "P37-VI-020",
    "sent": "S009",
    "text": "nhựa",
    "occ": 1,
@@ -257,7 +286,7 @@
    "note": "occ 1: lần 2 nằm trong 'chính chai nhựa' (hàng riêng), không đánh"
   },
   {
-   "id": "P37-VI-019",
+   "id": "P37-VI-021",
    "sent": "S009",
    "text": "chính chai nhựa",
    "occ": 1,
@@ -271,7 +300,7 @@
    "note": "hình vị 'chai'"
   },
   {
-   "id": "P37-VI-020",
+   "id": "P37-VI-022",
    "sent": "S009",
    "text": "Columbia",
    "occ": 1,
@@ -285,7 +314,7 @@
    "note": "một nhà hóa học vật lý ở Columbia"
   },
   {
-   "id": "P37-VI-021",
+   "id": "P37-VI-023",
    "sent": "S010",
    "text": "Bà",
    "occ": 1,
@@ -300,7 +329,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-022",
+   "id": "P37-VI-024",
    "sent": "S010",
    "text": "thương hiệu",
    "occ": 1,
@@ -314,7 +343,7 @@
    "note": "occ 1: lặp 3 lần trong câu (một thương hiệu, thương hiệu hơn) cùng chuỗi, không đánh; nguồn VI đổi 'nhãn hiệu'→'thương hiệu'"
   },
   {
-   "id": "P37-VI-023",
+   "id": "P37-VI-025",
    "sent": "S010",
    "text": "các nhà nghiên cứu",
    "occ": 1,
@@ -328,7 +357,36 @@
    "note": "'họ' trong câu không đánh; EN 'the three brands' có hàng R nhưng VI 'ba thương hiệu' không tín hiệu — chỉ ghi nhận"
   },
   {
-   "id": "P37-VI-024",
+   "id": "P37-VI-026",
+   "sent": "S010",
+   "text": "hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: năm mẫu của ba nhãn hiệu nước đóng chai",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] 'nhiều mẫu hơn' = nhiều hơn 5 mẫu đã xem xét (S003); H&H §2.5; 'thương hiệu hơn' trong câu → [TC]",
+   "ref": "A"
+  },
+  {
+   "id": "P37-VI-027",
+   "sent": "S010",
+   "text": "mẫu",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: năm mẫu của ba nhãn hiệu nước đóng chai",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp mẫu (muốn có nhiều mẫu hơn)"
+  },
+  {
+   "id": "P37-VI-028",
    "sent": "S010",
    "text": "nghiên cứu",
    "occ": 2,
@@ -342,7 +400,7 @@
    "note": "occ 2: lần 1 nằm trong 'các nhà nghiên cứu' (hàng riêng), lần 2 là động từ 'nghiên cứu' (danh từ → động từ)"
   },
   {
-   "id": "P37-VI-025",
+   "id": "P37-VI-029",
    "sent": "S011",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -356,7 +414,7 @@
    "note": "đối ứng EN 'Still'; cụm 'bought at a WalMart' bị cắt"
   },
   {
-   "id": "P37-VI-026",
+   "id": "P37-VI-030",
    "sent": "S011",
    "text": "bà",
    "occ": 1,
@@ -371,7 +429,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-027",
+   "id": "P37-VI-031",
    "sent": "S011",
    "text": "chúng",
    "occ": 1,
@@ -386,7 +444,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-028",
+   "id": "P37-VI-032",
    "sent": "S011",
    "text": "phổ biến",
    "occ": 1,
@@ -400,7 +458,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-029",
+   "id": "P37-VI-033",
    "sent": "S012",
    "text": "Các nhà nghiên cứu",
    "occ": 1,
@@ -414,7 +472,7 @@
    "note": "'vẫn chưa' là trạng từ, không phải nối"
   },
   {
-   "id": "P37-VI-030",
+   "id": "P37-VI-034",
    "sent": "S012",
    "text": "Những mảnh nhựa nano đó",
    "occ": 1,
@@ -429,7 +487,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-031",
+   "id": "P37-VI-035",
    "sent": "S013",
    "text": "Điều đó",
    "occ": 1,
@@ -444,7 +502,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-032",
+   "id": "P37-VI-036",
    "sent": "S014",
    "text": "Chúng tôi",
    "occ": 1,
@@ -459,7 +517,7 @@
    "ref": "E"
   },
   {
-   "id": "P37-VI-033",
+   "id": "P37-VI-037",
    "sent": "S014",
    "text": "nó",
    "occ": 1,
@@ -470,11 +528,11 @@
    "ante": "S012: mảnh nhựa nano có gây hại cho sức khỏe không",
    "conf": "med",
    "alt": null,
-   "note": "occ 1 vì 'nói' chứa 'nó'; nó = vấn đề nhựa nano gây hại; 'nguy hiểm' lặp 2 lần trong câu (TC) không đánh",
+   "note": "occ 1 vì 'nói' chứa 'nó'; nó = vấn đề nhựa nano gây hại; 'nguy hiểm' lần 2 trong câu (TC) không đánh; lần 1 có hàng [Phase-2] ← S012 gây hại",
    "ref": "A"
   },
   {
-   "id": "P37-VI-034",
+   "id": "P37-VI-038",
    "sent": "S014",
    "text": "nghiên cứu",
    "occ": 1,
@@ -488,7 +546,7 @@
    "note": "occ 1: lần 2 nằm trong 'nhà nghiên cứu' (hàng riêng), không đánh"
   },
   {
-   "id": "P37-VI-035",
+   "id": "P37-VI-039",
    "sent": "S014",
    "text": "nhà nghiên cứu",
    "occ": 1,
@@ -502,7 +560,49 @@
    "note": "VI tự sinh lặp chuỗi trong chức danh 'một nhà nghiên cứu chất độc'; EN 'a toxicologist' không có"
   },
   {
-   "id": "P37-VI-036",
+   "id": "P37-VI-040",
+   "sent": "S014",
+   "text": "không biết",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: họ chưa bao giờ biết có bao nhiêu và loại nào",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp biết (cùng phủ định); bắc cầu xa (TNT §8)"
+  },
+  {
+   "id": "P37-VI-041",
+   "sent": "S014",
+   "text": "nguy hiểm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: Những mảnh nhựa nano đó có gây hại cho sức khỏe không",
+   "conf": "high",
+   "alt": null,
+   "note": "nguy hiểm ≈ gây hại; lần 2 trong câu (TC) không đánh"
+  },
+  {
+   "id": "P37-VI-042",
+   "sent": "S014",
+   "text": "đồng tác giả",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: Tác giả chính của nghiên cứu",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị 'tác giả' (tác giả chính → đồng tác giả, đổi vai)"
+  },
+  {
+   "id": "P37-VI-043",
    "sent": "S014",
    "text": "Rutgers",
    "occ": 1,
@@ -516,7 +616,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-037",
+   "id": "P37-VI-044",
    "sent": "S015",
    "text": "Chúng ta",
    "occ": 1,
@@ -531,7 +631,21 @@
    "ref": "E"
   },
   {
-   "id": "P37-VI-038",
+   "id": "P37-VI-045",
+   "sent": "S015",
+   "text": "biết",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: Chúng tôi không biết",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối biết ↔ không biết ('Chúng ta biết' ↔ 'Chúng tôi không biết')"
+  },
+  {
+   "id": "P37-VI-046",
    "sent": "S015",
    "text": "chúng",
    "occ": 1,
@@ -546,7 +660,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-039",
+   "id": "P37-VI-047",
    "sent": "S015",
    "text": "nghiên cứu hiện tại",
    "occ": 1,
@@ -560,7 +674,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-040",
+   "id": "P37-VI-048",
    "sent": "S015",
    "text": "con người",
    "occ": 1,
@@ -574,7 +688,7 @@
    "note": "bao gồm cả con người"
   },
   {
-   "id": "P37-VI-041",
+   "id": "P37-VI-049",
    "sent": "S016",
    "text": "Nước đóng chai",
    "occ": 1,
@@ -588,7 +702,7 @@
    "note": "tên tổ chức chứa chuỗi"
   },
   {
-   "id": "P37-VI-042",
+   "id": "P37-VI-050",
    "sent": "S016",
    "text": "hạt",
    "occ": 1,
@@ -602,7 +716,7 @@
    "note": "trong 'các hạt nano'"
   },
   {
-   "id": "P37-VI-043",
+   "id": "P37-VI-051",
    "sent": "S016",
    "text": "nano",
    "occ": 1,
@@ -616,7 +730,7 @@
    "note": "trong 'các hạt nano'"
   },
   {
-   "id": "P37-VI-044",
+   "id": "P37-VI-052",
    "sent": "S016",
    "text": "vi nhựa",
    "occ": 1,
@@ -630,7 +744,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-045",
+   "id": "P37-VI-053",
    "sent": "S016",
    "text": "sức khỏe",
    "occ": 1,
@@ -644,7 +758,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-046",
+   "id": "P37-VI-054",
    "sent": "S017",
    "text": "Vì vậy",
    "occ": 1,
@@ -658,7 +772,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-047",
+   "id": "P37-VI-055",
    "sent": "S017",
    "text": "những hạt này",
    "occ": 1,
@@ -673,7 +787,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-048",
+   "id": "P37-VI-056",
    "sent": "S017",
    "text": "nước uống",
    "occ": 1,
@@ -687,7 +801,7 @@
    "note": "nước uống ⊃ nước đóng chai"
   },
   {
-   "id": "P37-VI-049",
+   "id": "P37-VI-057",
    "sent": "S018",
    "text": "nhựa",
    "occ": 1,
@@ -701,7 +815,7 @@
    "note": "các nhà sản xuất nhựa"
   },
   {
-   "id": "P37-VI-050",
+   "id": "P37-VI-058",
    "sent": "S019",
    "text": "thế giới",
    "occ": 1,
@@ -715,7 +829,7 @@
    "note": "occ 1: lần 2 ('trên thế giới') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P37-VI-051",
+   "id": "P37-VI-059",
    "sent": "S019",
    "text": "nhựa",
    "occ": 1,
@@ -729,7 +843,7 @@
    "note": "occ 1: lần 2 ('tấn nhựa') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P37-VI-052",
+   "id": "P37-VI-060",
    "sent": "S019",
    "text": "hạt vi nhựa",
    "occ": 1,
@@ -743,7 +857,7 @@
    "note": "gộp 2 chuỗi hạt + vi nhựa; 'một số trong số đó' trong câu không đánh"
   },
   {
-   "id": "P37-VI-053",
+   "id": "P37-VI-061",
    "sent": "S019",
    "text": "nước uống",
    "occ": 1,
@@ -757,7 +871,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-054",
+   "id": "P37-VI-062",
    "sent": "S020",
    "text": "nhựa",
    "occ": 1,
@@ -771,7 +885,7 @@
    "note": "hiệp ước nhựa toàn cầu"
   },
   {
-   "id": "P37-VI-055",
+   "id": "P37-VI-063",
    "sent": "S021",
    "text": "đồng tác giả",
    "occ": 1,
@@ -785,7 +899,7 @@
    "note": "'họ' trong câu không đánh"
   },
   {
-   "id": "P37-VI-056",
+   "id": "P37-VI-064",
    "sent": "S021",
    "text": "nước đóng chai",
    "occ": 1,
@@ -799,7 +913,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-057",
+   "id": "P37-VI-065",
    "sent": "S021",
    "text": "nghiên cứu",
    "occ": 1,
@@ -813,7 +927,7 @@
    "note": "tiến hành nghiên cứu"
   },
   {
-   "id": "P37-VI-058",
+   "id": "P37-VI-066",
    "sent": "S022",
    "text": "nhà hóa học vật lý ở Columbia",
    "occ": 1,
@@ -827,7 +941,7 @@
    "note": "lặp cả cụm danh hiệu (chỉ Min); 'ông' trong câu không đánh"
   },
   {
-   "id": "P37-VI-059",
+   "id": "P37-VI-067",
    "sent": "S022",
    "text": "công nghệ kính hiển vi laser kép",
    "occ": 1,
@@ -841,7 +955,7 @@
    "note": "lặp kính hiển vi + laser kép; 'công nghệ' từ mới"
   },
   {
-   "id": "P37-VI-060",
+   "id": "P37-VI-068",
    "sent": "S022",
    "text": "nước đóng chai",
    "occ": 1,
@@ -855,7 +969,21 @@
    "note": null
   },
   {
-   "id": "P37-VI-061",
+   "id": "P37-VI-069",
+   "sent": "S022",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: cắt giảm việc sử dụng nước đóng chai",
+   "conf": "high",
+   "alt": null,
+   "note": "giảm một nửa ← cắt giảm"
+  },
+  {
+   "id": "P37-VI-070",
    "sent": "S023",
    "text": "Stapleton",
    "occ": 1,
@@ -869,7 +997,7 @@
    "note": "'bà' trong câu không đánh"
   },
   {
-   "id": "P37-VI-062",
+   "id": "P37-VI-071",
    "sent": "S023",
    "text": "nước lọc",
    "occ": 1,
@@ -883,7 +1011,7 @@
    "note": "bộ lọc → nước lọc; cùng trường nước"
   },
   {
-   "id": "P37-VI-063",
+   "id": "P37-VI-072",
    "sent": "S024",
    "text": "Nhưng",
    "occ": 1,
@@ -897,7 +1025,7 @@
    "note": "nối liên câu"
   },
   {
-   "id": "P37-VI-064",
+   "id": "P37-VI-073",
    "sent": "S024",
    "text": "đồng tác giả nghiên cứu",
    "occ": 1,
@@ -911,7 +1039,7 @@
    "note": "gộp chuỗi đồng tác giả + nghiên cứu"
   },
   {
-   "id": "P37-VI-065",
+   "id": "P37-VI-074",
    "sent": "S024",
    "text": "một nhà hóa học môi trường ở Columbia",
    "occ": 1,
@@ -925,7 +1053,21 @@
    "note": "kết chuỗi nhà hóa học + Columbia"
   },
   {
-   "id": "P37-VI-066",
+   "id": "P37-VI-075",
+   "sent": "S024",
+   "text": "tăng cường",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: giảm một nửa lượng nước đóng chai",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối tăng cường ↔ giảm (tăng cường sử dụng nước máy)"
+  },
+  {
+   "id": "P37-VI-076",
    "sent": "S024",
    "text": "bộ lọc",
    "occ": 1,
@@ -939,7 +1081,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-067",
+   "id": "P37-VI-077",
    "sent": "S024",
    "text": "nhựa",
    "occ": 1,
@@ -953,7 +1095,7 @@
    "note": "VI đổi 'introducing plastics' thành 'sử dụng nhựa'"
   },
   {
-   "id": "P37-VI-068",
+   "id": "P37-VI-078",
    "sent": "S025",
    "text": "nghiên cứu này",
    "occ": 1,
@@ -968,7 +1110,21 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-069",
+   "id": "P37-VI-079",
+   "sent": "S025",
+   "text": "nguy hiểm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: có nguy hiểm hay nguy hiểm đến mức nào",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nguy hiểm (mối nguy hiểm của các hạt nhựa mịn)"
+  },
+  {
+   "id": "P37-VI-080",
    "sent": "S025",
    "text": "các hạt nhựa mịn",
    "occ": 1,
@@ -982,7 +1138,7 @@
    "note": "kết chuỗi hạt + nhựa; 'mịn' từ mới; 'nhưng còn quá sớm' trong câu, không đánh"
   },
   {
-   "id": "P37-VI-070",
+   "id": "P37-VI-081",
    "sent": "S026",
    "text": "nguy hiểm",
    "occ": 1,
@@ -990,13 +1146,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S014: có nguy hiểm hay nguy hiểm đến mức nào",
+   "ante": "S025: mối nguy hiểm của các hạt nhựa mịn",
    "conf": "high",
    "alt": null,
    "note": "sự nguy hiểm; câu quote bị tách như EN, ghi §8"
   },
   {
-   "id": "P37-VI-071",
+   "id": "P37-VI-082",
    "sent": "S026",
    "text": "nhựa",
    "occ": 1,
@@ -1010,7 +1166,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-072",
+   "id": "P37-VI-083",
    "sent": "S026",
    "text": "câu hỏi",
    "occ": 1,
@@ -1021,10 +1177,24 @@
    "ante": "S012: câu hỏi lớn",
    "conf": "high",
    "alt": null,
-   "note": "'chưa có lời đáp' bổ nghĩa mới"
+   "note": "'chưa có lời đáp' có hàng [Phase-2] riêng ← S012 trả lời"
   },
   {
-   "id": "P37-VI-073",
+   "id": "P37-VI-084",
+   "sent": "S026",
+   "text": "lời đáp",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: vẫn chưa thể trả lời câu hỏi lớn",
+   "conf": "med",
+   "alt": null,
+   "note": "lời đáp ≈ trả lời ('chưa có lời đáp')"
+  },
+  {
+   "id": "P37-VI-085",
    "sent": "S027",
    "text": "nghiên cứu",
    "occ": 1,
@@ -1038,7 +1208,21 @@
    "note": "người không tham gia nghiên cứu; 'tôi' hư chỉ trong quote"
   },
   {
-   "id": "P37-VI-074",
+   "id": "P37-VI-086",
+   "sent": "S027",
+   "text": "lo ngại",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: có sự lo ngại chung",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp lo ngại (điều đáng lo ngại nhất)"
+  },
+  {
+   "id": "P37-VI-087",
    "sent": "S028",
    "text": "Chúng tôi",
    "occ": 1,
@@ -1053,7 +1237,7 @@
    "ref": "E"
   },
   {
-   "id": "P37-VI-075",
+   "id": "P37-VI-088",
    "sent": "S028",
    "text": "những loại nhựa nano này",
    "occ": 1,
@@ -1068,7 +1252,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-076",
+   "id": "P37-VI-089",
    "sent": "S028",
    "text": "tế bào",
    "occ": 1,
@@ -1082,7 +1266,7 @@
    "note": "occ 1: lần 2, 3 ('cho tế bào', 'của tế bào') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P37-VI-077",
+   "id": "P37-VI-090",
    "sent": "S028",
    "text": "phụ gia hóa học",
    "occ": 1,
@@ -1096,7 +1280,21 @@
    "note": null
   },
   {
-   "id": "P37-VI-078",
+   "id": "P37-VI-091",
+   "sent": "S028",
+   "text": "chỉ ra",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: đã chỉ ra rằng bản thân các bộ lọc",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp 'đã chỉ ra' (We and others have shown); EN đổi động từ"
+  },
+  {
+   "id": "P37-VI-092",
    "sent": "S029",
    "text": "Somarelli",
    "occ": 1,
@@ -1110,7 +1308,7 @@
    "note": "'của ông' trong câu không đánh"
   },
   {
-   "id": "P37-VI-079",
+   "id": "P37-VI-093",
    "sent": "S029",
    "text": "công trình nghiên cứu",
    "occ": 1,
@@ -1124,7 +1322,7 @@
    "note": "VI tự sinh lặp chuỗi 'nghiên cứu'; EN 'his own work' không có"
   },
   {
-   "id": "P37-VI-080",
+   "id": "P37-VI-094",
    "sent": "S029",
    "text": "hóa chất",
    "occ": 1,
@@ -1138,7 +1336,21 @@
    "note": "hóa chất gây ung thư"
   },
   {
-   "id": "P37-VI-081",
+   "id": "P37-VI-095",
+   "sent": "S029",
+   "text": "ung thư",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S027: giám đốc nhóm ung thư đối chiếu",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp ung thư (hóa chất gây ung thư ← chức danh Somarelli)"
+  },
+  {
+   "id": "P37-VI-096",
    "sent": "S029",
    "text": "những loại nhựa này",
    "occ": 1,
@@ -1153,7 +1365,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-082",
+   "id": "P37-VI-097",
    "sent": "S030",
    "text": "các hạt nhỏ",
    "occ": 1,
@@ -1167,7 +1379,21 @@
    "note": "lặp 'hạt'; 'nhỏ' tiếp trường kích thước; 'chúng' trong câu không đánh"
   },
   {
-   "id": "P37-VI-083",
+   "id": "P37-VI-098",
+   "sent": "S030",
+   "text": "lo ngại",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S027: điều đáng lo ngại nhất",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp lo ngại (Điều đáng lo ngại)"
+  },
+  {
+   "id": "P37-VI-099",
    "sent": "S031",
    "text": "Diana",
    "occ": 1,
@@ -1181,7 +1407,21 @@
    "note": null
   },
   {
-   "id": "P37-VI-084",
+   "id": "P37-VI-100",
+   "sent": "S031",
+   "text": "tham gia",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S027: người không tham gia nghiên cứu",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp 'không tham gia nghiên cứu' (công thức dẫn nguồn)"
+  },
+  {
+   "id": "P37-VI-101",
    "sent": "S031",
    "text": "nghiên cứu",
    "occ": 1,
@@ -1195,7 +1435,7 @@
    "note": "occ 1: lần 2 nằm trong 'các nhà nghiên cứu' (hàng riêng), lần 3 ('nghiên cứu về nhựa' = lĩnh vực) không đánh"
   },
   {
-   "id": "P37-VI-085",
+   "id": "P37-VI-102",
    "sent": "S031",
    "text": "các nhà nghiên cứu",
    "occ": 1,
@@ -1203,13 +1443,13 @@
    "sub": "repetition",
    "dir": "ana",
    "level": "LC",
-   "ante": "S021: các nhà nghiên cứu",
+   "ante": "S012: Các nhà nghiên cứu",
    "conf": "high",
    "alt": null,
    "note": "công cụ mới mà các nhà nghiên cứu sử dụng"
   },
   {
-   "id": "P37-VI-086",
+   "id": "P37-VI-103",
    "sent": "S031",
    "text": "công cụ mới",
    "occ": 1,
@@ -1224,7 +1464,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-087",
+   "id": "P37-VI-104",
    "sent": "S031",
    "text": "nhựa",
    "occ": 1,
@@ -1238,7 +1478,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-088",
+   "id": "P37-VI-105",
    "sent": "S032",
    "text": "Min",
    "occ": 1,
@@ -1252,7 +1492,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-089",
+   "id": "P37-VI-106",
    "sent": "S032",
    "text": "công nghệ kính hiển vi laser kép",
    "occ": 1,
@@ -1266,7 +1506,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-090",
+   "id": "P37-VI-107",
    "sent": "S032",
    "text": "tia laser",
    "occ": 1,
@@ -1280,7 +1520,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-091",
+   "id": "P37-VI-108",
    "sent": "S032",
    "text": "tính chất hóa học",
    "occ": 1,
@@ -1294,7 +1534,7 @@
    "note": "cùng gốc 'hóa'"
   },
   {
-   "id": "P37-VI-092",
+   "id": "P37-VI-109",
    "sent": "S033",
    "text": "Yan",
    "occ": 1,
@@ -1308,7 +1548,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-093",
+   "id": "P37-VI-110",
    "sent": "S033",
    "text": "Qian",
    "occ": 1,
@@ -1322,7 +1562,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-094",
+   "id": "P37-VI-111",
    "sent": "S033",
    "text": "ông Min",
    "occ": 1,
@@ -1336,7 +1576,7 @@
    "note": "VI hiện thực hóa đại từ EN 'him' thành danh ngữ — dịch chuyển"
   },
   {
-   "id": "P37-VI-095",
+   "id": "P37-VI-112",
    "sent": "S033",
    "text": "kỹ thuật đó",
    "occ": 1,
@@ -1351,7 +1591,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-096",
+   "id": "P37-VI-113",
    "sent": "S033",
    "text": "nhựa",
    "occ": 1,
@@ -1365,7 +1605,21 @@
    "note": "các loại nhựa quá nhỏ"
   },
   {
-   "id": "P37-VI-097",
+   "id": "P37-VI-114",
+   "sent": "S033",
+   "text": "xác định",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S032: giúp xác định các hợp chất cụ thể",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp xác định (để tìm và xác định các loại nhựa)"
+  },
+  {
+   "id": "P37-VI-115",
    "sent": "S033",
    "text": "các nhà nghiên cứu",
    "occ": 1,
@@ -1379,7 +1633,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-098",
+   "id": "P37-VI-116",
    "sent": "S033",
    "text": "phương pháp đã được thiết lập",
    "occ": 1,
@@ -1393,7 +1647,7 @@
    "note": "lặp 'phương pháp'"
   },
   {
-   "id": "P37-VI-099",
+   "id": "P37-VI-117",
    "sent": "S034",
    "text": "công trình này",
    "occ": 1,
@@ -1408,7 +1662,7 @@
    "ref": "A"
   },
   {
-   "id": "P37-VI-100",
+   "id": "P37-VI-118",
    "sent": "S034",
    "text": "phát hiện",
    "occ": 1,
@@ -1422,7 +1676,7 @@
    "note": "việc phát hiện nhựa nano"
   },
   {
-   "id": "P37-VI-101",
+   "id": "P37-VI-119",
    "sent": "S034",
    "text": "nhựa nano",
    "occ": 1,
@@ -1436,7 +1690,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-102",
+   "id": "P37-VI-120",
    "sent": "S034",
    "text": "kỹ thuật",
    "occ": 1,
@@ -1450,7 +1704,50 @@
    "note": "nhân rộng kỹ thuật"
   },
   {
-   "id": "P37-VI-103",
+   "id": "P37-VI-121",
+   "sent": "S034",
+   "text": "tiến bộ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S031: một bước phát triển thú vị",
+   "conf": "high",
+   "alt": null,
+   "note": "tiến bộ ≈ phát triển (một tiến bộ quan trọng)"
+  },
+  {
+   "id": "P37-VI-122",
+   "sent": "S034",
+   "text": "kết quả",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S003: các nhà nghiên cứu nhận thấy mức độ hạt dao động",
+   "conf": "med",
+   "alt": null,
+   "note": "kết quả = kết quả nghiên cứu (mức độ hạt) đã báo ở S003; VI định danh bằng ngữ cảnh"
+  },
+  {
+   "id": "P37-VI-123",
+   "sent": "S034",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: một nhà hóa học môi trường ở Columbia (các nhà hóa học của nghiên cứu)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] khác = nhà hóa học khác với nhóm của nghiên cứu; H&H §2.5 other",
+   "ref": "A"
+  },
+  {
+   "id": "P37-VI-124",
    "sent": "S034",
    "text": "nhà hóa học",
    "occ": 1,
@@ -1464,7 +1761,7 @@
    "note": "các nhà hóa học phân tích"
   },
   {
-   "id": "P37-VI-104",
+   "id": "P37-VI-125",
    "sent": "S035",
    "text": "Yan",
    "occ": 1,
@@ -1478,7 +1775,7 @@
    "note": "'ông…của họ' trong câu không đánh"
   },
   {
-   "id": "P37-VI-105",
+   "id": "P37-VI-126",
    "sent": "S035",
    "text": "nghiên cứu",
    "occ": 1,
@@ -1492,7 +1789,36 @@
    "note": "danh từ → động từ; 'nguồn cung cấp nước' trường nước quá rộng, không đánh"
   },
   {
-   "id": "P37-VI-106",
+   "id": "P37-VI-127",
+   "sent": "S035",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: nước đóng chai (của nghiên cứu)",
+   "conf": "low",
+   "alt": null,
+   "note": "[LC] 'nguồn cung cấp nước khác' = khác với nước đóng chai đã nghiên cứu; H&H §2.5; 'những nơi khác' (occ 2) trong câu → [TC]",
+   "ref": "A"
+  },
+  {
+   "id": "P37-VI-128",
+   "sent": "S035",
+   "text": "nhựa",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: các loại nhựa quá nhỏ",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nhựa (có bao nhiêu nhựa trong nước máy)"
+  },
+  {
+   "id": "P37-VI-129",
    "sent": "S035",
    "text": "nước máy",
    "occ": 1,
@@ -1506,7 +1832,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-107",
+   "id": "P37-VI-130",
    "sent": "S036",
    "text": "Các nghiên cứu trước đây",
    "occ": 1,
@@ -1520,7 +1846,7 @@
    "note": "lặp nguyên cụm mở đầu"
   },
   {
-   "id": "P37-VI-108",
+   "id": "P37-VI-131",
    "sent": "S036",
    "text": "hạt vi nhựa",
    "occ": 1,
@@ -1534,7 +1860,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-109",
+   "id": "P37-VI-132",
    "sent": "S036",
    "text": "nhựa nano",
    "occ": 1,
@@ -1548,7 +1874,7 @@
    "note": null
   },
   {
-   "id": "P37-VI-110",
+   "id": "P37-VI-133",
    "sent": "S036",
    "text": "nước máy",
    "occ": 1,
@@ -1562,7 +1888,21 @@
    "note": "EN có E 'than bottled [∅ water]' nhưng VI lấp đầy 'nước đóng chai' nên không có E phía VI"
   },
   {
-   "id": "P37-VI-111",
+   "id": "P37-VI-134",
+   "sent": "S036",
+   "text": "nước đóng chai",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: giảm một nửa lượng nước đóng chai sử dụng",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nước đóng chai (vế lấp tỉnh lược EN)"
+  },
+  {
+   "id": "P37-VI-135",
    "sent": "S037",
    "text": "sức khỏe con người",
    "occ": 1,
@@ -1576,7 +1916,21 @@
    "note": "lặp 'sức khỏe'; 'con người' tiếp chuỗi (S015)"
   },
   {
-   "id": "P37-VI-112",
+   "id": "P37-VI-136",
+   "sent": "S037",
+   "text": "lo lắng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S030: Điều đáng lo ngại",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị 'lo' (những người đang lo lắng)"
+  },
+  {
+   "id": "P37-VI-137",
    "sent": "S037",
    "text": "Yan",
    "occ": 1,
@@ -1590,7 +1944,7 @@
    "note": "'ông' trong câu không đánh"
   },
   {
-   "id": "P37-VI-113",
+   "id": "P37-VI-138",
    "sent": "S037",
    "text": "chai có thể tái sử dụng",
    "occ": 1,
@@ -1604,7 +1958,7 @@
    "note": "hình vị 'chai'"
   },
   {
-   "id": "P37-VI-114",
+   "id": "P37-VI-139",
    "sent": "S037",
    "text": "đồ nhựa dùng một lần",
    "occ": 1,
