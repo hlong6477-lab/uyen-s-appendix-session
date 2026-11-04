@@ -56,6 +56,14 @@ Mỗi nhóm: nguồn lý thuyết + ví dụ P21 + điều kiện nhận [LC].
 10. **Đối chiếu NTT (2020) §5**: mỗi dịch chuyển EN↔VI tìm được (pronoun↔
     repetition, the↔zero/demonstrative, pro-form↔hiện thực hóa, nối rơi/
     tự sinh) → ghi §7 với tên loại dịch chuyển.
+11. **Nối liên câu sót ngoài connector quen thuộc** (bài học P22/P28):
+    `For example,/Ví dụ,` đầu câu (additive-exemplification H&H §5.4),
+    `though` CUỐI câu (adversative H&H §5.5), `In fact,/Trên thực tế,`
+    (continuative H&H §5.8 — CHUẨN sub, đã đồng bộ P21/P22/P24/P28) → C
+    hàng mới nếu liên câu.
+12. **Rà chuỗi ngược "ante không có hàng"** (bài học P28): mắt xích được
+    CITE làm tiền trạm ở câu sau nhưng chính nó không có hàng → thêm hàng
+    cho mắt xích đó (một dấu cho mỗi chuỗi trong mỗi câu).
 
 ## 2. Quy tắc cứng (không vi phạm)
 
