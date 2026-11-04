@@ -114,8 +114,8 @@
    "level": "LC",
    "ante": "S003: Ash (tên riêng)",
    "conf": "high",
-   "alt": null,
-   "note": "danh từ mô tả lại Ash, không lặp tên"
+   "alt": "R: the",
+   "note": "danh từ mô tả lại Ash, không lặp tên; the định danh lại (mapping §3.6)"
   },
   {
    "id": "P27-EN-009",
@@ -293,6 +293,20 @@
   },
   {
    "id": "P27-EN-021",
+   "sent": "S011",
+   "text": "lunchtime",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: her lunch break",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị lunch (lunch break → lunchtime); VI S009 giờ nghỉ đối xứng"
+  },
+  {
+   "id": "P27-EN-022",
    "sent": "S012",
    "text": "She",
    "occ": 1,
@@ -307,7 +321,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-022",
+   "id": "P27-EN-023",
    "sent": "S012",
    "text": "meetings",
    "occ": 1,
@@ -321,7 +335,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-023",
+   "id": "P27-EN-024",
    "sent": "S013",
    "text": "She",
    "occ": 1,
@@ -336,7 +350,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-024",
+   "id": "P27-EN-025",
    "sent": "S014",
    "text": "she",
    "occ": 1,
@@ -351,7 +365,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-025",
+   "id": "P27-EN-026",
    "sent": "S015",
    "text": "I",
    "occ": 1,
@@ -366,7 +380,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-026",
+   "id": "P27-EN-027",
    "sent": "S015",
    "text": "Ash said",
    "occ": 1,
@@ -380,7 +394,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-027",
+   "id": "P27-EN-028",
+   "sent": "S015",
+   "text": "sleep",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: falling asleep for three hours",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp sleep/asleep (would not sleep ← falling asleep); VI ngủ đối xứng"
+  },
+  {
+   "id": "P27-EN-029",
    "sent": "S016",
    "text": "meeting clashes",
    "occ": 1,
@@ -394,7 +422,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-028",
+   "id": "P27-EN-030",
    "sent": "S017",
    "text": "I",
    "occ": 1,
@@ -409,7 +437,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-029",
+   "id": "P27-EN-031",
+   "sent": "S017",
+   "text": "kids",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: their children",
+   "conf": "high",
+   "alt": null,
+   "note": "children → kids (đồng nghĩa); VI S014 con cái ← S011 các con"
+  },
+  {
+   "id": "P27-EN-032",
    "sent": "S018",
    "text": "Ash",
    "occ": 1,
@@ -423,7 +465,7 @@
    "note": "'Ash said she was switching' — she trong câu"
   },
   {
-   "id": "P27-EN-030",
+   "id": "P27-EN-033",
    "sent": "S019",
    "text": "the tech [jobs]",
    "occ": 1,
@@ -437,7 +479,7 @@
    "note": "nguồn chèn ngoặc vuông '[jobs]'"
   },
   {
-   "id": "P27-EN-031",
+   "id": "P27-EN-034",
    "sent": "S019",
    "text": "you",
    "occ": 1,
@@ -452,7 +494,22 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-032",
+   "id": "P27-EN-035",
+   "sent": "S020",
+   "text": "It's",
+   "occ": 1,
+   "cat": "R",
+   "sub": "personal",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: the tech [jobs] ticket-based",
+   "conf": "med",
+   "alt": null,
+   "note": "extended reference: It = việc công nghệ theo ticket câu trước (H&H §2.3.3); VI S018 lược chủ ngữ",
+   "ref": "A"
+  },
+  {
+   "id": "P27-EN-036",
    "sent": "S020",
    "text": "customer service role",
    "occ": 1,
@@ -466,7 +523,7 @@
    "note": "trường nghĩa 'role'"
   },
   {
-   "id": "P27-EN-033",
+   "id": "P27-EN-037",
    "sent": "S020",
    "text": "you're",
    "occ": 1,
@@ -481,7 +538,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-034",
+   "id": "P27-EN-038",
    "sent": "S020",
    "text": "she said",
    "occ": 1,
@@ -496,7 +553,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-035",
+   "id": "P27-EN-039",
    "sent": "S021",
    "text": "I",
    "occ": 1,
@@ -511,7 +568,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-036",
+   "id": "P27-EN-040",
    "sent": "S022",
    "text": "Ash says",
    "occ": 1,
@@ -525,7 +582,7 @@
    "note": "'It can be' là it hư chỉ (không đánh)"
   },
   {
-   "id": "P27-EN-037",
+   "id": "P27-EN-041",
    "sent": "S023",
    "text": "The Feed",
    "occ": 1,
@@ -539,7 +596,22 @@
    "note": "tiền trạm ở câu bị cắt phía VI"
   },
   {
-   "id": "P27-EN-038",
+   "id": "P27-EN-042",
+   "sent": "S023",
+   "text": "this time",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: during her busiest year",
+   "conf": "med",
+   "alt": null,
+   "note": "chỉ từ + thời gian trỏ năm bận rộn nhất câu trước; VI lược",
+   "ref": "A"
+  },
+  {
+   "id": "P27-EN-043",
    "sent": "S024",
    "text": "Ash",
    "occ": 1,
@@ -553,7 +625,7 @@
    "note": "'Ash's schedule'"
   },
   {
-   "id": "P27-EN-039",
+   "id": "P27-EN-044",
    "sent": "S025",
    "text": "She",
    "occ": 1,
@@ -568,7 +640,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-040",
+   "id": "P27-EN-045",
    "sent": "S025",
    "text": "two full-time jobs",
    "occ": 1,
@@ -582,7 +654,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-041",
+   "id": "P27-EN-046",
    "sent": "S026",
    "text": "I",
    "occ": 1,
@@ -597,7 +669,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-042",
+   "id": "P27-EN-047",
    "sent": "S026",
    "text": "doing this",
    "occ": 1,
@@ -612,7 +684,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-043",
+   "id": "P27-EN-048",
+   "sent": "S026",
+   "text": "the kids",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: kids",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp kids (the kids through school); VI S025 con đối xứng"
+  },
+  {
+   "id": "P27-EN-049",
    "sent": "S027",
    "text": "She",
    "occ": 1,
@@ -627,7 +713,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-044",
+   "id": "P27-EN-050",
    "sent": "S028",
    "text": "Ash",
    "occ": 1,
@@ -641,7 +727,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-045",
+   "id": "P27-EN-051",
    "sent": "S028",
    "text": "their incomes",
    "occ": 1,
@@ -655,7 +741,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-046",
+   "id": "P27-EN-052",
    "sent": "S031",
    "text": "multiple full-time jobs",
    "occ": 1,
@@ -669,7 +755,21 @@
    "note": "'secretly holding…'"
   },
   {
-   "id": "P27-EN-047",
+   "id": "P27-EN-053",
+   "sent": "S031",
+   "text": "the practice",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: holding down multiple full-time jobs / S029: flying under the radar",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát + the định danh lại hiện tượng (H&H §6.1); VI hiện thực hóa, không có hàng"
+  },
+  {
+   "id": "P27-EN-054",
    "sent": "S032",
    "text": "Its",
    "occ": 1,
@@ -684,7 +784,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-048",
+   "id": "P27-EN-055",
    "sent": "S033",
    "text": "Members",
    "occ": 1,
@@ -698,7 +798,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-049",
+   "id": "P27-EN-056",
    "sent": "S033",
    "text": "this community",
    "occ": 1,
@@ -713,7 +813,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-050",
+   "id": "P27-EN-057",
    "sent": "S033",
    "text": "overemployed",
    "occ": 1,
@@ -727,7 +827,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-051",
+   "id": "P27-EN-058",
    "sent": "S034",
    "text": "It's",
    "occ": 1,
@@ -742,7 +842,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-052",
+   "id": "P27-EN-059",
    "sent": "S034",
    "text": "roles",
    "occ": 1,
@@ -756,7 +856,7 @@
    "note": "trường nghĩa việc làm"
   },
   {
-   "id": "P27-EN-053",
+   "id": "P27-EN-060",
    "sent": "S034",
    "text": "after hours",
    "occ": 1,
@@ -770,7 +870,7 @@
    "note": "chuỗi giờ làm"
   },
   {
-   "id": "P27-EN-054",
+   "id": "P27-EN-061",
    "sent": "S035",
    "text": "Members",
    "occ": 1,
@@ -784,7 +884,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-055",
+   "id": "P27-EN-062",
    "sent": "S035",
    "text": "Australians",
    "occ": 1,
@@ -798,7 +898,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-056",
+   "id": "P27-EN-063",
    "sent": "S036",
    "text": "They",
    "occ": 1,
@@ -813,7 +913,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-057",
+   "id": "P27-EN-064",
    "sent": "S036",
    "text": "also",
    "occ": 1,
@@ -827,7 +927,7 @@
    "note": "VI S033 gộp — 'và cả' trong câu"
   },
   {
-   "id": "P27-EN-058",
+   "id": "P27-EN-065",
    "sent": "S036",
    "text": "employers",
    "occ": 1,
@@ -841,7 +941,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-059",
+   "id": "P27-EN-066",
+   "sent": "S036",
+   "text": "caught on",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S035: tips to avoid getting caught",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp catch (caught on ← getting caught); VI gộp trong câu S033 nên [TC]"
+  },
+  {
+   "id": "P27-EN-067",
    "sent": "S037",
    "text": "Those",
    "occ": 1,
@@ -855,7 +969,7 @@
    "note": "[LC] Those ← Members; VI hiện thực hóa 'Những người'"
   },
   {
-   "id": "P27-EN-060",
+   "id": "P27-EN-068",
    "sent": "S037",
    "text": "The Feed",
    "occ": 1,
@@ -869,7 +983,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-061",
+   "id": "P27-EN-069",
    "sent": "S037",
    "text": "employers",
    "occ": 1,
@@ -883,7 +997,35 @@
    "note": "'employers past and present'"
   },
   {
-   "id": "P27-EN-062",
+   "id": "P27-EN-070",
+   "sent": "S037",
+   "text": "blowback",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S029: No matter the risks",
+   "conf": "med",
+   "alt": null,
+   "note": "blowback ≈ risks: hậu quả trừng phạt = rủi ro đã nêu (H&H §6.2); VI chuỗi rủi ro → nguy cơ riêng"
+  },
+  {
+   "id": "P27-EN-071",
+   "sent": "S038",
+   "text": "The threat",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S037: potential blowback",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "the + rename: mối đe dọa trừng phạt câu trước (H&H §6.1); VI S035 Nguy cơ đối xứng, the ↔ zero"
+  },
+  {
+   "id": "P27-EN-072",
    "sent": "S038",
    "text": "retaliation",
    "occ": 1,
@@ -897,7 +1039,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-063",
+   "id": "P27-EN-073",
    "sent": "S038",
    "text": "employers",
    "occ": 1,
@@ -911,7 +1053,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-064",
+   "id": "P27-EN-074",
    "sent": "S039",
    "text": "fired",
    "occ": 1,
@@ -925,7 +1067,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-065",
+   "id": "P27-EN-075",
+   "sent": "S039",
+   "text": "exposed",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S036: after their employers caught on",
+   "conf": "med",
+   "alt": null,
+   "note": "exposed ≈ bị phát hiện/phơi bày (publicly exposed); VI 'tố cáo' đổi trường từ vựng"
+  },
+  {
+   "id": "P27-EN-076",
    "sent": "S040",
    "text": "One Australian",
    "occ": 1,
@@ -939,7 +1095,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-066",
+   "id": "P27-EN-077",
    "sent": "S040",
    "text": "income",
    "occ": 1,
@@ -953,7 +1109,7 @@
    "note": "'doubled their income'"
   },
   {
-   "id": "P27-EN-067",
+   "id": "P27-EN-078",
    "sent": "S040",
    "text": "four full-time jobs",
    "occ": 1,
@@ -967,7 +1123,7 @@
    "note": "'juggling four full-time jobs'"
   },
   {
-   "id": "P27-EN-068",
+   "id": "P27-EN-079",
    "sent": "S041",
    "text": "them",
    "occ": 1,
@@ -982,7 +1138,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-069",
+   "id": "P27-EN-080",
+   "sent": "S041",
+   "text": "extra money",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: 'f--- you' money",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp money; tiền trạm ở câu cắt phía VI; VI 'có thêm tiền' lần đầu"
+  },
+  {
+   "id": "P27-EN-081",
    "sent": "S042",
    "text": "I",
    "occ": 1,
@@ -997,7 +1167,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-070",
+   "id": "P27-EN-082",
    "sent": "S043",
    "text": "This",
    "occ": 1,
@@ -1012,7 +1182,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-071",
+   "id": "P27-EN-083",
    "sent": "S043",
    "text": "you",
    "occ": 1,
@@ -1027,7 +1197,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-072",
+   "id": "P27-EN-084",
    "sent": "S043",
    "text": "caught and fired",
    "occ": 1,
@@ -1041,7 +1211,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-073",
+   "id": "P27-EN-085",
    "sent": "S043",
    "text": "they told",
    "occ": 1,
@@ -1056,7 +1226,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-074",
+   "id": "P27-EN-086",
    "sent": "S044",
    "text": "The CEOs",
    "occ": 1,
@@ -1070,7 +1240,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-075",
+   "id": "P27-EN-087",
    "sent": "S044",
    "text": "multiple jobs",
    "occ": 1,
@@ -1084,7 +1254,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-076",
+   "id": "P27-EN-088",
    "sent": "S044",
    "text": "we",
    "occ": 1,
@@ -1099,7 +1269,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-077",
+   "id": "P27-EN-089",
    "sent": "S044",
    "text": "the rules",
    "occ": 1,
@@ -1113,7 +1283,7 @@
    "note": "tiền trạm ở câu bị cắt phía VI"
   },
   {
-   "id": "P27-EN-078",
+   "id": "P27-EN-090",
    "sent": "S045",
    "text": "employers",
    "occ": 1,
@@ -1127,7 +1297,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-079",
+   "id": "P27-EN-091",
    "sent": "S045",
    "text": "full-time employees",
    "occ": 1,
@@ -1141,7 +1311,21 @@
    "note": "chuỗi 'full-time'"
   },
   {
-   "id": "P27-EN-080",
+   "id": "P27-EN-092",
+   "sent": "S045",
+   "text": "one company",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: bending the company rules",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp company; tiền trạm ở câu cắt phía VI; VI S041 một công ty đối xứng"
+  },
+  {
+   "id": "P27-EN-093",
    "sent": "S046",
    "text": "They're",
    "occ": 1,
@@ -1156,7 +1340,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-081",
+   "id": "P27-EN-094",
    "sent": "S046",
    "text": "employees",
    "occ": 1,
@@ -1170,7 +1354,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-082",
+   "id": "P27-EN-095",
    "sent": "S046",
    "text": "other jobs",
    "occ": 1,
@@ -1184,7 +1368,7 @@
    "note": "'doing other jobs'"
   },
   {
-   "id": "P27-EN-083",
+   "id": "P27-EN-096",
    "sent": "S046",
    "text": "he said",
    "occ": 1,
@@ -1199,7 +1383,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-084",
+   "id": "P27-EN-097",
+   "sent": "S046",
+   "text": "first job",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: her first job",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp first job; khác referent — lặp hình thức (H&H §6.2); VI công việc chính đối xứng"
+  },
+  {
+   "id": "P27-EN-098",
    "sent": "S047",
    "text": "Jess",
    "occ": 1,
@@ -1213,7 +1411,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-085",
+   "id": "P27-EN-099",
+   "sent": "S047",
+   "text": "a single company",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S045: one company",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp company + phép đối single↔multiple (TNT §30)"
+  },
+  {
+   "id": "P27-EN-100",
    "sent": "S048",
    "text": "meetings",
    "occ": 1,
@@ -1227,7 +1439,7 @@
    "note": "'like going to meetings'"
   },
   {
-   "id": "P27-EN-086",
+   "id": "P27-EN-101",
    "sent": "S048",
    "text": "Jess said",
    "occ": 1,
@@ -1241,7 +1453,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-087",
+   "id": "P27-EN-102",
+   "sent": "S048",
+   "text": "white-collar jobs",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S046: other jobs",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp jobs trong chuỗi trục chủ đề; VI đổi sang chuỗi nhân viên"
+  },
+  {
+   "id": "P27-EN-103",
    "sent": "S049",
    "text": "you",
    "occ": 1,
@@ -1256,7 +1482,21 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-088",
+   "id": "P27-EN-104",
+   "sent": "S049",
+   "text": "the work",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S042: producing good work",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp danh từ work (good work → the work); VI S045 hoàn thành công việc đối xứng"
+  },
+  {
+   "id": "P27-EN-105",
    "sent": "S049",
    "text": "the 40 hours",
    "occ": 1,
@@ -1270,7 +1510,7 @@
    "note": "chuỗi giờ chuẩn"
   },
   {
-   "id": "P27-EN-089",
+   "id": "P27-EN-106",
    "sent": "S049",
    "text": "productivity",
    "occ": 1,
@@ -1284,7 +1524,7 @@
    "note": "'level of productivity'; 'the same' so sánh trong câu"
   },
   {
-   "id": "P27-EN-090",
+   "id": "P27-EN-107",
    "sent": "S049",
    "text": "we",
    "occ": 1,
@@ -1299,7 +1539,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-091",
+   "id": "P27-EN-108",
    "sent": "S049",
    "text": "do so",
    "occ": 1,
@@ -1313,7 +1553,7 @@
    "note": "[TC] pro-form thế động từ — đối xứng VI 'làm vậy'"
   },
   {
-   "id": "P27-EN-092",
+   "id": "P27-EN-109",
    "sent": "S050",
    "text": "However",
    "occ": 1,
@@ -1327,7 +1567,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-093",
+   "id": "P27-EN-110",
    "sent": "S050",
    "text": "Jess",
    "occ": 1,
@@ -1341,7 +1581,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-094",
+   "id": "P27-EN-111",
    "sent": "S050",
    "text": "multi-tasking",
    "occ": 1,
@@ -1355,7 +1595,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-095",
+   "id": "P27-EN-112",
    "sent": "S051",
    "text": "I",
    "occ": 1,
@@ -1370,7 +1610,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-096",
+   "id": "P27-EN-113",
    "sent": "S051",
    "text": "the two meetings",
    "occ": 1,
@@ -1384,7 +1624,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-097",
+   "id": "P27-EN-114",
    "sent": "S051",
    "text": "you've",
    "occ": 1,
@@ -1399,7 +1639,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-098",
+   "id": "P27-EN-115",
    "sent": "S053",
    "text": "juggling full-time office jobs",
    "occ": 1,
@@ -1413,7 +1653,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-099",
+   "id": "P27-EN-116",
    "sent": "S053",
    "text": "having multiple jobs",
    "occ": 1,
@@ -1427,7 +1667,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-100",
+   "id": "P27-EN-117",
    "sent": "S054",
    "text": "multiple jobs",
    "occ": 1,
@@ -1441,7 +1681,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-101",
+   "id": "P27-EN-118",
    "sent": "S055",
    "text": "This rate",
    "occ": 1,
@@ -1456,21 +1696,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-102",
+   "id": "P27-EN-119",
    "sent": "S056",
    "text": "Meanwhile",
    "occ": 1,
    "cat": "C",
-   "sub": "additive",
+   "sub": "temporal",
    "dir": "ana",
    "level": "LC",
    "ante": "S054–S055: số liệu multi-job",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "H&H §5.7: meanwhile = nối thời gian đồng thời (điều chỉnh sub từ additive)"
   },
   {
-   "id": "P27-EN-103",
+   "id": "P27-EN-120",
    "sent": "S057",
    "text": "The Reddit community",
    "occ": 1,
@@ -1484,7 +1724,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-104",
+   "id": "P27-EN-121",
    "sent": "S057",
    "text": "overemployment",
    "occ": 1,
@@ -1498,7 +1738,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-105",
+   "id": "P27-EN-122",
    "sent": "S058",
    "text": "Wooden said",
    "occ": 1,
@@ -1512,7 +1752,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-106",
+   "id": "P27-EN-123",
    "sent": "S058",
    "text": "overemployment",
    "occ": 1,
@@ -1526,7 +1766,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-107",
+   "id": "P27-EN-124",
+   "sent": "S058",
+   "text": "working more hours",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S049: the 40 hours",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hours (thành viên chuỗi giờ); VI S054 nhiều giờ đối xứng đã đánh"
+  },
+  {
+   "id": "P27-EN-125",
    "sent": "S059",
    "text": "multiple job-holders",
    "occ": 1,
@@ -1540,7 +1794,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-108",
+   "id": "P27-EN-126",
    "sent": "S059",
    "text": "he said",
    "occ": 1,
@@ -1555,7 +1809,22 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-109",
+   "id": "P27-EN-127",
+   "sent": "S059",
+   "text": "this category",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S058: overemployment = working more hours than they would prefer",
+   "conf": "med",
+   "alt": null,
+   "note": "chỉ từ trỏ nhóm người overemployed vừa định nghĩa câu trước (H&H §2.4; §6.1); câu cắt phía VI",
+   "ref": "A"
+  },
+  {
+   "id": "P27-EN-128",
    "sent": "S060",
    "text": "multiple job-holders",
    "occ": 1,
@@ -1569,7 +1838,7 @@
    "note": "tiền trạm ở câu bị cắt phía VI"
   },
   {
-   "id": "P27-EN-110",
+   "id": "P27-EN-129",
    "sent": "S060",
    "text": "overemployed",
    "occ": 1,
@@ -1583,7 +1852,7 @@
    "note": "'they are overemployed'"
   },
   {
-   "id": "P27-EN-111",
+   "id": "P27-EN-130",
    "sent": "S060",
    "text": "fewer hours",
    "occ": 1,
@@ -1597,7 +1866,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-112",
+   "id": "P27-EN-131",
    "sent": "S061",
    "text": "However",
    "occ": 1,
@@ -1611,7 +1880,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-113",
+   "id": "P27-EN-132",
    "sent": "S061",
    "text": "multiple job-holders",
    "occ": 1,
@@ -1625,7 +1894,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-114",
+   "id": "P27-EN-133",
    "sent": "S061",
    "text": "working hours",
    "occ": 1,
@@ -1639,7 +1908,7 @@
    "note": "'their working hours'"
   },
   {
-   "id": "P27-EN-115",
+   "id": "P27-EN-134",
    "sent": "S061",
    "text": "people with multiple jobs",
    "occ": 1,
@@ -1653,7 +1922,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-116",
+   "id": "P27-EN-135",
+   "sent": "S061",
+   "text": "single job-holders",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S060: single job-holders",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp single job-holders ← S060; phép đối trong câu là [TC]"
+  },
+  {
+   "id": "P27-EN-136",
    "sent": "S062",
    "text": "salary package",
    "occ": 1,
@@ -1667,7 +1950,7 @@
    "note": "chuỗi thu nhập"
   },
   {
-   "id": "P27-EN-117",
+   "id": "P27-EN-137",
    "sent": "S062",
    "text": "a second full-time job",
    "occ": 1,
@@ -1681,7 +1964,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-118",
+   "id": "P27-EN-138",
    "sent": "S063",
    "text": "He",
    "occ": 1,
@@ -1696,7 +1979,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-119",
+   "id": "P27-EN-139",
    "sent": "S063",
    "text": "this",
    "occ": 1,
@@ -1711,7 +1994,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-120",
+   "id": "P27-EN-140",
    "sent": "S064",
    "text": "he said",
    "occ": 1,
@@ -1726,7 +2009,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-121",
+   "id": "P27-EN-141",
+   "sent": "S064",
+   "text": "earning more",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S062: earns a $140,000 salary package",
+   "conf": "med",
+   "alt": null,
+   "note": "động từ earn lặp (S062→S064); VI 'kiếm' xa tiền trạm — EN-only"
+  },
+  {
+   "id": "P27-EN-142",
    "sent": "S065",
    "text": "It's",
    "occ": 1,
@@ -1741,7 +2038,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-122",
+   "id": "P27-EN-143",
    "sent": "S066",
    "text": "Software industry worker",
    "occ": 1,
@@ -1755,7 +2052,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-123",
+   "id": "P27-EN-144",
    "sent": "S066",
    "text": "Ash",
    "occ": 1,
@@ -1769,7 +2066,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-124",
+   "id": "P27-EN-145",
    "sent": "S066",
    "text": "from seven jobs to two",
    "occ": 1,
@@ -1783,7 +2080,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-125",
+   "id": "P27-EN-146",
    "sent": "S067",
    "text": "She",
    "occ": 1,
@@ -1798,7 +2095,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-126",
+   "id": "P27-EN-147",
    "sent": "S067",
    "text": "her family",
    "occ": 1,
@@ -1812,7 +2109,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-127",
+   "id": "P27-EN-148",
    "sent": "S067",
    "text": "one salary",
    "occ": 1,
@@ -1826,7 +2123,35 @@
    "note": null
   },
   {
-   "id": "P27-EN-128",
+   "id": "P27-EN-149",
+   "sent": "S067",
+   "text": "her partner",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: her partner (who also works)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp partner (cùng referent); VI lược chi tiết partner"
+  },
+  {
+   "id": "P27-EN-150",
+   "sent": "S067",
+   "text": "a single job",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S066: from seven jobs to two",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối một việc ↔ bảy/hai việc câu trước (TNT §30); VI gộp trong câu nên [TC]"
+  },
+  {
+   "id": "P27-EN-151",
    "sent": "S068",
    "text": "That's",
    "occ": 1,
@@ -1841,7 +2166,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-129",
+   "id": "P27-EN-152",
    "sent": "S068",
    "text": "I",
    "occ": 1,
@@ -1856,7 +2181,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-130",
+   "id": "P27-EN-153",
    "sent": "S068",
    "text": "multiple jobs",
    "occ": 1,
@@ -1870,7 +2195,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-131",
+   "id": "P27-EN-154",
    "sent": "S068",
    "text": "working three jobs to make ends meet",
    "occ": 1,
@@ -1884,7 +2209,7 @@
    "note": "echo tiểu đề; câu cắt phía VI"
   },
   {
-   "id": "P27-EN-132",
+   "id": "P27-EN-155",
    "sent": "S068",
    "text": "she said",
    "occ": 1,
@@ -1899,7 +2224,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-133",
+   "id": "P27-EN-156",
    "sent": "S069",
    "text": "she",
    "occ": 1,
@@ -1914,7 +2239,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-134",
+   "id": "P27-EN-157",
    "sent": "S069",
    "text": "employer",
    "occ": 1,
@@ -1928,7 +2253,7 @@
    "note": "'one employer'; câu cắt phía VI"
   },
   {
-   "id": "P27-EN-135",
+   "id": "P27-EN-158",
    "sent": "S069",
    "text": "Ash",
    "occ": 1,
@@ -1942,7 +2267,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-136",
+   "id": "P27-EN-159",
    "sent": "S069",
    "text": "made redundant",
    "occ": 1,
@@ -1956,7 +2281,21 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-137",
+   "id": "P27-EN-160",
+   "sent": "S069",
+   "text": "the electricity bill",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: worrying about bills",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp bill (bills → the electricity bill); câu cắt phía VI"
+  },
+  {
+   "id": "P27-EN-161",
    "sent": "S070",
    "text": "I",
    "occ": 1,
@@ -1971,7 +2310,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-138",
+   "id": "P27-EN-162",
    "sent": "S070",
    "text": "let go",
    "occ": 1,
@@ -1985,7 +2324,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-139",
+   "id": "P27-EN-163",
    "sent": "S070",
    "text": "my family",
    "occ": 1,
@@ -1999,7 +2338,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-140",
+   "id": "P27-EN-164",
    "sent": "S072",
    "text": "overemployed",
    "occ": 1,
@@ -2013,7 +2352,7 @@
    "note": "'The so-called overemployed community'"
   },
   {
-   "id": "P27-EN-141",
+   "id": "P27-EN-165",
    "sent": "S072",
    "text": "community",
    "occ": 1,
@@ -2027,7 +2366,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-142",
+   "id": "P27-EN-166",
    "sent": "S073",
    "text": "Mark Wooden",
    "occ": 1,
@@ -2041,7 +2380,7 @@
    "note": "'Economist Mark Wooden'"
   },
   {
-   "id": "P27-EN-143",
+   "id": "P27-EN-167",
    "sent": "S073",
    "text": "employed people",
    "occ": 1,
@@ -2055,7 +2394,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-144",
+   "id": "P27-EN-168",
    "sent": "S073",
    "text": "very long weeks",
    "occ": 1,
@@ -2069,7 +2408,21 @@
    "note": "chuỗi giờ"
   },
   {
-   "id": "P27-EN-145",
+   "id": "P27-EN-169",
+   "sent": "S073",
+   "text": "a gradual decline",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S072: a long-term work trend",
+   "conf": "med",
+   "alt": null,
+   "note": "decline đổi tên trend câu trước (đồng nghĩa); VI giảm ← giảm đối xứng"
+  },
+  {
+   "id": "P27-EN-170",
    "sent": "S074",
    "text": "He said",
    "occ": 1,
@@ -2084,7 +2437,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-146",
+   "id": "P27-EN-171",
    "sent": "S074",
    "text": "employed people",
    "occ": 1,
@@ -2098,7 +2451,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-147",
+   "id": "P27-EN-172",
    "sent": "S074",
    "text": "50 or more hours",
    "occ": 1,
@@ -2112,7 +2465,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-148",
+   "id": "P27-EN-173",
    "sent": "S075",
    "text": "it",
    "occ": 1,
@@ -2127,7 +2480,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-149",
+   "id": "P27-EN-174",
    "sent": "S077",
    "text": "We",
    "occ": 1,
@@ -2142,7 +2495,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-150",
+   "id": "P27-EN-175",
    "sent": "S077",
    "text": "productivity",
    "occ": 1,
@@ -2156,7 +2509,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-151",
+   "id": "P27-EN-176",
    "sent": "S077",
    "text": "make ends meet",
    "occ": 1,
@@ -2170,7 +2523,7 @@
    "note": "echo tiểu đề"
   },
   {
-   "id": "P27-EN-152",
+   "id": "P27-EN-177",
    "sent": "S077",
    "text": "our health",
    "occ": 1,
@@ -2184,7 +2537,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-153",
+   "id": "P27-EN-178",
    "sent": "S077",
    "text": "she said",
    "occ": 1,
@@ -2199,7 +2552,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-154",
+   "id": "P27-EN-179",
    "sent": "S078",
    "text": "longer work hours",
    "occ": 1,
@@ -2213,7 +2566,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-155",
+   "id": "P27-EN-180",
    "sent": "S078",
    "text": "health outcomes",
    "occ": 1,
@@ -2227,7 +2580,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-156",
+   "id": "P27-EN-181",
+   "sent": "S078",
+   "text": "literature",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S076: research on the health impacts of cost-of-living pressures",
+   "conf": "high",
+   "alt": null,
+   "note": "literature ≈ research (cùng thân nghiên cứu); VI 'nghiên cứu' lần đầu nên không có hàng"
+  },
+  {
+   "id": "P27-EN-182",
    "sent": "S079",
    "text": "we know",
    "occ": 1,
@@ -2242,7 +2609,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-157",
+   "id": "P27-EN-183",
    "sent": "S079",
    "text": "your life",
    "occ": 1,
@@ -2257,7 +2624,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-158",
+   "id": "P27-EN-184",
    "sent": "S079",
    "text": "healthy meals",
    "occ": 1,
@@ -2271,7 +2638,7 @@
    "note": "chuỗi sức khỏe"
   },
   {
-   "id": "P27-EN-159",
+   "id": "P27-EN-185",
    "sent": "S080",
    "text": "you've",
    "occ": 1,
@@ -2286,7 +2653,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-160",
+   "id": "P27-EN-186",
    "sent": "S080",
    "text": "24 hours a day",
    "occ": 1,
@@ -2300,7 +2667,7 @@
    "note": "chuỗi giờ; câu cắt phía VI"
   },
   {
-   "id": "P27-EN-161",
+   "id": "P27-EN-187",
    "sent": "S080",
    "text": "being healthy",
    "occ": 1,
@@ -2314,7 +2681,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-162",
+   "id": "P27-EN-188",
    "sent": "S081",
    "text": "Ash said",
    "occ": 1,
@@ -2328,7 +2695,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-163",
+   "id": "P27-EN-189",
    "sent": "S081",
    "text": "burnout",
    "occ": 1,
@@ -2342,7 +2709,21 @@
    "note": "'symptoms of burnout'"
   },
   {
-   "id": "P27-EN-164",
+   "id": "P27-EN-190",
+   "sent": "S081",
+   "text": "her work",
+   "occ": 1,
+   "cat": "L",
+   "sub": "superordinate",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S066: from seven jobs to two",
+   "conf": "med",
+   "alt": null,
+   "note": "work là danh từ tổng quát của jobs (H&H §6.2 superordinate); VI S068 công việc đối xứng"
+  },
+  {
+   "id": "P27-EN-191",
    "sent": "S082",
    "text": "me",
    "occ": 1,
@@ -2357,7 +2738,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-165",
+   "id": "P27-EN-192",
    "sent": "S082",
    "text": "she said",
    "occ": 1,
@@ -2372,7 +2753,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-166",
+   "id": "P27-EN-193",
+   "sent": "S082",
+   "text": "my kids",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S026: the kids",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp kids; nối chuỗi con cái tới S084 (cắt)"
+  },
+  {
+   "id": "P27-EN-194",
    "sent": "S083",
    "text": "I",
    "occ": 1,
@@ -2387,7 +2782,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-167",
+   "id": "P27-EN-195",
    "sent": "S083",
    "text": "the seven jobs",
    "occ": 1,
@@ -2401,7 +2796,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-168",
+   "id": "P27-EN-196",
    "sent": "S084",
    "text": "I",
    "occ": 1,
@@ -2416,7 +2811,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-169",
+   "id": "P27-EN-197",
    "sent": "S084",
    "text": "this",
    "occ": 1,
@@ -2431,7 +2826,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-170",
+   "id": "P27-EN-198",
    "sent": "S084",
    "text": "the kids",
    "occ": 1,
@@ -2445,7 +2840,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-171",
+   "id": "P27-EN-199",
    "sent": "S085",
    "text": "Jess",
    "occ": 1,
@@ -2459,7 +2854,7 @@
    "note": "'Jess the engineer said' — they trong câu"
   },
   {
-   "id": "P27-EN-172",
+   "id": "P27-EN-200",
    "sent": "S085",
    "text": "four jobs",
    "occ": 1,
@@ -2473,7 +2868,21 @@
    "note": "'juggling up to four jobs'"
   },
   {
-   "id": "P27-EN-173",
+   "id": "P27-EN-201",
+   "sent": "S085",
+   "text": "the engineer",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S040: they were an engineer",
+   "conf": "high",
+   "alt": "R: the",
+   "note": "the + rename nghề của Jess (đã nêu S040); VI lược"
+  },
+  {
+   "id": "P27-EN-202",
    "sent": "S086",
    "text": "personal life",
    "occ": 1,
@@ -2487,7 +2896,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-174",
+   "id": "P27-EN-203",
    "sent": "S087",
    "text": "I",
    "occ": 1,
@@ -2502,7 +2911,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-175",
+   "id": "P27-EN-204",
    "sent": "S087",
    "text": "they said",
    "occ": 1,
@@ -2517,7 +2926,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-176",
+   "id": "P27-EN-205",
    "sent": "S088",
    "text": "It",
    "occ": 1,
@@ -2532,7 +2941,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-177",
+   "id": "P27-EN-206",
    "sent": "S088",
    "text": "me",
    "occ": 1,
@@ -2547,7 +2956,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-178",
+   "id": "P27-EN-207",
+   "sent": "S088",
+   "text": "burnt",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S081: symptoms of burnout",
+   "conf": "high",
+   "alt": null,
+   "note": "burnt out ← burnout (cùng hình vị burn); VI kiệt sức đối xứng"
+  },
+  {
+   "id": "P27-EN-208",
    "sent": "S089",
    "text": "Wooden said",
    "occ": 1,
@@ -2561,7 +2984,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-179",
+   "id": "P27-EN-209",
    "sent": "S089",
    "text": "overemployment",
    "occ": 1,
@@ -2575,7 +2998,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-180",
+   "id": "P27-EN-210",
    "sent": "S089",
    "text": "mental health",
    "occ": 1,
@@ -2589,7 +3012,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-181",
+   "id": "P27-EN-211",
    "sent": "S090",
    "text": "you",
    "occ": 1,
@@ -2604,7 +3027,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-182",
+   "id": "P27-EN-212",
    "sent": "S090",
    "text": "it",
    "occ": 1,
@@ -2619,7 +3042,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-183",
+   "id": "P27-EN-213",
    "sent": "S090",
    "text": "Wooden explained",
    "occ": 1,
@@ -2633,7 +3056,21 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-184",
+   "id": "P27-EN-214",
+   "sent": "S090",
+   "text": "The difference",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S089: overemployment ↔ underemployment",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "the + danh từ tổng quát đổi tên cặp đối lập S089 (H&H §6.1); câu cắt phía VI"
+  },
+  {
+   "id": "P27-EN-215",
    "sent": "S091",
    "text": "75 hours a week",
    "occ": 1,
@@ -2647,7 +3084,7 @@
    "note": "chuỗi giờ; câu cắt phía VI"
   },
   {
-   "id": "P27-EN-185",
+   "id": "P27-EN-216",
    "sent": "S091",
    "text": "you",
    "occ": 1,
@@ -2662,7 +3099,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-186",
+   "id": "P27-EN-217",
    "sent": "S091",
    "text": "mental health",
    "occ": 1,
@@ -2676,7 +3113,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-187",
+   "id": "P27-EN-218",
    "sent": "S092",
    "text": "But",
    "occ": 1,
@@ -2690,7 +3127,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-188",
+   "id": "P27-EN-219",
    "sent": "S092",
    "text": "75 hours a week",
    "occ": 1,
@@ -2704,7 +3141,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-189",
+   "id": "P27-EN-220",
    "sent": "S092",
    "text": "those people",
    "occ": 1,
@@ -2719,7 +3156,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-190",
+   "id": "P27-EN-221",
    "sent": "S092",
    "text": "their jobs",
    "occ": 1,
@@ -2733,7 +3170,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-191",
+   "id": "P27-EN-222",
    "sent": "S092",
    "text": "anxiety and symptoms of depression",
    "occ": 1,
@@ -2747,7 +3184,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-192",
+   "id": "P27-EN-223",
    "sent": "S094",
    "text": "you're",
    "occ": 1,
@@ -2762,7 +3199,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-193",
+   "id": "P27-EN-224",
    "sent": "S094",
    "text": "multiple full-time jobs",
    "occ": 1,
@@ -2776,7 +3213,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-194",
+   "id": "P27-EN-225",
    "sent": "S095",
    "text": "You've",
    "occ": 1,
@@ -2791,7 +3228,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-195",
+   "id": "P27-EN-226",
    "sent": "S095",
    "text": "it",
    "occ": 1,
@@ -2806,7 +3243,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-196",
+   "id": "P27-EN-227",
    "sent": "S096",
    "text": "And",
    "occ": 1,
@@ -2820,7 +3257,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-197",
+   "id": "P27-EN-228",
    "sent": "S096",
    "text": "contract templates",
    "occ": 1,
@@ -2834,7 +3271,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-198",
+   "id": "P27-EN-229",
    "sent": "S096",
    "text": "you'll",
    "occ": 1,
@@ -2849,7 +3286,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-199",
+   "id": "P27-EN-230",
    "sent": "S096",
    "text": "King said",
    "occ": 1,
@@ -2863,7 +3300,22 @@
    "note": null
   },
   {
-   "id": "P27-EN-200",
+   "id": "P27-EN-231",
+   "sent": "S096",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S095: obligations of exclusivity / S094: your individual employment contract",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = khác với công việc hiện tại theo hợp đồng (H&H §2.5); occ 1 trong 'any other engagement' — 'otherwise' cuối câu là chuỗi con, không phải so sánh",
+   "ref": "A"
+  },
+  {
+   "id": "P27-EN-232",
    "sent": "S097",
    "text": "Employees",
    "occ": 1,
@@ -2877,7 +3329,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-201",
+   "id": "P27-EN-233",
    "sent": "S097",
    "text": "also",
    "occ": 1,
@@ -2891,7 +3343,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P27-EN-202",
+   "id": "P27-EN-234",
    "sent": "S097",
    "text": "their role",
    "occ": 1,
@@ -2905,7 +3357,21 @@
    "note": "chuỗi 'role/việc'; câu cắt phía VI"
   },
   {
-   "id": "P27-EN-203",
+   "id": "P27-EN-235",
+   "sent": "S097",
+   "text": "their obligations",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S095: obligations of exclusivity",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp obligations; câu cắt phía VI; VI paraphrase mất chuỗi"
+  },
+  {
+   "id": "P27-EN-236",
    "sent": "S098",
    "text": "you",
    "occ": 1,
@@ -2920,7 +3386,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-204",
+   "id": "P27-EN-237",
    "sent": "S098",
    "text": "get caught",
    "occ": 1,
@@ -2934,7 +3400,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-205",
+   "id": "P27-EN-238",
+   "sent": "S098",
+   "text": "your obligations",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S097: their obligations",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp obligations (S095→S097→S098); VI paraphrase mất chuỗi"
+  },
+  {
+   "id": "P27-EN-239",
    "sent": "S098",
    "text": "the contract",
    "occ": 1,
@@ -2948,7 +3428,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-206",
+   "id": "P27-EN-240",
+   "sent": "S098",
+   "text": "the work",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S049: the work",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp the work; VI S077 hoàn thành công việc đối xứng"
+  },
+  {
+   "id": "P27-EN-241",
    "sent": "S098",
    "text": "King said",
    "occ": 1,
@@ -2962,7 +3456,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-207",
+   "id": "P27-EN-242",
    "sent": "S099",
    "text": "an employment contract",
    "occ": 1,
@@ -2976,7 +3470,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-208",
+   "id": "P27-EN-243",
    "sent": "S099",
    "text": "termination of employment",
    "occ": 1,
@@ -2990,7 +3484,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-209",
+   "id": "P27-EN-244",
    "sent": "S100",
    "text": "employer",
    "occ": 1,
@@ -3004,7 +3498,7 @@
    "note": "'an employer'"
   },
   {
-   "id": "P27-EN-210",
+   "id": "P27-EN-245",
    "sent": "S100",
    "text": "a case",
    "occ": 1,
@@ -3018,7 +3512,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-211",
+   "id": "P27-EN-246",
+   "sent": "S100",
+   "text": "a worker",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S097: Employees / S066: Software industry worker",
+   "conf": "med",
+   "alt": null,
+   "note": "worker ≈ employee (S097) + lặp hình vị worker (S066, khác referent); VI nhân viên đối xứng đã đánh"
+  },
+  {
+   "id": "P27-EN-247",
    "sent": "S100",
    "text": "King said",
    "occ": 1,
@@ -3032,7 +3540,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-212",
+   "id": "P27-EN-248",
    "sent": "S101",
    "text": "Ash",
    "occ": 1,
@@ -3046,7 +3554,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-213",
+   "id": "P27-EN-249",
    "sent": "S101",
    "text": "Jess",
    "occ": 1,
@@ -3060,7 +3568,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-214",
+   "id": "P27-EN-250",
    "sent": "S101",
    "text": "breached their employment contracts",
    "occ": 1,
@@ -3074,7 +3582,21 @@
    "note": null
   },
   {
-   "id": "P27-EN-215",
+   "id": "P27-EN-251",
+   "sent": "S101",
+   "text": "a company",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S047: loyalty to a single company",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp company (a company's competitors, generic); VI 'đối thủ cạnh tranh' lược công ty"
+  },
+  {
+   "id": "P27-EN-252",
    "sent": "S102",
    "text": "I",
    "occ": 1,
@@ -3089,7 +3611,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-216",
+   "id": "P27-EN-253",
    "sent": "S102",
    "text": "my employers",
    "occ": 1,
@@ -3103,7 +3625,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-217",
+   "id": "P27-EN-254",
    "sent": "S102",
    "text": "insane hours",
    "occ": 1,
@@ -3117,7 +3639,7 @@
    "note": "chuỗi giờ"
   },
   {
-   "id": "P27-EN-218",
+   "id": "P27-EN-255",
    "sent": "S102",
    "text": "Ash said",
    "occ": 1,
@@ -3131,7 +3653,7 @@
    "note": null
   },
   {
-   "id": "P27-EN-219",
+   "id": "P27-EN-256",
    "sent": "S103",
    "text": "Jess said",
    "occ": 1,
@@ -3145,7 +3667,7 @@
    "note": "VI bỏ attribution này (§8)"
   },
   {
-   "id": "P27-EN-220",
+   "id": "P27-EN-257",
    "sent": "S103",
    "text": "you",
    "occ": 1,
@@ -3160,7 +3682,35 @@
    "ref": "E"
   },
   {
-   "id": "P27-EN-221",
+   "id": "P27-EN-258",
+   "sent": "S103",
+   "text": "a company",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S101: a company's competitors",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp company (generic); VI S082 công ty đối xứng đã đánh"
+  },
+  {
+   "id": "P27-EN-259",
+   "sent": "S103",
+   "text": "deliver",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S098: deliver the work that you're paid to do",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp deliver (quote khác người nói: King → Jess); VI hoàn thành đối xứng"
+  },
+  {
+   "id": "P27-EN-260",
    "sent": "S104",
    "text": "I",
    "occ": 1,
@@ -3175,7 +3725,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-222",
+   "id": "P27-EN-261",
    "sent": "S105",
    "text": "I",
    "occ": 1,
@@ -3190,7 +3740,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-EN-223",
+   "id": "P27-EN-262",
    "sent": "S105",
    "text": "employers",
    "occ": 1,
@@ -3202,6 +3752,21 @@
    "conf": "high",
    "alt": null,
    "note": "'employers have had their day'"
+  },
+  {
+   "id": "P27-EN-263",
+   "sent": "S105",
+   "text": "this sort of thing",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S103–S104: công ty 'đèn xanh' + câu hỏi đạo đức đang bàn",
+   "conf": "med",
+   "alt": null,
+   "note": "chỉ từ trỏ cả tình huống đang bàn (H&H §2.4.1.4); VI paraphrase mất chỉ từ",
+   "ref": "A"
   }
  ]
 }

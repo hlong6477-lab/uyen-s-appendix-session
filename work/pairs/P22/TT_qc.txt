@@ -1,3 +1,3 @@
 QC P22 VI: PASS
-counts: {'C': 1, 'L': 83, 'R': 18}
-ties: 102
+counts: {'C': 3, 'L': 109, 'R': 18}
+ties: 130

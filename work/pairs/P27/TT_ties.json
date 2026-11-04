@@ -207,6 +207,20 @@
   },
   {
    "id": "P27-VI-015",
+   "sent": "S009",
+   "text": "giờ nghỉ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: giờ nghỉ trưa",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giờ nghỉ (giờ nghỉ trưa → giờ nghỉ); EN lunchtime đối xứng"
+  },
+  {
+   "id": "P27-VI-016",
    "sent": "S010",
    "text": "cô",
    "occ": 1,
@@ -221,7 +235,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-016",
+   "id": "P27-VI-017",
    "sent": "S010",
    "text": "họp",
    "occ": 1,
@@ -235,7 +249,7 @@
    "note": "'tranh thủ họp'"
   },
   {
-   "id": "P27-VI-017",
+   "id": "P27-VI-018",
    "sent": "S011",
    "text": "cô",
    "occ": 1,
@@ -250,7 +264,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-018",
+   "id": "P27-VI-019",
    "sent": "S012",
    "text": "tôi",
    "occ": 1,
@@ -265,7 +279,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-019",
+   "id": "P27-VI-020",
    "sent": "S012",
    "text": "Nga nói",
    "occ": 1,
@@ -279,7 +293,21 @@
    "note": null
   },
   {
-   "id": "P27-VI-020",
+   "id": "P27-VI-021",
+   "sent": "S012",
+   "text": "ngủ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: ngủ ba tiếng",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp ngủ (hoàn toàn không ngủ ← ngủ ba tiếng); EN sleep đối xứng; 'ngủ bù' lần 2 trong câu không đánh"
+  },
+  {
+   "id": "P27-VI-022",
    "sent": "S013",
    "text": "lịch họp",
    "occ": 1,
@@ -293,7 +321,7 @@
    "note": "'trùng lịch họp'"
   },
   {
-   "id": "P27-VI-021",
+   "id": "P27-VI-023",
    "sent": "S014",
    "text": "Tôi",
    "occ": 1,
@@ -308,7 +336,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-022",
+   "id": "P27-VI-024",
+   "sent": "S014",
+   "text": "con cái",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S011: các con",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp con (các con → con cái); EN kids ← children đối xứng"
+  },
+  {
+   "id": "P27-VI-025",
    "sent": "S016",
    "text": "Nga",
    "occ": 1,
@@ -322,7 +364,7 @@
    "note": "'Nga cho biết cô thay đổi' — cô trong câu"
   },
   {
-   "id": "P27-VI-023",
+   "id": "P27-VI-026",
    "sent": "S017",
    "text": "ngành công nghệ",
    "occ": 1,
@@ -336,7 +378,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-024",
+   "id": "P27-VI-027",
    "sent": "S017",
    "text": "bạn",
    "occ": 1,
@@ -351,7 +393,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-025",
+   "id": "P27-VI-028",
    "sent": "S018",
    "text": "cô giải thích",
    "occ": 1,
@@ -366,7 +408,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-026",
+   "id": "P27-VI-029",
    "sent": "S019",
    "text": "Tôi",
    "occ": 1,
@@ -381,7 +423,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-027",
+   "id": "P27-VI-030",
    "sent": "S020",
    "text": "việc này",
    "occ": 1,
@@ -396,7 +438,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-028",
+   "id": "P27-VI-031",
    "sent": "S021",
    "text": "Công việc này",
    "occ": 1,
@@ -411,7 +453,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-029",
+   "id": "P27-VI-032",
    "sent": "S021",
    "text": "Nga nói",
    "occ": 1,
@@ -425,7 +467,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-030",
+   "id": "P27-VI-033",
    "sent": "S023",
    "text": "Nga nói",
    "occ": 1,
@@ -439,7 +481,21 @@
    "note": "'mục tiêu của cô' trong câu"
   },
   {
-   "id": "P27-VI-031",
+   "id": "P27-VI-034",
+   "sent": "S023",
+   "text": "hóa đơn",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S022: hóa đơn thanh toán",
+   "conf": "med",
+   "alt": null,
+   "note": "VI gộp payment invoice (S022) và bills (EN S024) cùng từ 'hóa đơn' — lặp hình thức, khác referent (TNT §26)"
+  },
+  {
+   "id": "P27-VI-035",
    "sent": "S024",
    "text": "cô",
    "occ": 1,
@@ -454,7 +510,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-032",
+   "id": "P27-VI-036",
    "sent": "S024",
    "text": "hai công việc toàn thời gian",
    "occ": 1,
@@ -468,7 +524,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-033",
+   "id": "P27-VI-037",
    "sent": "S025",
    "text": "Tôi",
    "occ": 1,
@@ -483,7 +539,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-034",
+   "id": "P27-VI-038",
    "sent": "S025",
    "text": "làm như vậy",
    "occ": 1,
@@ -497,7 +553,21 @@
    "note": "[LC] pro-form — EN 'doing this' đánh R (bất đối xứng §7)"
   },
   {
-   "id": "P27-VI-035",
+   "id": "P27-VI-039",
+   "sent": "S025",
+   "text": "con",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S014: con cái",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp con (lo cho con học xong); EN the kids đối xứng"
+  },
+  {
+   "id": "P27-VI-040",
    "sent": "S026",
    "text": "Nhưng",
    "occ": 1,
@@ -511,7 +581,7 @@
    "note": "VI-only C — EN không có liên từ"
   },
   {
-   "id": "P27-VI-036",
+   "id": "P27-VI-041",
    "sent": "S026",
    "text": "Nga",
    "occ": 1,
@@ -525,7 +595,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-037",
+   "id": "P27-VI-042",
    "sent": "S027",
    "text": "Cô",
    "occ": 1,
@@ -540,7 +610,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-038",
+   "id": "P27-VI-043",
+   "sent": "S027",
+   "text": "âm thầm nhân đôi, nhân ba",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S015: tiểu đề tự sinh 'Âm thầm nhân đôi, nhân ba thu nhập'",
+   "conf": "high",
+   "alt": null,
+   "note": "echo tiểu đề VI tự sinh (S015) dùng lại ở S027; EN-only không có chuỗi"
+  },
+  {
+   "id": "P27-VI-044",
    "sent": "S027",
    "text": "thu nhập",
    "occ": 1,
@@ -554,7 +638,7 @@
    "note": "'nhân đôi, nhân ba thu nhập'"
   },
   {
-   "id": "P27-VI-039",
+   "id": "P27-VI-045",
    "sent": "S027",
    "text": "chuyện này",
    "occ": 1,
@@ -569,7 +653,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-040",
+   "id": "P27-VI-046",
    "sent": "S027",
    "text": "chủ lao động",
    "occ": 1,
@@ -583,7 +667,7 @@
    "note": "'bất chấp rủi ro' = EN S029 gộp"
   },
   {
-   "id": "P27-VI-041",
+   "id": "P27-VI-047",
    "sent": "S029",
    "text": "nhiều công việc toàn thời gian",
    "occ": 1,
@@ -597,7 +681,7 @@
    "note": "'bí mật giữ nhiều công việc toàn thời gian'"
   },
   {
-   "id": "P27-VI-042",
+   "id": "P27-VI-048",
    "sent": "S030",
    "text": "diễn đàn",
    "occ": 1,
@@ -611,7 +695,7 @@
    "note": "'Khẩu hiệu của diễn đàn'"
   },
   {
-   "id": "P27-VI-043",
+   "id": "P27-VI-049",
    "sent": "S031",
    "text": "thành viên",
    "occ": 1,
@@ -625,7 +709,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-044",
+   "id": "P27-VI-050",
    "sent": "S031",
    "text": "overemployed",
    "occ": 1,
@@ -639,7 +723,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-045",
+   "id": "P27-VI-051",
    "sent": "S032",
    "text": "Đây",
    "occ": 1,
@@ -654,7 +738,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-046",
+   "id": "P27-VI-052",
    "sent": "S032",
    "text": "làm nhiều việc",
    "occ": 1,
@@ -668,7 +752,21 @@
    "note": null
   },
   {
-   "id": "P27-VI-047",
+   "id": "P27-VI-053",
+   "sent": "S032",
+   "text": "làm việc từ xa",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: 'thời đại làm việc từ xa' (câu VI tự sinh)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp cụm từ tự sinh từ S002; EN không có chuỗi (chỉ 1 lần)"
+  },
+  {
+   "id": "P27-VI-054",
    "sent": "S033",
    "text": "người Úc",
    "occ": 1,
@@ -682,7 +780,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-048",
+   "id": "P27-VI-055",
    "sent": "S033",
    "text": "chủ lao động",
    "occ": 1,
@@ -696,7 +794,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-049",
+   "id": "P27-VI-056",
    "sent": "S034",
    "text": "The Feed",
    "occ": 1,
@@ -710,7 +808,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-050",
+   "id": "P27-VI-057",
    "sent": "S034",
    "text": "chủ cũ",
    "occ": 1,
@@ -724,7 +822,7 @@
    "note": "'chủ cũ hay chủ hiện tại' — chủ ×2"
   },
   {
-   "id": "P27-VI-051",
+   "id": "P27-VI-058",
    "sent": "S035",
    "text": "bị lộ",
    "occ": 1,
@@ -738,7 +836,21 @@
    "note": "VI dịch retaliation → 'bị lộ' (§8)"
   },
   {
-   "id": "P27-VI-052",
+   "id": "P27-VI-059",
+   "sent": "S035",
+   "text": "Nguy cơ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S034: để tránh bị chủ cũ hay chủ hiện tại trừng phạt",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát (H&H §6.1): nguy cơ bị lộ = mối trừng phạt câu trước; EN The threat đối xứng"
+  },
+  {
+   "id": "P27-VI-060",
    "sent": "S036",
    "text": "kỹ sư phần mềm",
    "occ": 1,
@@ -752,7 +864,7 @@
    "note": "'ông ta' trong câu"
   },
   {
-   "id": "P27-VI-053",
+   "id": "P27-VI-061",
    "sent": "S036",
    "text": "bị sa thải",
    "occ": 1,
@@ -766,7 +878,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-054",
+   "id": "P27-VI-062",
    "sent": "S036",
    "text": "startup công nghệ",
    "occ": 1,
@@ -780,9 +892,9 @@
    "note": null
   },
   {
-   "id": "P27-VI-055",
+   "id": "P27-VI-063",
    "sent": "S037",
-   "text": "người Úc khác",
+   "text": "người Úc",
    "occ": 1,
    "cat": "L",
    "sub": "repetition",
@@ -791,10 +903,25 @@
    "ante": "S033: người Úc",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "lặp người Úc (Một người Úc khác — 'khác' tách sang hàng R)"
   },
   {
-   "id": "P27-VI-056",
+   "id": "P27-VI-064",
+   "sent": "S037",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: người Úc (Nga và các thành viên)",
+   "conf": "med",
+   "alt": null,
+   "note": "quy chiếu so sánh: khác với người Úc đã kể (H&H §2.5 other); EN không có other nên EN giữ L",
+   "ref": "A"
+  },
+  {
+   "id": "P27-VI-065",
    "sent": "S037",
    "text": "nhân đôi thu nhập",
    "occ": 1,
@@ -808,7 +935,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-057",
+   "id": "P27-VI-066",
    "sent": "S037",
    "text": "xoay sở",
    "occ": 1,
@@ -822,7 +949,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-058",
+   "id": "P27-VI-067",
    "sent": "S037",
    "text": "bốn công việc toàn thời gian",
    "occ": 1,
@@ -836,7 +963,7 @@
    "note": "'họ' = Tài trong câu"
   },
   {
-   "id": "P27-VI-059",
+   "id": "P27-VI-068",
    "sent": "S038",
    "text": "Tôi",
    "occ": 1,
@@ -851,7 +978,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-060",
+   "id": "P27-VI-069",
    "sent": "S039",
    "text": "Đây",
    "occ": 1,
@@ -866,7 +993,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-061",
+   "id": "P27-VI-070",
    "sent": "S039",
    "text": "bị bắt",
    "occ": 1,
@@ -880,7 +1007,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-062",
+   "id": "P27-VI-071",
    "sent": "S039",
    "text": "sa thải",
    "occ": 1,
@@ -894,7 +1021,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-063",
+   "id": "P27-VI-072",
    "sent": "S039",
    "text": "Tài nói",
    "occ": 1,
@@ -908,7 +1035,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-064",
+   "id": "P27-VI-073",
    "sent": "S040",
    "text": "Các CEO",
    "occ": 1,
@@ -922,7 +1049,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-065",
+   "id": "P27-VI-074",
    "sent": "S040",
    "text": "nhiều công việc",
    "occ": 1,
@@ -936,7 +1063,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-066",
+   "id": "P27-VI-075",
    "sent": "S040",
    "text": "chúng ta",
    "occ": 1,
@@ -951,7 +1078,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-067",
+   "id": "P27-VI-076",
    "sent": "S041",
    "text": "chủ lao động",
    "occ": 1,
@@ -965,7 +1092,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-068",
+   "id": "P27-VI-077",
    "sent": "S041",
    "text": "nhân viên toàn thời gian",
    "occ": 1,
@@ -979,7 +1106,21 @@
    "note": null
   },
   {
-   "id": "P27-VI-069",
+   "id": "P27-VI-078",
+   "sent": "S041",
+   "text": "một công ty",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: sự trung thành với công ty (câu VI tự sinh)",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp công ty; tiền trạm ở câu tự sinh; EN one company đối xứng"
+  },
+  {
+   "id": "P27-VI-079",
    "sent": "S042",
    "text": "Họ",
    "occ": 1,
@@ -994,7 +1135,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-070",
+   "id": "P27-VI-080",
    "sent": "S042",
    "text": "nhân viên",
    "occ": 1,
@@ -1008,7 +1149,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-071",
+   "id": "P27-VI-081",
    "sent": "S042",
    "text": "ông nói",
    "occ": 1,
@@ -1023,7 +1164,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-072",
+   "id": "P27-VI-082",
+   "sent": "S042",
+   "text": "công việc chính",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S040: nhiều công việc",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp công việc (việc chính); EN first job đối xứng"
+  },
+  {
+   "id": "P27-VI-083",
    "sent": "S043",
    "text": "Tài",
    "occ": 1,
@@ -1037,7 +1192,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-073",
+   "id": "P27-VI-084",
    "sent": "S043",
    "text": "sự trung thành với một công ty",
    "occ": 1,
@@ -1051,7 +1206,7 @@
    "note": "tiền trạm ở câu VI tự sinh (§8)"
   },
   {
-   "id": "P27-VI-074",
+   "id": "P27-VI-085",
    "sent": "S044",
    "text": "nhân viên",
    "occ": 1,
@@ -1065,7 +1220,7 @@
    "note": "'nhân viên văn phòng'"
   },
   {
-   "id": "P27-VI-075",
+   "id": "P27-VI-086",
    "sent": "S044",
    "text": "đi họp",
    "occ": 1,
@@ -1079,7 +1234,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-076",
+   "id": "P27-VI-087",
    "sent": "S044",
    "text": "Tài nói",
    "occ": 1,
@@ -1093,7 +1248,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-077",
+   "id": "P27-VI-088",
    "sent": "S045",
    "text": "bạn",
    "occ": 1,
@@ -1108,7 +1263,35 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-078",
+   "id": "P27-VI-089",
+   "sent": "S045",
+   "text": "hoàn thành công việc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S042: công việc chính",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp công việc trong cụm 'hoàn thành công việc'; EN the work đối xứng"
+  },
+  {
+   "id": "P27-VI-090",
+   "sent": "S045",
+   "text": "hiệu quả",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: hiệu quả hơn",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hiệu quả (S019→S045); EN đổi sang productivity — dịch chuyển từ vựng"
+  },
+  {
+   "id": "P27-VI-091",
    "sent": "S045",
    "text": "40 giờ",
    "occ": 1,
@@ -1122,7 +1305,7 @@
    "note": "chuỗi giờ"
   },
   {
-   "id": "P27-VI-079",
+   "id": "P27-VI-092",
    "sent": "S045",
    "text": "chúng ta",
    "occ": 1,
@@ -1137,7 +1320,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-080",
+   "id": "P27-VI-093",
    "sent": "S045",
    "text": "làm vậy",
    "occ": 1,
@@ -1151,7 +1334,7 @@
    "note": "[TC] pro-form — đối xứng EN 'do so'"
   },
   {
-   "id": "P27-VI-081",
+   "id": "P27-VI-094",
    "sent": "S046",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -1165,7 +1348,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-082",
+   "id": "P27-VI-095",
    "sent": "S046",
    "text": "Tài",
    "occ": 1,
@@ -1179,7 +1362,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-083",
+   "id": "P27-VI-096",
    "sent": "S046",
    "text": "làm nhiều việc một lúc",
    "occ": 1,
@@ -1193,7 +1376,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-084",
+   "id": "P27-VI-097",
    "sent": "S047",
    "text": "Tôi",
    "occ": 1,
@@ -1208,7 +1391,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-085",
+   "id": "P27-VI-098",
    "sent": "S047",
    "text": "hai cuộc họp",
    "occ": 1,
@@ -1222,7 +1405,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-086",
+   "id": "P27-VI-099",
    "sent": "S050",
    "text": "xoay sở",
    "occ": 1,
@@ -1236,7 +1419,7 @@
    "note": "'việc xoay sở nhiều công việc'"
   },
   {
-   "id": "P27-VI-087",
+   "id": "P27-VI-100",
    "sent": "S050",
    "text": "làm nhiều việc",
    "occ": 1,
@@ -1250,7 +1433,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-088",
+   "id": "P27-VI-101",
    "sent": "S051",
    "text": "làm nhiều công việc",
    "occ": 1,
@@ -1264,21 +1447,21 @@
    "note": "'mức cao nhất kể từ cuối năm 2022' = EN S055"
   },
   {
-   "id": "P27-VI-089",
+   "id": "P27-VI-102",
    "sent": "S052",
    "text": "Trong khi đó",
    "occ": 1,
    "cat": "C",
-   "sub": "additive",
+   "sub": "temporal",
    "dir": "ana",
    "level": "LC",
    "ante": "S051: số liệu multi-job",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "H&H §5.7: Trong khi đó = nối thời gian (điều chỉnh sub từ additive)"
   },
   {
-   "id": "P27-VI-090",
+   "id": "P27-VI-103",
    "sent": "S053",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -1292,7 +1475,7 @@
    "note": "VI-only C — EN không có liên từ"
   },
   {
-   "id": "P27-VI-091",
+   "id": "P27-VI-104",
    "sent": "S053",
    "text": "overemployment",
    "occ": 1,
@@ -1306,7 +1489,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-092",
+   "id": "P27-VI-105",
    "sent": "S053",
    "text": "cộng đồng Reddit",
    "occ": 1,
@@ -1320,7 +1503,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-093",
+   "id": "P27-VI-106",
    "sent": "S054",
    "text": "giáo sư Wooden",
    "occ": 1,
@@ -1334,7 +1517,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-094",
+   "id": "P27-VI-107",
    "sent": "S054",
    "text": "overemployment",
    "occ": 1,
@@ -1348,7 +1531,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-095",
+   "id": "P27-VI-108",
    "sent": "S054",
    "text": "nhiều giờ",
    "occ": 1,
@@ -1362,7 +1545,7 @@
    "note": "'làm nhiều giờ hơn mong muốn'"
   },
   {
-   "id": "P27-VI-096",
+   "id": "P27-VI-109",
    "sent": "S054",
    "text": "thu nhập",
    "occ": 1,
@@ -1376,7 +1559,7 @@
    "note": "'nhu cầu thu nhập'"
   },
   {
-   "id": "P27-VI-097",
+   "id": "P27-VI-110",
    "sent": "S055",
    "text": "người làm nhiều việc",
    "occ": 1,
@@ -1390,7 +1573,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-098",
+   "id": "P27-VI-111",
    "sent": "S055",
    "text": "giờ làm",
    "occ": 1,
@@ -1404,7 +1587,7 @@
    "note": "'muốn giảm giờ làm'"
   },
   {
-   "id": "P27-VI-099",
+   "id": "P27-VI-112",
    "sent": "S056",
    "text": "Nhưng",
    "occ": 1,
@@ -1418,7 +1601,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-100",
+   "id": "P27-VI-113",
    "sent": "S056",
    "text": "người làm nhiều việc",
    "occ": 1,
@@ -1432,7 +1615,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-101",
+   "id": "P27-VI-114",
    "sent": "S056",
    "text": "người làm một việc",
    "occ": 1,
@@ -1446,7 +1629,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-102",
+   "id": "P27-VI-115",
    "sent": "S056",
    "text": "số giờ làm",
    "occ": 1,
@@ -1460,7 +1643,21 @@
    "note": null
   },
   {
-   "id": "P27-VI-103",
+   "id": "P27-VI-116",
+   "sent": "S056",
+   "text": "làm thêm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S055: muốn giảm giờ làm",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối giảm ↔ thêm (TNT §30); EN fewer ↔ more hours đối xứng"
+  },
+  {
+   "id": "P27-VI-117",
    "sent": "S057",
    "text": "gói lương",
    "occ": 1,
@@ -1474,7 +1671,7 @@
    "note": "chuỗi thu nhập"
   },
   {
-   "id": "P27-VI-104",
+   "id": "P27-VI-118",
    "sent": "S057",
    "text": "công việc toàn thời gian",
    "occ": 1,
@@ -1488,7 +1685,7 @@
    "note": "'công việc toàn thời gian thứ hai'"
   },
   {
-   "id": "P27-VI-105",
+   "id": "P27-VI-119",
    "sent": "S058",
    "text": "Anh",
    "occ": 1,
@@ -1503,7 +1700,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-106",
+   "id": "P27-VI-120",
    "sent": "S058",
    "text": "đó",
    "occ": 1,
@@ -1518,7 +1715,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-107",
+   "id": "P27-VI-121",
    "sent": "S059",
    "text": "Tôi",
    "occ": 1,
@@ -1533,7 +1730,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-108",
+   "id": "P27-VI-122",
    "sent": "S059",
    "text": "anh nói",
    "occ": 1,
@@ -1548,7 +1745,21 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-109",
+   "id": "P27-VI-123",
+   "sent": "S059",
+   "text": "kiếm nhiều hơn",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: kiếm tới 500.000 đô la",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp kiếm (kiếm nhiều hơn ← kiếm tới 500.000, khác người nói); EN earning more ← earns (S062) neo khác vị trí"
+  },
+  {
+   "id": "P27-VI-124",
    "sent": "S060",
    "text": "Nga",
    "occ": 1,
@@ -1562,7 +1773,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-110",
+   "id": "P27-VI-125",
    "sent": "S060",
    "text": "bảy công việc",
    "occ": 1,
@@ -1576,7 +1787,7 @@
    "note": "'từ bảy công việc giờ chỉ còn hai'"
   },
   {
-   "id": "P27-VI-111",
+   "id": "P27-VI-126",
    "sent": "S060",
    "text": "gia đình",
    "occ": 1,
@@ -1590,7 +1801,21 @@
    "note": null
   },
   {
-   "id": "P27-VI-112",
+   "id": "P27-VI-127",
+   "sent": "S060",
+   "text": "một việc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S056: người làm một việc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp một việc; phép đối trong câu (bảy↔một) là [TC]; EN a single job đối xứng"
+  },
+  {
+   "id": "P27-VI-128",
    "sent": "S061",
    "text": "lương",
    "occ": 1,
@@ -1604,7 +1829,7 @@
    "note": "'Một đầu lương chỉ đủ trả tiền thuê nhà'"
   },
   {
-   "id": "P27-VI-113",
+   "id": "P27-VI-129",
    "sent": "S063",
    "text": "Cộng đồng",
    "occ": 1,
@@ -1618,7 +1843,7 @@
    "note": "'Cộng đồng overemployed' — overemployed lặp chuỗi"
   },
   {
-   "id": "P27-VI-114",
+   "id": "P27-VI-130",
    "sent": "S063",
    "text": "giờ làm",
    "occ": 1,
@@ -1632,7 +1857,7 @@
    "note": "'xu hướng giảm giờ làm'"
   },
   {
-   "id": "P27-VI-115",
+   "id": "P27-VI-131",
    "sent": "S064",
    "text": "Giáo sư Wooden",
    "occ": 1,
@@ -1646,7 +1871,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-116",
+   "id": "P27-VI-132",
    "sent": "S064",
    "text": "50 giờ/tuần",
    "occ": 1,
@@ -1660,7 +1885,21 @@
    "note": "'làm việc 50 giờ/tuần trở lên'"
   },
   {
-   "id": "P27-VI-117",
+   "id": "P27-VI-133",
+   "sent": "S064",
+   "text": "giảm đáng kể",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S063: xu hướng giảm giờ làm",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm (giảm giờ làm → giảm đáng kể); EN decline đối xứng"
+  },
+  {
+   "id": "P27-VI-134",
    "sent": "S065",
    "text": "làm nhiều giờ",
    "occ": 1,
@@ -1674,7 +1913,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-118",
+   "id": "P27-VI-135",
    "sent": "S065",
    "text": "nhiều việc",
    "occ": 1,
@@ -1688,7 +1927,7 @@
    "note": "'làm nhiều giờ hoặc nhiều việc'"
   },
   {
-   "id": "P27-VI-119",
+   "id": "P27-VI-136",
    "sent": "S066",
    "text": "bạn",
    "occ": 1,
@@ -1703,7 +1942,21 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-120",
+   "id": "P27-VI-137",
+   "sent": "S066",
+   "text": "lành mạnh",
+   "occ": 1,
+   "cat": "L",
+   "sub": "associative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S065: hệ quả sức khỏe",
+   "conf": "med",
+   "alt": null,
+   "note": "liên tưởng sức khỏe (nấu ăn lành mạnh); EN healthy meals đối xứng đã đánh"
+  },
+  {
+   "id": "P27-VI-138",
    "sent": "S067",
    "text": "Và",
    "occ": 1,
@@ -1717,7 +1970,7 @@
    "note": "VI-only C — EN không có And"
   },
   {
-   "id": "P27-VI-121",
+   "id": "P27-VI-139",
    "sent": "S067",
    "text": "làm việc nhiều giờ",
    "occ": 1,
@@ -1731,7 +1984,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-122",
+   "id": "P27-VI-140",
    "sent": "S067",
    "text": "sức khỏe",
    "occ": 1,
@@ -1745,7 +1998,7 @@
    "note": "'sức khỏe kém hơn'"
   },
   {
-   "id": "P27-VI-123",
+   "id": "P27-VI-141",
    "sent": "S068",
    "text": "Nga",
    "occ": 1,
@@ -1759,7 +2012,7 @@
    "note": "'dù cô vẫn thích' — cô trong câu"
   },
   {
-   "id": "P27-VI-124",
+   "id": "P27-VI-142",
    "sent": "S068",
    "text": "kiệt sức",
    "occ": 1,
@@ -1773,7 +2026,21 @@
    "note": "'dấu hiệu kiệt sức'"
   },
   {
-   "id": "P27-VI-125",
+   "id": "P27-VI-143",
+   "sent": "S068",
+   "text": "công việc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S060: bảy công việc giờ chỉ còn hai",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp công việc (việc hiện tại của Nga); EN her work đối xứng"
+  },
+  {
+   "id": "P27-VI-144",
    "sent": "S069",
    "text": "cô",
    "occ": 1,
@@ -1788,7 +2055,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-126",
+   "id": "P27-VI-145",
    "sent": "S069",
    "text": "con",
    "occ": 1,
@@ -1802,7 +2069,7 @@
    "note": "'lời con nói'"
   },
   {
-   "id": "P27-VI-127",
+   "id": "P27-VI-146",
    "sent": "S070",
    "text": "Tài",
    "occ": 1,
@@ -1816,7 +2083,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-128",
+   "id": "P27-VI-147",
    "sent": "S070",
    "text": "xoay sở bốn công việc",
    "occ": 1,
@@ -1830,7 +2097,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-129",
+   "id": "P27-VI-148",
    "sent": "S070",
    "text": "cũng",
    "occ": 1,
@@ -1844,7 +2111,7 @@
    "note": "VI-only C — 'Tài cũng đã quyết định nghỉ'"
   },
   {
-   "id": "P27-VI-130",
+   "id": "P27-VI-149",
    "sent": "S071",
    "text": "Tôi",
    "occ": 1,
@@ -1859,7 +2126,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-131",
+   "id": "P27-VI-150",
    "sent": "S071",
    "text": "kiệt sức",
    "occ": 1,
@@ -1873,7 +2140,22 @@
    "note": "'Tôi bị kiệt sức'"
   },
   {
-   "id": "P27-VI-132",
+   "id": "P27-VI-151",
+   "sent": "S071",
+   "text": "đó",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S070: xoay sở bốn công việc / lối sống nhiều việc",
+   "conf": "high",
+   "alt": null,
+   "note": "chỉ từ trỏ cả tình huống câu trước (H&H §2.4.1.4); EN it trong câu → VI tách câu tăng cấp [LC]",
+   "ref": "A"
+  },
+  {
+   "id": "P27-VI-152",
    "sent": "S072",
    "text": "giáo sư Wooden",
    "occ": 1,
@@ -1887,7 +2169,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-133",
+   "id": "P27-VI-153",
    "sent": "S072",
    "text": "làm việc quá nhiều",
    "occ": 1,
@@ -1901,7 +2183,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-134",
+   "id": "P27-VI-154",
    "sent": "S072",
    "text": "tác động",
    "occ": 1,
@@ -1915,7 +2197,7 @@
    "note": "'tác động tinh thần'"
   },
   {
-   "id": "P27-VI-135",
+   "id": "P27-VI-155",
    "sent": "S072",
    "text": "thất nghiệp",
    "occ": 1,
@@ -1929,7 +2211,7 @@
    "note": "VI dịch underemployment → 'thất nghiệp' (lệch nghĩa, §8)"
   },
   {
-   "id": "P27-VI-136",
+   "id": "P27-VI-156",
    "sent": "S074",
    "text": "điều này",
    "occ": 1,
@@ -1944,7 +2226,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-137",
+   "id": "P27-VI-157",
    "sent": "S075",
    "text": "Bạn",
    "occ": 1,
@@ -1959,7 +2241,7 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-138",
+   "id": "P27-VI-158",
    "sent": "S075",
    "text": "hợp đồng",
    "occ": 1,
@@ -1973,7 +2255,7 @@
    "note": "'xem hợp đồng có điều khoản'"
   },
   {
-   "id": "P27-VI-139",
+   "id": "P27-VI-159",
    "sent": "S076",
    "text": "mẫu hợp đồng",
    "occ": 1,
@@ -1987,7 +2269,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-140",
+   "id": "P27-VI-160",
    "sent": "S076",
    "text": "nhân viên",
    "occ": 1,
@@ -2001,7 +2283,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-141",
+   "id": "P27-VI-161",
    "sent": "S076",
    "text": "bà nói",
    "occ": 1,
@@ -2016,7 +2298,22 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-142",
+   "id": "P27-VI-162",
+   "sent": "S076",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S075: hợp đồng có điều khoản độc quyền (công việc hiện tại)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = khác với công việc hiện tại theo hợp đồng (H&H §2.5); EN other (S096) đối xứng",
+   "ref": "A"
+  },
+  {
+   "id": "P27-VI-163",
    "sent": "S077",
    "text": "nhân viên",
    "occ": 1,
@@ -2030,7 +2327,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-143",
+   "id": "P27-VI-164",
    "sent": "S077",
    "text": "bị phát hiện",
    "occ": 1,
@@ -2044,7 +2341,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-144",
+   "id": "P27-VI-165",
    "sent": "S077",
    "text": "hợp đồng",
    "occ": 1,
@@ -2058,7 +2355,35 @@
    "note": "'đúng như hợp đồng'"
   },
   {
-   "id": "P27-VI-145",
+   "id": "P27-VI-166",
+   "sent": "S077",
+   "text": "hoàn thành công việc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S045: hoàn thành công việc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp nguyên cụm hoàn thành công việc; EN the work đối xứng"
+  },
+  {
+   "id": "P27-VI-167",
+   "sent": "S077",
+   "text": "hợp lệ",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S073: tiểu đề 'Làm nhiều công việc toàn thời gian có hợp pháp không?'",
+   "conf": "med",
+   "alt": null,
+   "note": "đồng nghĩa hợp pháp → hợp lệ, trả lời tiểu đề; EN 'got a case' khác hình thức"
+  },
+  {
+   "id": "P27-VI-168",
    "sent": "S078",
    "text": "Nhưng",
    "occ": 1,
@@ -2072,7 +2397,7 @@
    "note": "VI-only C — EN không có But"
   },
   {
-   "id": "P27-VI-146",
+   "id": "P27-VI-169",
    "sent": "S078",
    "text": "vi phạm hợp đồng",
    "occ": 1,
@@ -2086,7 +2411,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-147",
+   "id": "P27-VI-170",
    "sent": "S078",
    "text": "sa thải",
    "occ": 1,
@@ -2100,7 +2425,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-148",
+   "id": "P27-VI-171",
    "sent": "S079",
    "text": "công ty",
    "occ": 1,
@@ -2114,7 +2439,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-149",
+   "id": "P27-VI-172",
    "sent": "S079",
    "text": "nhân viên",
    "occ": 1,
@@ -2128,7 +2453,7 @@
    "note": "'kiện nhân viên'"
   },
   {
-   "id": "P27-VI-150",
+   "id": "P27-VI-173",
    "sent": "S079",
    "text": "bà King",
    "occ": 1,
@@ -2142,7 +2467,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-151",
+   "id": "P27-VI-174",
    "sent": "S080",
    "text": "Nga",
    "occ": 1,
@@ -2156,7 +2481,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-152",
+   "id": "P27-VI-175",
    "sent": "S080",
    "text": "Tài",
    "occ": 1,
@@ -2170,7 +2495,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-153",
+   "id": "P27-VI-176",
    "sent": "S080",
    "text": "vi phạm hợp đồng",
    "occ": 1,
@@ -2184,7 +2509,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-154",
+   "id": "P27-VI-177",
    "sent": "S081",
    "text": "Tôi",
    "occ": 1,
@@ -2199,7 +2524,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-155",
+   "id": "P27-VI-178",
    "sent": "S081",
    "text": "người chủ",
    "occ": 1,
@@ -2213,7 +2538,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-156",
+   "id": "P27-VI-179",
    "sent": "S081",
    "text": "chị Nga",
    "occ": 1,
@@ -2227,7 +2552,21 @@
    "note": "VI thêm danh xưng 'chị'"
   },
   {
-   "id": "P27-VI-157",
+   "id": "P27-VI-180",
+   "sent": "S081",
+   "text": "điên cuồng",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S048: Điên rồ lắm",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị điên (làm việc điên cuồng ← Điên rồ lắm, khác người nói); EN insane hours đã có hàng theo chuỗi giờ"
+  },
+  {
+   "id": "P27-VI-181",
    "sent": "S082",
    "text": "công ty",
    "occ": 1,
@@ -2241,7 +2580,7 @@
    "note": null
   },
   {
-   "id": "P27-VI-158",
+   "id": "P27-VI-182",
    "sent": "S082",
    "text": "bạn",
    "occ": 1,
@@ -2256,7 +2595,21 @@
    "ref": "E"
   },
   {
-   "id": "P27-VI-159",
+   "id": "P27-VI-183",
+   "sent": "S082",
+   "text": "hoàn thành",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S077: hoàn thành công việc",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hoàn thành (hoàn thành kỳ vọng ← hoàn thành công việc); EN deliver đối xứng"
+  },
+  {
+   "id": "P27-VI-184",
    "sent": "S083",
    "text": "Tôi",
    "occ": 1,
@@ -2271,7 +2624,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-160",
+   "id": "P27-VI-185",
    "sent": "S084",
    "text": "tôi",
    "occ": 1,
@@ -2286,7 +2639,7 @@
    "ref": "A"
   },
   {
-   "id": "P27-VI-161",
+   "id": "P27-VI-186",
    "sent": "S084",
    "text": "các công ty",
    "occ": 1,

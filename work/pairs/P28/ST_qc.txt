@@ -1,3 +1,3 @@
 QC P28 EN: PASS
-counts: {'C': 11, 'E': 2, 'L': 100, 'R': 54, 'S': 1}
-ties: 168
+counts: {'C': 11, 'E': 2, 'L': 116, 'R': 57, 'S': 1}
+ties: 187

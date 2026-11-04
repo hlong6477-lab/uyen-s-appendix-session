@@ -48,6 +48,20 @@
   },
   {
    "id": "P28-VI-004",
+   "sent": "S002",
+   "text": "lời cam kết",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: quyết tâm cho năm mới 2025",
+   "conf": "high",
+   "alt": null,
+   "note": "lời cam kết ≈ quyết tâm (những lời cam kết của chúng ta); occ 1 — lần 2 ('những lời cam kết đó') trong câu không đánh"
+  },
+  {
+   "id": "P28-VI-005",
    "sent": "S003",
    "text": "năm mới",
    "occ": 1,
@@ -61,7 +75,7 @@
    "note": "lặp 'năm mới' trong tục ngữ"
   },
   {
-   "id": "P28-VI-005",
+   "id": "P28-VI-006",
    "sent": "S004",
    "text": "chúng ta",
    "occ": 1,
@@ -76,7 +90,21 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-006",
+   "id": "P28-VI-007",
+   "sent": "S004",
+   "text": "cải thiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S002: chúng ta phấn đấu để tự hoàn thiện",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị thiện (tự hoàn thiện → cải thiện); mở chuỗi cải thiện đến S010"
+  },
+  {
+   "id": "P28-VI-008",
    "sent": "S005",
    "text": null,
    "occ": 1,
@@ -92,7 +120,7 @@
    "note": "[LC] rơi chủ ngữ ∅ ở đầu câu, hồi phục {cách cải thiện cuộc sống}; EN giữ 'It' (R-A)"
   },
   {
-   "id": "P28-VI-007",
+   "id": "P28-VI-009",
    "sent": "S006",
    "text": null,
    "occ": 1,
@@ -108,7 +136,7 @@
    "note": "[LC] rơi chủ ngữ ∅ ở đầu câu; đối ứng EN 'It could be'"
   },
   {
-   "id": "P28-VI-008",
+   "id": "P28-VI-010",
    "sent": "S007",
    "text": null,
    "occ": 1,
@@ -124,7 +152,7 @@
    "note": "[LC] rơi chủ ngữ ∅ ở đầu câu; đối ứng EN 'It might be'"
   },
   {
-   "id": "P28-VI-009",
+   "id": "P28-VI-011",
    "sent": "S007",
    "text": "bạn luôn muốn",
    "occ": 1,
@@ -139,7 +167,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-010",
+   "id": "P28-VI-012",
    "sent": "S008",
    "text": "năm mới",
    "occ": 1,
@@ -153,7 +181,7 @@
    "note": "lập mục tiêu cho năm mới; 'mục tiêu' khởi tạo chuỗi"
   },
   {
-   "id": "P28-VI-011",
+   "id": "P28-VI-013",
    "sent": "S009",
    "text": "mục tiêu",
    "occ": 1,
@@ -167,7 +195,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-012",
+   "id": "P28-VI-014",
    "sent": "S009",
    "text": "năm mới",
    "occ": 1,
@@ -181,7 +209,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-013",
+   "id": "P28-VI-015",
    "sent": "S010",
    "text": "mục tiêu",
    "occ": 1,
@@ -195,7 +223,7 @@
    "note": "Các mục tiêu phổ biến nhất"
   },
   {
-   "id": "P28-VI-014",
+   "id": "P28-VI-016",
    "sent": "S010",
    "text": "năm mới",
    "occ": 1,
@@ -209,7 +237,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-015",
+   "id": "P28-VI-017",
    "sent": "S010",
    "text": "cải thiện",
    "occ": 1,
@@ -223,7 +251,21 @@
    "note": "occ 1: lần 2 ('cải thiện mức độ thể lực') trong câu không đánh"
   },
   {
-   "id": "P28-VI-016",
+   "id": "P28-VI-018",
+   "sent": "S010",
+   "text": "người Úc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: khoảng 74 phần trăm người Úc",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp người Úc (39 phần trăm người Úc)"
+  },
+  {
+   "id": "P28-VI-019",
    "sent": "S010",
    "text": "lành mạnh hơn",
    "occ": 1,
@@ -237,7 +279,7 @@
    "note": "lựa chọn thực phẩm lành mạnh hơn"
   },
   {
-   "id": "P28-VI-017",
+   "id": "P28-VI-020",
    "sent": "S011",
    "text": "đi du lịch",
    "occ": 1,
@@ -251,7 +293,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-018",
+   "id": "P28-VI-021",
    "sent": "S012",
    "text": "Nhưng",
    "occ": 1,
@@ -265,7 +307,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-019",
+   "id": "P28-VI-022",
    "sent": "S012",
    "text": "Năm mới",
    "occ": 1,
@@ -279,7 +321,7 @@
    "note": "occ 1: lần 2 ('năm mới của bạn') nằm trong hàng 'quyết tâm năm mới', ghi note"
   },
   {
-   "id": "P28-VI-020",
+   "id": "P28-VI-023",
    "sent": "S012",
    "text": "quyết tâm năm mới",
    "occ": 1,
@@ -293,7 +335,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-021",
+   "id": "P28-VI-024",
    "sent": "S012",
    "text": "của bạn",
    "occ": 1,
@@ -308,7 +350,36 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-022",
+   "id": "P28-VI-025",
+   "sent": "S012",
+   "text": "thay đổi",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: muốn cải thiện chế độ ăn uống",
+   "conf": "med",
+   "alt": null,
+   "note": "thay đổi ≈ cải thiện (thay đổi cuộc sống của bạn)"
+  },
+  {
+   "id": "P28-VI-026",
+   "sent": "S013",
+   "text": "Đây",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "cata",
+   "level": "LC",
+   "ante": "S014–S070: bốn khối subhead giải thích lý do",
+   "conf": "med",
+   "alt": null,
+   "note": "tiền chỉ hiếm: Đây là lý do tại sao = phần giải thích nằm sau",
+   "ref": "C"
+  },
+  {
+   "id": "P28-VI-027",
    "sent": "S015",
    "text": "sức khỏe",
    "occ": 1,
@@ -322,7 +393,7 @@
    "note": "thay đổi hành vi sức khỏe"
   },
   {
-   "id": "P28-VI-023",
+   "id": "P28-VI-028",
    "sent": "S015",
    "text": "thay đổi",
    "occ": 1,
@@ -336,7 +407,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-024",
+   "id": "P28-VI-029",
    "sent": "S016",
    "text": "Ông",
    "occ": 1,
@@ -351,7 +422,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-025",
+   "id": "P28-VI-030",
    "sent": "S016",
    "text": "quyết tâm năm mới",
    "occ": 1,
@@ -365,7 +436,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-026",
+   "id": "P28-VI-031",
    "sent": "S017",
    "text": "Chúng",
    "occ": 1,
@@ -380,7 +451,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-027",
+   "id": "P28-VI-032",
    "sent": "S017",
    "text": "bạn có",
    "occ": 1,
@@ -395,7 +466,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-028",
+   "id": "P28-VI-033",
    "sent": "S017",
    "text": "Borland",
    "occ": 1,
@@ -409,7 +480,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-029",
+   "id": "P28-VI-034",
    "sent": "S018",
    "text": "chúng",
    "occ": 1,
@@ -424,7 +495,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-030",
+   "id": "P28-VI-035",
    "sent": "S019",
    "text": "quyết tâm",
    "occ": 1,
@@ -438,7 +509,7 @@
    "note": "'năm mới' lặp trong cụm 'quyết tâm cho năm mới', ghi note"
   },
   {
-   "id": "P28-VI-031",
+   "id": "P28-VI-036",
    "sent": "S019",
    "text": "thất bại",
    "occ": 1,
@@ -452,7 +523,7 @@
    "note": "thất bại ≈ không thực hiện được — VI 2 chuỗi song song"
   },
   {
-   "id": "P28-VI-032",
+   "id": "P28-VI-037",
    "sent": "S019",
    "text": "nghiên cứu",
    "occ": 1,
@@ -466,7 +537,7 @@
    "note": "Các nghiên cứu cho thấy"
   },
   {
-   "id": "P28-VI-033",
+   "id": "P28-VI-038",
    "sent": "S020",
    "text": "Ngoài ra",
    "occ": 1,
@@ -480,7 +551,7 @@
    "note": "VI đảo attribution lên đầu câu"
   },
   {
-   "id": "P28-VI-034",
+   "id": "P28-VI-039",
    "sent": "S020",
    "text": "quyết tâm",
    "occ": 1,
@@ -494,7 +565,21 @@
    "note": "đạt được quyết tâm của mình"
   },
   {
-   "id": "P28-VI-035",
+   "id": "P28-VI-040",
+   "sent": "S020",
+   "text": "đạt được",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: đều thất bại trong vòng hai tuần đầu tiên",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối thất bại ↔ đạt được; mở đầu chuỗi đạt được của VI"
+  },
+  {
+   "id": "P28-VI-041",
    "sent": "S020",
    "text": "nghiên cứu",
    "occ": 1,
@@ -508,22 +593,22 @@
    "note": null
   },
   {
-   "id": "P28-VI-036",
+   "id": "P28-VI-042",
    "sent": "S021",
    "text": "Điều đó",
    "occ": 1,
    "cat": "R",
-   "sub": "personal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S019–S020: 88 phần trăm thất bại, 8 phần trăm đạt được",
    "conf": "high",
    "alt": null,
-   "note": "quy chiếu mệnh đề",
+   "note": "quy chiếu mệnh đề (extended reference)",
    "ref": "A"
   },
   {
-   "id": "P28-VI-037",
+   "id": "P28-VI-043",
    "sent": "S021",
    "text": "chúng ta",
    "occ": 1,
@@ -538,7 +623,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-038",
+   "id": "P28-VI-044",
    "sent": "S021",
    "text": "thất bại",
    "occ": 1,
@@ -552,7 +637,7 @@
    "note": "tự chuốc lấy thất bại"
   },
   {
-   "id": "P28-VI-039",
+   "id": "P28-VI-045",
    "sent": "S021",
    "text": "năm mới",
    "occ": 1,
@@ -566,7 +651,21 @@
    "note": "bước vào năm mới"
   },
   {
-   "id": "P28-VI-040",
+   "id": "P28-VI-046",
+   "sent": "S021",
+   "text": "ý định",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: đạt được quyết tâm của mình",
+   "conf": "med",
+   "alt": null,
+   "note": "tổng quát hóa quyết tâm → ý định (ý định tốt)"
+  },
+  {
+   "id": "P28-VI-047",
    "sent": "S022",
    "text": "mục tiêu",
    "occ": 1,
@@ -580,7 +679,7 @@
    "note": "VI tự sinh danh từ 'mục tiêu' — EN chỉ có 'to do something'"
   },
   {
-   "id": "P28-VI-041",
+   "id": "P28-VI-048",
    "sent": "S022",
    "text": "thất bại",
    "occ": 1,
@@ -594,7 +693,7 @@
    "note": "occ 1: 'thất bại thảm hại' lần 2 trong quote không đánh"
   },
   {
-   "id": "P28-VI-042",
+   "id": "P28-VI-049",
    "sent": "S022",
    "text": "Borland",
    "occ": 1,
@@ -608,7 +707,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-043",
+   "id": "P28-VI-050",
    "sent": "S023",
    "text": "Nhưng",
    "occ": 1,
@@ -622,7 +721,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-044",
+   "id": "P28-VI-051",
    "sent": "S023",
    "text": "thất bại này",
    "occ": 1,
@@ -637,7 +736,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-045",
+   "id": "P28-VI-052",
    "sent": "S024",
    "text": "bạn sẽ",
    "occ": 1,
@@ -652,7 +751,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-046",
+   "id": "P28-VI-053",
    "sent": "S024",
    "text": "thất bại",
    "occ": 1,
@@ -666,7 +765,21 @@
    "note": null
   },
   {
-   "id": "P28-VI-047",
+   "id": "P28-VI-054",
+   "sent": "S025",
+   "text": "thành công",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S024: đôi khi bạn sẽ thất bại",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối thất bại ↔ thành công (tỷ lệ thành công 100 phần trăm); mở đầu chuỗi thành công (S038 quy về đây)"
+  },
+  {
+   "id": "P28-VI-055",
    "sent": "S027",
    "text": "Borland",
    "occ": 1,
@@ -680,7 +793,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-048",
+   "id": "P28-VI-056",
    "sent": "S027",
    "text": "quyết tâm năm mới",
    "occ": 1,
@@ -694,7 +807,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-049",
+   "id": "P28-VI-057",
    "sent": "S027",
    "text": "thất bại",
    "occ": 1,
@@ -708,7 +821,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-050",
+   "id": "P28-VI-058",
    "sent": "S027",
    "text": "lên kế hoạch kém",
    "occ": 1,
@@ -722,7 +835,7 @@
    "note": "đối lập nghĩa 'kém ↔ rõ ràng/tốt' trong cùng chuỗi"
   },
   {
-   "id": "P28-VI-051",
+   "id": "P28-VI-059",
    "sent": "S028",
    "text": "quyết tâm năm mới",
    "occ": 1,
@@ -736,7 +849,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-052",
+   "id": "P28-VI-060",
    "sent": "S028",
    "text": "kế hoạch tốt",
    "occ": 1,
@@ -750,7 +863,21 @@
    "note": "đối 'kém ↔ tốt'; 'chúng' trong câu không đánh"
   },
   {
-   "id": "P28-VI-053",
+   "id": "P28-VI-061",
+   "sent": "S028",
+   "text": "thực hiện",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S017: bạn sẵn sàng thực hiện",
+   "conf": "high",
+   "alt": null,
+   "note": "kế hoạch tốt để thực hiện chúng — mắt xích bị sót của chuỗi thực hiện"
+  },
+  {
+   "id": "P28-VI-062",
    "sent": "S029",
    "text": "chúng ta",
    "occ": 1,
@@ -765,22 +892,22 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-054",
+   "id": "P28-VI-063",
    "sent": "S030",
    "text": "Điều này",
    "occ": 1,
    "cat": "R",
-   "sub": "personal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S029: chúng ta vẫn đang chìm đắm trong chế độ nghỉ lễ",
    "conf": "high",
    "alt": null,
-   "note": "quy chiếu mệnh đề",
+   "note": "quy chiếu mệnh đề (extended reference)",
    "ref": "A"
   },
   {
-   "id": "P28-VI-055",
+   "id": "P28-VI-064",
    "sent": "S030",
    "text": "đây",
    "occ": 1,
@@ -795,7 +922,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-056",
+   "id": "P28-VI-065",
    "sent": "S030",
    "text": "thay đổi",
    "occ": 1,
@@ -809,7 +936,7 @@
    "note": "thay đổi bản thân triệt để"
   },
   {
-   "id": "P28-VI-057",
+   "id": "P28-VI-066",
    "sent": "S031",
    "text": "mùa nghỉ lễ",
    "occ": 1,
@@ -823,7 +950,7 @@
    "note": "VI không chủ ngữ — EN time-it cũng không đánh"
   },
   {
-   "id": "P28-VI-058",
+   "id": "P28-VI-067",
    "sent": "S032",
    "text": "Khi bạn tắm nắng",
    "occ": 1,
@@ -838,7 +965,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-059",
+   "id": "P28-VI-068",
    "sent": "S032",
    "text": "kế hoạch nào",
    "occ": 1,
@@ -852,7 +979,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-060",
+   "id": "P28-VI-069",
    "sent": "S032",
    "text": "hành vi đó",
    "occ": 1,
@@ -866,7 +993,7 @@
    "note": "'đó' trong câu chỉ 'một phương pháp' (trong câu); 'duy trì' khởi tạo chuỗi"
   },
   {
-   "id": "P28-VI-061",
+   "id": "P28-VI-070",
    "sent": "S033",
    "text": "các chiến lược đó",
    "occ": 1,
@@ -881,7 +1008,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-062",
+   "id": "P28-VI-071",
    "sent": "S033",
    "text": "Bạn",
    "occ": 1,
@@ -896,7 +1023,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-063",
+   "id": "P28-VI-072",
    "sent": "S033",
    "text": "kế hoạch",
    "occ": 1,
@@ -910,7 +1037,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-064",
+   "id": "P28-VI-073",
    "sent": "S033",
    "text": "triển khai",
    "occ": 1,
@@ -924,7 +1051,21 @@
    "note": "triển khai ≈ thực hiện (thay đổi từ trong cùng chuỗi)"
   },
   {
-   "id": "P28-VI-065",
+   "id": "P28-VI-074",
+   "sent": "S033",
+   "text": "lối sống hàng ngày",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S032: thói quen thường ngày",
+   "conf": "med",
+   "alt": null,
+   "note": "thói quen ≈ lối sống; lặp hình vị ngày (thường ngày ↔ hàng ngày)"
+  },
+  {
+   "id": "P28-VI-075",
    "sent": "S034",
    "text": "Và",
    "occ": 1,
@@ -938,7 +1079,7 @@
    "note": "câu 2 của quote"
   },
   {
-   "id": "P28-VI-066",
+   "id": "P28-VI-076",
    "sent": "S036",
    "text": "bạn kiên trì",
    "occ": 1,
@@ -953,7 +1094,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-067",
+   "id": "P28-VI-077",
    "sent": "S036",
    "text": "quyết tâm",
    "occ": 1,
@@ -967,7 +1108,7 @@
    "note": "kiên trì với quyết tâm của mình"
   },
   {
-   "id": "P28-VI-068",
+   "id": "P28-VI-078",
    "sent": "S036",
    "text": "duy trì",
    "occ": 1,
@@ -981,7 +1122,7 @@
    "note": "mắt xích VI tự sinh — EN S037 không có từ 'sustain' nào"
   },
   {
-   "id": "P28-VI-069",
+   "id": "P28-VI-079",
    "sent": "S037",
    "text": "thực hiện",
    "occ": 1,
@@ -995,7 +1136,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-070",
+   "id": "P28-VI-080",
    "sent": "S037",
    "text": "mục tiêu",
    "occ": 1,
@@ -1009,9 +1150,23 @@
    "note": "occ 1: lần 2 ('một mục tiêu cụ thể') trong câu không đánh"
   },
   {
-   "id": "P28-VI-071",
+   "id": "P28-VI-081",
+   "sent": "S037",
+   "text": "đạt được",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: thực sự đạt được quyết tâm của mình",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp đạt được (có thể đạt được trong định nghĩa SMART); nhãn S045 quy về đây"
+  },
+  {
+   "id": "P28-VI-082",
    "sent": "S038",
-   "text": "bạn không bỏ cuộc",
+   "text": "bạn",
    "occ": 1,
    "cat": "R",
    "sub": "personal",
@@ -1020,11 +1175,25 @@
    "ante": "độc giả (ngoại văn bản — quote)",
    "conf": "med",
    "alt": null,
-   "note": null,
+   "note": "occ 1 ('đảm bảo bạn không bỏ cuộc'); lần 2 ('bạn có thể tăng') trong câu không đánh",
    "ref": "E"
   },
   {
-   "id": "P28-VI-072",
+   "id": "P28-VI-083",
+   "sent": "S038",
+   "text": "bỏ cuộc",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S036: đảm bảo bạn kiên trì với quyết tâm",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối kiên trì ↔ bỏ cuộc (đảm bảo bạn không bỏ cuộc)"
+  },
+  {
+   "id": "P28-VI-084",
    "sent": "S038",
    "text": "kế hoạch",
    "occ": 1,
@@ -1038,7 +1207,7 @@
    "note": "occ 1: lần 2 ('một kế hoạch rõ ràng' — có hàng 'rõ ràng' riêng) trong câu"
   },
   {
-   "id": "P28-VI-073",
+   "id": "P28-VI-085",
    "sent": "S038",
    "text": "rõ ràng",
    "occ": 1,
@@ -1052,7 +1221,7 @@
    "note": "một kế hoạch rõ ràng — VI chuỗi 'rõ' mạnh hơn EN"
   },
   {
-   "id": "P28-VI-074",
+   "id": "P28-VI-086",
    "sent": "S038",
    "text": "thành công",
    "occ": 1,
@@ -1066,7 +1235,7 @@
    "note": "cơ hội thành công của mình"
   },
   {
-   "id": "P28-VI-075",
+   "id": "P28-VI-087",
    "sent": "S040",
    "text": "Cụ thể",
    "occ": 1,
@@ -1080,7 +1249,7 @@
    "note": "VI giữ nhãn EN + chú giải (song ngữ); 'thực sự cụ thể' lần 2 trong câu không đánh"
   },
   {
-   "id": "P28-VI-076",
+   "id": "P28-VI-088",
    "sent": "S040",
    "text": "bạn muốn",
    "occ": 1,
@@ -1095,7 +1264,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-077",
+   "id": "P28-VI-089",
    "sent": "S040",
    "text": "đạt được",
    "occ": 1,
@@ -1109,7 +1278,7 @@
    "note": "muốn đạt được; VI lặp từ nơi EN đổi (accomplish)"
   },
   {
-   "id": "P28-VI-078",
+   "id": "P28-VI-090",
    "sent": "S041",
    "text": "bạn muốn",
    "occ": 1,
@@ -1124,7 +1293,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-079",
+   "id": "P28-VI-091",
    "sent": "S041",
    "text": "ăn uống lành mạnh hơn",
    "occ": 1,
@@ -1138,7 +1307,7 @@
    "note": "trích lại nguyên văn"
   },
   {
-   "id": "P28-VI-080",
+   "id": "P28-VI-092",
    "sent": "S042",
    "text": "đo lường",
    "occ": 1,
@@ -1152,7 +1321,7 @@
    "note": "VI giữ nhãn EN + chú giải"
   },
   {
-   "id": "P28-VI-081",
+   "id": "P28-VI-093",
    "sent": "S042",
    "text": "bạn sẽ theo dõi",
    "occ": 1,
@@ -1167,7 +1336,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-082",
+   "id": "P28-VI-094",
    "sent": "S043",
    "text": "Ví dụ",
    "occ": 1,
@@ -1181,7 +1350,7 @@
    "note": "kiểu ví dụ; VI lấp đầy E ('chỉ chạy ba lần')"
   },
   {
-   "id": "P28-VI-083",
+   "id": "P28-VI-095",
    "sent": "S043",
    "text": "bạn cam kết",
    "occ": 1,
@@ -1196,7 +1365,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-084",
+   "id": "P28-VI-096",
    "sent": "S044",
    "text": "sự rõ ràng này",
    "occ": 1,
@@ -1211,7 +1380,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-085",
+   "id": "P28-VI-097",
    "sent": "S044",
    "text": "bạn nhận ra",
    "occ": 1,
@@ -1226,7 +1395,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-086",
+   "id": "P28-VI-098",
    "sent": "S044",
    "text": "Borland",
    "occ": 1,
@@ -1240,7 +1409,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-087",
+   "id": "P28-VI-099",
    "sent": "S044",
    "text": "thành công",
    "occ": 1,
@@ -1254,7 +1423,7 @@
    "note": "khi nào bạn đang thành công"
   },
   {
-   "id": "P28-VI-088",
+   "id": "P28-VI-100",
    "sent": "S044",
    "text": "hiệu chỉnh",
    "occ": 1,
@@ -1268,7 +1437,7 @@
    "note": "lặp hình vị 'chỉnh' (điều chỉnh ↔ hiệu chỉnh)"
   },
   {
-   "id": "P28-VI-089",
+   "id": "P28-VI-101",
    "sent": "S045",
    "text": "đạt được",
    "occ": 1,
@@ -1282,7 +1451,7 @@
    "note": "VI giữ nhãn 'Achievable (Có thể đạt được)' song ngữ"
   },
   {
-   "id": "P28-VI-090",
+   "id": "P28-VI-102",
    "sent": "S045",
    "text": "mục tiêu",
    "occ": 1,
@@ -1296,7 +1465,7 @@
    "note": "occ 1: lần 2 ('mục tiêu của bạn') trong câu không đánh"
   },
   {
-   "id": "P28-VI-091",
+   "id": "P28-VI-103",
    "sent": "S045",
    "text": "thực tế",
    "occ": 1,
@@ -1310,7 +1479,7 @@
    "note": "mục tiêu của bạn thực tế với hoàn cảnh"
   },
   {
-   "id": "P28-VI-092",
+   "id": "P28-VI-104",
    "sent": "S045",
    "text": "của bạn",
    "occ": 1,
@@ -1325,7 +1494,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-093",
+   "id": "P28-VI-105",
    "sent": "S046",
    "text": "bạn đã sống",
    "occ": 1,
@@ -1340,7 +1509,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-094",
+   "id": "P28-VI-106",
    "sent": "S046",
    "text": "mục tiêu",
    "occ": 1,
@@ -1354,7 +1523,7 @@
    "note": "việc đặt mục tiêu nấu"
   },
   {
-   "id": "P28-VI-095",
+   "id": "P28-VI-107",
    "sent": "S046",
    "text": "bữa ăn",
    "occ": 1,
@@ -1368,7 +1537,7 @@
    "note": "những bữa ăn ngon mỗi tối"
   },
   {
-   "id": "P28-VI-096",
+   "id": "P28-VI-108",
    "sent": "S047",
    "text": "Thay vào đó",
    "occ": 1,
@@ -1382,7 +1551,22 @@
    "note": "thay thế đề xuất"
   },
   {
-   "id": "P28-VI-097",
+   "id": "P28-VI-109",
+   "sent": "S047",
+   "text": "dễ quản lý hơn",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S046: việc đặt mục tiêu nấu những bữa ăn ngon mỗi tối có thể là một điều quá sức",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: dễ quản lý HƠN so với việc nấu bữa ăn ngon mỗi tối (S046); H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P28-VI-110",
    "sent": "S047",
    "text": "một mục tiêu",
    "occ": 1,
@@ -1396,7 +1580,7 @@
    "note": "'mục tiêu này dễ quản lý' lần 2 trong câu là apposition, không đánh"
   },
   {
-   "id": "P28-VI-098",
+   "id": "P28-VI-111",
    "sent": "S047",
    "text": "nấu",
    "occ": 1,
@@ -1410,7 +1594,7 @@
    "note": "tự nấu ba bữa tối"
   },
   {
-   "id": "P28-VI-099",
+   "id": "P28-VI-112",
    "sent": "S047",
    "text": "bữa tối",
    "occ": 1,
@@ -1424,7 +1608,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-100",
+   "id": "P28-VI-113",
    "sent": "S047",
    "text": "giúp bạn",
    "occ": 1,
@@ -1439,7 +1623,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-101",
+   "id": "P28-VI-114",
    "sent": "S047",
    "text": "thành công",
    "occ": 1,
@@ -1453,7 +1637,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-102",
+   "id": "P28-VI-115",
    "sent": "S048",
    "text": "Thực tế",
    "occ": 1,
@@ -1467,7 +1651,7 @@
    "note": "VI giữ nhãn 'Realistic (Thực tế)' song ngữ"
   },
   {
-   "id": "P28-VI-103",
+   "id": "P28-VI-116",
    "sent": "S048",
    "text": "mục tiêu",
    "occ": 1,
@@ -1481,7 +1665,7 @@
    "note": "xem mục tiêu của bạn"
   },
   {
-   "id": "P28-VI-104",
+   "id": "P28-VI-117",
    "sent": "S048",
    "text": "của bạn",
    "occ": 1,
@@ -1492,11 +1676,25 @@
    "ante": "độc giả (ngoại văn bản)",
    "conf": "med",
    "alt": null,
-   "note": "occ 1: lần 2 ('lối sống của bạn') trong câu không đánh; 'lối sống' khởi tạo chuỗi",
+   "note": "occ 1: lần 2 ('lối sống của bạn') trong câu không đánh",
    "ref": "E"
   },
   {
-   "id": "P28-VI-105",
+   "id": "P28-VI-118",
+   "sent": "S048",
+   "text": "lối sống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S033: lối sống hàng ngày của mình",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp lối sống (phù hợp với lối sống của bạn)"
+  },
+  {
+   "id": "P28-VI-119",
    "sent": "S049",
    "text": "Ví dụ",
    "occ": 1,
@@ -1510,7 +1708,7 @@
    "note": "kiểu ví dụ"
   },
   {
-   "id": "P28-VI-106",
+   "id": "P28-VI-120",
    "sent": "S049",
    "text": "bạn chưa bao giờ",
    "occ": 1,
@@ -1525,7 +1723,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-107",
+   "id": "P28-VI-121",
    "sent": "S050",
    "text": "Bạn",
    "occ": 1,
@@ -1540,7 +1738,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-108",
+   "id": "P28-VI-122",
    "sent": "S050",
    "text": "mục tiêu thực tế",
    "occ": 1,
@@ -1554,7 +1752,7 @@
    "note": "'mục tiêu đó' trong câu (hậu chỉ) không đánh"
   },
   {
-   "id": "P28-VI-109",
+   "id": "P28-VI-123",
    "sent": "S051",
    "text": "bạn thực sự có thể",
    "occ": 1,
@@ -1569,21 +1767,22 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-110",
+   "id": "P28-VI-124",
    "sent": "S051",
    "text": "thực tế hơn",
    "occ": 1,
-   "cat": "L",
-   "sub": "repetition",
+   "cat": "R",
+   "sub": "comparative",
    "dir": "ana",
    "level": "LC",
-   "ante": "S050: mục tiêu thực tế",
+   "ante": "S050: đó không phải là mục tiêu thực tế",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "[LC] quy chiếu so sánh: thực tế HƠN so với mục tiêu vừa bị bác (S050); mặt lặp thực tế ghi ở analysis §6",
+   "ref": "A"
   },
   {
-   "id": "P28-VI-111",
+   "id": "P28-VI-125",
    "sent": "S051",
    "text": "đạt được",
    "occ": 1,
@@ -1597,7 +1796,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-112",
+   "id": "P28-VI-126",
    "sent": "S051",
    "text": "Borland",
    "occ": 1,
@@ -1611,7 +1810,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-113",
+   "id": "P28-VI-127",
    "sent": "S052",
    "text": "Có giới hạn thời gian",
    "occ": 1,
@@ -1625,7 +1824,7 @@
    "note": "VI giữ nhãn 'Time-bound' + chú giải; 'khung thời gian' lần 2 trong câu ghi note"
   },
   {
-   "id": "P28-VI-114",
+   "id": "P28-VI-128",
    "sent": "S052",
    "text": "của bạn",
    "occ": 1,
@@ -1640,7 +1839,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-115",
+   "id": "P28-VI-129",
    "sent": "S052",
    "text": "rõ ràng",
    "occ": 1,
@@ -1654,7 +1853,7 @@
    "note": "khung thời gian rõ ràng"
   },
   {
-   "id": "P28-VI-116",
+   "id": "P28-VI-130",
    "sent": "S052",
    "text": "đạt được",
    "occ": 1,
@@ -1668,7 +1867,7 @@
    "note": "để đạt được mục tiêu"
   },
   {
-   "id": "P28-VI-117",
+   "id": "P28-VI-131",
    "sent": "S052",
    "text": "mục tiêu",
    "occ": 1,
@@ -1682,7 +1881,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-118",
+   "id": "P28-VI-132",
    "sent": "S053",
    "text": "bạn sẽ",
    "occ": 1,
@@ -1697,7 +1896,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-119",
+   "id": "P28-VI-133",
    "sent": "S053",
    "text": "khỏe mạnh",
    "occ": 1,
@@ -1711,7 +1910,7 @@
    "note": "khỏe mạnh ≈ fit/lành mạnh"
   },
   {
-   "id": "P28-VI-120",
+   "id": "P28-VI-134",
    "sent": "S053",
    "text": "nêu rõ",
    "occ": 1,
@@ -1725,7 +1924,21 @@
    "note": "chuỗi 'rõ' VI; EN dùng 'specify' (hình vị speci-)"
   },
   {
-   "id": "P28-VI-121",
+   "id": "P28-VI-135",
+   "sent": "S053",
+   "text": "chạy",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S043: cam kết chạy bốn lần một tuần",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp chạy (bạn sẽ chạy được 5 km)"
+  },
+  {
+   "id": "P28-VI-136",
    "sent": "S054",
    "text": "của bạn",
    "occ": 1,
@@ -1740,7 +1953,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-122",
+   "id": "P28-VI-137",
    "sent": "S054",
    "text": "quyết tâm",
    "occ": 1,
@@ -1754,7 +1967,7 @@
    "note": "mốc thời gian cho quyết tâm của bạn"
   },
   {
-   "id": "P28-VI-123",
+   "id": "P28-VI-138",
    "sent": "S054",
    "text": "mốc thời gian",
    "occ": 1,
@@ -1768,7 +1981,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-124",
+   "id": "P28-VI-139",
    "sent": "S054",
    "text": "theo dõi tiến trình",
    "occ": 1,
@@ -1782,7 +1995,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-125",
+   "id": "P28-VI-140",
    "sent": "S055",
    "text": "bạn sẽ biến",
    "occ": 1,
@@ -1797,7 +2010,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-126",
+   "id": "P28-VI-141",
    "sent": "S055",
    "text": "quyết tâm",
    "occ": 1,
@@ -1811,7 +2024,7 @@
    "note": "lập cấu trúc cho quyết tâm của mình"
   },
   {
-   "id": "P28-VI-127",
+   "id": "P28-VI-142",
    "sent": "S055",
    "text": "kế hoạch",
    "occ": 1,
@@ -1825,7 +2038,7 @@
    "note": "một kế hoạch rõ ràng, có thể thực hiện được"
   },
   {
-   "id": "P28-VI-128",
+   "id": "P28-VI-143",
    "sent": "S055",
    "text": "rõ ràng",
    "occ": 1,
@@ -1839,7 +2052,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-129",
+   "id": "P28-VI-144",
    "sent": "S055",
    "text": "thực hiện được",
    "occ": 1,
@@ -1853,7 +2066,7 @@
    "note": "'gắn bó' — VI đổi từ nơi EN lặp 'stick'"
   },
   {
-   "id": "P28-VI-130",
+   "id": "P28-VI-145",
    "sent": "S057",
    "text": "bạn",
    "occ": 1,
@@ -1868,7 +2081,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-131",
+   "id": "P28-VI-146",
    "sent": "S057",
    "text": "quyết tâm năm mới",
    "occ": 1,
@@ -1882,7 +2095,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-132",
+   "id": "P28-VI-147",
    "sent": "S057",
    "text": "không thực hiện được",
    "occ": 1,
@@ -1896,7 +2109,7 @@
    "note": "hồi quy xa 55 câu — VI quay lại chuỗi 'không thực hiện được' sau chuỗi 'thất bại'"
   },
   {
-   "id": "P28-VI-133",
+   "id": "P28-VI-148",
    "sent": "S058",
    "text": "mục tiêu",
    "occ": 1,
@@ -1910,7 +2123,7 @@
    "note": "Nhiều người đặt ra mục tiêu"
   },
   {
-   "id": "P28-VI-134",
+   "id": "P28-VI-149",
    "sent": "S058",
    "text": "ý định tốt",
    "occ": 1,
@@ -1924,7 +2137,7 @@
    "note": "với ý định tốt nhất"
   },
   {
-   "id": "P28-VI-135",
+   "id": "P28-VI-150",
    "sent": "S058",
    "text": "thất bại",
    "occ": 1,
@@ -1938,7 +2151,7 @@
    "note": "'thực tế trong cuộc sống' — realities ≠ realistic, không đánh (ghi §8)"
   },
   {
-   "id": "P28-VI-136",
+   "id": "P28-VI-151",
    "sent": "S059",
    "text": "những khoảnh khắc này",
    "occ": 1,
@@ -1953,7 +2166,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-137",
+   "id": "P28-VI-152",
    "sent": "S059",
    "text": "Borland",
    "occ": 1,
@@ -1967,7 +2180,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-138",
+   "id": "P28-VI-153",
    "sent": "S060",
    "text": "thay đổi",
    "occ": 1,
@@ -1981,7 +2194,7 @@
    "note": "rất khó để thay đổi hoàn toàn; 'Thực tế,' trạng từ câu không đánh (ghi §8)"
   },
   {
-   "id": "P28-VI-139",
+   "id": "P28-VI-154",
    "sent": "S060",
    "text": "Borland",
    "occ": 1,
@@ -1995,22 +2208,22 @@
    "note": null
   },
   {
-   "id": "P28-VI-140",
+   "id": "P28-VI-155",
    "sent": "S061",
    "text": "điều đó",
    "occ": 1,
    "cat": "R",
-   "sub": "personal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S060: thay đổi hoàn toàn và trở thành người khác",
    "conf": "high",
    "alt": null,
-   "note": "quy chiếu mệnh đề",
+   "note": "quy chiếu mệnh đề (extended reference)",
    "ref": "A"
   },
   {
-   "id": "P28-VI-141",
+   "id": "P28-VI-156",
    "sent": "S061",
    "text": "làm điều đó",
    "occ": 1,
@@ -2024,7 +2237,7 @@
    "note": "[LC] 'làm' thế động từ — VI giữ pro-form hiếm hoi (VI gộp 2 lần EN 'do it and do it' thành 1)"
   },
   {
-   "id": "P28-VI-142",
+   "id": "P28-VI-157",
    "sent": "S061",
    "text": "thành công",
    "occ": 1,
@@ -2038,7 +2251,7 @@
    "note": "'họ' VI tự thêm trong câu, không đánh"
   },
   {
-   "id": "P28-VI-143",
+   "id": "P28-VI-158",
    "sent": "S062",
    "text": "Ông",
    "occ": 1,
@@ -2053,7 +2266,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-144",
+   "id": "P28-VI-159",
    "sent": "S062",
    "text": "thay đổi",
    "occ": 1,
@@ -2067,7 +2280,7 @@
    "note": "occ 1: lần 2, 3 ('sự kiện thay đổi cuộc sống', 'thay đổi bản thân') trong câu không đánh"
   },
   {
-   "id": "P28-VI-145",
+   "id": "P28-VI-160",
    "sent": "S063",
    "text": "Tuy nhiên",
    "occ": 1,
@@ -2081,7 +2294,7 @@
    "note": "VI đảo connective lên đầu câu"
   },
   {
-   "id": "P28-VI-146",
+   "id": "P28-VI-161",
    "sent": "S063",
    "text": "chúng ta",
    "occ": 1,
@@ -2096,7 +2309,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-147",
+   "id": "P28-VI-162",
    "sent": "S063",
    "text": "quyết tâm",
    "occ": 1,
@@ -2110,7 +2323,7 @@
    "note": "các quyết tâm"
   },
   {
-   "id": "P28-VI-148",
+   "id": "P28-VI-163",
    "sent": "S063",
    "text": "nghịch cảnh",
    "occ": 1,
@@ -2124,7 +2337,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-149",
+   "id": "P28-VI-164",
    "sent": "S063",
    "text": "phấn đấu",
    "occ": 1,
@@ -2138,7 +2351,7 @@
    "note": "hồi quy xa 61 câu"
   },
   {
-   "id": "P28-VI-150",
+   "id": "P28-VI-165",
    "sent": "S064",
    "text": "Nhưng",
    "occ": 1,
@@ -2152,7 +2365,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-151",
+   "id": "P28-VI-166",
    "sent": "S064",
    "text": "Borland",
    "occ": 1,
@@ -2166,7 +2379,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-152",
+   "id": "P28-VI-167",
    "sent": "S064",
    "text": "cảnh báo không nên",
    "occ": 1,
@@ -2180,7 +2393,7 @@
    "note": "lặp nguyên cụm"
   },
   {
-   "id": "P28-VI-153",
+   "id": "P28-VI-168",
    "sent": "S064",
    "text": "hướng tới",
    "occ": 1,
@@ -2194,7 +2407,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-154",
+   "id": "P28-VI-169",
    "sent": "S065",
    "text": "bạn thường thấy",
    "occ": 1,
@@ -2209,7 +2422,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-155",
+   "id": "P28-VI-170",
    "sent": "S065",
    "text": "thay đổi",
    "occ": 1,
@@ -2223,7 +2436,7 @@
    "note": "cố gắng thay đổi từ con người hiện tại"
   },
   {
-   "id": "P28-VI-156",
+   "id": "P28-VI-171",
    "sent": "S065",
    "text": "phiên bản tốt hơn",
    "occ": 1,
@@ -2237,12 +2450,12 @@
    "note": "'con người' lặp 2 lần trong câu (TC) ghi note"
   },
   {
-   "id": "P28-VI-157",
+   "id": "P28-VI-172",
    "sent": "S066",
    "text": "Sự ngắt kết nối này",
    "occ": 1,
    "cat": "R",
-   "sub": "nominal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S065: con người hiện tại thành con người tốt hơn",
@@ -2252,7 +2465,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-158",
+   "id": "P28-VI-173",
    "sent": "S066",
    "text": "những mục tiêu cao cả này",
    "occ": 1,
@@ -2267,7 +2480,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-VI-159",
+   "id": "P28-VI-174",
    "sent": "S066",
    "text": "chúng ta",
    "occ": 1,
@@ -2282,7 +2495,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-160",
+   "id": "P28-VI-175",
    "sent": "S066",
    "text": "thất bại",
    "occ": 1,
@@ -2296,7 +2509,7 @@
    "note": "sự thất vọng và thất bại"
   },
   {
-   "id": "P28-VI-161",
+   "id": "P28-VI-176",
    "sent": "S066",
    "text": "đạt được",
    "occ": 1,
@@ -2310,7 +2523,21 @@
    "note": "VI lặp từ nơi EN đổi ('meet')"
   },
   {
-   "id": "P28-VI-162",
+   "id": "P28-VI-177",
+   "sent": "S066",
+   "text": "hy sinh",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S065: rất nhiều thứ mà bạn thực sự không muốn làm",
+   "conf": "med",
+   "alt": null,
+   "note": "những hy sinh cần thiết — tổng quát hóa các thứ phải đánh đổi của 'phiên bản tốt hơn'"
+  },
+  {
+   "id": "P28-VI-178",
    "sent": "S067",
    "text": "chúng ta",
    "occ": 1,
@@ -2325,7 +2552,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-163",
+   "id": "P28-VI-179",
    "sent": "S067",
    "text": "phiên bản",
    "occ": 1,
@@ -2339,7 +2566,7 @@
    "note": "đạt được phiên bản hoàn hảo"
   },
   {
-   "id": "P28-VI-164",
+   "id": "P28-VI-180",
    "sent": "S067",
    "text": "hoàn hảo",
    "occ": 1,
@@ -2353,21 +2580,21 @@
    "note": null
   },
   {
-   "id": "P28-VI-165",
+   "id": "P28-VI-181",
    "sent": "S068",
    "text": "Trên thực tế",
    "occ": 1,
    "cat": "C",
-   "sub": "additive",
+   "sub": "continuative",
    "dir": "ana",
    "level": "LC",
    "ante": "S067: Rất ít người trong chúng ta đạt được phiên bản hoàn hảo",
    "conf": "high",
    "alt": null,
-   "note": "nhấn mạnh"
+   "note": "continuative tăng tiến: chỉnh sub từ 'additive' theo H&H §5.8"
   },
   {
-   "id": "P28-VI-166",
+   "id": "P28-VI-182",
    "sent": "S068",
    "text": "chúng ta",
    "occ": 1,
@@ -2382,7 +2609,21 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-167",
+   "id": "P28-VI-183",
+   "sent": "S068",
+   "text": "hoàn hảo",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S067: phiên bản hoàn hảo của chính bản thân",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hoàn hảo — VI hiện thực hóa ∅ vị ngữ của EN S070"
+  },
+  {
+   "id": "P28-VI-184",
    "sent": "S069",
    "text": "của bạn",
    "occ": 1,
@@ -2397,7 +2638,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-VI-168",
+   "id": "P28-VI-185",
    "sent": "S069",
    "text": "thất bại",
    "occ": 1,
@@ -2411,7 +2652,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-169",
+   "id": "P28-VI-186",
    "sent": "S070",
    "text": "thất bại",
    "occ": 1,
@@ -2425,7 +2666,7 @@
    "note": null
   },
   {
-   "id": "P28-VI-170",
+   "id": "P28-VI-187",
    "sent": "S070",
    "text": "quá trình",
    "occ": 1,

@@ -12,8 +12,8 @@ There were 🟪⟦big changes⟧ for parts of Australia's migration system last 
 For Ben Watt, a registered migration agent and lawyer, 🟪⟦the Albanese government⟧ "said what they were going to do, and they've very much done it".
 "The end of 🟪⟦permanent temporariness⟧ is a brilliant move, and 🟨⟦I⟧ think 🟪⟦the changes⟧ 🟨⟦they've⟧ made are good," 🟨⟦he⟧ told SBS News.
 '🟪⟦Permanent temporariness⟧' refers to long-term temporary stays, often driven by 'visa hopping' — where people stay in the country for years by shifting between visa types.
-While 🟪⟦Watt⟧ thinks 🟪⟦the reforms⟧ are broadly positive, he argues some 🟦⟦∅⟧will work to "fine tune" 🟪⟦the system⟧ instead of resulting in major change.
-"At the end of the day, with all 🟨⟦this discussion⟧ ... the amount of 🟪⟦permanent visas⟧ is staying about the same," 🟨⟦he⟧ said.
+While 🟪⟦Watt⟧ thinks 🟪⟦the reforms⟧ are broadly positive, he argues some 🟦⟦∅⟧will work to "fine tune" 🟪⟦the system⟧ instead of resulting in 🟪⟦major change⟧.
+"🟧⟦At the end of the day⟧, with all 🟨⟦this discussion⟧ ... the amount of 🟪⟦permanent visas⟧ is staying about the same," 🟨⟦he⟧ said.
 Abul Rizvi, a former deputy secretary at the Department of Immigration from the early 1990s to 2007, agreed 🟨⟦this⟧ is a concern.
 What major visa changes were announced in 2024?
 🟪⟦The government⟧ has allocated 185,000 places to 🟪⟦the permanent migration program⟧ for 2024-25, down from 190,000 in the previous financial year.
@@ -27,7 +27,7 @@ The new ministerial direction 111 will introduce two categories of 🟪⟦studen
 All 🟪⟦international education providers⟧ will receive 🟪⟦high priority⟧ up to 80 per cent of their indicative international student allotment received this year. After 80 per cent, 🟨⟦they⟧ will receive 🟪⟦standard priority⟧.
 Announcing 🟪⟦the change⟧, Minister for Home Affairs Tony Burke said: "The best option would have been 🟪⟦the cap⟧ that was voted down by Peter Dutton, but 🟨⟦this option⟧ will still allow us to 🟨⟦us⟧e one of the biggest levers in our migration system."
 🟪⟦The new scheme⟧ will replace 🟪⟦ministerial direction 107⟧, which was introduced by 🟪⟦the government⟧ last year to reduce 🟪⟦student numbers⟧ in the short term by slowing down 🟪⟦visa processing⟧ for smaller universities and students from countries deemed more likely to breach visa rules.
-There were several other 🟪⟦changes⟧ to 🟪⟦the student visa program⟧.
+There were several 🟨⟦other⟧ 🟪⟦changes⟧ to 🟪⟦the student visa program⟧.
 🟨⟦This⟧ included eligibility 🟪⟦reforms⟧, with restrictions introduced barring certain 🟪⟦temporary visa holders⟧ from applying for 🟪⟦a student visa⟧.
 From 1 July last year, 🟪⟦temporary graduate⟧, visitor and maritime crew visa holders were unable to 🟪⟦apply⟧ while in Australia. 🟪⟦The full list⟧ is available on the Department of Home Affairs website.
 "🟪⟦Visa hopping⟧ has contributed to a growing cohort of '🟪⟦permanently temporary⟧' 🟪⟦former international students⟧ living in Australia," 🟪⟦the department⟧ said at the time.
@@ -37,7 +37,7 @@ The financial capacity requirement — or the amount that 🟪⟦student and stu
 🟪⟦Rizvi⟧ said a lot of 🟪⟦the student visa policy changes⟧ "needed to be done".
 While many of 🟨⟦these⟧ impacted 🟪⟦application rates⟧, he said the biggest impact came from t🟨⟦he⟧ ramping up of refusal rates.
 Temporary Graduate visas
-Under 🟪⟦changes⟧ which 🟪⟦came into effect⟧ on 1 July, the length of stay for 🟪⟦Temporary Graduate visa (TGV) holders⟧ was reduced, and a new age limit 🟦⟦∅⟧imposed.
+Under 🟪⟦changes⟧ which 🟪⟦came into effect⟧ on 1 July, 🟪⟦the length of stay⟧ for 🟪⟦Temporary Graduate visa (TGV) holders⟧ was reduced, and a new age limit 🟦⟦∅⟧imposed.
 🟪⟦The Temporary Graduate Visa⟧ (subclass 458) was streamlined from four 🟪⟦streams⟧ into three: Post-Vocational Education Work, Post-Higher Education and Second Post-Higher Education Work.
 🟪⟦The age limit⟧ was reduced to 35 years of age or under. 🟩⟦Those⟧ undertaking a master's degree or a doctorate (PhD) are still 🟪⟦eligible⟧ until the age of 50.
 Hong Kong and British National Overseas 🟪⟦passport holders⟧ are 🟧⟦also⟧ 🟪⟦still eligible until age 50⟧.
@@ -74,33 +74,33 @@ Australia's migration levels — and returning to 'normal'
 🟪⟦The government⟧ expects its 🟪⟦strategy⟧ will help return 🟪⟦migration⟧ to "near pre-pandemic levels" by next financial year.
 The COVID-19 🟪⟦pandemic⟧ prompted Australia to close its borders in 2020, and 🟪⟦migration levels⟧ — sometimes referred to as net overseas migration or NOM — entered a shortfall.
 🟪⟦NOM⟧ refers to the difference between those who enter and leave Australia, and includes both 🟪⟦migrants⟧ and Australians.
-With the reopening of 🟪⟦borders⟧ in 2021-22 came the return of 🟪⟦temporary and permanent migrants⟧, and a subsequent temporary rebound or "catch-up" of arrivals.
+With the 🟪⟦reopening⟧ of 🟪⟦borders⟧ in 2021-22 came 🟪⟦the return⟧ of 🟪⟦temporary and permanent migrants⟧, and a subsequent temporary rebound or "catch-up" of arrivals.
 "🟪⟦Net migration⟧ went over half a million, which is completely unprecedented in Australian history. 🟨⟦That⟧ gave rise to a bit of panic," said Peter McDonald, a demography professor at the Australian National University.
 "🟧⟦But⟧ if 🟨⟦you⟧ took the four years, from 2020 to 2024, 🟪⟦the level of migration⟧ is roughly 🟨⟦the same⟧ as it was beforehand, on average. 🟨⟦It⟧ was just very low in one period and very high in another."
-🟪⟦The problem⟧ came from fewer departures from Australia that year — an estimated 55,000 lower than 🟪⟦the government's⟧ projections, according to McDonald.
+🟪⟦The problem⟧ came from fewer 🟪⟦departures⟧ from Australia that year — an estimated 55,000 lower than 🟪⟦the government's⟧ projections, according to McDonald.
 After peaking in 2022-23, annual 🟪⟦NOM⟧ dropped to 446,000 in 2023-24, according to data released by the Australian Bureau of Statistics in December.
 🟨⟦This⟧ was about 130,000 higher than the government 🟪⟦forecast⟧ for that year in the 2023-24 budget (315,000), and about 51,000 more than its revised projection in the 2024-25 budget of 395,000.
-🟨⟦It⟧ was the first annual drop since the country's 🟪⟦borders⟧ reopened. 🟪⟦Migrant arrivals⟧ fell by 10 per cent while 🟪⟦departures⟧ rose by 8 per cent, compared to the previous year.
+🟨⟦It⟧ was the first annual 🟪⟦drop⟧ since the country's 🟪⟦borders⟧ reopened. 🟪⟦Migrant arrivals⟧ 🟪⟦fell⟧ by 10 per cent while 🟪⟦departures⟧ rose by 8 per cent, compared to the previous year.
 🟪⟦Rizvi⟧ said 🟨⟦this fall⟧ was "inevitable" given 🟪⟦the government's⟧ tightening of policy through a "blizzard" of 🟪⟦changes⟧.
-🟪⟦The government⟧ 🟪⟦projected⟧ in last year's budget that 🟪⟦NOM⟧ will drop to 260,000 in 2024-25.
+🟪⟦The government⟧ 🟪⟦projected⟧ in last year's budget that 🟪⟦NOM⟧ will 🟪⟦drop⟧ to 260,000 in 2024-25.
 🟨⟦Its⟧ Mid-Year Economic and Fiscal Outlook (MYEFO) on 18 December 🟪⟦revised⟧ 🟨⟦this figure⟧ up by 80,000 to 340,000.
 🟪⟦The forecast⟧ for 2025-26 held, at 255,000.
-"🟨⟦It's⟧ still too big, but 🟨⟦it's⟧ coming down. 🟧⟦And⟧ as long as 🟨⟦we⟧ don't 🟪⟦panic⟧, 🟨⟦it⟧ will come down when 🟪⟦departures⟧ start moving. With time, 🟨⟦we'll⟧ be 🟪⟦back to normal⟧," 🟪⟦McDonald⟧ had said, ahead of the 🟪⟦MYEFO⟧ update.
+"🟨⟦It's⟧ still too big, but 🟨⟦it's⟧ 🟪⟦coming down⟧. 🟧⟦And⟧ as long as 🟨⟦we⟧ don't 🟪⟦panic⟧, 🟨⟦it⟧ will 🟪⟦come down⟧ when 🟪⟦departures⟧ start moving. With time, 🟨⟦we'll⟧ be 🟪⟦back to normal⟧," 🟪⟦McDonald⟧ had said, ahead of the 🟪⟦MYEFO⟧ update.
 A looming federal election
-In his budget reply last May, Opposition leader 🟪⟦Peter Dutton⟧, pledged, if elected, to cut 🟪⟦permanent migration⟧ annually by 25 per cent from 2024-25 — from 185,000 to 140,000 over two years, then back up to 160,000 over the following two years.
-In interviews with radio stations 3AW and 2GB the following day, 🟨⟦he⟧ 🟧⟦also⟧ 🟪⟦pledged⟧ to cut 🟪⟦net overseas migration⟧ to about 160,000.
+In his budget reply last May, 🟪⟦Opposition⟧ leader 🟪⟦Peter Dutton⟧, pledged, if elected, to cut 🟪⟦permanent migration⟧ annually by 25 per cent from 2024-25 — from 185,000 to 140,000 over two years, then back up to 160,000 over the following two years.
+In interviews with radio stations 3AW and 2GB the following day, 🟨⟦he⟧ 🟧⟦also⟧ 🟪⟦pledged⟧ to 🟪⟦cut⟧ 🟪⟦net overseas migration⟧ to about 160,000.
 Speaking with Sky News on 8 December, 🟪⟦Dutton⟧ was repeatedly asked whether 160,000 remained his 🟪⟦NOM⟧ target.
 🟧⟦Instead⟧, 🟨⟦he⟧ referred to his 🟪⟦permanent migration pledge⟧.
 "What we've said is 🟨⟦we⟧ want our migration to step down in the first two years, it will ramp up in years three and four. 🟧⟦And⟧ 🟨⟦we⟧ will bring down 🟪⟦the numbers⟧ who come through the humanitarian and refugee program back to the long run average of that," 🟪⟦Dutton said⟧.
 "🟨⟦That's⟧ what will work for 🟨⟦our⟧ country. 🟧⟦Again⟧, we'll have a look at our economic settings, as we said at the time of the policy announcement, when we come into 🟪⟦the government⟧ to determine exactly how much damage Labor has done, and what 🟨⟦we⟧ need to do."
 A spokesperson for 🟪⟦Dutton⟧ said he has been on the record on numerous occasions stating the Coalition's 🟪⟦permanent and net migration⟧ figures. "🟨⟦I⟧ don't think 🟨⟦he⟧ could be accused of shying away from 🟨⟦that⟧," 🟨⟦they⟧ said.
-🟪⟦Australians⟧ will head to the polls in the first five months of this year.
+🟪⟦Australians⟧ will head to 🟪⟦the polls⟧ in the first five months of this year.
 What other changes could happen in 2025?
 When 🟪⟦the government⟧ announced its plan to 🟪⟦cap the number of international student enrolments⟧ in 2024, it was said that the measure would place 🟪⟦the sector⟧ on a more sustainable footing.
 🟨⟦It⟧ raised 🟪⟦concerns⟧ among some 🟪⟦education providers⟧.
-A Senate report recommended the legislation should pass parliament with amendments, however, 🟪⟦the government⟧ changed course after facing strong opposition from 🟪⟦the Coalition⟧ and the Greens.
+A Senate report recommended 🟪⟦the legislation⟧ should pass parliament with amendments, however, 🟪⟦the government⟧ changed course after facing strong opposition from 🟪⟦the Coalition⟧ and the Greens.
 Elaborating on 🟪⟦ministerial direction 111⟧ that embodies 🟨⟦this change⟧, Education Minister Jason Clare said: "Improving 🟪⟦the current approach⟧ will strengthen 🟨⟦our⟧ ability to manage the flow of 🟪⟦international students⟧ and better support 🟪⟦regional education providers⟧."
 "It shouldn't just be the big 🟪⟦inner-city unis⟧ that benefit from 🟪⟦international education⟧. TAFEs, regional and suburban 🟪⟦unis⟧ should 🟪⟦benefit⟧ 🟧⟦too⟧, and 🟨⟦this new approach⟧ will help 🟨⟦us⟧ 🟩⟦do that⟧."
-🟪⟦Rizvi⟧ argues 🟨⟦this⟧ faces a broader issue.
+🟪⟦Rizvi⟧ argues 🟨⟦this⟧ faces a 🟨⟦broader⟧ issue.
 "What happens to all those 🟪⟦temporary graduates and students⟧ who are looking for 🟪⟦a pathway to permanent residence⟧ but won't get 🟩⟦one⟧ because there are not enough 🟪⟦places⟧? 🟨⟦That's⟧ really difficult."
 Looking ahead to this year, 🟪⟦Watt⟧ said: "🟨⟦We'll⟧ see 🟪⟦what happens⟧. 🟨⟦I⟧ want 🟨⟦it⟧ to go well."

@@ -4,6 +4,21 @@
 **TT (VI):** "Cách thiết lập và duy trì mục tiêu cho năm mới 2025" (SBS Tiếng Việt)
 
 - Thể loại: feature lifestyle (service feature) khuyến nghị độc giả — không phải tin tức sự kiện. Bài gồm: standfirst tóm tắt (S001–S002) → mở bài nhập đề (S003–S014) → 4 khối subhead (hỏi–đáp: lợi hại; vì sao thất bại; mẹo SMART; thất bại thì làm gì) đan quote của chuyên gia Ron Borland (giáo sư tâm lý, Deakin).
+
+> **Khung (theo references/ của skill):** EN — Halliday & Hasan (1976), *Cohesion in
+> English* (references/halliday-hasan-1976.md): reference (personal, demonstrative,
+> comparative + mạo từ `the`; H&H §2), substitution (§3), ellipsis = substitution
+> by zero (§4), conjunction additive/adversative/causal/temporal + continuatives
+> (§5), lexical cohesion reiteration (repetition/synonym/superordinate/general
+> word, §6.2) + collocation gồm cặp đối nghĩa (§6.4). VI — Trần Ngọc Thêm, *Hệ
+> thống liên kết văn bản tiếng Việt* (1985; tái bản 2006)
+> (references/tran-ngoc-them-2006.md): phép lặp (§26–29), phép đối (§30), phép
+> thế đẳng nghĩa (§31), phép liên tưởng (§32), phép thế đại từ khiếm
+> diện/dự báo/hồi quy (§35–36), phép tỉnh lược (§37, §41), phép nối (§38, §43).
+> Dịch chuyển EN↔VI đối chiếu theo Nguyễn Thanh Tùng (2020)
+> (references/translation-en-vi-2020.md) và bảng quyết định references/en-vi-mapping.md
+> §3 (14 phép thử) — đọc trước khi chốt từng mã R/S/E/C/L.
+
 - Quy ước: [LC] liên câu; [TC] trong câu; [TD] tiêu đề (không render); `∅` thành phần bị lược; `{…}` phần bù hồi phục.
 - Subhead (EN S015/S027/S036/S041/S058; VI S014/S026/S035/S039/S056) giữ nguyên dạng, **không gán nhãn** theo quy ước "headline không có liên kết". Các nhãn liệt kê *Specific:/Measurable:/Achievable:/Realistic:/Time-bound:* nằm TRONG câu thân bài (VI giữ nguyên nhãn tiếng Anh kèm chú giải), được đánh dấu như thành viên chuỗi từ vựng.
 - Chuỗi ngôi 2 (you/bạn) và ngôi 1 số nhiều (we/us; chúng ta) chạy suốt bài: **mỗi câu xuất hiện chỉ đánh 1 dấu** (lần đầu trong câu), các lần còn lại ghi trong note — quy ước nêu rõ để đối chiếu §9.
@@ -35,7 +50,7 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 | E-VI2 | TT S006 | "∅ Có thể là ăn uống lành mạnh hơn." | như E-VI1 (đối ứng EN "It could be…") | [LC] |
 | E-VI3 | TT S007 | "∅ Có thể là đọc 25 cuốn sách…" | như E-VI1 (đối ứng EN "It might be…") | [LC] |
 
-**Nhận định:** Cặp P28 cho hai chiều đối lập đẹp của tỉnh lược. (i) EN "It might be/could be/might be" (S005–S007) quy chiếu về "how we can improve our lives" (S004) → phía EN là 3 tie **R-A**; bản dịch VI rơi chủ ngữ thành "Có thể là…" → phía VI là 3 tie **E [LC]**. EN S008 "Whatever it is" cũng quy chiếu (R-A) nhưng VI "Dù là gì đi nữa" là cụm nhượng bộ cố định hấp thụ đại từ → **không bịa E** ở đây. (ii) Ngược lại, S045 EN lược trong câu ({times}) và S070 EN lược liên câu ({are ideal}) thì VI đều hiện thực hóa ("chỉ chạy ba lần"; "thực sự hoàn hảo") → E chỉ tồn tại phía EN. Các ứng viên bị loại: "It's the middle of a holiday season" (S032) và "it can be a tricky time" (S031) là time-it/expletive; "It's great to aim high" (S047), "it's important" (S061), "it's very difficult" (S062) là expletive — VI đối ứng: "Đang là giữa mùa nghỉ lễ" (không chủ ngữ), "điều quan trọng là", "rất khó để" đều không tạo ∅ gọi là liên kết (xem §4.3).
+**Nhận định:** Cặp P28 cho hai chiều đối lập đẹp của tỉnh lược. (i) EN "It might be/could be/might be" (S005–S007) quy chiếu về "how we can improve our lives" (S004) → phía EN là 3 tie **R-A**; bản dịch VI rơi chủ ngữ thành "Có thể là…" → phía VI là 3 tie **E [LC]**. EN S008 "Whatever it is" cũng quy chiếu (R-A) nhưng VI "Dù là gì đi nữa" là cụm nhượng bộ cố định hấp thụ đại từ → **không bịa E** ở đây. (ii) Ngược lại, S045 EN lược trong câu ({times}) và S070 EN lược liên câu ({are ideal}) thì VI đều hiện thực hóa ("chỉ chạy ba lần"; "thực sự hoàn hảo") → E chỉ tồn tại phía EN. Các ứng viên bị loại: "It's the middle of a holiday season" (S032) và "it can be a tricky time" (S031) là time-it/expletive; "It's great to aim high" (S047), "it's important" (S061), "it's very difficult" (S062) là expletive — VI đối ứng: "Đang là giữa mùa nghỉ lễ" (không chủ ngữ), "điều quan trọng là", "rất khó để" đều không tạo ∅ gọi là liên kết (xem §4.3). **Theo H&H §4:** tỉnh lược là "substitution by zero" — tiêu chí là hồi phục được (recoverability) từ đồng văn; **theo TNT §23.2, §37:** đây là *liên kết khiếm diện* của phép tỉnh lược (lược CHỮ NGHĨA) — khác *thế đại từ khiếm diện* (§35, theo dõi tham chiếu) — nên 3 ∅ chủ ngữ (S005–S007 TT) mã E và theo nguyên tắc "một hình thức, một hàng" (mapping §3.5, §3.13) không đánh song R cho cùng ∅.
 
 ## 3. Phép thế (substitution)
 
@@ -44,7 +59,7 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 | S-EN1 | EN | S063 "to just decide to do it and do it" | "do" thế động từ cho "completely change" (S062); "it" trong "do it" cùng referent với "it happens" (đã đánh R); "do" thứ hai ("and do it") cùng cụm thế, không đánh thêm | [LC] |
 | S-VI1 | VI | S061 "khi họ chỉ quyết định làm điều đó" | "làm" thế động từ cho "thay đổi hoàn toàn" (S060) — giữ 1–1 với EN "do"; VI gộp "do it and do it" thành "làm điều đó" một lần | [LC] |
 
-**Nhận định:** Đây là hiếm hoi cặp bản dịch VI **giữ pro-form thế động từ** thay vì hiện thực hóa ("làm" ↔ "do"). Các "ứng viên" khác đều bị loại sau khi đọc: "them" (S002 "make good on them") → VI lặp danh từ + chỉ từ "những lời cam kết đó" (quy chiếu trong câu); "fail them" (S020) → VI viết lại "đều thất bại" (động từ nội động, không còn chỗ); "something" (S033/S038), "điều gì đó" (S037) là từ bất định, không phải thế; "think ahead that far" (S035) ↔ "nghĩ xa đến vậy" là pro-form mức độ, conf thấp, chỉ ghi nhận.
+**Nhận định:** Đây là hiếm hoi cặp bản dịch VI **giữ pro-form thế động từ** thay vì hiện thực hóa ("làm" ↔ "do"). Các "ứng viên" khác đều bị loại sau khi đọc: "them" (S002 "make good on them") → VI lặp danh từ + chỉ từ "những lời cam kết đó" (quy chiếu trong câu); "fail them" (S020) → VI viết lại "đều thất bại" (động từ nội động, không còn chỗ); "something" (S033/S038), "điều gì đó" (S037) là từ bất định, không phải thế; "think ahead that far" (S035) ↔ "nghĩ xa đến vậy" là pro-form mức độ, conf thấp, chỉ ghi nhận. **Theo H&H §3.3:** "do" là thế động từ — phép thử §3.1.1: lấp đầy lại "completely change" mà câu vẫn hợp ngữ pháp → quan hệ CHỮ NGHĨA, không phải quy chiếu. **Theo TNT §31 + mapping §2:** *phép thế đại từ* của VI bao trùm cả thế lẫn quy chiếu; VI giữ pro-form "làm điều đó" là ngoại lệ hiếm đi ngược xu hướng "VI thường hiện thực hóa/lặp danh từ" mà NTT (2020) §2.1 ghi nhận.
 
 ## 4. Phép quy chiếu (reference)
 
@@ -71,6 +86,9 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 | R-EN15 | S064 "He points out" | S062 "Ông chỉ ra" | S062/S060: Borland | VI giữ danh xưng |
 | R-EN16 | S068 "This disconnect" | S066 "Sự ngắt kết nối này" | S067/S065: fantasised you | danh từ tổng quát tóm chỉ |
 | R-EN17 | S068 "these lofty goals" | S066 "những mục tiêu cao cả này" (này occ 2) | S060/S063: set goals / các quyết tâm | hai dấu "này" trong một câu VI, occ 1–2 |
+| R-EN18 | S014 "Here" | S013 "Đây" | S015–S070: phần giải thích theo sau | **[Phase-2]** quy chiếu mở rộng TIỀN CHỈ hiếm (H&H §2.4 + §2.4.1.4) — "Here's why" trỏ cả khối giải thích |
+| R-EN19 | S049 "more manageable" | S047 "dễ quản lý hơn" | S048/S046: gourmet meals every night / nấu bữa ngon mỗi tối | **[Phase-2]** quy chiếu so sánh (H&H §2.5 "more/hơn") — chuẩn so sánh ở câu trước |
+| R-EN20 | S053 "more realistic" | S051 "thực tế hơn" | S052/S050: not quite a realistic goal | **[Phase-2]** quy chiếu so sánh (H&H §2.5) — reclassify từ L repetition theo mapping §3.13 |
 
 **Ngoại quy chiếu E (chuỗi liên văn bản, không có tiền trạm trong bài):**
 
@@ -81,9 +99,9 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 
 ### 4.2. Hướng A/C/E
 
-- **A (hồi quy):** 17 dấu EN / 15 dấu VI — It/They/He (EN), Ông/Chúng (VI), That/This/these/those (EN), Điều đó/Điều này/đây/này/đó (VI). Toàn bộ giải quyết được trong văn bản.
-- **C (tiền chỉ):** **không có** ở cả hai đầu — "that country you've always wanted to visit" (S007) là recognitional-that với mệnh đề quan hệ **trong cùng câu** (VI hiện thực hóa "đất nước mà bạn…"), không phải tiền chỉ liên câu.
-- **E (ngoại văn bản):** 38 dấu EN / 36 dấu VI — toàn bộ là chuỗi ngôi 2 (you/bạn) và ngôi 1 số nhiều (we-us/chúng ta) của thể feature khuyến nghị; đây là khác biệt thể loại lớn nhất so với các cặp tin tức (P21 chỉ có E trong khối advice cuối).
+- **A (hồi quy):** 20 dấu EN / 16 dấu VI — It/They/He (EN), Ông/Chúng (VI), That/This/these/those (EN), Điều đó/Điều này/đây/này/đó (VI); [Phase-2] thêm mỗi đầu 2 dấu quy chiếu so sánh (more manageable/dễ quản lý hơn; more realistic/thực tế hơn — H&H §2.5). Toàn bộ giải quyết được trong văn bản.
+- **C (tiền chỉ):** **[Phase-2] có 1 cặp:** EN S014 "Here's why" ↔ VI S013 "Đây là lý do tại sao" — chỉ từ trỏ toàn bộ phần giải thích theo sau (H&H §2.4 + §2.4.1.4 extended reference; hướng dự báo theo TNT §23.4). Riêng "that country you've always wanted to visit" (S007) vẫn là recognitional-that với mệnh đề quan hệ **trong cùng câu** (VI hiện thực hóa "đất nước mà bạn…"), không phải tiền chỉ liên câu.
+- **E (ngoại văn bản):** 36 dấu EN / 36 dấu VI (tính theo tie table) — toàn bộ là chuỗi ngôi 2 (you/bạn) và ngôi 1 số nhiều (we-us/chúng ta) của thể feature khuyến nghị; đây là khác biệt thể loại lớn nhất so với các cặp tin tức (P21 chỉ có E trong khối advice cuối).
 
 ### 4.3. Hệ đại từ / danh xưng / [±người] (đều trong câu → không đánh dấu)
 
@@ -92,6 +110,7 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 - **Đại từ phản thân không đánh:** yourself (S023), ourselves (S022/S065), oneself (S064); VI: mình (S004, S042, S033…), bản thân (S059, S062, S063, S067), tự (S022), chính mình (S063), chính bản thân (S067), "tự đặt ra" (S022).
 - **Danh xưng/hệ ngôi:** VI dùng "Ông" (S016, S062) cho Borland — thêm danh xưng lễ phép mà EN chỉ có "He"; VI "Chúng/chúng" [−người chức năng] cho "They/they" chỉ quyết tâm; VI giữ "bạn" trung tính suốt bài; không có đổi ngôi, không có T-V shift.
 - **Đại từ danh hóa:** S067 EN "current you / some fantasised you / the fantasised you" — "you" được dùng như danh từ; thuộc chuỗi E nhưng đã tính vào 1 dấu "you'll" của câu, các lần còn lại ghi note.
+- **[Phase-2] Ứng viên so sánh/quy chiếu bị loại vì [TC]** (R/C/L chỉ [LC]): so sánh có chuẩn NGẦM hoặc nằm TRONG CÂU — EN S005 "more" (gym more), S006 "healthier" ↔ VI S006 "lành mạnh hơn", S011 "more sleep", S043 "more vegetables" ↔ VI S041 "ăn nhiều rau hơn", S013 "more harm than good" ↔ VI S012 "gây hại nhiều hơn là có lợi", S024 "more important… rather than" ↔ VI S023 "quan trọng hơn… thay vì", S037 "longer than the average two weeks" ↔ VI S036 "lâu hơn… so với hai tuần trung bình", S052 "build up to that / that's not" ↔ VI S050 "mục tiêu đó / đó không phải", S057 "a much better chance" ↔ VI S055 "nhiều cơ hội hơn", S062 "a different person" ↔ VI S060 "một người khác", S065 "less about… more about" ↔ VI S063 "không phải… mà là", S067 "current you ↔ fantasised you" (phép đối trong câu), VI S063/S065 "phiên bản/con người tốt hơn" (chuẩn trong câu), VI S009/S012 "giống như", EN S049 "a goal like cooking…" ("like" trong câu). Danh từ có bổ ngữ cataphoric trong câu: EN S029 "One of the things that…" ↔ VI S028 "Một trong những đặc điểm…", EN S037 "a few ways to…" ↔ VI S036 "một số cách để…". Continuative không đứng đầu câu: EN S067 "anyhow" (cuối câu, trong quote). Idiom cố định không bridging: EN S060 "the realities of life" ↔ VI S058 "thực tế trong cuộc sống" (generic).
 
 ## 5. Phép nối (conjunction)
 
@@ -107,9 +126,9 @@ Câu VI tự sinh: **không có**. Không có câu gộp/tách (khác P21): hai 
 | C-EN8 | S051 "For instance" | S049 "Ví dụ" | additive (ví dụ) | 1–1 |
 | C-EN9 | S065 "however" | S063 "Tuy nhiên" | adversative | EN để giữa câu, VI đảo lên đầu |
 | C-EN10 | S066 "But Borland cautions" | S064 "Nhưng Borland cảnh báo" | adversative | 1–1 |
-| C-EN11 | S070 "In fact" | S068 "Trên thực tế" | additive (nhấn mạnh) | 1–1 |
+| C-EN11 | S070 "In fact" | S068 "Trên thực tế" | **continuative** (nhấn mạnh tăng tiến) | 1–1 — [Phase-2] điều chỉnh sub từ "additive" theo H&H §5.8 |
 
-**Nhận định:** Phép nối liên câu **bảo toàn tuyệt đối 11/11**, không có nối tự sinh, không có nối bị lược ở cấp liên câu — bản dịch VI cực kỳ trung thành với khung argumentative của EN (điểm khác hẳn các cặp tin tức tự do hơn). Các connective trong câu không vào inventory theo quy ước: "As 1 January rolls around" ↔ "Khi ngày 1 tháng 1 đến" (temporal); "because/vì" (S028/S027); "while/trong khi" (S011/S011, S022/S021); "unless/trừ khi" (S018/S017); "or/hoặc" (S037/S036); "Rather than/Thay vì" (S055/S053, S043/S041); "but/nhưng" trong nhãn Achievable (S047/S045). Đáng chú ý: S033 EN "…and then you go back… and you've got no plan" ↔ VI S032 "…**nhưng** sau đó bạn lại quay lại… **mà** không có kế hoạch" — EN nối cộng/tiếp liên, VI hiện thực hóa thành đối lập: **đổi kiểu nối trong câu** (ghi §7).
+**Nhận định:** Phép nối liên câu **bảo toàn tuyệt đối 11/11**, không có nối tự sinh, không có nối bị lược ở cấp liên câu — bản dịch VI cực kỳ trung thành với khung argumentative của EN (điểm khác hẳn các cặp tin tức tự do hơn). Các connective trong câu không vào inventory theo quy ước: "As 1 January rolls around" ↔ "Khi ngày 1 tháng 1 đến" (temporal); "because/vì" (S028/S027); "while/trong khi" (S011/S011, S022/S021); "unless/trừ khi" (S018/S017); "or/hoặc" (S037/S036); "Rather than/Thay vì" (S055/S053, S043/S041); "but/nhưng" trong nhãn Achievable (S047/S045). Đáng chú ý: S033 EN "…and then you go back… and you've got no plan" ↔ VI S032 "…**nhưng** sau đó bạn lại quay lại… **mà** không có kế hoạch" — EN nối cộng/tiếp liên, VI hiện thực hóa thành đối lập: **đổi kiểu nối trong câu** (ghi §7). **Theo H&H §5.8:** "In fact," (S070 EN) / "Trên thực tế," (S068 VI) đứng đầu câu là *continuative* — bộ tổ chức discours mở lượt nhấn mạnh tăng tiến ("rất ít" → "không ai"), không nối sự kiện trong thế giới; Phase-2 điều chỉnh sub hai hàng này từ "additive" (giống precedent P21 điều chỉnh "Now," từ "temporal"). **Theo TNT §38:** các nối liên câu của cặp thuộc phép nối lỏng của câu hợp nghĩa.
 
 ## 6. Liên kết từ vựng (lexical cohesion)
 
@@ -127,6 +146,17 @@ Quy tắc: một dấu cho mỗi chuỗi trong mỗi câu, tiền trạm theo nh
 - **Chuỗi lý tưởng:** EN idealised version (S065) → perfection (S066) → fantasised you (S067 ×2, ≈ idealised) → ideal (S069 ≈ idealised); VI hội tụ hoàn hảo (S064) → phiên bản hoàn hảo (S067) → hoàn hảo (S068), và phiên bản (S063→S065→S067). VI dịch "idealised" = "tốt hơn" (S063) — **mất ẩn dụ "lý tưởng hóa"**, và S067 "fantasised you" = "con người tốt hơn/phiên bản tốt hơn của bản thân" — VI bỏ hẳn trường nghĩa tưởng tượng.
 - **Chuỗi sức khỏe/lành mạnh:** EN eating healthier (S006) → health-based (S010) → healthier food choices (S010) → 'eat healthier' (S043, trích lại) → get fit (S055 ≈ fitness levels S010); VI ăn uống lành mạnh hơn (S006) → sức khỏe (S010) → lành mạnh hơn (S010) → 'ăn uống lành mạnh hơn' (S041) → "khỏe mạnh" (S053). behavioural (S016) → behaviour (S033); VI hành vi (S015 → S032).
 - **Chuỗi khác:** holiday mode (S030) → holiday season (S032) / chế độ nghỉ lễ (S029) → mùa nghỉ lễ (S031); lifestyle ×2 (S033) → day-to-day lifestyle (S034) → your lifestyle (S050) / thói quen thường ngày (S032) → lối sống hàng ngày (S033) → lối sống (S048) — EN lặp nguyên văn, VI đổi thói quen→lối sống; research (S009) → Studies (S020) → research (S021) / nghiên cứu (S009, S019, S020); track your progress (S044) → off track (S045, idiom vang nhau) → track progress (S056) / theo dõi tiến trình (S042) → chệch hướng (S043 — VI phân rã, không còn "track") → theo dõi tiến trình (S054); aim high (S047) → aiming (S048, S066) / đặt mục tiêu cao (S045) → hướng tới (S063→S064); meal (S043) → meals (S048) → dinners (S049) / bữa ăn (S041) → bữa ăn (S046) → bữa tối (S047); cook (S048) → cooking (S049) / nấu (S046→S047); intentions (S022) → intentions (S060) / ý định (S021→S058); journey (S024) → process (S072, ≈) / hành trình (S023) → quá trình (S070, lặp hình vị "trình"); new year/New Year (S001 hợp chất → S003 trích ngôn → S013 độc lập → S022) / năm mới (S001 → S003 → S012 → S021); cụm "duy trì" VI (S032 duy trì hành vi đó → S036 duy trì lâu hơn) không có đối ứng từ vựng EN (sustain → keep it going); "cảnh báo không nên" (S016→S064) lặp nguyên cụm, EN cautions against (S017→S066) cũng lặp nguyên cụm.
+- **[Phase-2] Chuỗi đồng nghĩa quyết tâm:** EN pledges (S002) ≈ resolution (S001) ↔ VI lời cam kết (S002) ≈ quyết tâm (S001) — H&H §6.2 reiteration (synonym); TNT §31 phép thế đẳng nghĩa (L, không phải S).
+- **[Phase-2] Chuỗi người Úc:** EN Australians (S009→S010) ↔ VI người Úc (S009→S010) — lặp liên câu hai đầu (H&H §6.2; TNT §26).
+- **[Phase-2] Chuỗi đạt được/achieve:** EN achieve (S021) → accomplish (S042) → achieve (S053) → achieving (S054) → achievable (S038, nhãn Achievable S047 quy về đây) ↔ VI đạt được (S020 → S037 → S040 → S045 → S051 → S052 → S066) — VI lặp nguyên văn nơi EN luân chuyển từ (NTT 2020 §2.1).
+- **[Phase-2] Phép đối liên câu (TNT §30; H&H §6.4 opposites):** EN achieve (S021) ↔ fail (S020); success (S026) ↔ fail (S025); give up (S040) ↔ stick (S037, đối có phủ định) ↔ VI đạt được (S020) ↔ thất bại (S019); thành công (S025) ↔ thất bại (S024); bỏ cuộc (S038) ↔ kiên trì (S036). Cặp poor↔good (S028↔S029 EN) / kém↔tốt (S027↔S028 VI) đã ghi chú trong hàng chuỗi kế hoạch (một hình thức một hàng — mapping §3.13).
+- **[Phase-2] Chuỗi "clear/rõ":** EN a very clear plan (S018) → a clear plan (S040) → **a clear deadline (S054)** → a clear, actionable plan (S057) ↔ VI rõ ràng (S017 → S038 → S052 → S055) — mắt xích S054 EN trước đây bị sót.
+- **[Phase-2] Chuỗi hành trình (danh từ tổng quát H&H §6.1):** EN **the journey (S024, alt "R: the")** → process (S072) ↔ VI hành trình (S023, vô định) → quá trình (S070, lặp hình vị "trình") — EN định danh bằng mạo từ, VI bằng zero (dịch chuyển the ↔ zero, NTT 2020 §2.2).
+- **[Phase-2] Chuỗi hy sinh:** EN the sacrifices (S068, alt "R: the") ← S067 "things you really don't want to do" ↔ VI hy sinh (S066) ← S065 "rất nhiều thứ mà bạn thực sự không muốn làm" — danh từ tổng quát bridging (H&H §6.1).
+- **[Phase-2] Chuỗi ý định:** EN intentions (S022 → S060) ↔ VI ý định (S021 → S058) — tổng quát hóa resolution/quyết tâm (H&H §6.1 general word).
+- **[Phase-2] Chuỗi hoàn hảo:** VI hoàn hảo (S064 → S067 → **S068**) — S068 "thực sự hoàn hảo" là từ lấp đầy ∅ vị ngữ của EN S070 (E → hiện thực hóa) nên EN không có hàng L riêng; EN idealised (S065) → fantasised (S067) → ideal (S069) như đã có.
+- **[Phase-2] Chuỗi lối sống VI:** thói quen thường ngày (S032) → **lối sống hàng ngày (S033)** → **lối sống (S048)** — VI đổi thói quen→lối sống nơi EN lặp nguyên văn lifestyle (S033/S034/S050).
+- **[Phase-2] Các mắt xích lặp sót khác:** EN transform (S013), change (S016), Studies (S020), failure (S022, danh hóa), implementing (S029), run (S055) ↔ VI thay đổi (S012), cải thiện (S004, lặp hình vị "thiện"), **thực hiện (S028 — mắt xích bị sót: S033 triển khai và S037 thực hiện đều trích S028 làm tiền trạm)**, chạy (S053) — H&H §6.2; TNT §26.
 - **Không vào inventory:** 74/39/37/33/17/20/26/88/8/100 phần trăm; 25 books/25 cuốn sách; two weeks ×3 (S020 "the first two weeks" → S033 "works for two weeks" → S037 "the average two weeks" — quantify reference "the average" ghi nhận ở đây, không đánh); 5K/5 km; 5am/5 giờ; April/tháng 4; 1 January/ngày 1 tháng 1 ×3 (S004, S030, S064); Finder, SBS News, Deakin, Scranton (tên riêng đơn biểu); động từ attribution said/told/said (EN) và nói/cho biết/nhấn mạnh (VI — "cho biết/nhấn mạnh" là động từ chức năng báo chí, không đánh C); danh từ tổng quát "people/mọi người/người" (S003, S020, S029, S035, S060, S063) chuỗi lỏng, conf thấp, chỉ ghi nhận; "cách/way/how" quá thường, không chuỗi hóa.
 
 ## 7. Các dịch chuyển liên kết nổi bật (tổng hợp)
@@ -146,6 +176,11 @@ Quy tắc: một dấu cho mỗi chuỗi trong mỗi câu, tiền trạm theo nh
 | EN mất ẩn dụ qua VI | 2 | idealised → "tốt hơn" (S063); fantasised you → "con người tốt hơn" (S065) |
 | Khối cắt (tie EN-only) | 2 câu | S012 (1 tie), S039 (4 tie, gồm chơi chữ SMART↔smart) |
 | VI lặp động từ thay thế ngữ pháp EN | 1 | S023 "chấp nhận…và chấp nhận" cho EN "lean into…and accept" |
+| EN đổi từ ↔ VI lặp nguyên văn trong cùng chuỗi | 2 | Studies (S020) ↔ nghiên cứu lặp; achievable (S038) ↔ đạt được lặp — NTT 2020 §2.1 |
+| EN "the + danh từ tổng quát" ↔ VI zero/vô định | 2 | the journey (S024) ↔ hành trình (S023); the sacrifices (S068) ↔ những hy sinh (S066) — NTT 2020 §2.2 |
+| EN R so sánh "more…" ↔ VI "…hơn" giữ 1–1 | 2 | more manageable (S049) ↔ dễ quản lý hơn (S047); more realistic (S053) ↔ thực tế hơn (S051) — H&H §2.5 |
+| Quy chiếu mở rộng tiền chỉ giữ 1–1 | 1 | Here's why (S014) ↔ Đây là lý do tại sao (S013) — H&H §2.4.1.4 |
+| Continuative giữ 1–1 | 1 | In fact (S070) ↔ Trên thực tế (S068) — H&H §5.8 |
 
 ## 8. Bất thường dữ liệu nguồn (cần ghi chú khi thống kê)
 
@@ -159,22 +194,22 @@ Quy tắc: một dấu cho mỗi chuỗi trong mỗi câu, tiền trạm theo nh
 8. Số liệu hai bên khớp tuyệt đối (74/39/37/33/17/88/8/100 phần trăm; 5 km; 5 giờ; tháng 4; hai tuần) — không có lỗi sai số kiểu P21; "26 per cent" và "20 per cent" chỉ có EN/VI đủ vì nằm ngoài khối cắt (S011 có dịch).
 9. Tiêu đề EN "you'll stick to" ↔ VI "duy trì" — khác biệt cấp [TD], không render, không dùng làm bằng chứng cấp câu.
 
-## 9. Đối chiếu số đếm: phân tích tay ↔ tie table
+## 9. Đối chiếu số đếm: phân tích tay ↔ tie table (đã cập nhật Phase-2 theo references)
 
 | Chỉ số | Đọc tay | Tie table | Ghi chú |
 |---|---:|---:|---|
-| EN — R | 55 | 54 | 18 A (It×4, They/they×2, That, this×2, This×2, this clarity, those, these×2, He×2, it) + 36 E (you/your 27, we/us 9, đọc theo quy ước 1 dấu/câu) |
+| EN — R | 57 | 57 | 20 A (It×4, They/they×2, That, this failure, This (S031), those, this approach (khối cắt), this clarity, these moments, these lofty goals, He×2, it happens, This disconnect, more manageable, more realistic) + 1 C (Here, S014) + 36 E (you/your 27, we/us 9, đọc theo quy ước 1 dấu/câu); +3 hàng Phase-2 (Here, more manageable, more realistic reclassify) |
 | EN — S | 1 | 1 | "do" (S063) [LC] |
 | EN — E | 2 | 2 | "three" (S045) [TC] + ∅ vị ngữ (S070) [LC] |
-| EN — C | 11 | 11 | But×4, Additionally, And, For example, Instead, For instance, however, In fact |
-| EN — L | 123 | 100 | chuỗi quyết tâm/thất bại/Borland/kế hoạch/SMART/đổi mới/thành công/sức khỏe/nghiên cứu/lối sống/thực hiện/lý tưởng/duy trì… — khi lập bảng, các mắt xích lần đầu / cụm cố định được loại nhiều hơn ước tính đọc tay |
-| VI — R | 51 | 50 | 14 A (Ông×2, Chúng/chúng×2, Điều đó/điều đó×2, Điều này, đây, này×5, đó) + 36 E (bạn 27, chúng ta 9) |
+| EN — C | 11 | 11 | But×4, Additionally, And, For example, Instead, For instance, however, In fact — [Phase-2] In fact điều chỉnh sub → continuative (H&H §5.8) |
+| EN — L | 116 | 116 | +17 hàng Phase-2: pledges (S002), Australians (S010), New Year's resolution + transform (S013), change (S016), Studies + achieve (S020/S021), failure + intentions (S022), success (S026), implementing (S029), achievable (S038), the journey (S024), give up (S040), a clear deadline (S054), run (S055), sacrifices (S068); −1 reclassify more realistic (S053) L→R (đếm lại theo tie table — ước tính đọc tay cũ 123 gồm cả mắt xích lần đầu/cụm cố định không vào bảng) |
+| VI — R | 53 | 53 | 16 A (Ông×2, Chúng/chúng×2, Điều đó/điều đó×2, Điều này, đây (S030), này×5, các chiến lược đó, Sự ngắt kết nối này, dễ quản lý hơn, thực tế hơn) + 1 C (Đây, S013) + 36 E (bạn 27, chúng ta 9); +3 hàng Phase-2 (Đây, dễ quản lý hơn, thực tế hơn reclassify) |
 | VI — S | 1 | 1 | "làm" (S061) [LC] |
 | VI — E | 3 | 3 | ∅ chủ ngữ (S005, S006, S007) [LC] |
-| VI — C | 11 | 11 | Nhưng×4, Ngoài ra, Và, Ví dụ×2, Thay vào đó, Tuy nhiên, Trên thực tế |
-| VI — L | 124 | 105 | mật độ tương đương EN; VI có 2 tie tự sinh (mục tiêu S022, duy trì S036) và các tie hội tụ do bản dịch đổi từ ít hơn |
+| VI — C | 11 | 11 | Nhưng×4, Ngoài ra, Và, Ví dụ×2, Thay vào đó, Tuy nhiên, Trên thực tế — [Phase-2] Trên thực tế điều chỉnh sub → continuative (H&H §5.8) |
+| VI — L | 119 | 119 | +15 hàng Phase-2: lời cam kết (S002), cải thiện (S004), người Úc (S010), thay đổi (S012), đạt được (S020), ý định (S021), thành công (S025), lối sống hàng ngày (S033), đạt được (S037), thực hiện (S028), bỏ cuộc (S038), lối sống (S048), chạy (S053), hy sinh (S066), hoàn hảo (S068); −1 reclassify thực tế hơn (S051) L→R (đếm lại theo tie table — ước tính đọc tay cũ 124; VI giữ 2 tie tự sinh mục tiêu S022, duy trì S036) |
 
-**Tổng tie table: EN 168 / VI 170 (VI hơn EN 3):** khối cắt EN làm mất 5 hàng EN-only (S012: 1; S039: 4); bù lại VI có 3 hàng E ∅-chủ-ngữ đối xứng với 3 hàng R-A "It" của EN (cân bằng 3–3), 1 hàng "đây" (S030) VI-only (EN time-it không đánh), 1 hàng "mục tiêu" (S022) VI tự sinh, 1 hàng "duy trì" (S036) VI tự sinh, cộng các vị trí VI lặp đậm hơn (lành mạnh hơn S010, rõ ràng tách hàng S052/S055, thất bại/đạt được ở S057–S058/S066) → chênh cuối cùng −3 cho EN. Bảng tie table là chuẩn cuối cùng.
+**Tổng tie table: EN 187 / VI 187 (cân bằng tuyệt đối sau Phase-2):** trước Phase-2 là EN 168 / VI 170 (VI hơn 2). Khối cắt EN làm mất 5 hàng EN-only (S012: 1; S039: 4); bù lại VI có 3 hàng E ∅-chủ-ngữ đối xứng với 3 hàng R-A "It" của EN (cân bằng 3–3), 1 hàng "đây" (S030) VI-only (EN time-it không đánh), 1 hàng "mục tiêu" (S022) VI tự sinh, 1 hàng "duy trì" (S036) VI tự sinh, cộng các vị trí VI lặp đậm hơn. Phase-2 thêm EN 19 hàng (17 L + 2 R) và VI 17 hàng (15 L + 2 R): VI đã có sẵn hàng cho một số mắt xích EN bổ sung (quyết tâm năm mới S012, thay đổi S015, thất bại S021, rõ ràng S052, nghiên cứu S019) và "hành trình" VI vô định không có hàng, nên hai đầu về cân bằng. Bảng tie table là chuẩn cuối cùng.
 
 **Kết luận:**
 1. Cặp P28 là feature khuyến nghị nên cấu trúc liên kết bị chi phối bởi **hai chuỗi ngoại quy chiếu liên văn bản** (you/bạn ×27, we-us/chúng ta ×9–10) — khác căn bản các cặp tin tức; toàn bộ ngôi 2 gần như bảo toàn từng vị trí 1–1.
@@ -182,3 +217,4 @@ Quy tắc: một dấu cho mỗi chuỗi trong mỗi câu, tiền trạm theo nh
 3. Phép nối liên câu **bảo toàn 11/11 cả năm kiểu vị trí** — bản dịch cực kỳ trung thành; chỉ có nối trong câu là đổi kiểu (and then → nhưng).
 4. Từ vựng: VI hội tụ nhiều chuỗi EN (resolution+goal → mục tiêu/quyết tâm; follow through+implementing → thực hiện; improve+transform+change → cải thiện/thay đổi) nhưng cũng tự sinh 2 mắt xích (mục tiêu S022, duy trì S036) và bỏ 2 ẩn dụ (idealised, fantasised you).
 5. Hai câu cắt (S012, S039) chỉ làm mất 5 tie EN, không phá chuỗi chính; mọi tie trong khối cắt đều ghi "khối cắt, VI none". Mục [TC] duy nhất của cặp (E-EN1, S045) không dùng làm bằng chứng liên câu.
+6. **Phase-2 (theo references):** 36 tie mới (EN 19 / VI 17) gồm: 2 cặp quy chiếu so sánh hai đầu (more manageable/dễ quản lý hơn; more realistic/thực tế hơn — H&H §2.5, trong đó 2 hàng reclassify L→R theo mapping §3.13), 1 cặp quy chiếu mở rộng tiền chỉ Here/Đây (H&H §2.4.1.4), 3 cặp phép đối liên câu (TNT §30: achieve/success/give up ↔ đạt được/thành công/bỏ cuộc), 4 danh từ tổng quát bridging (H&H §6.1: intentions/ý định, the journey/hành trình, the sacrifices/hy sinh), các mắt xích chuỗi lặp sót (H&H §6.2; TNT §26: pledges/lời cam kết, Australians/người Úc, transform/thay đổi, change, Studies, failure, implementing/thực hiện, achievable/đạt được, run/chạy, a clear deadline, hoàn hảo, lối sống); kèm 7 sửa sub→demonstrative (H&H §2.4), 2 sửa sub additive→continuative (H&H §5.8: In fact/Trên thực tế), rút span VI S038 theo precedent chồng marker của chính P28, +alt "R: the" (mapping §3.6). Các đối xứng EN↔VI này đều đúng bảng dịch chuyển của NTT (2020) §5 (EN đổi từ ↔ VI lặp; the ↔ zero; R so sánh giữ 1–1).

@@ -6,49 +6,49 @@
 
 ---
 
-Khoảng 74 phần trăm 🟨⟦chúng ta⟧ đang đưa ra quyết tâm cho năm mới 2025. 🟧⟦Nhưng⟧ trong khi 🟨⟦chúng ta⟧ phấn đấu để tự hoàn thiện, những lời cam kết của chúng ta có thể không thực sự tốt cho chúng ta và nhiều người trong chúng ta sẽ không thực hiện được những lời cam kết đó.
+Khoảng 74 phần trăm 🟨⟦chúng ta⟧ đang đưa ra quyết tâm cho năm mới 2025. 🟧⟦Nhưng⟧ trong khi 🟨⟦chúng ta⟧ phấn đấu để tự hoàn thiện, những 🟪⟦lời cam kết⟧ của chúng ta có thể không thực sự tốt cho chúng ta và nhiều người trong chúng ta sẽ không thực hiện được những lời cam kết đó.
 Có một lý do khiến mọi người nói '🟪⟦năm mới⟧, tôi cũng mới'.
-Khi ngày 1 tháng 1 đến, nhiều người trong 🟨⟦chúng ta⟧ bắt đầu nghĩ về cách chúng ta có thể cải thiện cuộc sống của mình.
+Khi ngày 1 tháng 1 đến, nhiều người trong 🟨⟦chúng ta⟧ bắt đầu nghĩ về cách chúng ta có thể 🟪⟦cải thiện⟧ cuộc sống của mình.
 🟦⟦∅⟧Có thể là đến phòng tập nhiều hơn. 🟦⟦∅⟧Có thể là ăn uống lành mạnh hơn. 🟦⟦∅⟧Có thể là đọc 25 cuốn sách hoặc cuối cùng là đi du lịch đến đất nước mà 🟨⟦bạn luôn muốn⟧ đến thăm.
 Dù là gì đi nữa, việc lập mục tiêu cho 🟪⟦năm mới⟧ dường như là bản năng thứ hai của một số người.
 Theo nghiên cứu từ trang web so sánh Finder, khoảng 74 phần trăm người Úc sẽ lập 🟪⟦mục tiêu⟧ cho 🟪⟦năm mới⟧ vào năm 2025.
-Các 🟪⟦mục tiêu⟧ phổ biến nhất cho 🟪⟦năm mới⟧ là về sức khỏe, với 39 phần trăm người Úc muốn 🟪⟦cải thiện⟧ chế độ ăn uống và lựa chọn thực phẩm 🟪⟦lành mạnh hơn⟧, 37 phần trăm muốn cải thiện mức độ thể lực của mình và 33 phần trăm hy vọng sẽ giảm cân.
+Các 🟪⟦mục tiêu⟧ phổ biến nhất cho 🟪⟦năm mới⟧ là về sức khỏe, với 39 phần trăm 🟪⟦người Úc⟧ muốn 🟪⟦cải thiện⟧ chế độ ăn uống và lựa chọn thực phẩm 🟪⟦lành mạnh hơn⟧, 37 phần trăm muốn cải thiện mức độ thể lực của mình và 33 phần trăm hy vọng sẽ giảm cân.
 Ít nhất 17 phần trăm muốn ngủ nhiều hơn, trong khi 20 phần trăm hy vọng được 🟪⟦đi du lịch⟧ nước ngoài.
 
-🟧⟦Nhưng⟧ trong khi 🟪⟦Năm mới⟧ có thể giống như một thời điểm tuyệt vời để thay đổi cuộc sống 🟨⟦của bạn⟧, thì 🟪⟦quyết tâm năm mới⟧ của bạn thực sự có thể gây hại nhiều hơn là có lợi.
-Đây là lý do tại sao.
+🟧⟦Nhưng⟧ trong khi 🟪⟦Năm mới⟧ có thể giống như một thời điểm tuyệt vời để 🟪⟦thay đổi⟧ cuộc sống 🟨⟦của bạn⟧, thì 🟪⟦quyết tâm năm mới⟧ của bạn thực sự có thể gây hại nhiều hơn là có lợi.
+🟨⟦Đây⟧ là lý do tại sao.
 Liệu những lời hứa đầu năm mới có thực sự tốt cho bạn không?
 Ron Borland là giáo sư tâm lý học tại Đại học Deakin, chuyên về 🟪⟦thay đổi⟧ hành vi 🟪⟦sức khỏe⟧. 🟨⟦Ông⟧ cảnh báo không nên tùy tiện áp dụng một 🟪⟦quyết tâm năm mới⟧ cho năm 2025.
 "🟨⟦Chúng⟧ không tốt — trừ khi 🟨⟦bạn có⟧ một kế hoạch rất rõ ràng… và bạn sẵn sàng thực hiện", 🟪⟦Borland⟧ nói với SBS News.
 "Nhìn chung, 🟨⟦chúng⟧ không hiệu quả lắm".
 Các 🟪⟦nghiên cứu⟧ cho thấy 88 phần trăm những người đặt ra 🟪⟦quyết tâm⟧ cho năm mới đều 🟪⟦thất bại⟧ trong vòng hai tuần đầu tiên.
-🟧⟦Ngoài ra⟧, theo 🟪⟦nghiên cứu⟧ từ Đại học Scranton tại Hoa Kỳ, chỉ có 8 phần trăm những người thực sự đạt được 🟪⟦quyết tâm⟧ của mình.
-🟨⟦Điều đó⟧ có nghĩa là, trong khi nhiều người trong 🟨⟦chúng ta⟧ có thể có ý định tốt khi bước vào 🟪⟦năm mới⟧, chúng ta có thể đang tự chuốc lấy 🟪⟦thất bại⟧.
+🟧⟦Ngoài ra⟧, theo 🟪⟦nghiên cứu⟧ từ Đại học Scranton tại Hoa Kỳ, chỉ có 8 phần trăm những người thực sự 🟪⟦đạt được⟧ 🟪⟦quyết tâm⟧ của mình.
+🟨⟦Điều đó⟧ có nghĩa là, trong khi nhiều người trong 🟨⟦chúng ta⟧ có thể có 🟪⟦ý định⟧ tốt khi bước vào 🟪⟦năm mới⟧, chúng ta có thể đang tự chuốc lấy 🟪⟦thất bại⟧.
 "Tác động tiêu cực nhất là tự đặt ra 🟪⟦mục tiêu⟧ để làm điều gì đó và 🟪⟦thất bại⟧... thất bại thảm hại", 🟪⟦Borland⟧ nói.
 🟧⟦Nhưng⟧ có lẽ quan trọng hơn là phải chấp nhận 🟨⟦thất bại này⟧ và chấp nhận nó như một phần của hành trình thay vì chủ động chống lại nó.
-"Đối với những điều khó khăn, đôi khi 🟨⟦bạn sẽ⟧ 🟪⟦thất bại⟧. Không có chiến lược nào có tỷ lệ thành công 100 phần trăm".
+"Đối với những điều khó khăn, đôi khi 🟨⟦bạn sẽ⟧ 🟪⟦thất bại⟧. Không có chiến lược nào có tỷ lệ 🟪⟦thành công⟧ 100 phần trăm".
 Tại sao nhiều quyết tâm năm mới lại thất bại?
 🟪⟦Borland⟧ cho biết hầu hết các 🟪⟦quyết tâm năm mới⟧ đều 🟪⟦thất bại⟧ vì chúng được 🟪⟦lên kế hoạch kém⟧ và không đúng thời điểm.
-"Một trong những đặc điểm của nhiều 🟪⟦quyết tâm năm mới⟧ là chúng không được cân nhắc kỹ lưỡng và mọi người không có 🟪⟦kế hoạch tốt⟧ để thực hiện chúng".
+"Một trong những đặc điểm của nhiều 🟪⟦quyết tâm năm mới⟧ là chúng không được cân nhắc kỹ lưỡng và mọi người không có 🟪⟦kế hoạch tốt⟧ để 🟪⟦thực hiện⟧ chúng".
 Vào ngày 1 tháng 1, 🟨⟦chúng ta⟧ vẫn đang chìm đắm trong chế độ nghỉ lễ. 🟨⟦Điều này⟧ có nghĩa là 🟨⟦đây⟧ có thể là thời điểm khó khăn để 🟪⟦thay đổi⟧ bản thân triệt để.
 "Đang là giữa 🟪⟦mùa nghỉ lễ⟧. 🟨⟦Khi bạn tắm nắng⟧ ở bãi biển, bạn có thể thử một phương pháp hiệu quả trong hai tuần, nhưng sau đó bạn lại quay lại thói quen thường ngày mà không có 🟪⟦kế hoạch nào⟧ để duy trì 🟪⟦hành vi đó⟧", Borland cho biết.
-"🟨⟦Bạn⟧ cần có 🟪⟦kế hoạch⟧ để 🟪⟦triển khai⟧ 🟨⟦các chiến lược đó⟧ vào lối sống hàng ngày của mình. 🟧⟦Và⟧ hầu hết mọi người không nghĩ xa đến vậy".
+"🟨⟦Bạn⟧ cần có 🟪⟦kế hoạch⟧ để 🟪⟦triển khai⟧ 🟨⟦các chiến lược đó⟧ vào 🟪⟦lối sống hàng ngày⟧ của mình. 🟧⟦Và⟧ hầu hết mọi người không nghĩ xa đến vậy".
 Mẹo để đặt ra mục tiêu cho năm mới mà không thất bại
 Có một số cách để đảm bảo 🟨⟦bạn kiên trì⟧ với 🟪⟦quyết tâm⟧ của mình — hoặc ít nhất là 🟪⟦duy trì⟧ lâu hơn một chút so với hai tuần trung bình.
-Một hướng dẫn chung để 🟪⟦thực hiện⟧ một điều gì đó là đặt ra một 🟪⟦mục tiêu⟧ 'SMART' — một mục tiêu cụ thể, có thể đo lường được, có thể đạt được, thực tế và có giới hạn thời gian.
+Một hướng dẫn chung để 🟪⟦thực hiện⟧ một điều gì đó là đặt ra một 🟪⟦mục tiêu⟧ 'SMART' — một mục tiêu cụ thể, có thể đo lường được, có thể 🟪⟦đạt được⟧, thực tế và có giới hạn thời gian.
 
-"Với một chút 🟪⟦kế hoạch⟧ trước và một kế hoạch 🟪⟦rõ ràng⟧ để đảm bảo 🟨⟦bạn không bỏ cuộc⟧ ... bạn có thể tăng cơ hội 🟪⟦thành công⟧ của mình."
+"Với một chút 🟪⟦kế hoạch⟧ trước và một kế hoạch 🟪⟦rõ ràng⟧ để đảm bảo 🟨⟦bạn⟧ không 🟪⟦bỏ cuộc⟧ ... bạn có thể tăng cơ hội 🟪⟦thành công⟧ của mình."
 Làm thế nào để thiết lập mục tiêu 'SMART' cho năm mới
 Specific (🟪⟦Cụ thể⟧): Hãy nghĩ về những gì 🟨⟦bạn muốn⟧ 🟪⟦đạt được⟧, sau đó làm cho nó thực sự cụ thể với nhiều chi tiết hơn. Thay vì nói rằng 🟨⟦bạn muốn⟧ '🟪⟦ăn uống lành mạnh hơn⟧', bạn có thể nói rằng bạn muốn ăn nhiều rau hơn vào mỗi bữa ăn.
 Measurable (Có thể 🟪⟦đo lường⟧): Quyết định cách 🟨⟦bạn sẽ theo dõi⟧ tiến trình của mình. 🟧⟦Ví dụ⟧, nếu 🟨⟦bạn cam kết⟧ chạy bốn lần một tuần nhưng chỉ chạy ba lần, bạn sẽ biết mình hơi chệch hướng và có thể điều chỉnh một chút.
 🟪⟦Borland⟧ cho rằng 🟨⟦sự rõ ràng này⟧ giúp 🟨⟦bạn nhận ra⟧ chính xác khi nào bạn đang 🟪⟦thành công⟧ và khi nào bạn cần 🟪⟦hiệu chỉnh⟧ lại.
 Achievable (Có thể 🟪⟦đạt được⟧): Thật tuyệt khi đặt 🟪⟦mục tiêu⟧ cao, nhưng hãy đảm bảo mục tiêu 🟨⟦của bạn⟧ 🟪⟦thực tế⟧ với hoàn cảnh của bạn.
 Nếu 🟨⟦bạn đã sống⟧ nhờ mì ăn liền trong sáu tháng qua, thì việc đặt 🟪⟦mục tiêu⟧ nấu những 🟪⟦bữa ăn⟧ ngon mỗi tối có thể là một điều quá sức.
-🟧⟦Thay vào đó⟧, hãy bắt đầu với 🟪⟦một mục tiêu⟧ như tự 🟪⟦nấu⟧ ba 🟪⟦bữa tối⟧ đầy đủ dinh dưỡng mỗi tuần — mục tiêu này dễ quản lý hơn và 🟨⟦giúp bạn⟧ 🟪⟦thành công⟧.
-Realistic (🟪⟦Thực tế⟧): Hãy cân nhắc xem 🟪⟦mục tiêu⟧ 🟨⟦của bạn⟧ có phù hợp với lối sống của bạn không. 🟧⟦Ví dụ⟧, nếu 🟨⟦bạn chưa bao giờ⟧ là người của buổi sáng, việc mong đợi đột nhiên thức dậy lúc 5 giờ sáng mỗi ngày có thể không hiệu quả.
+🟧⟦Thay vào đó⟧, hãy bắt đầu với 🟪⟦một mục tiêu⟧ như tự 🟪⟦nấu⟧ ba 🟪⟦bữa tối⟧ đầy đủ dinh dưỡng mỗi tuần — mục tiêu này 🟨⟦dễ quản lý hơn⟧ và 🟨⟦giúp bạn⟧ 🟪⟦thành công⟧.
+Realistic (🟪⟦Thực tế⟧): Hãy cân nhắc xem 🟪⟦mục tiêu⟧ 🟨⟦của bạn⟧ có phù hợp với 🟪⟦lối sống⟧ của bạn không. 🟧⟦Ví dụ⟧, nếu 🟨⟦bạn chưa bao giờ⟧ là người của buổi sáng, việc mong đợi đột nhiên thức dậy lúc 5 giờ sáng mỗi ngày có thể không hiệu quả.
 "🟨⟦Bạn⟧ thực sự cần phải suy nghĩ lại xem điều gì sẽ khả thi với bạn và liệu bạn có cần xây dựng mục tiêu đó hay không hoặc liệu bạn có cần thừa nhận rằng hiện tại, đó không phải là 🟪⟦mục tiêu thực tế⟧.
-"Hãy chọn điều gì đó 🟪⟦thực tế hơn⟧ mà 🟨⟦bạn thực sự có thể⟧ 🟪⟦đạt được⟧", 🟪⟦Borland⟧ nói.
-Time-bound (🟪⟦Có giới hạn thời gian⟧): Đặt ra thời hạn hoặc khung thời gian 🟪⟦rõ ràng⟧ để 🟪⟦đạt được⟧ 🟪⟦mục tiêu⟧ 🟨⟦của bạn⟧. Thay vì nói một cách mơ hồ rằng 🟨⟦bạn sẽ⟧ "🟪⟦khỏe mạnh⟧", hãy 🟪⟦nêu rõ⟧ rằng bạn sẽ chạy được 5 km vào cuối tháng 4. Việc đưa ra 🟪⟦mốc thời gian⟧ cho 🟪⟦quyết tâm⟧ 🟨⟦của bạn⟧ sẽ tạo thêm tính cấp bách và giúp bạn 🟪⟦theo dõi tiến trình⟧.
+"Hãy chọn điều gì đó 🟨⟦thực tế hơn⟧ mà 🟨⟦bạn thực sự có thể⟧ 🟪⟦đạt được⟧", 🟪⟦Borland⟧ nói.
+Time-bound (🟪⟦Có giới hạn thời gian⟧): Đặt ra thời hạn hoặc khung thời gian 🟪⟦rõ ràng⟧ để 🟪⟦đạt được⟧ 🟪⟦mục tiêu⟧ 🟨⟦của bạn⟧. Thay vì nói một cách mơ hồ rằng 🟨⟦bạn sẽ⟧ "🟪⟦khỏe mạnh⟧", hãy 🟪⟦nêu rõ⟧ rằng bạn sẽ 🟪⟦chạy⟧ được 5 km vào cuối tháng 4. Việc đưa ra 🟪⟦mốc thời gian⟧ cho 🟪⟦quyết tâm⟧ 🟨⟦của bạn⟧ sẽ tạo thêm tính cấp bách và giúp bạn 🟪⟦theo dõi tiến trình⟧.
 Bằng cách lập cấu trúc cho 🟪⟦quyết tâm⟧ của mình theo cách này, 🟨⟦bạn sẽ biến⟧ một ý tưởng mơ hồ thành một 🟪⟦kế hoạch⟧ 🟪⟦rõ ràng⟧, có thể 🟪⟦thực hiện được⟧ — giúp bạn có nhiều cơ hội hơn để gắn bó với nó sau vài tuần đầu tiên.
 Bạn nên làm gì nếu không thực hiện được mục tiêu năm mới?
 Nếu 🟨⟦bạn⟧ 🟪⟦không thực hiện được⟧ 🟪⟦quyết tâm năm mới⟧ của mình, hãy biết rằng bạn không đơn độc.
@@ -58,6 +58,6 @@ Nhiều người đặt ra 🟪⟦mục tiêu⟧ với 🟪⟦ý định tốt�
 🟧⟦Tuy nhiên⟧, đối với hầu hết 🟨⟦chúng ta⟧, các 🟪⟦quyết tâm⟧ không phải là vượt qua 🟪⟦nghịch cảnh⟧ mà là 🟪⟦phấn đấu⟧ hướng tới một phiên bản tốt hơn của chính mình.
 🟧⟦Nhưng⟧ 🟪⟦Borland⟧ 🟪⟦cảnh báo không nên⟧ 🟪⟦hướng tới⟧ sự hoàn hảo.
 "Chỉ cần cố gắng 🟪⟦thay đổi⟧ từ con người hiện tại thành một con người tốt hơn, 🟨⟦bạn thường thấy⟧ rằng 🟪⟦phiên bản tốt hơn⟧ của bản thân thường đi kèm với rất nhiều thứ mà bạn thực sự không muốn làm."
-🟨⟦Sự ngắt kết nối này⟧ thường dẫn đến sự thất vọng và 🟪⟦thất bại⟧ khi 🟨⟦chúng ta⟧ nhận ra rằng những hy sinh cần thiết để 🟪⟦đạt được⟧ 🟨⟦những mục tiêu cao cả này⟧ không phù hợp với những gì chúng ta thực sự coi trọng.
-"Rất ít người trong 🟨⟦chúng ta⟧ đạt được 🟪⟦phiên bản⟧ 🟪⟦hoàn hảo⟧ của chính bản thân. 🟧⟦Trên thực tế⟧, không ai trong 🟨⟦chúng ta⟧ thực sự hoàn hảo."
+🟨⟦Sự ngắt kết nối này⟧ thường dẫn đến sự thất vọng và 🟪⟦thất bại⟧ khi 🟨⟦chúng ta⟧ nhận ra rằng những 🟪⟦hy sinh⟧ cần thiết để 🟪⟦đạt được⟧ 🟨⟦những mục tiêu cao cả này⟧ không phù hợp với những gì chúng ta thực sự coi trọng.
+"Rất ít người trong 🟨⟦chúng ta⟧ đạt được 🟪⟦phiên bản⟧ 🟪⟦hoàn hảo⟧ của chính bản thân. 🟧⟦Trên thực tế⟧, không ai trong 🟨⟦chúng ta⟧ thực sự 🟪⟦hoàn hảo⟧."
 Hãy coi 🟪⟦thất bại⟧ 🟨⟦của bạn⟧ là một cơ hội học hỏi. Nhận ra rằng đôi khi, 🟪⟦thất bại⟧ là một phần của 🟪⟦quá trình⟧.

@@ -48,6 +48,20 @@
   },
   {
    "id": "P28-EN-004",
+   "sent": "S002",
+   "text": "pledges",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001: a New Year's resolution",
+   "conf": "high",
+   "alt": null,
+   "note": "pledges ≈ resolution (our pledges); 'them' cuối câu quy chiếu trong câu không đánh"
+  },
+  {
+   "id": "P28-EN-005",
    "sent": "S004",
    "text": "we can improve",
    "occ": 1,
@@ -62,7 +76,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-005",
+   "id": "P28-EN-006",
    "sent": "S003",
    "text": "new year",
    "occ": 1,
@@ -76,7 +90,7 @@
    "note": "lặp 'new year' trong tục ngữ 'new year, new me'"
   },
   {
-   "id": "P28-EN-006",
+   "id": "P28-EN-007",
    "sent": "S005",
    "text": "It",
    "occ": 1,
@@ -91,23 +105,8 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-007",
-   "sent": "S006",
-   "text": "It",
-   "occ": 1,
-   "cat": "R",
-   "sub": "personal",
-   "dir": "ana",
-   "level": "LC",
-   "ante": "S004: how we can improve our lives",
-   "conf": "high",
-   "alt": null,
-   "note": null,
-   "ref": "A"
-  },
-  {
    "id": "P28-EN-008",
-   "sent": "S007",
+   "sent": "S006",
    "text": "It",
    "occ": 1,
    "cat": "R",
@@ -123,6 +122,21 @@
   {
    "id": "P28-EN-009",
    "sent": "S007",
+   "text": "It",
+   "occ": 1,
+   "cat": "R",
+   "sub": "personal",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S004: how we can improve our lives",
+   "conf": "high",
+   "alt": null,
+   "note": null,
+   "ref": "A"
+  },
+  {
+   "id": "P28-EN-010",
+   "sent": "S007",
    "text": "you've",
    "occ": 1,
    "cat": "R",
@@ -136,7 +150,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-010",
+   "id": "P28-EN-011",
    "sent": "S008",
    "text": "it",
    "occ": 1,
@@ -151,7 +165,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-011",
+   "id": "P28-EN-012",
    "sent": "S008",
    "text": "a New Year's resolution",
    "occ": 1,
@@ -165,7 +179,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-012",
+   "id": "P28-EN-013",
    "sent": "S009",
    "text": "a New Year's resolution",
    "occ": 1,
@@ -179,7 +193,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-013",
+   "id": "P28-EN-014",
    "sent": "S010",
    "text": "New Year's resolutions",
    "occ": 1,
@@ -193,7 +207,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-014",
+   "id": "P28-EN-015",
    "sent": "S010",
    "text": "improve",
    "occ": 1,
@@ -207,7 +221,7 @@
    "note": "occ 1: lần 2 ('improve their fitness levels') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P28-EN-015",
+   "id": "P28-EN-016",
    "sent": "S010",
    "text": "healthier",
    "occ": 1,
@@ -221,7 +235,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-016",
+   "id": "P28-EN-017",
+   "sent": "S010",
+   "text": "Australians",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: 74 per cent of Australians",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Australians (39 per cent of Australians)"
+  },
+  {
+   "id": "P28-EN-018",
    "sent": "S011",
    "text": "travel overseas",
    "occ": 1,
@@ -235,7 +263,7 @@
    "note": "travel ≈ travelling"
   },
   {
-   "id": "P28-EN-017",
+   "id": "P28-EN-019",
    "sent": "S012",
    "text": "the resolution hype",
    "occ": 1,
@@ -245,11 +273,11 @@
    "level": "LC",
    "ante": "S010: New Year's resolutions",
    "conf": "high",
-   "alt": null,
-   "note": "khối cắt, VI none"
+   "alt": "R: the",
+   "note": "khối cắt, VI none; the định danh cuộc hype quanh quyết tâm"
   },
   {
-   "id": "P28-EN-018",
+   "id": "P28-EN-020",
    "sent": "S013",
    "text": "But",
    "occ": 1,
@@ -263,7 +291,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-019",
+   "id": "P28-EN-021",
    "sent": "S013",
    "text": "the New Year",
    "occ": 1,
@@ -277,7 +305,7 @@
    "note": "occ 1: lần 2 ('your New Year's resolution') trong câu cùng chuỗi, không đánh"
   },
   {
-   "id": "P28-EN-020",
+   "id": "P28-EN-022",
    "sent": "S013",
    "text": "your",
    "occ": 1,
@@ -292,7 +320,50 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-021",
+   "id": "P28-EN-023",
+   "sent": "S013",
+   "text": "New Year's resolution",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S012: the resolution hype",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp chuỗi resolution (your New Year's resolution); 'the New Year' đầu câu là chuỗi năm mới, đã có hàng riêng"
+  },
+  {
+   "id": "P28-EN-024",
+   "sent": "S013",
+   "text": "transform",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S010: aiming to improve their diet",
+   "conf": "med",
+   "alt": null,
+   "note": "transform ≈ improve (transform your life)"
+  },
+  {
+   "id": "P28-EN-025",
+   "sent": "S014",
+   "text": "Here",
+   "occ": 1,
+   "cat": "R",
+   "sub": "demonstrative",
+   "dir": "cata",
+   "level": "LC",
+   "ante": "S015–S072: bốn khối subhead giải thích lý do",
+   "conf": "med",
+   "alt": null,
+   "note": "tiền chỉ hiếm: Here's why = phần giải thích nằm sau; 'why' là pro-form tóm lý do",
+   "ref": "C"
+  },
+  {
+   "id": "P28-EN-026",
    "sent": "S016",
    "text": "health",
    "occ": 1,
@@ -306,7 +377,21 @@
    "note": "trong 'health behavioural change'"
   },
   {
-   "id": "P28-EN-022",
+   "id": "P28-EN-027",
+   "sent": "S016",
+   "text": "change",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S013: transform your life",
+   "conf": "med",
+   "alt": null,
+   "note": "health behavioural change; 'behavioural' thuộc chuỗi hành vi (S033 that behaviour)"
+  },
+  {
+   "id": "P28-EN-028",
    "sent": "S017",
    "text": "He",
    "occ": 1,
@@ -321,7 +406,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-023",
+   "id": "P28-EN-029",
    "sent": "S017",
    "text": "a New Year's resolution",
    "occ": 1,
@@ -335,7 +420,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-024",
+   "id": "P28-EN-030",
    "sent": "S018",
    "text": "They're",
    "occ": 1,
@@ -350,7 +435,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-025",
+   "id": "P28-EN-031",
    "sent": "S018",
    "text": "you've",
    "occ": 1,
@@ -365,7 +450,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-026",
+   "id": "P28-EN-032",
    "sent": "S018",
    "text": "Borland",
    "occ": 1,
@@ -379,7 +464,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-027",
+   "id": "P28-EN-033",
    "sent": "S019",
    "text": "they",
    "occ": 1,
@@ -394,7 +479,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-028",
+   "id": "P28-EN-034",
    "sent": "S020",
    "text": "New Year's resolutions",
    "occ": 1,
@@ -408,7 +493,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-029",
+   "id": "P28-EN-035",
    "sent": "S020",
    "text": "fail",
    "occ": 1,
@@ -422,7 +507,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-030",
+   "id": "P28-EN-036",
+   "sent": "S020",
+   "text": "Studies",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S009: research from comparison site Finder",
+   "conf": "high",
+   "alt": null,
+   "note": "Studies ≈ research (Studies show 88 per cent)"
+  },
+  {
+   "id": "P28-EN-037",
    "sent": "S021",
    "text": "Additionally",
    "occ": 1,
@@ -436,7 +535,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-031",
+   "id": "P28-EN-038",
    "sent": "S021",
    "text": "their resolutions",
    "occ": 1,
@@ -450,7 +549,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-032",
+   "id": "P28-EN-039",
+   "sent": "S021",
+   "text": "achieve",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: fail them within the first two weeks",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối fail ↔ achieve (actually achieve); mở đầu chuỗi achieve → accomplish (S042) → achieve (S053)"
+  },
+  {
+   "id": "P28-EN-040",
    "sent": "S021",
    "text": "research",
    "occ": 1,
@@ -464,22 +577,22 @@
    "note": null
   },
   {
-   "id": "P28-EN-033",
+   "id": "P28-EN-041",
    "sent": "S022",
    "text": "That",
    "occ": 1,
    "cat": "R",
-   "sub": "personal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S020–S021: 88 per cent fail, only 8 per cent achieve",
    "conf": "high",
    "alt": null,
-   "note": "quy chiếu mệnh đề",
+   "note": "quy chiếu mệnh đề (extended reference)",
    "ref": "A"
   },
   {
-   "id": "P28-EN-034",
+   "id": "P28-EN-042",
    "sent": "S022",
    "text": "of us",
    "occ": 1,
@@ -494,7 +607,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-035",
+   "id": "P28-EN-043",
    "sent": "S022",
    "text": "the new year",
    "occ": 1,
@@ -508,7 +621,35 @@
    "note": "going into the new year"
   },
   {
-   "id": "P28-EN-036",
+   "id": "P28-EN-044",
+   "sent": "S022",
+   "text": "failure",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S020: fail them within the first two weeks",
+   "conf": "high",
+   "alt": null,
+   "note": "danh hóa failure ← fail (setting ourselves up for failure)"
+  },
+  {
+   "id": "P28-EN-045",
+   "sent": "S022",
+   "text": "intentions",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: achieve their resolutions",
+   "conf": "med",
+   "alt": null,
+   "note": "tổng quát hóa resolution → intention (good intentions); S060 intentions lặp tiếp chuỗi; VI 'ý định' (S021 TT)"
+  },
+  {
+   "id": "P28-EN-046",
    "sent": "S023",
    "text": "failing",
    "occ": 1,
@@ -522,7 +663,7 @@
    "note": "occ 1: 'failing quite miserably' lần 2 trong quote không đánh"
   },
   {
-   "id": "P28-EN-037",
+   "id": "P28-EN-047",
    "sent": "S023",
    "text": "Borland",
    "occ": 1,
@@ -536,7 +677,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-038",
+   "id": "P28-EN-048",
    "sent": "S024",
    "text": "But",
    "occ": 1,
@@ -550,7 +691,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-039",
+   "id": "P28-EN-049",
    "sent": "S024",
    "text": "this failure",
    "occ": 1,
@@ -565,7 +706,21 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-040",
+   "id": "P28-EN-050",
+   "sent": "S024",
+   "text": "the journey",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S001–S002: a New Year's resolution / self-improvement (toàn mạch)",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "accept it as part of the journey — tổng quát hóa toàn mạch cải thiện bản thân; VI 'một phần của hành trình' vô định"
+  },
+  {
+   "id": "P28-EN-051",
    "sent": "S025",
    "text": "you're",
    "occ": 1,
@@ -580,7 +735,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-041",
+   "id": "P28-EN-052",
    "sent": "S025",
    "text": "fail",
    "occ": 1,
@@ -594,7 +749,21 @@
    "note": "you're going to fail"
   },
   {
-   "id": "P28-EN-042",
+   "id": "P28-EN-053",
+   "sent": "S026",
+   "text": "success",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S025: sometimes you're going to fail",
+   "conf": "high",
+   "alt": null,
+   "note": "phép đối fail ↔ success (100 per cent success rate); mở đầu chuỗi success (S040 quy về đây)"
+  },
+  {
+   "id": "P28-EN-054",
    "sent": "S028",
    "text": "New Year's resolutions",
    "occ": 1,
@@ -608,7 +777,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-043",
+   "id": "P28-EN-055",
    "sent": "S028",
    "text": "fail",
    "occ": 1,
@@ -622,7 +791,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-044",
+   "id": "P28-EN-056",
    "sent": "S028",
    "text": "planned",
    "occ": 1,
@@ -636,7 +805,7 @@
    "note": "poorly planned — đối lập nghĩa trong cùng chuỗi"
   },
   {
-   "id": "P28-EN-045",
+   "id": "P28-EN-057",
    "sent": "S028",
    "text": "Borland",
    "occ": 1,
@@ -650,7 +819,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-046",
+   "id": "P28-EN-058",
    "sent": "S029",
    "text": "New Year's resolutions",
    "occ": 1,
@@ -664,7 +833,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-047",
+   "id": "P28-EN-059",
    "sent": "S029",
    "text": "a good plan",
    "occ": 1,
@@ -678,7 +847,21 @@
    "note": "đối poor ↔ good; 'they/them' trong câu không đánh"
   },
   {
-   "id": "P28-EN-048",
+   "id": "P28-EN-060",
+   "sent": "S029",
+   "text": "implementing",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: prepared to follow through",
+   "conf": "high",
+   "alt": null,
+   "note": "implementing ≈ follow through (for implementing them)"
+  },
+  {
+   "id": "P28-EN-061",
    "sent": "S030",
    "text": "we're",
    "occ": 1,
@@ -693,7 +876,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-049",
+   "id": "P28-EN-062",
    "sent": "S031",
    "text": "This",
    "occ": 1,
@@ -708,7 +891,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-050",
+   "id": "P28-EN-063",
    "sent": "S031",
    "text": "self-change",
    "occ": 1,
@@ -722,7 +905,7 @@
    "note": "radical self-change; EN time-it 'it can be' không đánh (VI có 'đây' — bất đối xứng có chủ đích)"
   },
   {
-   "id": "P28-EN-051",
+   "id": "P28-EN-064",
    "sent": "S032",
    "text": "holiday season",
    "occ": 1,
@@ -736,7 +919,7 @@
    "note": "It's = time-it, không đánh"
   },
   {
-   "id": "P28-EN-052",
+   "id": "P28-EN-065",
    "sent": "S033",
    "text": "You",
    "occ": 1,
@@ -751,7 +934,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-053",
+   "id": "P28-EN-066",
    "sent": "S033",
    "text": "no plan",
    "occ": 1,
@@ -765,7 +948,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-054",
+   "id": "P28-EN-067",
    "sent": "S033",
    "text": "that behaviour",
    "occ": 1,
@@ -779,7 +962,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-055",
+   "id": "P28-EN-068",
    "sent": "S033",
    "text": "Borland",
    "occ": 1,
@@ -793,7 +976,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-056",
+   "id": "P28-EN-069",
    "sent": "S034",
    "text": "those strategies",
    "occ": 1,
@@ -808,7 +991,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-057",
+   "id": "P28-EN-070",
    "sent": "S034",
    "text": "You",
    "occ": 1,
@@ -823,7 +1006,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-058",
+   "id": "P28-EN-071",
    "sent": "S034",
    "text": "a plan",
    "occ": 1,
@@ -837,7 +1020,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-059",
+   "id": "P28-EN-072",
    "sent": "S034",
    "text": "implementing",
    "occ": 1,
@@ -851,7 +1034,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-060",
+   "id": "P28-EN-073",
    "sent": "S034",
    "text": "day-to-day lifestyle",
    "occ": 1,
@@ -865,7 +1048,7 @@
    "note": "'lifestyle' lần 2 trong câu, cùng chuỗi, ghi note"
   },
   {
-   "id": "P28-EN-061",
+   "id": "P28-EN-074",
    "sent": "S035",
    "text": "And",
    "occ": 1,
@@ -879,7 +1062,7 @@
    "note": "câu 2 của quote"
   },
   {
-   "id": "P28-EN-062",
+   "id": "P28-EN-075",
    "sent": "S037",
    "text": "you stick",
    "occ": 1,
@@ -894,7 +1077,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-063",
+   "id": "P28-EN-076",
    "sent": "S037",
    "text": "your resolution",
    "occ": 1,
@@ -908,7 +1091,7 @@
    "note": "'keep it going' — it trong câu không đánh"
   },
   {
-   "id": "P28-EN-064",
+   "id": "P28-EN-077",
    "sent": "S038",
    "text": "following through",
    "occ": 1,
@@ -922,7 +1105,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-065",
+   "id": "P28-EN-078",
+   "sent": "S038",
+   "text": "achievable",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S021: actually achieve",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị achieve trong định nghĩa SMART"
+  },
+  {
+   "id": "P28-EN-079",
    "sent": "S039",
    "text": "this approach",
    "occ": 1,
@@ -937,7 +1134,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-066",
+   "id": "P28-EN-080",
    "sent": "S039",
    "text": "Borland",
    "occ": 1,
@@ -951,7 +1148,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P28-EN-067",
+   "id": "P28-EN-081",
    "sent": "S039",
    "text": "goal-setting",
    "occ": 1,
@@ -965,7 +1162,7 @@
    "note": "khối cắt"
   },
   {
-   "id": "P28-EN-068",
+   "id": "P28-EN-082",
    "sent": "S039",
    "text": "smart",
    "occ": 1,
@@ -979,7 +1176,7 @@
    "note": "chơi chữ SMART↔smart của nguồn; khối cắt, VI none"
   },
   {
-   "id": "P28-EN-069",
+   "id": "P28-EN-083",
    "sent": "S040",
    "text": "you don't",
    "occ": 1,
@@ -994,7 +1191,21 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-070",
+   "id": "P28-EN-084",
+   "sent": "S040",
+   "text": "give up",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S037: ensure you stick to your resolution",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối stick ↔ give up (make sure you don't give up)"
+  },
+  {
+   "id": "P28-EN-085",
    "sent": "S040",
    "text": "planning",
    "occ": 1,
@@ -1008,7 +1219,7 @@
    "note": "a little bit of planning beforehand"
   },
   {
-   "id": "P28-EN-071",
+   "id": "P28-EN-086",
    "sent": "S040",
    "text": "a clear plan",
    "occ": 1,
@@ -1022,7 +1233,7 @@
    "note": "lặp 'clear' (S018) trong cụm"
   },
   {
-   "id": "P28-EN-072",
+   "id": "P28-EN-087",
    "sent": "S040",
    "text": "success",
    "occ": 1,
@@ -1036,7 +1247,7 @@
    "note": "chance of success"
   },
   {
-   "id": "P28-EN-073",
+   "id": "P28-EN-088",
    "sent": "S042",
    "text": "Specific:",
    "occ": 1,
@@ -1050,7 +1261,7 @@
    "note": "nhãn liệt kê giữ nguyên văn; 'really specific' lần 2 trong câu không đánh"
   },
   {
-   "id": "P28-EN-074",
+   "id": "P28-EN-089",
    "sent": "S042",
    "text": "you want",
    "occ": 1,
@@ -1065,7 +1276,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-075",
+   "id": "P28-EN-090",
    "sent": "S042",
    "text": "accomplish",
    "occ": 1,
@@ -1079,7 +1290,7 @@
    "note": "accomplish ≈ achieve"
   },
   {
-   "id": "P28-EN-076",
+   "id": "P28-EN-091",
    "sent": "S043",
    "text": "you want",
    "occ": 1,
@@ -1094,7 +1305,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-077",
+   "id": "P28-EN-092",
    "sent": "S043",
    "text": "eat healthier",
    "occ": 1,
@@ -1108,7 +1319,7 @@
    "note": "trích lại nguyên văn trong ngoặc đơn"
   },
   {
-   "id": "P28-EN-078",
+   "id": "P28-EN-093",
    "sent": "S044",
    "text": "Measurable:",
    "occ": 1,
@@ -1122,7 +1333,7 @@
    "note": "nhãn liệt kê"
   },
   {
-   "id": "P28-EN-079",
+   "id": "P28-EN-094",
    "sent": "S044",
    "text": "you'll",
    "occ": 1,
@@ -1137,7 +1348,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-080",
+   "id": "P28-EN-095",
    "sent": "S045",
    "text": "For example",
    "occ": 1,
@@ -1151,7 +1362,7 @@
    "note": "kiểu ví dụ"
   },
   {
-   "id": "P28-EN-081",
+   "id": "P28-EN-096",
    "sent": "S045",
    "text": "you commit",
    "occ": 1,
@@ -1166,7 +1377,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-082",
+   "id": "P28-EN-097",
    "sent": "S045",
    "text": null,
    "occ": 1,
@@ -1182,7 +1393,7 @@
    "note": "[TC] lược {times a week} sau 'three'; VI lấp đầy 'chỉ chạy ba lần' nên không có E phía VI"
   },
   {
-   "id": "P28-EN-083",
+   "id": "P28-EN-098",
    "sent": "S045",
    "text": "off track",
    "occ": 1,
@@ -1196,12 +1407,12 @@
    "note": "idiom vang nhau 'track'"
   },
   {
-   "id": "P28-EN-084",
+   "id": "P28-EN-099",
    "sent": "S046",
    "text": "this clarity",
    "occ": 1,
    "cat": "R",
-   "sub": "nominal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S042–S043: Specific — make it really specific",
@@ -1211,7 +1422,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-085",
+   "id": "P28-EN-100",
    "sent": "S046",
    "text": "you're",
    "occ": 1,
@@ -1226,7 +1437,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-086",
+   "id": "P28-EN-101",
    "sent": "S046",
    "text": "Borland",
    "occ": 1,
@@ -1240,7 +1451,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-087",
+   "id": "P28-EN-102",
    "sent": "S046",
    "text": "succeeding",
    "occ": 1,
@@ -1254,7 +1465,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-088",
+   "id": "P28-EN-103",
    "sent": "S046",
    "text": "recalibrate",
    "occ": 1,
@@ -1268,7 +1479,7 @@
    "note": "recalibrate ≈ adjustment — EN đổi từ"
   },
   {
-   "id": "P28-EN-089",
+   "id": "P28-EN-104",
    "sent": "S047",
    "text": "Achievable:",
    "occ": 1,
@@ -1282,7 +1493,7 @@
    "note": "nhãn liệt kê; 'It's great' expletive không đánh"
   },
   {
-   "id": "P28-EN-090",
+   "id": "P28-EN-105",
    "sent": "S047",
    "text": "your goal",
    "occ": 1,
@@ -1297,7 +1508,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-091",
+   "id": "P28-EN-106",
    "sent": "S047",
    "text": "realistic",
    "occ": 1,
@@ -1311,7 +1522,7 @@
    "note": "make sure your goal is realistic — lặp cả nhãn"
   },
   {
-   "id": "P28-EN-092",
+   "id": "P28-EN-107",
    "sent": "S048",
    "text": "you've",
    "occ": 1,
@@ -1326,7 +1537,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-093",
+   "id": "P28-EN-108",
    "sent": "S048",
    "text": "aiming",
    "occ": 1,
@@ -1340,7 +1551,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-094",
+   "id": "P28-EN-109",
    "sent": "S048",
    "text": "gourmet meals",
    "occ": 1,
@@ -1354,7 +1565,7 @@
    "note": "meal → meals; 'cook' khởi tạo chuỗi"
   },
   {
-   "id": "P28-EN-095",
+   "id": "P28-EN-110",
    "sent": "S049",
    "text": "Instead",
    "occ": 1,
@@ -1368,7 +1579,22 @@
    "note": "thay thế đề xuất"
   },
   {
-   "id": "P28-EN-096",
+   "id": "P28-EN-111",
+   "sent": "S049",
+   "text": "more manageable",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S048: aiming to cook gourmet meals every night might be a stretch",
+   "conf": "high",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: more manageable = dễ quản lý HƠN so với mục tiêu nấu bữa ngon mỗi tối (S048); H&H §2.5",
+   "ref": "A"
+  },
+  {
+   "id": "P28-EN-112",
    "sent": "S049",
    "text": "a goal",
    "occ": 1,
@@ -1382,7 +1608,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-097",
+   "id": "P28-EN-113",
    "sent": "S049",
    "text": "cooking",
    "occ": 1,
@@ -1396,7 +1622,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-098",
+   "id": "P28-EN-114",
    "sent": "S049",
    "text": "dinners",
    "occ": 1,
@@ -1410,7 +1636,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-099",
+   "id": "P28-EN-115",
    "sent": "S049",
    "text": "you",
    "occ": 1,
@@ -1425,7 +1651,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-100",
+   "id": "P28-EN-116",
    "sent": "S049",
    "text": "success",
    "occ": 1,
@@ -1439,7 +1665,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-101",
+   "id": "P28-EN-117",
    "sent": "S050",
    "text": "Realistic:",
    "occ": 1,
@@ -1453,7 +1679,7 @@
    "note": "nhãn liệt kê"
   },
   {
-   "id": "P28-EN-102",
+   "id": "P28-EN-118",
    "sent": "S050",
    "text": "your",
    "occ": 1,
@@ -1468,7 +1694,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-103",
+   "id": "P28-EN-119",
    "sent": "S050",
    "text": "goal fits",
    "occ": 1,
@@ -1482,7 +1708,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-104",
+   "id": "P28-EN-120",
    "sent": "S050",
    "text": "your lifestyle",
    "occ": 1,
@@ -1496,7 +1722,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-105",
+   "id": "P28-EN-121",
    "sent": "S051",
    "text": "For instance",
    "occ": 1,
@@ -1510,7 +1736,7 @@
    "note": "kiểu ví dụ"
   },
   {
-   "id": "P28-EN-106",
+   "id": "P28-EN-122",
    "sent": "S051",
    "text": "you've",
    "occ": 1,
@@ -1525,7 +1751,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-107",
+   "id": "P28-EN-123",
    "sent": "S052",
    "text": "You",
    "occ": 1,
@@ -1540,7 +1766,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-108",
+   "id": "P28-EN-124",
    "sent": "S052",
    "text": "a realistic goal",
    "occ": 1,
@@ -1554,7 +1780,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-109",
+   "id": "P28-EN-125",
    "sent": "S053",
    "text": "you can",
    "occ": 1,
@@ -1569,21 +1795,22 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-110",
+   "id": "P28-EN-126",
    "sent": "S053",
    "text": "more realistic",
    "occ": 1,
-   "cat": "L",
-   "sub": "repetition",
+   "cat": "R",
+   "sub": "comparative",
    "dir": "ana",
    "level": "LC",
-   "ante": "S052: a realistic goal",
+   "ante": "S052: that's not quite a realistic goal",
    "conf": "high",
    "alt": null,
-   "note": null
+   "note": "[LC] quy chiếu so sánh: more realistic = thực tế HƠN so với mục tiêu vừa bị bác (S052); mặt lặp realistic ghi ở analysis §6",
+   "ref": "A"
   },
   {
-   "id": "P28-EN-111",
+   "id": "P28-EN-127",
    "sent": "S053",
    "text": "achieve",
    "occ": 1,
@@ -1597,7 +1824,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-112",
+   "id": "P28-EN-128",
    "sent": "S053",
    "text": "Borland",
    "occ": 1,
@@ -1611,7 +1838,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-113",
+   "id": "P28-EN-129",
    "sent": "S054",
    "text": "Time-bound:",
    "occ": 1,
@@ -1625,7 +1852,21 @@
    "note": "nhãn liệt kê; 'time frame' trong câu ghi note"
   },
   {
-   "id": "P28-EN-114",
+   "id": "P28-EN-130",
+   "sent": "S054",
+   "text": "a clear deadline",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S040: a clear plan",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp 'clear' trong cụm 'a clear deadline'; VI đánh 'rõ ràng' (S052)"
+  },
+  {
+   "id": "P28-EN-131",
    "sent": "S054",
    "text": "your goal",
    "occ": 1,
@@ -1640,7 +1881,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-115",
+   "id": "P28-EN-132",
    "sent": "S054",
    "text": "achieving",
    "occ": 1,
@@ -1654,7 +1895,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-116",
+   "id": "P28-EN-133",
    "sent": "S055",
    "text": "you'll",
    "occ": 1,
@@ -1669,7 +1910,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-117",
+   "id": "P28-EN-134",
    "sent": "S055",
    "text": "get fit",
    "occ": 1,
@@ -1683,7 +1924,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-118",
+   "id": "P28-EN-135",
+   "sent": "S055",
+   "text": "run",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S045: commit to running four times a week",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp run/running (you'll run 5K)"
+  },
+  {
+   "id": "P28-EN-136",
    "sent": "S055",
    "text": "specify",
    "occ": 1,
@@ -1697,7 +1952,7 @@
    "note": "hình vị speci-"
   },
   {
-   "id": "P28-EN-119",
+   "id": "P28-EN-137",
    "sent": "S056",
    "text": "your",
    "occ": 1,
@@ -1712,7 +1967,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-120",
+   "id": "P28-EN-138",
    "sent": "S056",
    "text": "a timeline",
    "occ": 1,
@@ -1726,7 +1981,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-121",
+   "id": "P28-EN-139",
    "sent": "S056",
    "text": "resolution",
    "occ": 1,
@@ -1740,7 +1995,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-122",
+   "id": "P28-EN-140",
    "sent": "S056",
    "text": "track progress",
    "occ": 1,
@@ -1754,7 +2009,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-123",
+   "id": "P28-EN-141",
    "sent": "S057",
    "text": "you'll turn",
    "occ": 1,
@@ -1769,7 +2024,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-124",
+   "id": "P28-EN-142",
    "sent": "S057",
    "text": "your resolution this way",
    "occ": 1,
@@ -1783,7 +2038,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-125",
+   "id": "P28-EN-143",
    "sent": "S057",
    "text": "a vague idea",
    "occ": 1,
@@ -1797,7 +2052,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-126",
+   "id": "P28-EN-144",
    "sent": "S057",
    "text": "a clear, actionable plan",
    "occ": 1,
@@ -1811,7 +2066,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-127",
+   "id": "P28-EN-145",
    "sent": "S057",
    "text": "sticking",
    "occ": 1,
@@ -1825,7 +2080,7 @@
    "note": "sticking with it — VI đổi từ 'gắn bó'"
   },
   {
-   "id": "P28-EN-128",
+   "id": "P28-EN-146",
    "sent": "S059",
    "text": "you fail",
    "occ": 1,
@@ -1840,7 +2095,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-129",
+   "id": "P28-EN-147",
    "sent": "S059",
    "text": "your New Year's resolution",
    "occ": 1,
@@ -1854,7 +2109,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-130",
+   "id": "P28-EN-148",
    "sent": "S060",
    "text": "goals",
    "occ": 1,
@@ -1868,7 +2123,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-131",
+   "id": "P28-EN-149",
    "sent": "S060",
    "text": "intentions",
    "occ": 1,
@@ -1882,7 +2137,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-132",
+   "id": "P28-EN-150",
    "sent": "S060",
    "text": "fall short",
    "occ": 1,
@@ -1896,7 +2151,7 @@
    "note": "fall short ≈ fail"
   },
   {
-   "id": "P28-EN-133",
+   "id": "P28-EN-151",
    "sent": "S061",
    "text": "these moments",
    "occ": 1,
@@ -1911,7 +2166,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-134",
+   "id": "P28-EN-152",
    "sent": "S061",
    "text": "Borland",
    "occ": 1,
@@ -1925,7 +2180,7 @@
    "note": "'it's important' expletive không đánh"
   },
   {
-   "id": "P28-EN-135",
+   "id": "P28-EN-153",
    "sent": "S062",
    "text": "completely change",
    "occ": 1,
@@ -1939,7 +2194,7 @@
    "note": "'Realistically,' là trạng từ câu, không thuộc chuỗi realistic (ghi §8)"
   },
   {
-   "id": "P28-EN-136",
+   "id": "P28-EN-154",
    "sent": "S062",
    "text": "Borland",
    "occ": 1,
@@ -1953,7 +2208,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-137",
+   "id": "P28-EN-155",
    "sent": "S063",
    "text": "it happens",
    "occ": 1,
@@ -1968,7 +2223,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-138",
+   "id": "P28-EN-156",
    "sent": "S063",
    "text": "do it and do it",
    "occ": 1,
@@ -1982,7 +2237,7 @@
    "note": "[LC] 'do' thế động từ cho 'change'; lần 2 cùng cụm thế không đánh thêm"
   },
   {
-   "id": "P28-EN-139",
+   "id": "P28-EN-157",
    "sent": "S063",
    "text": "succeed",
    "occ": 1,
@@ -1996,7 +2251,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-140",
+   "id": "P28-EN-158",
    "sent": "S064",
    "text": "He",
    "occ": 1,
@@ -2011,7 +2266,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-141",
+   "id": "P28-EN-159",
    "sent": "S064",
    "text": "personal change",
    "occ": 1,
@@ -2025,7 +2280,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-142",
+   "id": "P28-EN-160",
    "sent": "S064",
    "text": "transform oneself",
    "occ": 1,
@@ -2039,7 +2294,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-143",
+   "id": "P28-EN-161",
    "sent": "S065",
    "text": "however",
    "occ": 1,
@@ -2053,7 +2308,7 @@
    "note": "EN để giữa câu, VI đảo lên đầu"
   },
   {
-   "id": "P28-EN-144",
+   "id": "P28-EN-162",
    "sent": "S065",
    "text": "of us",
    "occ": 1,
@@ -2068,7 +2323,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-145",
+   "id": "P28-EN-163",
    "sent": "S065",
    "text": "resolutions",
    "occ": 1,
@@ -2082,7 +2337,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-146",
+   "id": "P28-EN-164",
    "sent": "S065",
    "text": "adversity",
    "occ": 1,
@@ -2096,7 +2351,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-147",
+   "id": "P28-EN-165",
    "sent": "S065",
    "text": "striving",
    "occ": 1,
@@ -2110,7 +2365,7 @@
    "note": "hồi quy xa 63 câu"
   },
   {
-   "id": "P28-EN-148",
+   "id": "P28-EN-166",
    "sent": "S066",
    "text": "But",
    "occ": 1,
@@ -2124,7 +2379,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-149",
+   "id": "P28-EN-167",
    "sent": "S066",
    "text": "Borland",
    "occ": 1,
@@ -2138,7 +2393,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-150",
+   "id": "P28-EN-168",
    "sent": "S066",
    "text": "cautions against",
    "occ": 1,
@@ -2152,7 +2407,7 @@
    "note": "lặp nguyên cụm"
   },
   {
-   "id": "P28-EN-151",
+   "id": "P28-EN-169",
    "sent": "S066",
    "text": "aiming",
    "occ": 1,
@@ -2166,7 +2421,7 @@
    "note": "aiming for perfection"
   },
   {
-   "id": "P28-EN-152",
+   "id": "P28-EN-170",
    "sent": "S066",
    "text": "perfection",
    "occ": 1,
@@ -2180,7 +2435,7 @@
    "note": "perfection ≈ idealised — chuỗi lý tưởng"
   },
   {
-   "id": "P28-EN-153",
+   "id": "P28-EN-171",
    "sent": "S067",
    "text": "current you",
    "occ": 1,
@@ -2195,7 +2450,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-154",
+   "id": "P28-EN-172",
    "sent": "S067",
    "text": "change",
    "occ": 1,
@@ -2209,7 +2464,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-155",
+   "id": "P28-EN-173",
    "sent": "S067",
    "text": "fantasised",
    "occ": 1,
@@ -2223,12 +2478,12 @@
    "note": "fantasised ≈ idealised"
   },
   {
-   "id": "P28-EN-156",
+   "id": "P28-EN-174",
    "sent": "S068",
    "text": "This disconnect",
    "occ": 1,
    "cat": "R",
-   "sub": "nominal",
+   "sub": "demonstrative",
    "dir": "ana",
    "level": "LC",
    "ante": "S067: current you vs fantasised you",
@@ -2238,7 +2493,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-157",
+   "id": "P28-EN-175",
    "sent": "S068",
    "text": "these lofty goals",
    "occ": 1,
@@ -2253,7 +2508,7 @@
    "ref": "A"
   },
   {
-   "id": "P28-EN-158",
+   "id": "P28-EN-176",
    "sent": "S068",
    "text": "we",
    "occ": 1,
@@ -2268,7 +2523,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-159",
+   "id": "P28-EN-177",
    "sent": "S068",
    "text": "failure",
    "occ": 1,
@@ -2282,7 +2537,21 @@
    "note": "frustration and failure"
   },
   {
-   "id": "P28-EN-160",
+   "id": "P28-EN-178",
+   "sent": "S068",
+   "text": "sacrifices",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S067: a whole lot of things you really don't want to do",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "danh từ tổng quát chỉ các thứ phải đánh đổi của 'fantasised you'"
+  },
+  {
+   "id": "P28-EN-179",
    "sent": "S069",
    "text": "of us",
    "occ": 1,
@@ -2297,7 +2566,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-161",
+   "id": "P28-EN-180",
    "sent": "S069",
    "text": "ideal",
    "occ": 1,
@@ -2311,21 +2580,21 @@
    "note": null
   },
   {
-   "id": "P28-EN-162",
+   "id": "P28-EN-181",
    "sent": "S070",
    "text": "In fact",
    "occ": 1,
    "cat": "C",
-   "sub": "additive",
+   "sub": "continuative",
    "dir": "ana",
    "level": "LC",
    "ante": "S069: Very few of us are ideal",
    "conf": "high",
    "alt": null,
-   "note": "nhấn mạnh"
+   "note": "continuative tăng tiến: chỉnh sub từ 'additive' theo H&H §5.8"
   },
   {
-   "id": "P28-EN-163",
+   "id": "P28-EN-182",
    "sent": "S070",
    "text": "of us",
    "occ": 1,
@@ -2340,7 +2609,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-164",
+   "id": "P28-EN-183",
    "sent": "S070",
    "text": null,
    "occ": 1,
@@ -2356,7 +2625,7 @@
    "note": "[LC] tỉnh lược vị ngữ ∅ {are ideal}; VI lấp đầy 'thực sự hoàn hảo' nên không có E phía VI"
   },
   {
-   "id": "P28-EN-165",
+   "id": "P28-EN-184",
    "sent": "S071",
    "text": "your",
    "occ": 1,
@@ -2371,7 +2640,7 @@
    "ref": "E"
   },
   {
-   "id": "P28-EN-166",
+   "id": "P28-EN-185",
    "sent": "S071",
    "text": "failure as a learning opportunity",
    "occ": 1,
@@ -2385,7 +2654,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-167",
+   "id": "P28-EN-186",
    "sent": "S072",
    "text": "failure",
    "occ": 1,
@@ -2399,7 +2668,7 @@
    "note": null
   },
   {
-   "id": "P28-EN-168",
+   "id": "P28-EN-187",
    "sent": "S072",
    "text": "process",
    "occ": 1,

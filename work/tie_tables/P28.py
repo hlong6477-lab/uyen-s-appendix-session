@@ -4,6 +4,10 @@
 # KHỐI CẮT VI: EN S012, S039 (tie chỉ EN). Subhead không gán nhãn.
 # Quy ước ngôi: you/bạn, we-us/chúng ta — 1 dấu/câu (lần đầu), các lần
 # khác trong câu ghi note. VI S029 "chúng ta" ↔ EN S030; bản đồ dịch −1/−2.
+# [Phase-2] Bổ sung theo PHASE2_PROTOCOL.md: 19 hàng mới EN / 17 hàng mới
+# VI; 2 reclassify L→R comparative (H&H §2.5); sub→demonstrative (H&H
+# §2.4) + additive→continuative (H&H §5.8); rút span VI S038 (precedent
+# chồng marker); +alt EN S012/S024 (mapping §3.6).
 
 ST = [
     # S001
@@ -19,6 +23,12 @@ ST = [
      "cộng đồng (ngoại văn bản)", "med", None,
      "'our pledges', 'for us', 'many of us' trong câu không đánh "
      "(quy ước 1 dấu/câu)", 1, None, None, "LC", "E"),
+    # [Phase-2] pledges ← resolution (S001): chuỗi đồng nghĩa resolution↔
+    # pledges (H&H §6.2 reiteration — synonym); VI "lời cam kết" (S002 TT).
+    ("S002", "pledges", "L", "synonym",
+     "S001: a New Year's resolution", "high", None,
+     "pledges ≈ resolution (our pledges); 'them' cuối câu quy chiếu "
+     "trong câu không đánh", 1, None, None, "LC", None),
     # S004
     ("S004", "we can improve", "R", "personal",
      "cộng đồng (ngoại văn bản)", "med", None, None, 1, None, None,
@@ -67,14 +77,23 @@ ST = [
     ("S010", "healthier", "L", "repetition",
      "S006: eating healthier", "high", None, None, 1, None, None,
      "LC", None),
+    # [Phase-2] Australians ← Australians (S009): chuỗi người Úc lặp liên
+    # câu (H&H §6.2 reiteration); VI "người Úc" (S010 TT).
+    ("S010", "Australians", "L", "repetition",
+     "S009: 74 per cent of Australians", "high", None,
+     "lặp Australians (39 per cent of Australians)", 1, None, None,
+     "LC", None),
     # S011
     ("S011", "travel overseas", "L", "repetition",
      "S007: finally travelling to that country", "high", None,
      "travel ≈ travelling", 1, None, None, "LC", None),
     # S012 — KHỐI CẮT (VI none)
+    # [Phase-2] +alt "R: the" (mapping §3.6): the + tổng quát hóa tham chiếu
+    # đã nêu (resolutions → resolution hype).
     ("S012", "the resolution hype", "L", "repetition",
-     "S010: New Year's resolutions", "high", None,
-     "khối cắt, VI none", 1, None, None, "LC", None),
+     "S010: New Year's resolutions", "high", "R: the",
+     "khối cắt, VI none; the định danh cuộc hype quanh quyết tâm", 1,
+     None, None, "LC", None),
     # S013
     ("S013", "But", "C", "adversative",
      "S011: 20 per cent hope to travel overseas", "high", None, None,
@@ -87,10 +106,38 @@ ST = [
      "độc giả (ngoại văn bản)", "med", None,
      "occ 1: lần 2 ('your New Year's resolution') trong câu không đánh",
      1, None, None, "LC", "E"),
+    # [Phase-2] New Year's resolution ← the resolution hype (S012): chuỗi
+    # quyết tâm bị sót ở S013 (H&H §6.2 reiteration; tiền trạm = nhắc
+    # gần nhất — S012 nằm trong khối cắt).
+    ("S013", "New Year's resolution", "L", "repetition",
+     "S012: the resolution hype", "high", None,
+     "lặp chuỗi resolution (your New Year's resolution); 'the New Year' "
+     "đầu câu là chuỗi năm mới, đã có hàng riêng", 1, None, None, "LC",
+     None),
+    # [Phase-2] transform ← improve (S010): mắt xích sót của chuỗi đổi mới
+    # improve→transform→change (H&H §6.2 — synonym); VI "thay đổi"
+    # (S012 TT).
+    ("S013", "transform", "L", "synonym",
+     "S010: aiming to improve their diet", "med", None,
+     "transform ≈ improve (transform your life)", 1, None, None, "LC",
+     None),
+    # S014 — [Phase-2] "Here" = chỉ từ trỏ toàn bộ phần giải thích theo
+    # sau: quy chiếu mở rộng CATAPHORIC (H&H §2.4 demonstrative adverb +
+    # §2.4.1.4 extended reference); VI "Đây" (S013 TT) giữ 1–1.
+    ("S014", "Here", "R", "demonstrative",
+     "S015–S072: bốn khối subhead giải thích lý do", "med", None,
+     "tiền chỉ hiếm: Here's why = phần giải thích nằm sau; 'why' là "
+     "pro-form tóm lý do", 1, None, None, "LC", "C"),
     # S016
     ("S016", "health", "L", "repetition",
      "S010: health-based", "high", None,
      "trong 'health behavioural change'", 1, None, None, "LC", None),
+    # [Phase-2] change ← transform (S013): mắt xích sót chuỗi đổi mới
+    # (H&H §6.2 — transform ≈ change); S031 self-change quy về đây.
+    ("S016", "change", "L", "synonym",
+     "S013: transform your life", "med", None,
+     "health behavioural change; 'behavioural' thuộc chuỗi hành vi "
+     "(S033 that behaviour)", 1, None, None, "LC", None),
     # S017
     ("S017", "He", "R", "personal",
      "S016: Ron Borland", "high", None,
@@ -121,6 +168,13 @@ ST = [
     ("S020", "fail", "L", "repetition",
      "S002: will fail to make good on them", "high", None, None, 1,
      None, None, "LC", None),
+    # [Phase-2] Studies ← research (S009): đồng nghĩa (H&H §6.2
+    # reiteration) — EN đổi từ nơi VI lặp nguyên văn "nghiên cứu"
+    # (S019 TT; NTT 2020 §2.1).
+    ("S020", "Studies", "L", "synonym",
+     "S009: research from comparison site Finder", "high", None,
+     "Studies ≈ research (Studies show 88 per cent)", 1, None, None,
+     "LC", None),
     # S021
     ("S021", "Additionally", "C", "additive",
      "S020: Studies show 88 per cent fail", "high", None, None, 1,
@@ -128,13 +182,24 @@ ST = [
     ("S021", "their resolutions", "L", "repetition",
      "S020: New Year's resolutions", "high", None, None, 1, None,
      None, "LC", None),
+    # [Phase-2] achieve ↔ fail (S020): phép đối liên câu (TNT §30; H&H
+    # §6.4 opposites) — 88% fail đối lập 8% achieve; VI "đạt được"
+    # (S020 TT).
+    ("S021", "achieve", "L", "antonym",
+     "S020: fail them within the first two weeks", "high", None,
+     "phép đối fail ↔ achieve (actually achieve); mở đầu chuỗi achieve → "
+     "accomplish (S042) → achieve (S053)", 1, None, None, "LC", None),
     ("S021", "research", "L", "repetition",
      "S009: research from comparison site Finder", "high", None, None,
      1, None, None, "LC", None),
     # S022
-    ("S022", "That", "R", "personal",
+    # [Phase-2] RECLASSIFY sub personal → demonstrative (H&H §2.4;
+    # §2.4.1.4 extended reference): "That means" trỏ cả mệnh đề bằng chỉ
+    # từ, không phải đại từ nhân xưng.
+    ("S022", "That", "R", "demonstrative",
      "S020–S021: 88 per cent fail, only 8 per cent achieve", "high",
-     None, "quy chiếu mệnh đề", 1, None, None, "LC", "A"),
+     None, "quy chiếu mệnh đề (extended reference)", 1, None, None, "LC",
+     "A"),
     ("S022", "of us", "R", "personal",
      "cộng đồng (ngoại văn bản)", "med", None,
      "'we may be setting' lần 2 trong câu không đánh", 1, None, None,
@@ -142,6 +207,20 @@ ST = [
     ("S022", "the new year", "L", "repetition",
      "S013: the New Year", "high", None, "going into the new year", 1,
      None, None, "LC", None),
+    # [Phase-2] failure ← fail (S020): danh hóa lặp chuỗi thất bại bị sót
+    # (H&H §6.2 reiteration; TNT §26 phép lặp) — S024 "this failure" quy
+    # về đây.
+    ("S022", "failure", "L", "repetition",
+     "S020: fail them within the first two weeks", "high", None,
+     "danh hóa failure ← fail (setting ourselves up for failure)", 1,
+     None, None, "LC", None),
+    # [Phase-2] intentions ← resolutions (S021): danh từ tổng quát hóa
+    # (H&H §6.1 general word) — good intentions = các quyết tâm đã nêu.
+    ("S022", "intentions", "L", "general word",
+     "S021: achieve their resolutions", "med", None,
+     "tổng quát hóa resolution → intention (good intentions); S060 "
+     "intentions lặp tiếp chuỗi; VI 'ý định' (S021 TT)", 1, None, None,
+     "LC", None),
     # S023
     ("S023", "failing", "L", "repetition",
      "S020: fail them within the first two weeks", "high", None,
@@ -158,6 +237,17 @@ ST = [
      "S022–S023: setting ourselves up for failure", "high", None,
      "demonstrative; VI dùng hậu chỉ từ 'này'", 1, None, None, "LC",
      "A"),
+    # [Phase-2] the journey ← S001–S002 (toàn mạch quyết tâm/tự hoàn
+    # thiện): "the + danh từ tổng quát ẩn dụ" đổi tên tham chiếu đã nêu
+    # (H&H §6.1 general noun; mapping §3.6 → alt "R: the"); neo chuỗi
+    # journey → process (S072); VI "hành trình" (S023 TT) vô định —
+    # dịch chuyển the ↔ zero (NTT 2020 §2.2).
+    ("S024", "the journey", "L", "general word",
+     "S001–S002: a New Year's resolution / self-improvement (toàn mạch)",
+     "med", "R: the",
+     "accept it as part of the journey — tổng quát hóa toàn mạch cải "
+     "thiện bản thân; VI 'một phần của hành trình' vô định", 1, None,
+     None, "LC", None),
     # S025
     ("S025", "you're", "R", "personal",
      "độc giả (ngoại văn bản — quote)", "med", None, None, 1, None,
@@ -165,6 +255,12 @@ ST = [
     ("S025", "fail", "L", "repetition",
      "S023: failing quite miserably", "high", None,
      "you're going to fail", 1, None, None, "LC", None),
+    # S026 — [Phase-2] success ↔ fail (S025): phép đối liên câu (TNT §30;
+    # H&H §6.4 opposites) trong quote; VI "thành công" (S025 TT).
+    ("S026", "success", "L", "antonym",
+     "S025: sometimes you're going to fail", "high", None,
+     "phép đối fail ↔ success (100 per cent success rate); mở đầu chuỗi "
+     "success (S040 quy về đây)", 1, None, None, "LC", None),
     # S028
     ("S028", "New Year's resolutions", "L", "repetition",
      "S021: their resolutions", "high", None, None, 1, None, None,
@@ -186,6 +282,13 @@ ST = [
     ("S029", "a good plan", "L", "repetition",
      "S028: poorly planned", "high", None,
      "đối poor ↔ good; 'they/them' trong câu không đánh", 1, None,
+     None, "LC", None),
+    # [Phase-2] implementing ← follow through (S018): mắt xích sót của
+    # chuỗi thực hiện (H&H §6.2 — synonym); S034 implementing quy về đây;
+    # VI lặp nguyên văn "thực hiện" (S028 TT).
+    ("S029", "implementing", "L", "synonym",
+     "S018: prepared to follow through", "high", None,
+     "implementing ≈ follow through (for implementing them)", 1, None,
      None, "LC", None),
     # S030
     ("S030", "we're", "R", "personal",
@@ -250,6 +353,13 @@ ST = [
     ("S038", "following through", "L", "repetition",
      "S018: follow through", "high", None, None, 1, None, None, "LC",
      None),
+    # [Phase-2] achievable ← achieve (S021): biến hình thức của chuỗi
+    # achieve (H&H §6.2 reiteration; analysis §6 đã ghi "thêm achievable
+    # ← achieve (S021)"); nhãn Achievable (S047) quy về đây.
+    ("S038", "achievable", "L", "repetition",
+     "S021: actually achieve", "high", None,
+     "lặp hình vị achieve trong định nghĩa SMART", 1, None, None, "LC",
+     None),
     # S039 — KHỐI CẮT (VI none)
     ("S039", "this approach", "R", "demonstrative",
      "S038: set a 'SMART' goal", "high", None, "khối cắt, VI none", 1,
@@ -269,6 +379,13 @@ ST = [
      "độc giả (ngoại văn bản — quote)", "med", None,
      "'you can increase' lần 2 trong câu không đánh", 1, None, None,
      "LC", "E"),
+    # [Phase-2] give up ↔ stick (S037): phép đối liên câu có phủ định
+    # (TNT §30; H&H §6.4 opposites) — "don't give up" = "stick"; VI
+    # "bỏ cuộc" (S038 TT).
+    ("S040", "give up", "L", "antonym",
+     "S037: ensure you stick to your resolution", "med", None,
+     "phép đối stick ↔ give up (make sure you don't give up)", 1, None,
+     None, "LC", None),
     ("S040", "planning", "L", "repetition",
      "S028: poorly planned", "high", None,
      "a little bit of planning beforehand", 1, None, None, "LC",
@@ -323,7 +440,9 @@ ST = [
      "S044: track your progress", "high", None,
      "idiom vang nhau 'track'", 1, None, None, "LC", None),
     # S046
-    ("S046", "this clarity", "R", "nominal",
+    # [Phase-2] RECLASSIFY sub nominal → demonstrative (H&H §2.4): "this +
+    # danh từ" — khớp quy ước "this failure/these moments".
+    ("S046", "this clarity", "R", "demonstrative",
      "S042–S043: Specific — make it really specific", "high", None,
      "bridging bằng danh từ tổng quát; VI 'sự rõ ràng này'", 1, None,
      None, "LC", "A"),
@@ -368,6 +487,15 @@ ST = [
     ("S049", "Instead", "C", "adversative",
      "S048: aiming to cook gourmet meals might be a stretch", "high",
      None, "thay thế đề xuất", 1, None, None, "LC", None),
+    # [Phase-2] more manageable ← S048 "might be a stretch": quy chiếu so
+    # sánh (H&H §2.5 "more") — chuẩn so sánh nằm ở CÂU TRƯỚC; VI giữ cấu
+    # trúc so sánh "dễ quản lý hơn" (S047 TT).
+    ("S049", "more manageable", "R", "comparative",
+     "S048: aiming to cook gourmet meals every night might be a stretch",
+     "high", None,
+     "[LC] quy chiếu so sánh: more manageable = dễ quản lý HƠN so với "
+     "mục tiêu nấu bữa ngon mỗi tối (S048); H&H §2.5", 1, None, None,
+     "LC", "A"),
     ("S049", "a goal", "L", "repetition",
      "S047: your goal", "high", None, None, 1, None, None, "LC",
      None),
@@ -416,9 +544,15 @@ ST = [
     ("S053", "you can", "R", "personal",
      "độc giả (ngoại văn bản — quote)", "med", None, None, 1, None,
      None, "LC", "E"),
-    ("S053", "more realistic", "L", "repetition",
-     "S052: a realistic goal", "high", None, None, 1, None, None,
-     "LC", None),
+    # [Phase-2] RECLASSIFY L repetition → R comparative (H&H §2.5 "more"):
+    # "more realistic" so sánh với "not quite a realistic goal" (S052) ở
+    # câu trước — quan hệ so sánh trội hơn phép lặp (mapping §3.13 một
+    # hình thức một hàng); VI "thực tế hơn" (S051 TT) đồng bộ reclassify.
+    ("S053", "more realistic", "R", "comparative",
+     "S052: that's not quite a realistic goal", "high", None,
+     "[LC] quy chiếu so sánh: more realistic = thực tế HƠN so với mục "
+     "tiêu vừa bị bác (S052); mặt lặp realistic ghi ở analysis §6", 1,
+     None, None, "LC", "A"),
     ("S053", "achieve", "L", "repetition",
      "S021: actually achieve", "high", None, None, 1, None, None,
      "LC", None),
@@ -430,6 +564,14 @@ ST = [
      "S038: time-bound", "high", None,
      "nhãn liệt kê; 'time frame' trong câu ghi note", 1, None, None,
      "LC", None),
+    # [Phase-2] a clear deadline ← a clear plan (S040): mắt xích sót của
+    # chuỗi "clear" (S018→S040→S054→S057; H&H §6.2 reiteration; TNT §26
+    # phép lặp); "deadline/time frame" trong câu là apposition; VI
+    # "rõ ràng" (S052 TT) đã có hàng riêng.
+    ("S054", "a clear deadline", "L", "repetition",
+     "S040: a clear plan", "high", None,
+     "lặp 'clear' trong cụm 'a clear deadline'; VI đánh 'rõ ràng' "
+     "(S052)", 1, None, None, "LC", None),
     ("S054", "your goal", "R", "personal",
      "độc giả (ngoại văn bản)", "med", None, "achieving your goal", 1,
      None, None, "LC", "E"),
@@ -444,6 +586,11 @@ ST = [
     ("S055", "get fit", "L", "repetition",
      "S010: improve their fitness levels", "high", None, None, 1,
      None, None, "LC", None),
+    # [Phase-2] run ← running (S045): chuỗi chạy (H&H §6.2 reiteration) —
+    # ví dụ chạy bộ lặp qua khối SMART; VI "chạy" (S053 TT).
+    ("S055", "run", "L", "repetition",
+     "S045: commit to running four times a week", "high", None,
+     "lặp run/running (you'll run 5K)", 1, None, None, "LC", None),
     ("S055", "specify", "L", "repetition",
      "S042: Specific — make it really specific", "high", None,
      "hình vị speci-", 1, None, None, "LC", None),
@@ -578,7 +725,9 @@ ST = [
      "S065: an idealised version of ourselves", "med", None,
      "fantasised ≈ idealised", 1, None, None, "LC", None),
     # S068
-    ("S068", "This disconnect", "R", "nominal",
+    # [Phase-2] RECLASSIFY sub nominal → demonstrative (H&H §2.4) — đồng bộ
+    # với "these lofty goals" cùng câu.
+    ("S068", "This disconnect", "R", "demonstrative",
      "S067: current you vs fantasised you", "high", None,
      "danh từ tổng quát tóm chỉ", 1, None, None, "LC", "A"),
     ("S068", "these lofty goals", "R", "demonstrative",
@@ -591,6 +740,15 @@ ST = [
     ("S068", "failure", "L", "repetition",
      "S024: this failure", "high", None,
      "frustration and failure", 1, None, None, "LC", None),
+    # [Phase-2] the sacrifices ← S067 "things you really don't want to
+    # do": danh từ tổng quát bridging (H&H §6.1 general word); the định
+    # danh → alt (mapping §3.6); VI "hy sinh" (S066 TT) — dịch chuyển
+    # the ↔ zero (NTT 2020 §2.2).
+    ("S068", "sacrifices", "L", "general word",
+     "S067: a whole lot of things you really don't want to do", "med",
+     "R: the",
+     "danh từ tổng quát chỉ các thứ phải đánh đổi của 'fantasised you'", 1,
+     None, None, "LC", None),
     # S069
     ("S069", "of us", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None, None, 1, None,
@@ -599,9 +757,14 @@ ST = [
      "S065: an idealised version", "high", None, None, 1, None, None,
      "LC", None),
     # S070
-    ("S070", "In fact", "C", "additive",
+    # [Phase-2] RECLASSIFY sub additive → continuative (H&H §5.8; protocol
+    # nhóm 5): "In fact," đầu câu mở lượt nhấn mạnh discours (tăng tiến
+    # 'rất ít' → 'không ai'), không thêm nội dung mệnh đề — trước đây ghi
+    # additive (nhấn mạnh); VI "Trên thực tế" (S068 TT) đồng bộ.
+    ("S070", "In fact", "C", "continuative",
      "S069: Very few of us are ideal", "high", None,
-     "nhấn mạnh", 1, None, None, "LC", None),
+     "continuative tăng tiến: chỉnh sub từ 'additive' theo H&H §5.8", 1,
+     None, None, "LC", None),
     ("S070", "of us", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None, "none of us", 1,
      None, None, "LC", "E"),
@@ -640,6 +803,13 @@ TT = [
      "cộng đồng (ngoại văn bản)", "med", None,
      "occ 1: lần 2, 3, 4 ('của chúng ta', 'cho chúng ta', 'trong chúng "
      "ta') trong câu không đánh", 1, None, None, "LC", "E"),
+    # [Phase-2] lời cam kết ← quyết tâm (S001): chuỗi đồng nghĩa (H&H §6.2
+    # reiteration — synonym) đối ứng EN pledges (S002 ST); occ 1 tường minh.
+    ("S002", "lời cam kết", "L", "synonym",
+     "S001: quyết tâm cho năm mới 2025", "high", None,
+     "lời cam kết ≈ quyết tâm (những lời cam kết của chúng ta); occ 1 — "
+     "lần 2 ('những lời cam kết đó') trong câu không đánh", 1, None, None,
+     "LC", None),
     # S003
     ("S003", "năm mới", "L", "repetition",
      "S001: quyết tâm cho năm mới 2025", "high", None,
@@ -649,6 +819,13 @@ TT = [
      "cộng đồng (ngoại văn bản)", "med", None,
      "occ 1: lần 2 ('cách chúng ta') trong câu không đánh", 1, None,
      None, "LC", "E"),
+    # [Phase-2] cải thiện ← tự hoàn thiện (S002): lặp hình vị "thiện"
+    # (TNT §26 phép lặp từ vựng); EN improve nằm trong span R "we can
+    # improve" (S004 ST) nên không có hàng L riêng phía EN.
+    ("S004", "cải thiện", "L", "repetition",
+     "S002: chúng ta phấn đấu để tự hoàn thiện", "med", None,
+     "lặp hình vị thiện (tự hoàn thiện → cải thiện); mở chuỗi cải thiện "
+     "đến S010", 1, None, None, "LC", None),
     # S005
     ("S005", None, "E", "nominal",
      "S004: cách chúng ta có thể cải thiện cuộc sống của mình",
@@ -694,6 +871,11 @@ TT = [
      "S004: cải thiện cuộc sống của mình", "high", None,
      "occ 1: lần 2 ('cải thiện mức độ thể lực') trong câu không đánh",
      1, None, None, "LC", None),
+    # [Phase-2] người Úc ← người Úc (S009): chuỗi người Úc (H&H §6.2
+    # reiteration); EN "Australians" (S010 ST).
+    ("S010", "người Úc", "L", "repetition",
+     "S009: khoảng 74 phần trăm người Úc", "high", None,
+     "lặp người Úc (39 phần trăm người Úc)", 1, None, None, "LC", None),
     ("S010", "lành mạnh hơn", "L", "repetition",
      "S006: ăn uống lành mạnh hơn", "high", None,
      "lựa chọn thực phẩm lành mạnh hơn", 1, None, None, "LC", None),
@@ -716,6 +898,20 @@ TT = [
      "độc giả (ngoại văn bản)", "med", None,
      "occ 1: lần 2 ('quyết tâm năm mới của bạn') trong câu không đánh",
      1, None, None, "LC", "E"),
+    # [Phase-2] thay đổi ← cải thiện (S010): mắt xích sót chuỗi đổi mới
+    # (H&H §6.2 — synonym); S015 'thay đổi' quy về đây; EN "transform"
+    # (S013 ST).
+    ("S012", "thay đổi", "L", "synonym",
+     "S010: muốn cải thiện chế độ ăn uống", "med", None,
+     "thay đổi ≈ cải thiện (thay đổi cuộc sống của bạn)", 1, None, None,
+     "LC", None),
+    # S013 — [Phase-2] "Đây" = chỉ từ trỏ toàn bộ phần giải thích theo
+    # sau: quy chiếu mở rộng CATAPHORIC (H&H §2.4 + §2.4.1.4 extended
+    # reference); EN "Here" (S014 ST) giữ 1–1.
+    ("S013", "Đây", "R", "demonstrative",
+     "S014–S070: bốn khối subhead giải thích lý do", "med", None,
+     "tiền chỉ hiếm: Đây là lý do tại sao = phần giải thích nằm sau", 1,
+     None, None, "LC", "C"),
     # S015 (= EN S016)
     ("S015", "sức khỏe", "L", "repetition",
      "S010: các mục tiêu phổ biến nhất là về sức khỏe", "high", None,
@@ -765,13 +961,23 @@ TT = [
     ("S020", "quyết tâm", "L", "repetition",
      "S019: quyết tâm cho năm mới", "high", None,
      "đạt được quyết tâm của mình", 1, None, None, "LC", None),
+    # [Phase-2] đạt được ↔ thất bại (S019): phép đối liên câu (TNT §30;
+    # H&H §6.4 opposites) — 88% thất bại đối lập 8% đạt được; EN
+    # "achieve" (S021 ST).
+    ("S020", "đạt được", "L", "antonym",
+     "S019: đều thất bại trong vòng hai tuần đầu tiên", "high", None,
+     "phép đối thất bại ↔ đạt được; mở đầu chuỗi đạt được của VI", 1,
+     None, None, "LC", None),
     ("S020", "nghiên cứu", "L", "repetition",
      "S019: Các nghiên cứu cho thấy", "high", None, None, 1, None,
      None, "LC", None),
     # S021 (= EN S022)
-    ("S021", "Điều đó", "R", "personal",
+    # [Phase-2] RECLASSIFY sub personal → demonstrative (H&H §2.4.1.4):
+    # "Điều đó" = chỉ từ + danh từ tổng quát trỏ cả mệnh đề.
+    ("S021", "Điều đó", "R", "demonstrative",
      "S019–S020: 88 phần trăm thất bại, 8 phần trăm đạt được",
-     "high", None, "quy chiếu mệnh đề", 1, None, None, "LC", "A"),
+     "high", None, "quy chiếu mệnh đề (extended reference)", 1, None,
+     None, "LC", "A"),
     ("S021", "chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản)", "med", None,
      "occ 1: lần 2 ('chúng ta có thể đang') trong câu không đánh", 1,
@@ -782,6 +988,13 @@ TT = [
     ("S021", "năm mới", "L", "repetition",
      "S019: quyết tâm cho năm mới", "high", None, "bước vào năm mới", 1,
      None, None, "LC", None),
+    # [Phase-2] ý định ← quyết tâm (S020): danh từ tổng quát hóa (H&H §6.1
+    # general word) — ý định tốt = các quyết tâm đã nêu; EN "intentions"
+    # (S022 ST); S058 'ý định tốt' lặp tiếp chuỗi.
+    ("S021", "ý định", "L", "general word",
+     "S020: đạt được quyết tâm của mình", "med", None,
+     "tổng quát hóa quyết tâm → ý định (ý định tốt)", 1, None, None,
+     "LC", None),
     # S022 (= EN S023)
     ("S022", "mục tiêu", "L", "repetition",
      "S010: Các mục tiêu phổ biến nhất", "high", None,
@@ -809,6 +1022,13 @@ TT = [
     ("S024", "thất bại", "L", "repetition",
      "S023: thất bại này", "high", None, None, 1, None, None, "LC",
      None),
+    # S025 — [Phase-2] thành công ↔ thất bại (S024): phép đối liên câu
+    # (TNT §30; H&H §6.4 opposites) trong quote; EN "success" (S026 ST).
+    ("S025", "thành công", "L", "antonym",
+     "S024: đôi khi bạn sẽ thất bại", "high", None,
+     "phép đối thất bại ↔ thành công (tỷ lệ thành công 100 phần trăm); "
+     "mở đầu chuỗi thành công (S038 quy về đây)", 1, None, None, "LC",
+     None),
     # S027 (= EN S028)
     ("S027", "Borland", "L", "repetition",
      "S022: Borland nói", "high", None, None, 1, None, None, "LC",
@@ -831,14 +1051,25 @@ TT = [
      "S027: lên kế hoạch kém", "high", None,
      "đối 'kém ↔ tốt'; 'chúng' trong câu không đánh", 1, None, None,
      "LC", None),
+    # [Phase-2] thực hiện ← thực hiện (S017): mắt xích sót của chuỗi thực
+    # hiện (H&H §6.2 reiteration; TNT §26 phép lặp) — đối ứng EN
+    # implementing (S029 ST); S033 triển khai + S037 thực hiện đều trích
+    # S028 làm tiền trạm nên mắt xích này phải có hàng riêng.
+    ("S028", "thực hiện", "L", "repetition",
+     "S017: bạn sẵn sàng thực hiện", "high", None,
+     "kế hoạch tốt để thực hiện chúng — mắt xích bị sót của chuỗi thực "
+     "hiện", 1, None, None, "LC", None),
     # S029 (= EN S030)
     ("S029", "chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản)", "med", None, None, 1, None, None,
      "LC", "E"),
     # S030 (= EN S031)
-    ("S030", "Điều này", "R", "personal",
+    # [Phase-2] RECLASSIFY sub personal → demonstrative (H&H §2.4.1.4):
+    # "Điều này" = chỉ từ + danh từ tổng quát trỏ cả mệnh đề.
+    ("S030", "Điều này", "R", "demonstrative",
      "S029: chúng ta vẫn đang chìm đắm trong chế độ nghỉ lễ",
-     "high", None, "quy chiếu mệnh đề", 1, None, None, "LC", "A"),
+     "high", None, "quy chiếu mệnh đề (extended reference)", 1, None,
+     None, "LC", "A"),
     ("S030", "đây", "R", "demonstrative",
      "S029: Vào ngày 1 tháng 1… nghỉ lễ", "high", None,
      "VI hiện thực hóa time-it bằng chỉ từ — EN không có (bất đối xứng "
@@ -877,6 +1108,13 @@ TT = [
      "S028: để thực hiện chúng", "high", None,
      "triển khai ≈ thực hiện (thay đổi từ trong cùng chuỗi)", 1, None,
      None, "LC", None),
+    # [Phase-2] lối sống hàng ngày ← thói quen thường ngày (S032): mắt xích
+    # sót chuỗi lối sống (H&H §6.2 — VI đổi thói quen → lối sống, lặp hình
+    # vị 'ngày'); EN lặp nguyên văn lifestyle (S033–S034 ST).
+    ("S033", "lối sống hàng ngày", "L", "synonym",
+     "S032: thói quen thường ngày", "med", None,
+     "thói quen ≈ lối sống; lặp hình vị ngày (thường ngày ↔ hàng ngày)",
+     1, None, None, "LC", None),
     # S034 (= EN S035)
     ("S034", "Và", "C", "additive",
      "S033: Bạn cần có kế hoạạạch để triển khai", "high", None,
@@ -901,10 +1139,28 @@ TT = [
      "S022: tự đặt ra mục tiêu", "high", None,
      "occ 1: lần 2 ('một mục tiêu cụ thể') trong câu không đánh", 1,
      None, None, "LC", None),
+    # [Phase-2] đạt được ← đạt được (S020): lặp nguyên văn (H&H §6.2;
+    # TNT §26 phép lặp) — gloss SMART nối về 'đạt được quyết tâm'; EN
+    # achievable ← achieve (S038 ST).
+    ("S037", "đạt được", "L", "repetition",
+     "S020: thực sự đạt được quyết tâm của mình", "high", None,
+     "lặp đạt được (có thể đạt được trong định nghĩa SMART); nhãn S045 "
+     "quy về đây", 1, None, None, "LC", None),
     # S038 (= EN S040)
-    ("S038", "bạn không bỏ cuộc", "R", "personal",
-     "độc giả (ngoại văn bản — quote)", "med", None, None, 1, None,
-     None, "LC", "E"),
+    # [Phase-2] rút span "bạn không bỏ cuộc" → "bạn" (precedent chồng
+    # marker của chính P28) để đặt hàng L "bỏ cuộc" không đè hàng R;
+    # occ 1 tường minh vì "bạn" xuất hiện 2 lần trong câu.
+    ("S038", "bạn", "R", "personal",
+     "độc giả (ngoại văn bản — quote)", "med", None,
+     "occ 1 ('đảm bảo bạn không bỏ cuộc'); lần 2 ('bạn có thể tăng') "
+     "trong câu không đánh", 1, None, None, "LC", "E"),
+    # [Phase-2] bỏ cuộc ↔ kiên trì (S036): phép đối liên câu có phủ định
+    # (TNT §30; H&H §6.4 opposites) — "không bỏ cuộc" = "kiên trì"; EN
+    # "give up" (S040 ST).
+    ("S038", "bỏ cuộc", "L", "antonym",
+     "S036: đảm bảo bạn kiên trì với quyết tâm", "med", None,
+     "phép đối kiên trì ↔ bỏ cuộc (đảm bảo bạn không bỏ cuộc)", 1, None,
+     None, "LC", None),
     ("S038", "kế hoạch", "L", "repetition",
      "S033: Bạn cần có kế hoạch", "high", None,
      "occ 1: lần 2 ('một kế hoạch rõ ràng' — có hàng 'rõ ràng' riêng) "
@@ -1001,6 +1257,14 @@ TT = [
     ("S047", "Thay vào đó", "C", "adversative",
      "S046: việc đặt mục tiêu nấu bữa ăn ngon có thể quá sức",
      "high", None, "thay thế đề xuất", 1, None, None, "LC", None),
+    # [Phase-2] dễ quản lý hơn ← S046 "một điều quá sức": quy chiếu so
+    # sánh (H&H §2.5) — "hơn" so với mục tiêu nấu bữa ngon mỗi tối ở câu
+    # trước; EN "more manageable" (S049 ST).
+    ("S047", "dễ quản lý hơn", "R", "comparative",
+     "S046: việc đặt mục tiêu nấu những bữa ăn ngon mỗi tối có thể là "
+     "một điều quá sức", "high", None,
+     "[LC] quy chiếu so sánh: dễ quản lý HƠN so với việc nấu bữa ăn "
+     "ngon mỗi tối (S046); H&H §2.5", 1, None, None, "LC", "A"),
     ("S047", "một mục tiêu", "L", "repetition",
      "S046: việc đặt mục tiêu", "high", None,
      "'mục tiêu này dễ quản lý' lần 2 trong câu là apposition, "
@@ -1027,8 +1291,14 @@ TT = [
      None, None, "LC", None),
     ("S048", "của bạn", "R", "personal",
      "độc giả (ngoại văn bản)", "med", None,
-     "occ 1: lần 2 ('lối sống của bạn') trong câu không đánh; 'lối "
-     "sống' khởi tạo chuỗi", 1, None, None, "LC", "E"),
+     "occ 1: lần 2 ('lối sống của bạn') trong câu không đánh", 1, None,
+     None, "LC", "E"),
+    # [Phase-2] lối sống ← lối sống hàng ngày (S033): mắt xích sót chuỗi
+    # lối sống (H&H §6.2 reiteration); EN "your lifestyle" (S050 ST).
+    ("S048", "lối sống", "L", "repetition",
+     "S033: lối sống hàng ngày của mình", "high", None,
+     "lặp lối sống (phù hợp với lối sống của bạn)", 1, None, None, "LC",
+     None),
     # S049 (= EN S051)
     ("S049", "Ví dụ", "C", "additive",
      "S048: Hãy cân nhắc xem mục tiêu của bạn", "high", None,
@@ -1049,9 +1319,15 @@ TT = [
     ("S051", "bạn thực sự có thể", "R", "personal",
      "độc giả (ngoại văn bản — quote)", "med", None, None, 1, None,
      None, "LC", "E"),
-    ("S051", "thực tế hơn", "L", "repetition",
-     "S050: mục tiêu thực tế", "high", None, None, 1, None, None,
-     "LC", None),
+    # [Phase-2] RECLASSIFY L repetition → R comparative (H&H §2.5):
+    # "thực tế hơn" so với "không phải là mục tiêu thực tế" (S050) ở câu
+    # trước (mapping §3.13 một hình thức một hàng); EN "more realistic"
+    # (S053 ST) đồng bộ reclassify.
+    ("S051", "thực tế hơn", "R", "comparative",
+     "S050: đó không phải là mục tiêu thực tế", "high", None,
+     "[LC] quy chiếu so sánh: thực tế HƠN so với mục tiêu vừa bị bác "
+     "(S050); mặt lặp thực tế ghi ở analysis §6", 1, None, None, "LC",
+     "A"),
     ("S051", "đạt được", "L", "repetition",
      "S045: Có thể đạt được", "high", None, None, 1, None, None,
      "LC", None),
@@ -1088,6 +1364,11 @@ TT = [
      "S044: sự rõ ràng này", "high", None,
      "chuỗi 'rõ' VI; EN dùng 'specify' (hình vị speci-)", 1, None,
      None, "LC", None),
+    # [Phase-2] chạy ← chạy (S043): chuỗi chạy (H&H §6.2 reiteration) —
+    # ví dụ chạy bộ lặp qua khối Time-bound; EN "run" (S055 ST).
+    ("S053", "chạy", "L", "repetition",
+     "S043: cam kết chạy bốn lần một tuần", "high", None,
+     "lặp chạy (bạn sẽ chạy được 5 km)", 1, None, None, "LC", None),
     # S054 (= EN S056)
     ("S054", "của bạn", "R", "personal",
      "độc giả (ngoại văn bản)", "med", None,
@@ -1161,9 +1442,14 @@ TT = [
      "S059: Borland nhấn mạnh", "high", None, None, 1, None, None,
      "LC", None),
     # S061 (= EN S063)
-    ("S061", "điều đó", "R", "personal",
+    # [Phase-2] RECLASSIFY sub personal → demonstrative (H&H §2.4.1.4):
+    # "điều đó" = danh từ tổng quát + chỉ từ trỏ cả mệnh đề — đồng bộ với
+    # "Điều đó/Điều này" (S021/S030 TT); EN "it happens" (S063 ST) giữ
+    # sub personal vì 'it' là đại từ nhân xưng (mở rộng nghĩa §2.3.3).
+    ("S061", "điều đó", "R", "demonstrative",
      "S060: thay đổi hoàn toàn và trở thành người khác", "high",
-     None, "quy chiếu mệnh đề", 1, None, None, "LC", "A"),
+     None, "quy chiếu mệnh đề (extended reference)", 1, None, None,
+     "LC", "A"),
     ("S061", "làm điều đó", "S", "verbal",
      "S060: thay đổi hoàn toàn", "high", None,
      "[LC] 'làm' thế động từ — VI giữ pro-form hiếm hoi (VI gộp 2 lần "
@@ -1224,7 +1510,10 @@ TT = [
      "'con người' lặp 2 lần trong câu (TC) ghi note", 1, None, None,
      "LC", None),
     # S066 (= EN S068)
-    ("S066", "Sự ngắt kết nối này", "R", "nominal",
+    # [Phase-2] RECLASSIFY sub nominal → demonstrative (H&H §2.4) — đồng bộ
+    # với EN "This disconnect" (S068 ST) và quy ước "sự rõ ràng này/
+    # những khoảnh khắc này".
+    ("S066", "Sự ngắt kết nối này", "R", "demonstrative",
      "S065: con người hiện tại thành con người tốt hơn", "high",
      None, "danh từ tổng quát tóm chỉ; hậu chỉ từ 'này'", 1, None,
      None, "LC", "A"),
@@ -1241,6 +1530,14 @@ TT = [
     ("S066", "đạt được", "L", "repetition",
      "S052: để đạt được mục tiêu", "high", None,
      "VI lặp từ nơi EN đổi ('meet')", 1, None, None, "LC", None),
+    # [Phase-2] hy sinh ← S065 "rất nhiều thứ mà bạn thực sự không muốn
+    # làm": danh từ tổng quát bridging (H&H §6.1 general word) — đối ứng
+    # EN "the sacrifices" (S068 ST, alt "R: the"); VI vô định — dịch
+    # chuyển the ↔ zero (NTT 2020 §2.2).
+    ("S066", "hy sinh", "L", "general word",
+     "S065: rất nhiều thứ mà bạn thực sự không muốn làm", "med", None,
+     "những hy sinh cần thiết — tổng quát hóa các thứ phải đánh đổi của "
+     "'phiên bản tốt hơn'", 1, None, None, "LC", None),
     # S067 (= EN S069)
     ("S067", "chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None, None, 1, None,
@@ -1252,13 +1549,26 @@ TT = [
      "S064: hướng tới sự hoàn hảo", "high", None, None, 1, None,
      None, "LC", None),
     # S068 (= EN S070)
-    ("S068", "Trên thực tế", "C", "additive",
+    # [Phase-2] RECLASSIFY sub additive → continuative (H&H §5.8; protocol
+    # nhóm 5): "Trên thực tế," đầu câu mở lượt nhấn mạnh discours — trước
+    # đây ghi additive; EN "In fact" (S070 ST) đồng bộ.
+    ("S068", "Trên thực tế", "C", "continuative",
      "S067: Rất ít người trong chúng ta đạt được phiên bản hoàn hảo",
-     "high", None, "nhấn mạnh", 1, None, None, "LC", None),
+     "high", None,
+     "continuative tăng tiến: chỉnh sub từ 'additive' theo H&H §5.8", 1,
+     None, None, "LC", None),
     ("S068", "chúng ta", "R", "personal",
      "cộng đồng (ngoại văn bản — quote)", "med", None,
      "không ai trong chúng ta — VI lấp đầy E nên không có E phía VI",
      1, None, None, "LC", "E"),
+    # [Phase-2] hoàn hảo ← phiên bản hoàn hảo (S067): mắt xích sót chuỗi
+    # hoàn hảo (H&H §6.2 reiteration; TNT §26 phép lặp) — từ lấp đầy vị
+    # ngữ ∅ của EN S070 ('thực sự hoàn hảo'); EN đối ứng nằm trong hàng E
+    # nên không có hàng L riêng phía EN.
+    ("S068", "hoàn hảo", "L", "repetition",
+     "S067: phiên bản hoàn hảo của chính bản thân", "high", None,
+     "lặp hoàn hảo — VI hiện thực hóa ∅ vị ngữ của EN S070", 1, None,
+     None, "LC", None),
     # S069 (= EN S071)
     ("S069", "của bạn", "R", "personal",
      "độc giả (ngoại văn bản)", "med", None,

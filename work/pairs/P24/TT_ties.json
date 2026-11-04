@@ -189,6 +189,34 @@
   },
   {
    "id": "P24-VI-014",
+   "sent": "S007",
+   "text": "thay đổi lớn",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S005: những thay đổi mà họ đã thực hiện",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp thay đổi (echo nguyên văn S003 'những thay đổi lớn'); vế 'thay vì dẫn đến thay đổi lớn'"
+  },
+  {
+   "id": "P24-VI-015",
+   "sent": "S008",
+   "text": "Cuối cùng",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: ông lập luận một số cải cách chỉ 'điều chỉnh'",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §5.8 continuative: đánh dấu lượt tổng kết (ultimately), không phải nối thời gian"
+  },
+  {
+   "id": "P24-VI-016",
    "sent": "S008",
    "text": "những cuộc thảo luận này",
    "occ": 1,
@@ -203,7 +231,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-015",
+   "id": "P24-VI-017",
    "sent": "S008",
    "text": "thị thực vĩnh viễn",
    "occ": 1,
@@ -217,7 +245,7 @@
    "note": "chuỗi 'vĩnh viễn'"
   },
   {
-   "id": "P24-VI-016",
+   "id": "P24-VI-018",
    "sent": "S008",
    "text": "ông",
    "occ": 1,
@@ -232,7 +260,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-017",
+   "id": "P24-VI-019",
    "sent": "S009",
    "text": "đây",
    "occ": 1,
@@ -247,7 +275,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-018",
+   "id": "P24-VI-020",
    "sent": "S011",
    "text": "Chính phủ",
    "occ": 1,
@@ -261,7 +289,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-019",
+   "id": "P24-VI-021",
    "sent": "S011",
    "text": "chương trình di trú vĩnh viễn",
    "occ": 1,
@@ -275,7 +303,7 @@
    "note": "chuỗi 'vĩnh viễn'"
   },
   {
-   "id": "P24-VI-020",
+   "id": "P24-VI-022",
    "sent": "S012",
    "text": "Chương trình",
    "occ": 1,
@@ -289,7 +317,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-021",
+   "id": "P24-VI-023",
    "sent": "S012",
    "text": "suất",
    "occ": 2,
@@ -303,7 +331,7 @@
    "note": "occ=2: 132.200 suất + 137.100 suất"
   },
   {
-   "id": "P24-VI-022",
+   "id": "P24-VI-024",
    "sent": "S012",
    "text": "di dân có tay nghề",
    "occ": 1,
@@ -317,7 +345,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-023",
+   "id": "P24-VI-025",
    "sent": "S013",
    "text": "được phân bổ",
    "occ": 1,
@@ -331,7 +359,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-024",
+   "id": "P24-VI-026",
    "sent": "S014",
    "text": "Chương trình trước",
    "occ": 1,
@@ -346,7 +374,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-025",
+   "id": "P24-VI-027",
    "sent": "S014",
    "text": "chương trình sau",
    "occ": 1,
@@ -361,7 +389,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-026",
+   "id": "P24-VI-028",
    "sent": "S015",
    "text": "Nhiều thay đổi",
    "occ": 1,
@@ -375,7 +403,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-027",
+   "id": "P24-VI-029",
    "sent": "S015",
    "text": "các cải cách",
    "occ": 1,
@@ -389,7 +417,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-028",
+   "id": "P24-VI-030",
    "sent": "S015",
    "text": "chương trình visa có tay nghề",
    "occ": 1,
@@ -403,7 +431,7 @@
    "note": "chuỗi 'tay nghề'"
   },
   {
-   "id": "P24-VI-029",
+   "id": "P24-VI-031",
    "sent": "S017",
    "text": "chính phủ",
    "occ": 1,
@@ -417,7 +445,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-030",
+   "id": "P24-VI-032",
    "sent": "S017",
    "text": "sinh viên quốc tế",
    "occ": 1,
@@ -431,7 +459,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-031",
+   "id": "P24-VI-033",
    "sent": "S018",
    "text": "Nhưng",
    "occ": 1,
@@ -445,7 +473,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-032",
+   "id": "P24-VI-034",
    "sent": "S018",
    "text": "kế hoạch này",
    "occ": 1,
@@ -460,7 +488,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-033",
+   "id": "P24-VI-035",
    "sent": "S018",
    "text": "chính phủ",
    "occ": 1,
@@ -474,7 +502,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-034",
+   "id": "P24-VI-036",
    "sent": "S019",
    "text": "Chính phủ",
    "occ": 1,
@@ -488,7 +516,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-035",
+   "id": "P24-VI-037",
    "sent": "S019",
    "text": "sinh viên quốc tế",
    "occ": 1,
@@ -502,7 +530,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-036",
+   "id": "P24-VI-038",
    "sent": "S020",
    "text": "visa du học",
    "occ": 1,
@@ -516,7 +544,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-037",
+   "id": "P24-VI-039",
    "sent": "S020",
    "text": "giới hạn số lượng",
    "occ": 1,
@@ -530,7 +558,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-038",
+   "id": "P24-VI-040",
    "sent": "S021",
    "text": "các nhà cung cấp giáo dục quốc tế",
    "occ": 1,
@@ -544,7 +572,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-039",
+   "id": "P24-VI-041",
    "sent": "S021",
    "text": "ưu tiên cao",
    "occ": 1,
@@ -558,7 +586,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-040",
+   "id": "P24-VI-042",
    "sent": "S022",
    "text": "họ",
    "occ": 1,
@@ -573,7 +601,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-041",
+   "id": "P24-VI-043",
    "sent": "S022",
    "text": "ưu tiên tiêu chuẩn",
    "occ": 1,
@@ -587,7 +615,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-042",
+   "id": "P24-VI-044",
    "sent": "S023",
    "text": "thay đổi này",
    "occ": 1,
@@ -602,7 +630,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-043",
+   "id": "P24-VI-045",
    "sent": "S023",
    "text": "mức giới hạn",
    "occ": 1,
@@ -616,7 +644,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-044",
+   "id": "P24-VI-046",
    "sent": "S023",
    "text": "lựa chọn này",
    "occ": 1,
@@ -631,7 +659,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-045",
+   "id": "P24-VI-047",
    "sent": "S023",
    "text": "chúng tôi",
    "occ": 1,
@@ -646,7 +674,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-046",
+   "id": "P24-VI-048",
    "sent": "S024",
    "text": "Chương trình mới",
    "occ": 1,
@@ -660,7 +688,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-047",
+   "id": "P24-VI-049",
    "sent": "S024",
    "text": "chỉ thị 107 của bộ trưởng",
    "occ": 1,
@@ -674,7 +702,7 @@
    "note": "lặp khung 'chỉ thị của bộ trưởng'"
   },
   {
-   "id": "P24-VI-048",
+   "id": "P24-VI-050",
    "sent": "S024",
    "text": "chính phủ",
    "occ": 1,
@@ -688,7 +716,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-049",
+   "id": "P24-VI-051",
    "sent": "S024",
    "text": "số lượng sinh viên",
    "occ": 1,
@@ -702,7 +730,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-050",
+   "id": "P24-VI-052",
    "sent": "S024",
    "text": "xử lý thị thực",
    "occ": 1,
@@ -716,7 +744,22 @@
    "note": null
   },
   {
-   "id": "P24-VI-051",
+   "id": "P24-VI-053",
+   "sent": "S025",
+   "text": "khác",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S023: thay đổi này (giới hạn/chỉ thị 111 ở S017–S024)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: khác = khác với các thay đổi đã mô tả; H&H §2.5; tiền trạm gần nhất S023",
+   "ref": "A"
+  },
+  {
+   "id": "P24-VI-054",
    "sent": "S025",
    "text": "thay đổi",
    "occ": 1,
@@ -730,7 +773,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-052",
+   "id": "P24-VI-055",
    "sent": "S025",
    "text": "chương trình visa sinh viên",
    "occ": 1,
@@ -744,7 +787,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-053",
+   "id": "P24-VI-056",
    "sent": "S026",
    "text": null,
    "occ": 1,
@@ -760,7 +803,7 @@
    "note": "[LC] bao gồm ∅ — lược chủ ngữ {một số thay đổi khác} do tách câu khác EN"
   },
   {
-   "id": "P24-VI-054",
+   "id": "P24-VI-057",
    "sent": "S026",
    "text": "cải cách",
    "occ": 1,
@@ -774,7 +817,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-055",
+   "id": "P24-VI-058",
    "sent": "S026",
    "text": "visa sinh viên",
    "occ": 1,
@@ -788,7 +831,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-056",
+   "id": "P24-VI-059",
    "sent": "S026",
    "text": "visa tạm thời",
    "occ": 1,
@@ -802,7 +845,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-057",
+   "id": "P24-VI-060",
    "sent": "S027",
    "text": "visa tạm thời sau đại học",
    "occ": 1,
@@ -816,7 +859,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-058",
+   "id": "P24-VI-061",
    "sent": "S027",
    "text": "visa du học",
    "occ": 1,
@@ -830,7 +873,7 @@
    "note": "đồng nghĩa visa sinh viên = visa du học"
   },
   {
-   "id": "P24-VI-059",
+   "id": "P24-VI-062",
    "sent": "S028",
    "text": "Danh sách đầy đủ",
    "occ": 1,
@@ -844,7 +887,7 @@
    "note": "mô tả lại danh sách hạn chế"
   },
   {
-   "id": "P24-VI-060",
+   "id": "P24-VI-063",
    "sent": "S029",
    "text": "Việc chuyển đổi visa",
    "occ": 1,
@@ -858,7 +901,7 @@
    "note": "visa hopping = chuyển đổi visa"
   },
   {
-   "id": "P24-VI-061",
+   "id": "P24-VI-064",
    "sent": "S029",
    "text": "tạm thời vĩnh viễn",
    "occ": 1,
@@ -872,7 +915,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-062",
+   "id": "P24-VI-065",
    "sent": "S029",
    "text": "cựu sinh viên quốc tế",
    "occ": 1,
@@ -886,7 +929,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-063",
+   "id": "P24-VI-066",
    "sent": "S029",
    "text": "Bộ Nội vụ",
    "occ": 1,
@@ -900,7 +943,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-064",
+   "id": "P24-VI-067",
    "sent": "S030",
    "text": "Những thay đổi này",
    "occ": 1,
@@ -915,7 +958,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-065",
+   "id": "P24-VI-068",
    "sent": "S030",
    "text": "lỗ hổng",
    "occ": 1,
@@ -929,7 +972,7 @@
    "note": "mô tả lại visa hopping"
   },
   {
-   "id": "P24-VI-066",
+   "id": "P24-VI-069",
    "sent": "S030",
    "text": "tình trạng này",
    "occ": 1,
@@ -944,7 +987,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-067",
+   "id": "P24-VI-070",
    "sent": "S031",
    "text": "Cũng",
    "occ": 1,
@@ -958,7 +1001,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-068",
+   "id": "P24-VI-071",
    "sent": "S031",
    "text": "thị thực sinh viên quốc tế",
    "occ": 1,
@@ -972,7 +1015,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-069",
+   "id": "P24-VI-072",
    "sent": "S032",
    "text": "người nộp đơn xin visa sinh viên",
    "occ": 1,
@@ -986,7 +1029,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-070",
+   "id": "P24-VI-073",
    "sent": "S033",
    "text": "cũng",
    "occ": 1,
@@ -1000,7 +1043,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-071",
+   "id": "P24-VI-074",
    "sent": "S033",
    "text": "yêu cầu",
    "occ": 1,
@@ -1014,7 +1057,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-072",
+   "id": "P24-VI-075",
    "sent": "S033",
    "text": "có hiệu lực",
    "occ": 1,
@@ -1028,7 +1071,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-073",
+   "id": "P24-VI-076",
    "sent": "S034",
    "text": "Rizvi",
    "occ": 1,
@@ -1042,7 +1085,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-074",
+   "id": "P24-VI-077",
    "sent": "S034",
    "text": "thay đổi",
    "occ": 1,
@@ -1056,7 +1099,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-075",
+   "id": "P24-VI-078",
    "sent": "S034",
    "text": "chính sách visa sinh viên",
    "occ": 1,
@@ -1070,7 +1113,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-076",
+   "id": "P24-VI-079",
    "sent": "S035",
    "text": "số này",
    "occ": 1,
@@ -1085,7 +1128,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-077",
+   "id": "P24-VI-080",
    "sent": "S035",
    "text": "ông",
    "occ": 1,
@@ -1100,7 +1143,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-078",
+   "id": "P24-VI-081",
    "sent": "S035",
    "text": "tỷ lệ nộp đơn",
    "occ": 1,
@@ -1114,7 +1157,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-079",
+   "id": "P24-VI-082",
    "sent": "S037",
    "text": "những thay đổi",
    "occ": 1,
@@ -1128,7 +1171,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-080",
+   "id": "P24-VI-083",
    "sent": "S037",
    "text": "có hiệu lực",
    "occ": 1,
@@ -1142,7 +1185,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-081",
+   "id": "P24-VI-084",
+   "sent": "S037",
+   "text": "thời hạn lưu trú",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: việc lưu trú tạm thời dài hạn",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp lưu trú (hiện tượng → thông số thị thực)"
+  },
+  {
+   "id": "P24-VI-085",
    "sent": "S037",
    "text": "visa tạm thời sau đại học",
    "occ": 1,
@@ -1156,7 +1213,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-082",
+   "id": "P24-VI-086",
    "sent": "S037",
    "text": null,
    "occ": 1,
@@ -1172,7 +1229,7 @@
    "note": "[TC] và ∅ áp dụng giới hạn độ tuổi mới — tỉnh lược {đã được}"
   },
   {
-   "id": "P24-VI-083",
+   "id": "P24-VI-087",
    "sent": "S038",
    "text": "Visa tạm thời sau đại học",
    "occ": 1,
@@ -1186,7 +1243,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-084",
+   "id": "P24-VI-088",
    "sent": "S038",
    "text": "loại",
    "occ": 1,
@@ -1200,7 +1257,7 @@
    "note": "streams: dòng ↔ loại"
   },
   {
-   "id": "P24-VI-085",
+   "id": "P24-VI-089",
    "sent": "S039",
    "text": "Giới hạn độ tuổi",
    "occ": 1,
@@ -1214,7 +1271,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-086",
+   "id": "P24-VI-090",
    "sent": "S040",
    "text": "đủ điều kiện",
    "occ": 1,
@@ -1228,7 +1285,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-087",
+   "id": "P24-VI-091",
    "sent": "S041",
    "text": "Người sở hữu",
    "occ": 1,
@@ -1242,7 +1299,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-088",
+   "id": "P24-VI-092",
    "sent": "S041",
    "text": "vẫn đủ điều kiện cho đến khi 50 tuổi",
    "occ": 1,
@@ -1256,7 +1313,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-089",
+   "id": "P24-VI-093",
    "sent": "S042",
    "text": "Thời hạn lưu trú",
    "occ": 1,
@@ -1270,7 +1327,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-090",
+   "id": "P24-VI-094",
    "sent": "S042",
    "text": "người giữ visa TGV",
    "occ": 1,
@@ -1284,7 +1341,7 @@
    "note": "sở hữu ↔ giữ"
   },
   {
-   "id": "P24-VI-091",
+   "id": "P24-VI-095",
    "sent": "S042",
    "text": "Post-Vocational Education Work",
    "occ": 1,
@@ -1298,7 +1355,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-092",
+   "id": "P24-VI-096",
    "sent": "S043",
    "text": "Nhưng",
    "occ": 1,
@@ -1312,7 +1369,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-093",
+   "id": "P24-VI-097",
    "sent": "S043",
    "text": "Post-Higher Education Work",
    "occ": 1,
@@ -1326,7 +1383,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-094",
+   "id": "P24-VI-098",
    "sent": "S043",
    "text": "thời hạn lưu trú",
    "occ": 1,
@@ -1340,7 +1397,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-095",
+   "id": "P24-VI-099",
    "sent": "S044",
    "text": "bằng thạc sĩ",
    "occ": 1,
@@ -1354,7 +1411,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-096",
+   "id": "P24-VI-100",
    "sent": "S044",
    "text": "thời gian lưu trú tối đa",
    "occ": 1,
@@ -1368,7 +1425,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-097",
+   "id": "P24-VI-101",
    "sent": "S044",
    "text": null,
    "occ": 1,
@@ -1384,7 +1441,7 @@
    "note": "[TC] hoặc tiến sĩ ∅ là ba năm — tỉnh lược {thời gian lưu trú tối đa}"
   },
   {
-   "id": "P24-VI-098",
+   "id": "P24-VI-102",
    "sent": "S046",
    "text": "Watt",
    "occ": 1,
@@ -1398,7 +1455,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-099",
+   "id": "P24-VI-103",
    "sent": "S046",
    "text": "thay đổi",
    "occ": 1,
@@ -1412,7 +1469,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-100",
+   "id": "P24-VI-104",
    "sent": "S046",
    "text": "nhà tuyển dụng tài trợ",
    "occ": 1,
@@ -1426,7 +1483,7 @@
    "note": "bảo lãnh ↔ tài trợ (sponsor)"
   },
   {
-   "id": "P24-VI-101",
+   "id": "P24-VI-105",
    "sent": "S047",
    "text": "Visa mới",
    "occ": 1,
@@ -1440,7 +1497,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-102",
+   "id": "P24-VI-106",
    "sent": "S047",
    "text": "thay thế",
    "occ": 1,
@@ -1454,7 +1511,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-103",
+   "id": "P24-VI-107",
    "sent": "S047",
    "text": "nhà tuyển dụng tài trợ",
    "occ": 1,
@@ -1468,7 +1525,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-104",
+   "id": "P24-VI-108",
    "sent": "S047",
    "text": "đủ điều kiện",
    "occ": 1,
@@ -1482,7 +1539,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-105",
+   "id": "P24-VI-109",
    "sent": "S048",
    "text": "dòng visa SID",
    "occ": 1,
@@ -1496,7 +1553,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-106",
+   "id": "P24-VI-110",
    "sent": "S048",
    "text": "có hiệu lực",
    "occ": 1,
@@ -1510,7 +1567,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-107",
+   "id": "P24-VI-111",
    "sent": "S049",
    "text": "visa này",
    "occ": 1,
@@ -1525,7 +1582,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-108",
+   "id": "P24-VI-112",
    "sent": "S049",
    "text": "ở lại",
    "occ": 2,
@@ -1539,7 +1596,7 @@
    "note": "occ=2: ở lại Úc + ở lại tối đa"
   },
   {
-   "id": "P24-VI-109",
+   "id": "P24-VI-113",
    "sent": "S049",
    "text": "người có hộ chiếu Hồng Kông",
    "occ": 1,
@@ -1553,7 +1610,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-110",
+   "id": "P24-VI-114",
    "sent": "S050",
    "text": "Visa này",
    "occ": 1,
@@ -1568,7 +1625,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-111",
+   "id": "P24-VI-115",
    "sent": "S050",
    "text": "dòng",
    "occ": 2,
@@ -1582,7 +1639,7 @@
    "note": "occ=2: ba dòng mục tiêu + một dòng hiện có"
   },
   {
-   "id": "P24-VI-112",
+   "id": "P24-VI-116",
    "sent": "S050",
    "text": "di cư",
    "occ": 1,
@@ -1596,7 +1653,7 @@
    "note": "di dân ↔ di cư"
   },
   {
-   "id": "P24-VI-113",
+   "id": "P24-VI-117",
    "sent": "S050",
    "text": "thiếu hụt",
    "occ": 1,
@@ -1610,7 +1667,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-114",
+   "id": "P24-VI-118",
    "sent": "S051",
    "text": "dòng visa kỹ năng cốt lõi",
    "occ": 1,
@@ -1624,7 +1681,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-115",
+   "id": "P24-VI-119",
    "sent": "S051",
    "text": "người đủ điều kiện",
    "occ": 1,
@@ -1638,7 +1695,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-116",
+   "id": "P24-VI-120",
    "sent": "S051",
    "text": "được tài trợ",
    "occ": 1,
@@ -1652,7 +1709,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-117",
+   "id": "P24-VI-121",
    "sent": "S051",
    "text": "của chính phủ",
    "occ": 1,
@@ -1666,7 +1723,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-118",
+   "id": "P24-VI-122",
    "sent": "S052",
    "text": "Họ",
    "occ": 1,
@@ -1681,7 +1738,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-119",
+   "id": "P24-VI-123",
    "sent": "S052",
    "text": "kỹ năng cốt lõi",
    "occ": 1,
@@ -1695,7 +1752,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-120",
+   "id": "P24-VI-124",
    "sent": "S052",
    "text": "di cư có tay nghề tạm thời",
    "occ": 1,
@@ -1709,7 +1766,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-121",
+   "id": "P24-VI-125",
    "sent": "S053",
    "text": "người nộp đơn",
    "occ": 1,
@@ -1723,7 +1780,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-122",
+   "id": "P24-VI-126",
    "sent": "S053",
    "text": "dòng kỹ năng chuyên môn",
    "occ": 1,
@@ -1737,7 +1794,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-123",
+   "id": "P24-VI-127",
    "sent": "S053",
    "text": "phải đáp ứng Ngưỡng thu nhập",
    "occ": 1,
@@ -1751,7 +1808,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-124",
+   "id": "P24-VI-128",
    "sent": "S053",
    "text": "nghề",
    "occ": 2,
@@ -1765,7 +1822,7 @@
    "note": "occ=2: nghề nào + nghề thủ công"
   },
   {
-   "id": "P24-VI-125",
+   "id": "P24-VI-129",
    "sent": "S054",
    "text": "Ngưỡng thu nhập",
    "occ": 1,
@@ -1779,7 +1836,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-126",
+   "id": "P24-VI-130",
    "sent": "S055",
    "text": "Dòng Thỏa thuận lao động",
    "occ": 1,
@@ -1793,7 +1850,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-127",
+   "id": "P24-VI-131",
    "sent": "S055",
    "text": "visa TSS",
    "occ": 1,
@@ -1807,7 +1864,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-128",
+   "id": "P24-VI-132",
    "sent": "S055",
    "text": "thị thực SID",
    "occ": 1,
@@ -1821,7 +1878,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-129",
+   "id": "P24-VI-133",
    "sent": "S055",
    "text": "Bộ Nội vụ",
    "occ": 1,
@@ -1835,7 +1892,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-130",
+   "id": "P24-VI-134",
    "sent": "S057",
    "text": "Cũng",
    "occ": 1,
@@ -1849,7 +1906,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-131",
+   "id": "P24-VI-135",
    "sent": "S057",
    "text": "visa Đổi mới Quốc gia",
    "occ": 1,
@@ -1863,7 +1920,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-132",
+   "id": "P24-VI-136",
    "sent": "S057",
    "text": "thay thế",
    "occ": 1,
@@ -1877,7 +1934,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-133",
+   "id": "P24-VI-137",
    "sent": "S057",
    "text": "dòng visa Tài năng toàn cầu",
    "occ": 1,
@@ -1891,7 +1948,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-134",
+   "id": "P24-VI-138",
    "sent": "S057",
    "text": "visa thường trú",
    "occ": 1,
@@ -1905,7 +1962,7 @@
    "note": "thường trú ≈ vĩnh viễn (permanent)"
   },
   {
-   "id": "P24-VI-135",
+   "id": "P24-VI-139",
    "sent": "S058",
    "text": "ứng viên",
    "occ": 1,
@@ -1919,7 +1976,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-136",
+   "id": "P24-VI-140",
    "sent": "S058",
    "text": "nộp đơn",
    "occ": 1,
@@ -1933,7 +1990,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-137",
+   "id": "P24-VI-141",
    "sent": "S058",
    "text": "Bộ Nội vụ",
    "occ": 1,
@@ -1947,7 +2004,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-138",
+   "id": "P24-VI-142",
    "sent": "S059",
    "text": "Tài năng toàn cầu",
    "occ": 1,
@@ -1961,7 +2018,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-139",
+   "id": "P24-VI-143",
    "sent": "S059",
    "text": "đơn xin",
    "occ": 1,
@@ -1975,7 +2032,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-140",
+   "id": "P24-VI-144",
    "sent": "S059",
    "text": "được xử lý",
    "occ": 1,
@@ -1989,7 +2046,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-141",
+   "id": "P24-VI-145",
    "sent": "S059",
    "text": "ưu tiên",
    "occ": 1,
@@ -2003,7 +2060,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-142",
+   "id": "P24-VI-146",
    "sent": "S060",
    "text": "Watt",
    "occ": 1,
@@ -2017,7 +2074,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-143",
+   "id": "P24-VI-147",
    "sent": "S060",
    "text": "thị thực mới",
    "occ": 1,
@@ -2031,7 +2088,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-144",
+   "id": "P24-VI-148",
    "sent": "S060",
    "text": "thị thực trước đây",
    "occ": 1,
@@ -2046,7 +2103,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-145",
+   "id": "P24-VI-149",
    "sent": "S061",
    "text": "visa thường trú",
    "occ": 1,
@@ -2060,7 +2117,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-146",
+   "id": "P24-VI-150",
    "sent": "S061",
    "text": "giống nhau",
    "occ": 1,
@@ -2075,7 +2132,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-147",
+   "id": "P24-VI-151",
    "sent": "S063",
    "text": "Chính phủ",
    "occ": 1,
@@ -2089,7 +2146,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-148",
+   "id": "P24-VI-152",
    "sent": "S063",
    "text": "nộp đơn",
    "occ": 1,
@@ -2103,7 +2160,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-149",
+   "id": "P24-VI-153",
    "sent": "S064",
    "text": "đăng ký bỏ phiếu",
    "occ": 1,
@@ -2117,7 +2174,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-150",
+   "id": "P24-VI-154",
    "sent": "S064",
    "text": "người nộp đơn",
    "occ": 1,
@@ -2131,7 +2188,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-151",
+   "id": "P24-VI-155",
    "sent": "S064",
    "text": "Làm việc và Kỳ nghỉ",
    "occ": 1,
@@ -2145,7 +2202,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-152",
+   "id": "P24-VI-156",
    "sent": "S065",
    "text": "Bộ",
    "occ": 1,
@@ -2159,7 +2216,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-153",
+   "id": "P24-VI-157",
    "sent": "S065",
    "text": "quy trình này",
    "occ": 1,
@@ -2174,7 +2231,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-154",
+   "id": "P24-VI-158",
    "sent": "S065",
    "text": "người nộp đơn",
    "occ": 1,
@@ -2188,7 +2245,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-155",
+   "id": "P24-VI-159",
    "sent": "S065",
    "text": "chỗ trống",
    "occ": 1,
@@ -2202,7 +2259,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-156",
+   "id": "P24-VI-160",
    "sent": "S066",
    "text": "cuộc bỏ phiếu",
    "occ": 1,
@@ -2216,7 +2273,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-157",
+   "id": "P24-VI-161",
    "sent": "S066",
    "text": "cũng",
    "occ": 1,
@@ -2230,7 +2287,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-158",
+   "id": "P24-VI-162",
    "sent": "S066",
    "text": "visa tạm thời mới",
    "occ": 1,
@@ -2244,7 +2301,7 @@
    "note": "chuỗi 'visa tạm thời'"
   },
   {
-   "id": "P24-VI-159",
+   "id": "P24-VI-163",
    "sent": "S067",
    "text": "Ấn Độ",
    "occ": 1,
@@ -2258,7 +2315,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-160",
+   "id": "P24-VI-164",
    "sent": "S067",
    "text": "đăng ký",
    "occ": 1,
@@ -2272,7 +2329,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-161",
+   "id": "P24-VI-165",
    "sent": "S068",
    "text": "suất được phân bổ",
    "occ": 1,
@@ -2286,7 +2343,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-162",
+   "id": "P24-VI-166",
    "sent": "S069",
    "text": "Vòng bỏ phiếu",
    "occ": 1,
@@ -2300,7 +2357,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-163",
+   "id": "P24-VI-167",
    "sent": "S069",
    "text": "đăng ký",
    "occ": 1,
@@ -2314,7 +2371,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-164",
+   "id": "P24-VI-168",
    "sent": "S070",
    "text": "Vòng bỏ phiếu đầu tiên",
    "occ": 1,
@@ -2328,7 +2385,7 @@
    "note": "nguồn: hai 'vòng đầu tiên' (MATES và PEV)"
   },
   {
-   "id": "P24-VI-165",
+   "id": "P24-VI-169",
    "sent": "S070",
    "text": "sinh sống và làm việc tại Úc",
    "occ": 1,
@@ -2342,7 +2399,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-166",
+   "id": "P24-VI-170",
    "sent": "S070",
    "text": "người di cư",
    "occ": 1,
@@ -2356,7 +2413,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-167",
+   "id": "P24-VI-171",
    "sent": "S070",
    "text": "vĩnh viễn",
    "occ": 1,
@@ -2370,7 +2427,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-168",
+   "id": "P24-VI-172",
    "sent": "S071",
    "text": "Thái Bình Dương",
    "occ": 1,
@@ -2384,7 +2441,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-169",
+   "id": "P24-VI-173",
    "sent": "S071",
    "text": "suất thường trú",
    "occ": 1,
@@ -2398,7 +2455,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-170",
+   "id": "P24-VI-174",
    "sent": "S071",
    "text": "chương trình di cư vĩnh viễn",
    "occ": 1,
@@ -2412,7 +2469,7 @@
    "note": "di trú ↔ di cư"
   },
   {
-   "id": "P24-VI-171",
+   "id": "P24-VI-175",
    "sent": "S072",
    "text": "PEV",
    "occ": 1,
@@ -2426,7 +2483,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-172",
+   "id": "P24-VI-176",
    "sent": "S072",
    "text": "lá phiếu",
    "occ": 1,
@@ -2440,7 +2497,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-173",
+   "id": "P24-VI-177",
    "sent": "S074",
    "text": "Chính phủ",
    "occ": 1,
@@ -2454,7 +2511,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-174",
+   "id": "P24-VI-178",
    "sent": "S074",
    "text": "mức độ di trú",
    "occ": 1,
@@ -2468,7 +2525,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-175",
+   "id": "P24-VI-179",
    "sent": "S075",
    "text": "Đại dịch",
    "occ": 1,
@@ -2482,7 +2539,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-176",
+   "id": "P24-VI-180",
    "sent": "S075",
    "text": "mức độ di trú",
    "occ": 1,
@@ -2496,7 +2553,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-177",
+   "id": "P24-VI-181",
    "sent": "S076",
    "text": "NOM",
    "occ": 1,
@@ -2510,7 +2567,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-178",
+   "id": "P24-VI-182",
    "sent": "S076",
    "text": "người di cư",
    "occ": 1,
@@ -2524,7 +2581,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-179",
+   "id": "P24-VI-183",
+   "sent": "S077",
+   "text": "mở cửa trở lại",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S075: khiến Úc đóng cửa biên giới",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối đóng cửa ↔ mở cửa"
+  },
+  {
+   "id": "P24-VI-184",
    "sent": "S077",
    "text": "biên giới",
    "occ": 1,
@@ -2538,7 +2609,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-180",
+   "id": "P24-VI-185",
+   "sent": "S077",
+   "text": "quay trở lại",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S074: đưa mức độ di trú trở lại 'gần mức trước đại dịch'",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp trở lại (trở lại → quay trở lại)"
+  },
+  {
+   "id": "P24-VI-186",
    "sent": "S077",
    "text": "di dân tạm thời và thường trú",
    "occ": 1,
@@ -2552,7 +2637,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-181",
+   "id": "P24-VI-187",
    "sent": "S078",
    "text": "người di cư ròng",
    "occ": 1,
@@ -2566,7 +2651,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-182",
+   "id": "P24-VI-188",
    "sent": "S079",
    "text": "Điều đó",
    "occ": 1,
@@ -2581,7 +2666,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-183",
+   "id": "P24-VI-189",
    "sent": "S080",
    "text": "Nhưng",
    "occ": 1,
@@ -2595,7 +2680,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-184",
+   "id": "P24-VI-190",
    "sent": "S080",
    "text": "mức độ di cư",
    "occ": 1,
@@ -2609,7 +2694,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-185",
+   "id": "P24-VI-191",
    "sent": "S080",
    "text": "mức trước đó",
    "occ": 1,
@@ -2624,7 +2709,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-186",
+   "id": "P24-VI-192",
    "sent": "S080",
    "text": "bạn",
    "occ": 1,
@@ -2639,7 +2724,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-187",
+   "id": "P24-VI-193",
    "sent": "S081",
    "text": null,
    "occ": 1,
@@ -2655,7 +2740,7 @@
    "note": "[LC] ∅ Chỉ là rất thấp — lược chủ ngữ câu đầu, hồi phục {mức độ di cư}; EN dùng 'It'"
   },
   {
-   "id": "P24-VI-188",
+   "id": "P24-VI-194",
    "sent": "S082",
    "text": "Vấn đề",
    "occ": 1,
@@ -2669,7 +2754,21 @@
    "note": "mô tả lại tình trạng"
   },
   {
-   "id": "P24-VI-189",
+   "id": "P24-VI-195",
+   "sent": "S082",
+   "text": "rời khỏi",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S077: 'bắt kịp' lượng người đến",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối đến ↔ rời (arrivals ↔ departures); chuỗi tiếp tục được đánh ở S086 (lượng người rời đi)"
+  },
+  {
+   "id": "P24-VI-196",
    "sent": "S082",
    "text": "chính phủ",
    "occ": 1,
@@ -2683,7 +2782,7 @@
    "note": "'dự báo của chính phủ'"
   },
   {
-   "id": "P24-VI-190",
+   "id": "P24-VI-197",
    "sent": "S083",
    "text": "NOM",
    "occ": 1,
@@ -2697,7 +2796,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-191",
+   "id": "P24-VI-198",
    "sent": "S084",
    "text": "Con số này",
    "occ": 1,
@@ -2712,7 +2811,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-192",
+   "id": "P24-VI-199",
    "sent": "S084",
    "text": "dự báo của chính phủ",
    "occ": 1,
@@ -2726,7 +2825,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-193",
+   "id": "P24-VI-200",
    "sent": "S085",
    "text": "Đây",
    "occ": 1,
@@ -2741,7 +2840,21 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-194",
+   "id": "P24-VI-201",
+   "sent": "S085",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S083: NOM hàng năm đã giảm xuống còn 446.000",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm (giảm xuống → lần giảm hàng năm đầu tiên)"
+  },
+  {
+   "id": "P24-VI-202",
    "sent": "S085",
    "text": "biên giới",
    "occ": 1,
@@ -2755,7 +2868,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-195",
+   "id": "P24-VI-203",
    "sent": "S086",
    "text": "Lượng người di cư đến",
    "occ": 1,
@@ -2769,7 +2882,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-196",
+   "id": "P24-VI-204",
+   "sent": "S086",
+   "text": "giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S085: lần giảm hàng năm đầu tiên",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm (di cư đến giảm 10%)"
+  },
+  {
+   "id": "P24-VI-205",
    "sent": "S086",
    "text": "lượng người rời đi",
    "occ": 1,
@@ -2783,7 +2910,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-197",
+   "id": "P24-VI-206",
    "sent": "S087",
    "text": "Rizvi",
    "occ": 1,
@@ -2797,7 +2924,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-198",
+   "id": "P24-VI-207",
    "sent": "S087",
    "text": "sự sụt giảm này",
    "occ": 1,
@@ -2812,7 +2939,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-199",
+   "id": "P24-VI-208",
    "sent": "S087",
    "text": "chính phủ",
    "occ": 1,
@@ -2826,7 +2953,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-200",
+   "id": "P24-VI-209",
    "sent": "S087",
    "text": "thay đổi",
    "occ": 1,
@@ -2840,7 +2967,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-201",
+   "id": "P24-VI-210",
    "sent": "S088",
    "text": "Chính phủ",
    "occ": 1,
@@ -2854,7 +2981,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-202",
+   "id": "P24-VI-211",
    "sent": "S088",
    "text": "NOM",
    "occ": 1,
@@ -2868,7 +2995,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-203",
+   "id": "P24-VI-212",
    "sent": "S088",
    "text": "dự kiến",
    "occ": 1,
@@ -2882,7 +3009,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-204",
+   "id": "P24-VI-213",
+   "sent": "S088",
+   "text": "giảm xuống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S087: sự sụt giảm này (chuỗi giảm S083–S086)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm (NOM sẽ giảm xuống còn 260.000)"
+  },
+  {
+   "id": "P24-VI-214",
    "sent": "S089",
    "text": "của chính phủ",
    "occ": 1,
@@ -2896,7 +3037,7 @@
    "note": "EN dùng 'Its' (R sở hữu)"
   },
   {
-   "id": "P24-VI-205",
+   "id": "P24-VI-215",
    "sent": "S089",
    "text": "con số này",
    "occ": 1,
@@ -2911,7 +3052,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-206",
+   "id": "P24-VI-216",
    "sent": "S089",
    "text": "điều chỉnh",
    "occ": 1,
@@ -2925,7 +3066,7 @@
    "note": "sửa đổi ↔ điều chỉnh (revised)"
   },
   {
-   "id": "P24-VI-207",
+   "id": "P24-VI-217",
    "sent": "S090",
    "text": "Dự báo",
    "occ": 1,
@@ -2939,7 +3080,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-208",
+   "id": "P24-VI-218",
    "sent": "S091",
    "text": "Con số này",
    "occ": 1,
@@ -2954,7 +3095,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-209",
+   "id": "P24-VI-219",
    "sent": "S091",
    "text": null,
    "occ": 1,
@@ -2970,7 +3111,21 @@
    "note": "[TC] nhưng ∅ đang giảm xuống — lược chủ ngữ {con số này}"
   },
   {
-   "id": "P24-VI-210",
+   "id": "P24-VI-220",
+   "sent": "S091",
+   "text": "đang giảm xuống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S088: sẽ giảm xuống còn 260.000",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm xuống (đang giảm xuống ← sẽ giảm xuống)"
+  },
+  {
+   "id": "P24-VI-221",
    "sent": "S092",
    "text": "Và",
    "occ": 1,
@@ -2984,7 +3139,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-211",
+   "id": "P24-VI-222",
    "sent": "S092",
    "text": "chúng ta",
    "occ": 1,
@@ -2999,7 +3154,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-212",
+   "id": "P24-VI-223",
    "sent": "S092",
    "text": "con số này",
    "occ": 1,
@@ -3014,7 +3169,21 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-213",
+   "id": "P24-VI-224",
+   "sent": "S092",
+   "text": "giảm xuống",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S091: nhưng đang giảm xuống",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp giảm xuống (sẽ giảm xuống ← đang giảm xuống)"
+  },
+  {
+   "id": "P24-VI-225",
    "sent": "S092",
    "text": "hoảng sợ",
    "occ": 1,
@@ -3028,7 +3197,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-214",
+   "id": "P24-VI-226",
    "sent": "S092",
    "text": "số lượng người rời đi",
    "occ": 1,
@@ -3042,7 +3211,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-215",
+   "id": "P24-VI-227",
    "sent": "S093",
    "text": "chúng ta",
    "occ": 1,
@@ -3057,7 +3226,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-216",
+   "id": "P24-VI-228",
    "sent": "S093",
    "text": "trở lại bình thường",
    "occ": 1,
@@ -3071,7 +3240,7 @@
    "note": "bình thường ≈ mức trước đại dịch"
   },
   {
-   "id": "P24-VI-217",
+   "id": "P24-VI-229",
    "sent": "S093",
    "text": "McDonald",
    "occ": 1,
@@ -3085,7 +3254,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-218",
+   "id": "P24-VI-230",
    "sent": "S093",
    "text": "MYEFO",
    "occ": 1,
@@ -3099,7 +3268,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-219",
+   "id": "P24-VI-231",
+   "sent": "S095",
+   "text": "phe đối lập",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S018: phe đối lập đã chặn kế hoạch",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp phe đối lập (lãnh đạo phe đối lập); tiền trạm gần nhất tuy xa (S018)"
+  },
+  {
+   "id": "P24-VI-232",
    "sent": "S095",
    "text": "Peter Dutton",
    "occ": 1,
@@ -3113,7 +3296,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-220",
+   "id": "P24-VI-233",
    "sent": "S095",
    "text": "lượng di cư vĩnh viễn",
    "occ": 1,
@@ -3127,7 +3310,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-221",
+   "id": "P24-VI-234",
    "sent": "S096",
    "text": "ông",
    "occ": 1,
@@ -3142,7 +3325,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-222",
+   "id": "P24-VI-235",
    "sent": "S096",
    "text": "cũng",
    "occ": 1,
@@ -3156,7 +3339,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-223",
+   "id": "P24-VI-236",
    "sent": "S096",
    "text": "cam kết",
    "occ": 1,
@@ -3170,7 +3353,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-224",
+   "id": "P24-VI-237",
+   "sent": "S096",
+   "text": "cắt giảm",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S095: cắt giảm 25% lượng di cư vĩnh viễn",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp cắt giảm (cắt giảm di cư vĩnh viễn → cắt giảm di cư ròng)"
+  },
+  {
+   "id": "P24-VI-238",
    "sent": "S096",
    "text": "di cư ròng ra nước ngoài",
    "occ": 1,
@@ -3184,7 +3381,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-225",
+   "id": "P24-VI-239",
    "sent": "S097",
    "text": "Dutton",
    "occ": 1,
@@ -3198,7 +3395,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-226",
+   "id": "P24-VI-240",
    "sent": "S097",
    "text": "NOM",
    "occ": 1,
@@ -3212,7 +3409,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-227",
+   "id": "P24-VI-241",
    "sent": "S098",
    "text": "chúng tôi",
    "occ": 2,
@@ -3227,7 +3424,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-228",
+   "id": "P24-VI-242",
    "sent": "S099",
    "text": "Và",
    "occ": 1,
@@ -3241,7 +3438,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-229",
+   "id": "P24-VI-243",
    "sent": "S099",
    "text": "chúng tôi",
    "occ": 1,
@@ -3256,7 +3453,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-230",
+   "id": "P24-VI-244",
    "sent": "S099",
    "text": "số lượng người đến",
    "occ": 1,
@@ -3270,7 +3467,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-231",
+   "id": "P24-VI-245",
    "sent": "S099",
    "text": "Dutton cho biết",
    "occ": 1,
@@ -3284,7 +3481,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-232",
+   "id": "P24-VI-246",
    "sent": "S100",
    "text": "Đó",
    "occ": 1,
@@ -3299,7 +3496,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-233",
+   "id": "P24-VI-247",
    "sent": "S100",
    "text": "chúng ta",
    "occ": 1,
@@ -3314,7 +3511,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-234",
+   "id": "P24-VI-248",
    "sent": "S101",
    "text": "Một lần nữa",
    "occ": 1,
@@ -3328,7 +3525,7 @@
    "note": "khẳng định lại"
   },
   {
-   "id": "P24-VI-235",
+   "id": "P24-VI-249",
    "sent": "S101",
    "text": "chúng ta",
    "occ": 4,
@@ -3343,7 +3540,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-236",
+   "id": "P24-VI-250",
    "sent": "S101",
    "text": "chính phủ",
    "occ": 1,
@@ -3357,7 +3554,7 @@
    "note": "'khi chúng ta vào chính phủ'"
   },
   {
-   "id": "P24-VI-237",
+   "id": "P24-VI-251",
    "sent": "S102",
    "text": "Người dân Úc",
    "occ": 1,
@@ -3371,7 +3568,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-238",
+   "id": "P24-VI-252",
+   "sent": "S102",
+   "text": "bỏ phiếu",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S070: Vòng bỏ phiếu đầu tiên (chuỗi ballot S063–S072)",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị bỏ phiếu qua referent khác (đi bỏ phiếu = bầu cử); tách chuỗi để khỏi lẫn với ballot visa (xem §8.5 analysis)"
+  },
+  {
+   "id": "P24-VI-253",
    "sent": "S104",
    "text": "chính phủ",
    "occ": 1,
@@ -3385,7 +3596,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-239",
+   "id": "P24-VI-254",
    "sent": "S104",
    "text": "kế hoạch hạn chế số lượng sinh viên quốc tế đăng ký",
    "occ": 1,
@@ -3399,7 +3610,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-240",
+   "id": "P24-VI-255",
    "sent": "S104",
    "text": "lĩnh vực này",
    "occ": 1,
@@ -3414,7 +3625,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-241",
+   "id": "P24-VI-256",
    "sent": "S105",
    "text": "Điều này",
    "occ": 1,
@@ -3429,7 +3640,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-242",
+   "id": "P24-VI-257",
    "sent": "S105",
    "text": "nhà cung cấp giáo dục",
    "occ": 1,
@@ -3443,7 +3654,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-243",
+   "id": "P24-VI-258",
    "sent": "S105",
    "text": "mối lo ngại",
    "occ": 1,
@@ -3457,7 +3668,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-244",
+   "id": "P24-VI-259",
+   "sent": "S106",
+   "text": "luật",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S104: kế hoạch hạn chế số lượng sinh viên quốc tế đăng ký",
+   "conf": "med",
+   "alt": null,
+   "note": "kế hoạch → luật (đề xuất → đạo luật); trùng hình vị 'luật' (S072 — luật PEV) nhưng referent khác, chọn tie rename theo mapping §3.13 (một hình thức một hàng)"
+  },
+  {
+   "id": "P24-VI-260",
    "sent": "S106",
    "text": "chính phủ",
    "occ": 1,
@@ -3471,7 +3696,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-245",
+   "id": "P24-VI-261",
    "sent": "S107",
    "text": "chỉ thị của bộ trưởng 111",
    "occ": 1,
@@ -3485,7 +3710,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-246",
+   "id": "P24-VI-262",
    "sent": "S107",
    "text": "sự thay đổi này",
    "occ": 1,
@@ -3500,7 +3725,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-247",
+   "id": "P24-VI-263",
    "sent": "S107",
    "text": "cách tiếp cận hiện tại",
    "occ": 1,
@@ -3514,7 +3739,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-248",
+   "id": "P24-VI-264",
    "sent": "S107",
    "text": "sinh viên quốc tế",
    "occ": 1,
@@ -3528,7 +3753,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-249",
+   "id": "P24-VI-265",
    "sent": "S107",
    "text": "các nhà cung cấp giáo dục khu vực",
    "occ": 1,
@@ -3542,7 +3767,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-250",
+   "id": "P24-VI-266",
    "sent": "S108",
    "text": "các trường đại học lớn trong thành phố",
    "occ": 1,
@@ -3556,7 +3781,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-251",
+   "id": "P24-VI-267",
    "sent": "S108",
    "text": "giáo dục quốc tế",
    "occ": 1,
@@ -3570,7 +3795,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-252",
+   "id": "P24-VI-268",
    "sent": "S109",
    "text": "trường đại học khu vực và ngoại ô",
    "occ": 1,
@@ -3584,7 +3809,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-253",
+   "id": "P24-VI-269",
    "sent": "S109",
    "text": "được hưởng lợi",
    "occ": 1,
@@ -3598,7 +3823,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-254",
+   "id": "P24-VI-270",
    "sent": "S109",
    "text": "cũng",
    "occ": 1,
@@ -3612,7 +3837,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-255",
+   "id": "P24-VI-271",
    "sent": "S109",
    "text": "cách tiếp cận mới này",
    "occ": 1,
@@ -3627,7 +3852,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-256",
+   "id": "P24-VI-272",
    "sent": "S109",
    "text": "chúng tôi",
    "occ": 1,
@@ -3642,7 +3867,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-257",
+   "id": "P24-VI-273",
    "sent": "S109",
    "text": "điều đó",
    "occ": 1,
@@ -3656,7 +3881,7 @@
    "note": "[TC] thực hiện được điều đó ← được hưởng lợi"
   },
   {
-   "id": "P24-VI-258",
+   "id": "P24-VI-274",
    "sent": "S110",
    "text": "Rizvi",
    "occ": 1,
@@ -3670,7 +3895,21 @@
    "note": null
   },
   {
-   "id": "P24-VI-259",
+   "id": "P24-VI-275",
+   "sent": "S110",
+   "text": "vấn đề",
+   "occ": 1,
+   "cat": "L",
+   "sub": "general word",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S105: mối lo ngại trong số một số nhà cung cấp giáo dục",
+   "conf": "med",
+   "alt": null,
+   "note": "danh từ tổng quát chỉ tình huống đã nêu; 'càng lớn hơn' = so sánh với các mối lo ngại S105 (H&H §2.5); trùng hình vị 'Vấn đề' (S082) nhưng referent khác"
+  },
+  {
+   "id": "P24-VI-276",
    "sent": "S111",
    "text": "những sinh viên tốt nghiệp tạm thời",
    "occ": 1,
@@ -3684,7 +3923,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-260",
+   "id": "P24-VI-277",
    "sent": "S111",
    "text": "con đường trở thành thường trú nhân",
    "occ": 1,
@@ -3698,7 +3937,7 @@
    "note": "chuỗi 'thường trú'"
   },
   {
-   "id": "P24-VI-261",
+   "id": "P24-VI-278",
    "sent": "S111",
    "text": null,
    "occ": 1,
@@ -3714,7 +3953,7 @@
    "note": "[TC] không có được ∅ — lược tân ngữ {con đường trở thành thường trú nhân}; EN dùng 'one'"
   },
   {
-   "id": "P24-VI-262",
+   "id": "P24-VI-279",
    "sent": "S111",
    "text": "chỗ",
    "occ": 1,
@@ -3728,7 +3967,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-263",
+   "id": "P24-VI-280",
    "sent": "S112",
    "text": "Điều đó",
    "occ": 1,
@@ -3743,7 +3982,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-VI-264",
+   "id": "P24-VI-281",
    "sent": "S113",
    "text": "Watt",
    "occ": 1,
@@ -3757,7 +3996,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-265",
+   "id": "P24-VI-282",
    "sent": "S113",
    "text": "Chúng ta",
    "occ": 1,
@@ -3772,7 +4011,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-VI-266",
+   "id": "P24-VI-283",
    "sent": "S113",
    "text": "điều gì sẽ xảy ra",
    "occ": 1,
@@ -3786,7 +4025,7 @@
    "note": null
   },
   {
-   "id": "P24-VI-267",
+   "id": "P24-VI-284",
    "sent": "S114",
    "text": "Tôi",
    "occ": 1,

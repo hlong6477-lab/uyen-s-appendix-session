@@ -34,7 +34,22 @@ ST = [
     ("S008", "the reforms", "L", "repetition", "S001: a suite of reforms", "high", None, None, 1, None, None, "LC", None),
     ("S008", "the system", "L", "repetition", "S003: Australia's migration system", "med", None, "danh từ tổng quát chỉ hệ thống di trú", 1, None, None, "LC", None),
     ("S008", None, "E", "nominal", "S008: the reforms", "high", None, "[TC] some ∅ will work — tỉnh lược {reforms}; VI lấp đầy 'một số cải cách'", 1, "some ", "{reforms}", "TC", None),
+    # [Phase-2] major change ← the changes (S006): chuỗi "change" bị sót ở vế
+    # phủ định (H&H §6.2 reiteration; TNT §26 phép lặp) — VI đối ứng
+    # "thay đổi lớn" (TT S007) cùng cơ chế.
+    ("S008", "major change", "L", "repetition",
+     "S006: the changes they've made", "high", None,
+     "lặp hình vị change (big changes → major change) trong vế 'thay vì "
+     "resulting in major change'", 1, None, None, "LC", None),
     # S009
+    # [Phase-2] "At the end of the day," = continuative (H&H §5.8): bộ tổ
+    # chức discours mở lượt kết luận trong quote Watt, không nối sự kiện
+    # thực (internal conjunction); VI "Cuối cùng" (TT S008) đối xứng.
+    ("S009", "At the end of the day", "C", "continuative",
+     "S008: he argues some will fine tune the system", "med", None,
+     "H&H §5.8 continuative: đánh dấu lượt tổng kết (ultimately) sau phần "
+     "trình bày S008; TNT §38 xếp là phép nối lỏng", 1, None, None, "LC",
+     None),
     ("S009", "this discussion", "R", "demonstrative", "S008: Watt argues some will fine tune", "high", None, None, 1, None, None, "LC", "A"),
     ("S009", "permanent visas", "L", "associative", "S003: permanent temporariness", "med", None, "chuỗi 'permanent' đối lập 'temporary'", 1, None, None, "LC", None),
     ("S009", "he", "R", "personal", "S008: Watt", "high", None, "'he said'; occ 5 vì he gặp 4 lần trong The/the trước đó", 5, None, None, "LC", "A"),
@@ -88,6 +103,15 @@ ST = [
     ("S025", "student numbers", "L", "repetition", "S021: capping numbers / S018: enrolments", "high", None, None, 1, None, None, "LC", None),
     ("S025", "visa processing", "L", "repetition", "S021: student visa processing", "high", None, None, 1, None, None, "LC", None),
     # S026
+    # [Phase-2] other ← các thay đổi đã nêu (S016): quy chiếu so sánh
+    # (H&H §2.5 "other") — "several other changes" = khác với các thay đổi
+    # giới hạn/chỉ thị 111 ở khối trước; VI "khác" (TT S025) đối xứng 1-1.
+    ("S026", "other", "R", "comparative",
+     "S016: the announced changes (giới hạn/chỉ thị 111 ở S018–S025)", "med",
+     None,
+     "[LC] quy chiếu so sánh: other = khác với các thay đổi đã mô tả; H&H "
+     "§2.5; hai đầu đều liên câu (khác P21 khi EN cùng câu → [TC])", 1, None,
+     None, "LC", "A"),
     ("S026", "changes", "L", "repetition", "S016: the announced changes", "high", None, None, 1, None, None, "LC", None),
     ("S026", "the student visa program", "L", "repetition", "S021: student visa processing", "high", None, None, 1, None, None, "LC", None),
     # S027
@@ -128,6 +152,14 @@ ST = [
     # S038
     ("S038", "changes", "L", "repetition", "S016: the announced changes", "high", None, None, 1, None, None, "LC", None),
     ("S038", "came into effect", "L", "repetition", "S034: came into effect", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] the length of stay ← stays (S007): chuỗi stay bị sót đoạn
+    # gốc (H&H §6.2 reiteration) — S043/S044 hiện neo về S038; bổ sung mắt
+    # xích S007 → S038; VI thời hạn lưu trú (TT S037) đối xứng.
+    ("S038", "the length of stay", "L", "repetition",
+     "S007: long-term temporary stays", "med", None,
+     "lặp hình vị stay (stays → the length of stay): nghĩa hẹp từ hiện tượng "
+     "sang thông số thị thực (TNT §26 phép lặp từ vựng)", 1, None, None,
+     "LC", None),
     ("S038", "Temporary Graduate visa (TGV) holders", "L", "repetition", "S028: temporary graduate", "high", None, None, 1, None, None, "LC", None),
     ("S038", None, "E", "verbal", "S038: was reduced", "high", None, "[TC] and a new age limit ∅ imposed — tỉnh lược {was}", 1, "and a new age limit ", "{was}", "TC", None),
     # S039
@@ -269,7 +301,20 @@ ST = [
     ("S077", "NOM", "L", "repetition", "S076: net overseas migration or NOM", "high", None, None, 1, None, None, "LC", None),
     ("S077", "migrants", "L", "repetition", "S071: migrants", "high", None, None, 1, None, None, "LC", None),
     # S078
+    # [Phase-2] reopening ← close (S076): phép đối qua câu đóng ↔ mở
+    # (H&H §6.4 opposites; TNT §30) — chuỗi borders đã đánh lặp riêng;
+    # VI mở cửa trở lại (TT S077) đối xứng.
+    ("S078", "reopening", "L", "antonym",
+     "S076: prompted Australia to close its borders", "med", None,
+     "phép đối close ↔ reopening (đóng ↔ mở cửa biên giới)", 1, None, None,
+     "LC", None),
     ("S078", "borders", "L", "repetition", "S076: close its borders", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] the return ← return (S075): danh hóa động từ (H&H §6.2
+    # reiteration; TNT §26) — "help return migration" → "the return of ... "
+    # migrants"; VI quay trở lại (TT S077) đối xứng.
+    ("S078", "the return", "L", "repetition",
+     "S075: help return migration to near pre-pandemic levels", "med", None,
+     "lặp return (động từ S075 → danh từ S078)", 1, None, None, "LC", None),
     ("S078", "temporary and permanent migrants", "L", "repetition", "S077: migrants / temporary-permanent chains", "high", None, None, 1, None, None, "LC", None),
     # S079
     ("S079", "Net migration", "L", "repetition", "S076: net overseas migration", "high", None, None, 1, None, None, "LC", None),
@@ -284,6 +329,14 @@ ST = [
     ("S082", "It", "R", "personal", "S081: the level of migration", "high", None, None, 1, None, None, "LC", "A"),
     # S083
     ("S083", "The problem", "L", "synonym", "S079–S080: net migration surge / panic", "med", None, "mô tả lại tình trạng", 1, None, None, "LC", None),
+    # [Phase-2] departures ← arrivals (S078): phép đối qua câu (H&H §6.4
+    # opposites là collocation; cặp bổ nghĩa hệ thống của diễn ngôn di cư)
+    # — VI rời khỏi (TT S082) đối xứng.
+    ("S083", "departures", "L", "antonym",
+     "S078: a subsequent temporary rebound or \"catch-up\" of arrivals",
+     "med", None,
+     "phép đối arrivals ↔ departures (người đến ↔ người rời); chuỗi tiếp tục "
+     "được đánh ở S087", 1, None, None, "LC", None),
     ("S083", "the government's", "L", "repetition", "S075: The government", "high", None, None, 1, None, None, "LC", None),
     # S084
     ("S084", "NOM", "L", "repetition", "S077: NOM", "high", None, None, 1, None, None, "LC", None),
@@ -292,9 +345,22 @@ ST = [
     ("S085", "forecast", "L", "repetition", "S083: the government's projections", "high", None, None, 1, None, None, "LC", None),
     # S086
     ("S086", "It", "R", "personal", "S084: annual NOM dropped", "high", None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] drop ← dropped (S084): danh hóa động từ trong chuỗi giảm
+    # (H&H §6.2 reiteration; TNT §26) — VI giảm (TT S085) đối xứng.
+    ("S086", "drop", "L", "repetition",
+     "S084: annual NOM dropped", "high", None,
+     "lặp drop (dropped → the first annual drop)", 1, None, None, "LC",
+     None),
     ("S086", "borders", "L", "repetition", "S078: the reopening of borders", "high", None, None, 1, None, None, "LC", None),
     # S087
     ("S087", "Migrant arrivals", "L", "repetition", "S078: arrivals of temporary and permanent migrants", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] fell ← drop (S086): tiếp chuỗi giảm bằng đồng nghĩa (H&H
+    # §6.2 reiteration) — "this fall" (S088, R) neo về fell ở đây; VI giảm
+    # (TT S086) đối xứng.
+    ("S087", "fell", "L", "synonym",
+     "S086: the first annual drop", "med", None,
+     "fell ≈ drop: mắt xích giữa dropped (S084) và this fall (S088 R)", 1,
+     None, None, "LC", None),
     ("S087", "departures", "L", "repetition", "S083: fewer departures", "high", None, None, 1, None, None, "LC", None),
     # S088
     ("S088", "Rizvi", "L", "repetition", "S035: Rizvi", "high", None, None, 1, None, None, "LC", None),
@@ -303,6 +369,13 @@ ST = [
     ("S088", "changes", "L", "repetition", "S016: the announced changes", "high", None, None, 1, None, None, "LC", None),
     # S089
     ("S089", "The government", "L", "repetition", "S088: the government's", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] drop ← this fall (S088): tiếp chuỗi giảm (H&H §6.2) — dự báo
+    # NOM sẽ giảm tiếp; VI giảm xuống (TT S088) đối xứng.
+    ("S089", "drop", "L", "repetition",
+     "S088: this fall (chuỗi dropped → drop → fell → this fall)", "high",
+     None,
+     "lặp drop: NOM will drop to 260,000 — tiếp mạch mô tả sự giảm", 1,
+     None, None, "LC", None),
     ("S089", "NOM", "L", "repetition", "S084: NOM", "high", None, None, 1, None, None, "LC", None),
     ("S089", "projected", "L", "repetition", "S083: projections / S085: forecast", "high", None, None, 1, None, None, "LC", None),
     # S090
@@ -314,10 +387,22 @@ ST = [
     # S092
     ("S092", "It's", "R", "personal", "S090: 340,000 (revised NOM)", "high", None, "quote McDonald", 1, None, None, "LC", "A"),
     ("S092", "it's", "R", "personal", "S090: 340,000 (revised NOM)", "high", None, "quote McDonald; viết thường", 1, None, None, "LC", "A"),
+    # [Phase-2] coming down ← drop (S089): tiếp chuỗi giảm trong quote
+    # McDonald (H&H §6.2; TNT §26) — VI đang giảm xuống (TT S091) đối xứng.
+    ("S092", "coming down", "L", "repetition",
+     "S089: NOM will drop to 260,000", "high", None,
+     "lặp coming down (it's coming down ← will drop)", 1, None, None, "LC",
+     None),
     # S093
     ("S093", "And", "C", "additive", "S092: it's coming down", "high", None, None, 1, None, None, "LC", None),
     ("S093", "we", "R", "personal", "nước Úc/chúng ta chung (ngoại văn bản — quote McDonald)", "med", None, None, 1, None, None, "LC", "E"),
     ("S093", "it", "R", "personal", "S090: 340,000 (revised NOM)", "high", None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] come down ← coming down (S092): lặp trong quote McDonald
+    # (H&H §6.2 reiteration; TNT §26) — VI giảm xuống (TT S092) đối xứng.
+    ("S093", "come down", "L", "repetition",
+     "S092: it's coming down", "high", None,
+     "lặp come down (it will come down ← it's coming down)", 1, None,
+     None, "LC", None),
     ("S093", "panic", "L", "repetition", "S080: a bit of panic", "high", None, None, 1, None, None, "LC", None),
     ("S093", "departures", "L", "repetition", "S087: departures", "high", None, None, 1, None, None, "LC", None),
     # S094
@@ -326,12 +411,26 @@ ST = [
     ("S094", "McDonald", "L", "repetition", "S080: Peter McDonald", "high", None, None, 1, None, None, "LC", None),
     ("S094", "MYEFO", "L", "repetition", "S090: Mid-Year Economic and Fiscal Outlook (MYEFO)", "high", None, None, 1, None, None, "LC", None),
     # S096
+    # [Phase-2] Opposition ← the Opposition (S019): chuỗi phe đối lập bị
+    # sót (H&H §6.2 reiteration; TNT §26) — khoảng cách 77 câu nhưng cùng
+    # referent; VI phe đối lập (TT S095) đối xứng.
+    ("S096", "Opposition", "L", "repetition",
+     "S019: the Opposition blocked the plan", "high", None,
+     "lặp Opposition (the Opposition → Opposition leader); tiền trạm gần "
+     "nhất tuy xa (S019)", 1, None, None, "LC", None),
     ("S096", "Peter Dutton", "L", "repetition", "S024: Peter Dutton", "high", None, None, 1, None, None, "LC", None),
     ("S096", "permanent migration", "L", "repetition", "S072: the permanent migration program", "high", None, None, 1, None, None, "LC", None),
     # S097
     ("S097", "he", "R", "personal", "S096: Peter Dutton", "high", None, "'he also pledged'; occ 2 vì he gặp trong 'the following' trước đó", 2, None, None, "LC", "A"),
     ("S097", "also", "C", "additive", "S096: pledged to cut permanent migration", "high", None, None, 1, None, None, "LC", None),
     ("S097", "pledged", "L", "repetition", "S096: pledged", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] cut ← cut (S096): chuỗi động từ cắt giảm bị sót (H&H §6.2
+    # reiteration; TNT §26) — song hành với chuỗi pledged đã đánh; VI cắt
+    # giảm (TT S096) đối xứng.
+    ("S097", "cut", "L", "repetition",
+     "S096: to cut permanent migration annually", "high", None,
+     "lặp cut (cut permanent migration → cut net overseas migration)", 1,
+     None, None, "LC", None),
     ("S097", "net overseas migration", "L", "repetition", "S076: net overseas migration or NOM", "high", None, None, 1, None, None, "LC", None),
     # S098
     ("S098", "Dutton", "L", "repetition", "S096: Peter Dutton", "high", None, None, 1, None, None, "LC", None),
@@ -364,6 +463,16 @@ ST = [
     ("S105", "they", "R", "personal", "S104: A spokesperson for Dutton", "high", None, "they số ít; câu cắt phía VI", 1, None, None, "LC", "A"),
     # S106
     ("S106", "Australians", "L", "repetition", "S077: Australians", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] the polls ← "A looming federal election" (subhead S095):
+    # polls ≈ election (H&H §6.4 collocation; tiền trạm là subhead theo
+    # precedent P21 scammed ← subhead) — VI "đi bỏ phiếu" (TT S102) tái
+    # dùng hình vị của chuỗi bỏ phiếu visa (referent khác): EN đổi từ, VI
+    # lặp.
+    ("S106", "the polls", "L", "synonym",
+     "S095: A looming federal election (subhead)", "med", None,
+     "polls ≈ election (head to the polls = đi bầu); dịch chuyển NTT (2020) "
+     "§2: EN phân biệt ballot/polls, VI gộp bằng hình vị 'bỏ phiếu'", 1,
+     None, None, "LC", None),
     # S108
     ("S108", "the government", "L", "repetition", "S103: the government", "high", None, None, 1, None, None, "LC", None),
     ("S108", "cap the number of international student enrolments", "L", "repetition", "S018: capping international student enrolments", "high", None, None, 1, None, None, "LC", None),
@@ -373,6 +482,15 @@ ST = [
     ("S109", "education providers", "L", "repetition", "S022: international education providers", "high", None, None, 1, None, None, "LC", None),
     ("S109", "concerns", "L", "repetition", "S010: a concern", "med", None, None, 1, None, None, "LC", None),
     # S110 — 'however' nối 2 vế TRONG CÂU (Senate report ↔ government changed course): không lập hàng
+    # [Phase-2] the legislation ← its plan (S108): the + rename (mapping
+    # §3.6) — kế hoạch giới hạn được gọi lại bằng danh từ lập pháp; VI luật
+    # (TT S106) đối xứng (VI không có mạo từ, định danh bằng ngữ cảnh,
+    # mapping §4).
+    ("S110", "the legislation", "L", "synonym",
+     "S108: its plan to cap the number of international student enrolments",
+     "med", "R: the",
+     "the + rename: plan → legislation (đề xuất → đạo luật); H&H §2.4 mạo "
+     "từ the xác định tham chiếu đã nêu", 1, None, None, "LC", None),
     ("S110", "the government", "L", "repetition", "S108: the government", "high", None, None, 1, None, None, "LC", None),
     ("S110", "the Coalition", "L", "repetition", "S104: the Coalition", "high", None, "tiền trạm nằm ở câu bị cắt phía VI", 1, None, None, "LC", None),
     # S111
@@ -395,6 +513,15 @@ ST = [
     # S114
     ("S114", "Rizvi", "L", "repetition", "S088: Rizvi", "high", None, None, 1, None, None, "LC", None),
     ("S114", "this", "R", "demonstrative", "S111–S113: the new approach", "high", None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] broader ← concerns (S109): quy chiếu so sánh (H&H §2.5) —
+    # "a broader issue" = phạm vi lớn hơn các mối quan tâm của nhà cung
+    # cấp đã nêu; VI hiện thực hóa bằng "vấn đề ... càng lớn hơn" (TT S110,
+    # đánh L general word) — dịch chuyển R → L.
+    ("S114", "broader", "R", "comparative",
+     "S109: It raised concerns among some education providers", "med", None,
+     "[LC] so sánh số lượng (H&H §2.5): broader = rộng hơn các mối quan tâm "
+     "đã nêu; 'issue' là danh từ tổng quát (H&H §6.1) nhưng tín hiệu liên "
+     "kết chính là phép so sánh", 1, None, None, "LC", "A"),
     # S115
     ("S115", "temporary graduates and students", "L", "repetition", "S038: Temporary Graduate + S001: international students", "high", None, None, 1, None, None, "LC", None),
     ("S115", "a pathway to permanent residence", "L", "associative", "S071–S072: live... permanently / permanent places", "med", None, "chuỗi 'permanent'", 1, None, None, "LC", None),
@@ -431,7 +558,21 @@ TT = [
     ("S007", "Ông Watt", "L", "repetition", "S005: ông Watt", "high", None, None, 1, None, None, "LC", None),
     ("S007", "các cải cách", "L", "repetition", "S001: một loạt cải cách", "high", None, None, 1, None, None, "LC", None),
     ("S007", "hệ thống", "L", "repetition", "S003: hệ thống di trú", "med", None, "danh từ tổng quát", 1, None, None, "LC", None),
+    # [Phase-2] thay đổi lớn ← những thay đổi (S005): chuỗi thay đổi bị sót ở
+    # vế phủ định (TNT §26 phép lặp; H&H §6.2) — echo nguyên văn "những thay
+    # đổi lớn" (S003); EN major change (ST S008) đối xứng.
+    ("S007", "thay đổi lớn", "L", "repetition",
+     "S005: những thay đổi mà họ đã thực hiện", "high", None,
+     "lặp thay đổi (echo nguyên văn S003 'những thay đổi lớn'); vế 'thay vì "
+     "dẫn đến thay đổi lớn'", 1, None, None, "LC", None),
     # S008 (= ST S009)
+    # [Phase-2] "Cuối cùng," = continuative (H&H §5.8; TNT §38 phép nối
+    # lỏng): mở lượt kết luận của Watt trong quote; EN "At the end of the
+    # day" (ST S009) đối xứng.
+    ("S008", "Cuối cùng", "C", "continuative",
+     "S007: ông lập luận một số cải cách chỉ 'điều chỉnh'", "med", None,
+     "H&H §5.8 continuative: đánh dấu lượt tổng kết (ultimately), không "
+     "phải nối thời gian", 1, None, None, "LC", None),
     ("S008", "những cuộc thảo luận này", "R", "demonstrative", "S007: Watt lập luận", "high", None, None, 1, None, None, "LC", "A"),
     ("S008", "thị thực vĩnh viễn", "L", "associative", "S003: tính tạm thời vĩnh viễn", "med", None, "chuỗi 'vĩnh viễn'", 1, None, None, "LC", None),
     ("S008", "ông", "R", "personal", "S007: Ông Watt", "high", None, None, 1, None, None, "LC", "A"),
@@ -484,6 +625,13 @@ TT = [
     ("S024", "số lượng sinh viên", "L", "repetition", "S019: số lượng sinh viên quốc tế", "high", None, None, 1, None, None, "LC", None),
     ("S024", "xử lý thị thực", "L", "repetition", "S020: xử lý visa du học", "high", None, None, 1, None, None, "LC", None),
     # S025 (= ST S026)
+    # [Phase-2] khác ← những thay đổi đã nêu (S015/S023): quy chiếu so sánh
+    # (H&H §2.5 "khác/other") — "một số thay đổi khác" = khác với các thay
+    # đổi giới hạn/chỉ thị 111 đã nêu; EN "other" (ST S026) đối xứng 1-1.
+    ("S025", "khác", "R", "comparative",
+     "S023: thay đổi này (giới hạn/chỉ thị 111 ở S017–S024)", "med", None,
+     "[LC] quy chiếu so sánh: khác = khác với các thay đổi đã mô tả; H&H "
+     "§2.5; tiền trạm gần nhất S023", 1, None, None, "LC", "A"),
     ("S025", "thay đổi", "L", "repetition", "S015: Nhiều thay đổi", "high", None, None, 1, None, None, "LC", None),
     ("S025", "chương trình visa sinh viên", "L", "repetition", "S020: visa du học", "high", None, None, 1, None, None, "LC", None),
     # S026 (= ST S027; VI tách câu khác vị trí EN)
@@ -525,6 +673,13 @@ TT = [
     # S037 (= ST S038)
     ("S037", "những thay đổi", "L", "repetition", "S034: thay đổi", "high", None, None, 1, None, None, "LC", None),
     ("S037", "có hiệu lực", "L", "repetition", "S033: có hiệu lực", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] thời hạn lưu trú ← lưu trú (S006): chuỗi lưu trú bị sót đoạn
+    # gốc (TNT §26 phép lặp; H&H §6.2) — S042 hiện neo về S037; bổ sung mắt
+    # xích S006 → S037; EN the length of stay (ST S038) đối xứng.
+    ("S037", "thời hạn lưu trú", "L", "repetition",
+     "S006: việc lưu trú tạm thời dài hạn", "med", None,
+     "lặp lưu trú (hiện tượng → thông số thị thực)", 1, None, None, "LC",
+     None),
     ("S037", "visa tạm thời sau đại học", "L", "repetition", "S027: visa tạm thời sau đại học", "high", None, None, 1, None, None, "LC", None),
     ("S037", None, "E", "verbal", "S037: đã được rút ngắn", "high", None, "[TC] và ∅ áp dụng giới hạn độ tuổi mới — tỉnh lược {đã được}", 1, "đã được rút ngắn và ", "{đã được}", "TC", None),
     # S038 (= ST S039)
@@ -659,7 +814,18 @@ TT = [
     ("S076", "NOM", "L", "repetition", "S075: NOM", "high", None, None, 1, None, None, "LC", None),
     ("S076", "người di cư", "L", "repetition", "S070: người di cư", "high", None, None, 1, None, None, "LC", None),
     # S077 (= ST S078)
+    # [Phase-2] mở cửa trở lại ← đóng cửa (S075): phép đối qua câu (TNT §30;
+    # H&H §6.4 opposites) — EN reopening (ST S078) đối xứng.
+    ("S077", "mở cửa trở lại", "L", "antonym",
+     "S075: khiến Úc đóng cửa biên giới", "med", None,
+     "phép đối đóng cửa ↔ mở cửa", 1, None, None, "LC", None),
     ("S077", "biên giới", "L", "repetition", "S075: đóng cửa biên giới", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] quay trở lại ← trở lại (S074): lặp hình vị trở lại (TNT §26
+    # phép lặp) — "đưa... trở lại" (S074) → "quay trở lại" (S077); EN the
+    # return (ST S078) đối xứng.
+    ("S077", "quay trở lại", "L", "repetition",
+     "S074: đưa mức độ di trú trở lại 'gần mức trước đại dịch'", "med", None,
+     "lặp trở lại (trở lại → quay trở lại)", 1, None, None, "LC", None),
     ("S077", "di dân tạm thời và thường trú", "L", "repetition", "S070: người di cư + chuỗi tạm thời/thường trú", "high", None, None, 1, None, None, "LC", None),
     # S078 (= ST S079)
     ("S078", "người di cư ròng", "L", "repetition", "S075: di cư ròng ra nước ngoài", "high", None, None, 1, None, None, "LC", None),
@@ -674,6 +840,13 @@ TT = [
     ("S081", None, "E", "nominal", "S080: mức độ di cư", "high", None, "[LC] ∅ Chỉ là rất thấp — lược chủ ngữ câu đầu, hồi phục {mức độ di cư}; EN dùng 'It'", 1, "", "{mức độ di cư}", "LC", None),
     # S082 (= ST S083)
     ("S082", "Vấn đề", "L", "synonym", "S079: hoảng loạn", "med", None, "mô tả lại tình trạng", 1, None, None, "LC", None),
+    # [Phase-2] rời khỏi ← đến (S077): phép đối qua câu (TNT §30; H&H §6.4
+    # opposites) — người đến ↔ người rời, cặp bổ nghĩa hệ thống; EN
+    # departures (ST S083) đối xứng.
+    ("S082", "rời khỏi", "L", "antonym",
+     "S077: 'bắt kịp' lượng người đến", "med", None,
+     "phép đối đến ↔ rời (arrivals ↔ departures); chuỗi tiếp tục được đánh "
+     "ở S086 (lượng người rời đi)", 1, None, None, "LC", None),
     ("S082", "chính phủ", "L", "repetition", "S074: Chính phủ", "high", None, "'dự báo của chính phủ'", 1, None, None, "LC", None),
     # S083 (= ST S084)
     ("S083", "NOM", "L", "repetition", "S076: NOM", "high", None, None, 1, None, None, "LC", None),
@@ -682,9 +855,21 @@ TT = [
     ("S084", "dự báo của chính phủ", "L", "repetition", "S082: dự báo của chính phủ", "high", None, None, 1, None, None, "LC", None),
     # S085 (= ST S086)
     ("S085", "Đây", "R", "demonstrative", "S083: NOM giảm xuống 446.000", "high", None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] giảm ← giảm (S083): chuỗi động từ giảm bị sót (TNT §26 phép
+    # lặp; H&H §6.2) — "lần giảm hàng năm đầu tiên"; EN drop (ST S086) đối
+    # xứng.
+    ("S085", "giảm", "L", "repetition",
+     "S083: NOM hàng năm đã giảm xuống còn 446.000", "high", None,
+     "lặp giảm (giảm xuống → lần giảm hàng năm đầu tiên)", 1, None, None,
+     "LC", None),
     ("S085", "biên giới", "L", "repetition", "S077: biên giới", "high", None, None, 1, None, None, "LC", None),
     # S086 (= ST S087)
     ("S086", "Lượng người di cư đến", "L", "repetition", "S077: lượng người đến", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] giảm ← giảm (S085): tiếp chuỗi giảm (TNT §26) — đối xứng EN
+    # fell (ST S087).
+    ("S086", "giảm", "L", "repetition",
+     "S085: lần giảm hàng năm đầu tiên", "high", None,
+     "lặp giảm (di cư đến giảm 10%)", 1, None, None, "LC", None),
     ("S086", "lượng người rời đi", "L", "repetition", "S082: ít người rời khỏi Úc", "high", None, None, 1, None, None, "LC", None),
     # S087 (= ST S088)
     ("S087", "Rizvi", "L", "repetition", "S034: Rizvi", "high", None, None, 1, None, None, "LC", None),
@@ -695,6 +880,12 @@ TT = [
     ("S088", "Chính phủ", "L", "repetition", "S087: chính phủ", "high", None, None, 1, None, None, "LC", None),
     ("S088", "NOM", "L", "repetition", "S083: NOM", "high", None, None, 1, None, None, "LC", None),
     ("S088", "dự kiến", "L", "synonym", "S082/S084: dự báo", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] giảm xuống ← sự sụt giảm này (S087): tiếp chuỗi giảm (TNT
+    # §26) — dự báo NOM sẽ giảm tiếp; EN drop (ST S089) đối xứng.
+    ("S088", "giảm xuống", "L", "repetition",
+     "S087: sự sụt giảm này (chuỗi giảm S083–S086)", "high", None,
+     "lặp giảm (NOM sẽ giảm xuống còn 260.000)", 1, None, None, "LC",
+     None),
     # S089 (= ST S090)
     ("S089", "của chính phủ", "L", "repetition", "S088: Chính phủ", "high", None, "EN dùng 'Its' (R sở hữu)", 1, None, None, "LC", None),
     ("S089", "con số này", "R", "demonstrative", "S088: 260.000", "high", None, None, 1, None, None, "LC", "A"),
@@ -704,10 +895,22 @@ TT = [
     # S091 (= ST S092)
     ("S091", "Con số này", "R", "demonstrative", "S089: 340.000", "high", None, "quote McDonald", 1, None, None, "LC", "A"),
     ("S091", None, "E", "nominal", "S091: Con số này", "high", None, "[TC] nhưng ∅ đang giảm xuống — lược chủ ngữ {con số này}", 1, "nhưng ", "{con số này}", "TC", None),
+    # [Phase-2] đang giảm xuống ← giảm xuống (S088): tiếp chuỗi giảm trong
+    # quote McDonald (TNT §26) — EN coming down (ST S092) đối xứng.
+    ("S091", "đang giảm xuống", "L", "repetition",
+     "S088: sẽ giảm xuống còn 260.000", "high", None,
+     "lặp giảm xuống (đang giảm xuống ← sẽ giảm xuống)", 1, None, None,
+     "LC", None),
     # S092 (= ST S093)
     ("S092", "Và", "C", "additive", "S091: đang giảm xuống", "high", None, None, 1, None, None, "LC", None),
     ("S092", "chúng ta", "R", "personal", "nước Úc/chúng ta chung (ngoại văn bản — quote McDonald)", "med", None, None, 1, None, None, "LC", "E"),
     ("S092", "con số này", "R", "demonstrative", "S089: 340.000", "high", None, None, 1, None, None, "LC", "A"),
+    # [Phase-2] giảm xuống ← đang giảm xuống (S091): lặp trong quote
+    # McDonald (TNT §26 phép lặp) — EN come down (ST S093) đối xứng.
+    ("S092", "giảm xuống", "L", "repetition",
+     "S091: nhưng đang giảm xuống", "high", None,
+     "lặp giảm xuống (sẽ giảm xuống ← đang giảm xuống)", 1, None, None,
+     "LC", None),
     ("S092", "hoảng sợ", "L", "repetition", "S079: hoảng loạn", "high", None, None, 1, None, None, "LC", None),
     ("S092", "số lượng người rời đi", "L", "repetition", "S086: lượng người rời đi", "high", None, None, 1, None, None, "LC", None),
     # S093 (= ST S094)
@@ -716,12 +919,26 @@ TT = [
     ("S093", "McDonald", "L", "repetition", "S079: Peter McDonald", "high", None, None, 1, None, None, "LC", None),
     ("S093", "MYEFO", "L", "repetition", "S089: (MYEFO)", "high", None, None, 1, None, None, "LC", None),
     # S095 (= ST S096)
+    # [Phase-2] phe đối lập ← phe đối lập (S018): chuỗi phe đối lập bị sót
+    # (TNT §26 phép lặp; H&H §6.2) — khoảng cách xa nhưng cùng referent;
+    # EN Opposition (ST S096) đối xứng.
+    ("S095", "phe đối lập", "L", "repetition",
+     "S018: phe đối lập đã chặn kế hoạch", "high", None,
+     "lặp phe đối lập (lãnh đạo phe đối lập); tiền trạm gần nhất tuy xa "
+     "(S018)", 1, None, None, "LC", None),
     ("S095", "Peter Dutton", "L", "repetition", "S023: Peter Dutton", "high", None, None, 1, None, None, "LC", None),
     ("S095", "lượng di cư vĩnh viễn", "L", "repetition", "S071: chương trình di cư vĩnh viễn", "high", None, None, 1, None, None, "LC", None),
     # S096 (= ST S097)
     ("S096", "ông", "R", "personal", "S095: Peter Dutton", "high", None, None, 1, None, None, "LC", "A"),
     ("S096", "cũng", "C", "additive", "S095: cam kết cắt giảm di cư vĩnh viễn", "high", None, None, 1, None, None, "LC", None),
     ("S096", "cam kết", "L", "repetition", "S095: cam kết", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] cắt giảm ← cắt giảm (S095): chuỗi động từ cắt giảm bị sót
+    # (TNT §26 phép lặp) — song hành với chuỗi cam kết đã đánh; EN cut (ST
+    # S097) đối xứng.
+    ("S096", "cắt giảm", "L", "repetition",
+     "S095: cắt giảm 25% lượng di cư vĩnh viễn", "high", None,
+     "lặp cắt giảm (cắt giảm di cư vĩnh viễn → cắt giảm di cư ròng)", 1,
+     None, None, "LC", None),
     ("S096", "di cư ròng ra nước ngoài", "L", "repetition", "S075: di cư ròng ra nước ngoài", "high", None, None, 1, None, None, "LC", None),
     # S097 (= ST S098)
     ("S097", "Dutton", "L", "repetition", "S095: Peter Dutton", "high", None, None, 1, None, None, "LC", None),
@@ -742,6 +959,15 @@ TT = [
     ("S101", "chính phủ", "L", "repetition", "S088: Chính phủ", "high", None, "'khi chúng ta vào chính phủ'", 1, None, None, "LC", None),
     # S102 (= ST S106; ST S104–S105 bị cắt)
     ("S102", "Người dân Úc", "L", "repetition", "S076: người Úc", "med", None, None, 1, None, None, "LC", None),
+    # [Phase-2] bỏ phiếu ← Vòng bỏ phiếu (S070): TNT §26 phép lặp từ vựng
+    # (thiết bị hình thức) — referent khác (bầu cử liên bang, không phải
+    # ballot visa) nhưng lặp hình vị; EN "the polls" (ST S106) đổi từ mới
+    # (polls ≠ ballot) — dịch chuyển NTT (2020) §2: VI tái sử dụng từ vựng.
+    ("S102", "bỏ phiếu", "L", "repetition",
+     "S070: Vòng bỏ phiếu đầu tiên (chuỗi ballot S063–S072)", "med", None,
+     "lặp hình vị bỏ phiếu qua referent khác (đi bỏ phiếu = bầu cử); tách "
+     "chuỗi để khỏi lẫn với ballot visa (xem §8.5 analysis)", 1, None,
+     None, "LC", None),
     # S104 (= ST S108)
     ("S104", "chính phủ", "L", "repetition", "S101: chính phủ", "high", None, None, 1, None, None, "LC", None),
     ("S104", "kế hoạch hạn chế số lượng sinh viên quốc tế đăng ký", "L", "repetition", "S017: giới hạn số lượng sinh viên quốc tế đăng ký", "high", None, None, 1, None, None, "LC", None),
@@ -751,6 +977,16 @@ TT = [
     ("S105", "nhà cung cấp giáo dục", "L", "repetition", "S021: các nhà cung cấp giáo dục quốc tế", "high", None, None, 1, None, None, "LC", None),
     ("S105", "mối lo ngại", "L", "synonym", "S009: mối quan tâm", "med", None, None, 1, None, None, "LC", None),
     # S106 — 'tuy nhiên' nối 2 vế TRONG CÂU: không lập hàng
+    # [Phase-2] luật ← kế hoạch (S104): rename/tổng quát hóa (mapping §3.6;
+    # H&H §6.2) — kế hoạch giới hạn được gọi lại bằng "luật"; VI không có
+    # mạo từ, định danh bằng ngữ cảnh (mapping §4); EN the legislation (ST
+    # S110) đối xứng.
+    ("S106", "luật", "L", "synonym",
+     "S104: kế hoạch hạn chế số lượng sinh viên quốc tế đăng ký", "med",
+     None,
+     "kế hoạch → luật (đề xuất → đạo luật); trùng hình vị 'luật' (S072 — luật "
+     "PEV) nhưng referent khác, chọn tie rename theo mapping §3.13 (một "
+     "hình thức một hàng)", 1, None, None, "LC", None),
     ("S106", "chính phủ", "L", "repetition", "S104: chính phủ", "high", None, None, 1, None, None, "LC", None),
     # S107 (= ST S111)
     ("S107", "chỉ thị của bộ trưởng 111", "L", "repetition", "S020: chỉ thị mới 111 / S024: chỉ thị 107", "high", None, None, 1, None, None, "LC", None),
@@ -770,6 +1006,16 @@ TT = [
     ("S109", "điều đó", "S", "verbal", "S109: được hưởng lợi", "high", None, "[TC] thực hiện được điều đó ← được hưởng lợi", 1, None, None, "TC", None),
     # S110 (= ST S114)
     ("S110", "Rizvi", "L", "repetition", "S087: Rizvi", "high", None, None, 1, None, None, "LC", None),
+    # [Phase-2] vấn đề ← mối lo ngại (S105): danh từ tổng quát bridging (H&H
+    # §6.1 general word; mapping §3.6) — "vấn đề ... càng lớn hơn" trỏ về
+    # tình huống câu trước; EN dùng so sánh "broader" (R, ST S114) — dịch
+    # chuyển R → L: VI hiện thực hóa nghĩa so sánh bằng từ vựng.
+    ("S110", "vấn đề", "L", "general word",
+     "S105: mối lo ngại trong số một số nhà cung cấp giáo dục", "med",
+     None,
+     "danh từ tổng quát chỉ tình huống đã nêu; 'càng lớn hơn' = so sánh với "
+     "các mối lo ngại S105 (H&H §2.5); trùng hình vị 'Vấn đề' (S082) "
+     "nhưng referent khác", 1, None, None, "LC", None),
     # S111 (= ST S115)
     ("S111", "những sinh viên tốt nghiệp tạm thời", "L", "repetition", "S037: visa tạm thời sau đại học + sinh viên", "high", None, None, 1, None, None, "LC", None),
     ("S111", "con đường trở thành thường trú nhân", "L", "associative", "S057/S071: thường trú", "med", None, "chuỗi 'thường trú'", 1, None, None, "LC", None),

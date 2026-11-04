@@ -262,6 +262,34 @@
   },
   {
    "id": "P24-EN-019",
+   "sent": "S008",
+   "text": "major change",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S006: the changes they've made",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp hình vị change (big changes → major change) trong vế 'thay vì resulting in major change'"
+  },
+  {
+   "id": "P24-EN-020",
+   "sent": "S009",
+   "text": "At the end of the day",
+   "occ": 1,
+   "cat": "C",
+   "sub": "continuative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S008: he argues some will fine tune the system",
+   "conf": "med",
+   "alt": null,
+   "note": "H&H §5.8 continuative: đánh dấu lượt tổng kết (ultimately) sau phần trình bày S008; TNT §38 xếp là phép nối lỏng"
+  },
+  {
+   "id": "P24-EN-021",
    "sent": "S009",
    "text": "this discussion",
    "occ": 1,
@@ -276,7 +304,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-020",
+   "id": "P24-EN-022",
    "sent": "S009",
    "text": "permanent visas",
    "occ": 1,
@@ -290,7 +318,7 @@
    "note": "chuỗi 'permanent' đối lập 'temporary'"
   },
   {
-   "id": "P24-EN-021",
+   "id": "P24-EN-023",
    "sent": "S009",
    "text": "he",
    "occ": 5,
@@ -305,7 +333,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-022",
+   "id": "P24-EN-024",
    "sent": "S010",
    "text": "this",
    "occ": 1,
@@ -320,7 +348,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-023",
+   "id": "P24-EN-025",
    "sent": "S012",
    "text": "The government",
    "occ": 1,
@@ -334,7 +362,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-024",
+   "id": "P24-EN-026",
    "sent": "S012",
    "text": "the permanent migration program",
    "occ": 1,
@@ -348,7 +376,7 @@
    "note": "chuỗi 'permanent'"
   },
   {
-   "id": "P24-EN-025",
+   "id": "P24-EN-027",
    "sent": "S013",
    "text": "It",
    "occ": 1,
@@ -363,7 +391,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-026",
+   "id": "P24-EN-028",
    "sent": "S013",
    "text": "places",
    "occ": 1,
@@ -377,7 +405,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-027",
+   "id": "P24-EN-029",
    "sent": "S013",
    "text": "skilled migrants",
    "occ": 1,
@@ -391,7 +419,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-028",
+   "id": "P24-EN-030",
    "sent": "S014",
    "text": "were allocated",
    "occ": 1,
@@ -405,7 +433,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-029",
+   "id": "P24-EN-031",
    "sent": "S015",
    "text": "The former",
    "occ": 1,
@@ -420,7 +448,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-030",
+   "id": "P24-EN-032",
    "sent": "S015",
    "text": "the latter",
    "occ": 1,
@@ -435,7 +463,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-031",
+   "id": "P24-EN-033",
    "sent": "S016",
    "text": "the announced changes",
    "occ": 1,
@@ -449,7 +477,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-032",
+   "id": "P24-EN-034",
    "sent": "S016",
    "text": "reforms",
    "occ": 1,
@@ -463,7 +491,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-033",
+   "id": "P24-EN-035",
    "sent": "S016",
    "text": "the skilled visa program",
    "occ": 1,
@@ -477,7 +505,7 @@
    "note": "chuỗi 'skilled'"
   },
   {
-   "id": "P24-EN-034",
+   "id": "P24-EN-036",
    "sent": "S018",
    "text": "the government",
    "occ": 1,
@@ -491,7 +519,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-035",
+   "id": "P24-EN-037",
    "sent": "S018",
    "text": "international student enrolments",
    "occ": 1,
@@ -505,7 +533,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-036",
+   "id": "P24-EN-038",
    "sent": "S019",
    "text": "However",
    "occ": 1,
@@ -519,7 +547,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-037",
+   "id": "P24-EN-039",
    "sent": "S019",
    "text": "the plan",
    "occ": 1,
@@ -533,7 +561,7 @@
    "note": "mô tả lại đề xuất"
   },
   {
-   "id": "P24-EN-038",
+   "id": "P24-EN-040",
    "sent": "S019",
    "text": "the government",
    "occ": 1,
@@ -547,7 +575,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-039",
+   "id": "P24-EN-041",
    "sent": "S020",
    "text": "In response",
    "occ": 1,
@@ -561,7 +589,7 @@
    "note": "VI không hiện thực hóa nối (chỉ 'hiện đã')"
   },
   {
-   "id": "P24-EN-040",
+   "id": "P24-EN-042",
    "sent": "S020",
    "text": "the government",
    "occ": 1,
@@ -575,7 +603,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-041",
+   "id": "P24-EN-043",
    "sent": "S020",
    "text": "international students",
    "occ": 1,
@@ -589,7 +617,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-042",
+   "id": "P24-EN-044",
    "sent": "S021",
    "text": "student visa processing",
    "occ": 1,
@@ -603,7 +631,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-043",
+   "id": "P24-EN-045",
    "sent": "S021",
    "text": "capping",
    "occ": 1,
@@ -617,7 +645,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-044",
+   "id": "P24-EN-046",
    "sent": "S022",
    "text": "international education providers",
    "occ": 1,
@@ -631,7 +659,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-045",
+   "id": "P24-EN-047",
    "sent": "S022",
    "text": "high priority",
    "occ": 1,
@@ -645,7 +673,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-046",
+   "id": "P24-EN-048",
    "sent": "S023",
    "text": "they",
    "occ": 1,
@@ -660,7 +688,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-047",
+   "id": "P24-EN-049",
    "sent": "S023",
    "text": "standard priority",
    "occ": 1,
@@ -674,7 +702,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-048",
+   "id": "P24-EN-050",
    "sent": "S024",
    "text": "the change",
    "occ": 1,
@@ -688,7 +716,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-049",
+   "id": "P24-EN-051",
    "sent": "S024",
    "text": "the cap",
    "occ": 1,
@@ -702,7 +730,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-050",
+   "id": "P24-EN-052",
    "sent": "S024",
    "text": "this option",
    "occ": 1,
@@ -717,7 +745,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-051",
+   "id": "P24-EN-053",
    "sent": "S024",
    "text": "us",
    "occ": 2,
@@ -732,7 +760,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-052",
+   "id": "P24-EN-054",
    "sent": "S025",
    "text": "The new scheme",
    "occ": 1,
@@ -746,7 +774,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-053",
+   "id": "P24-EN-055",
    "sent": "S025",
    "text": "ministerial direction 107",
    "occ": 1,
@@ -760,7 +788,7 @@
    "note": "lặp khung 'ministerial direction'"
   },
   {
-   "id": "P24-EN-054",
+   "id": "P24-EN-056",
    "sent": "S025",
    "text": "the government",
    "occ": 1,
@@ -774,7 +802,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-055",
+   "id": "P24-EN-057",
    "sent": "S025",
    "text": "student numbers",
    "occ": 1,
@@ -788,7 +816,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-056",
+   "id": "P24-EN-058",
    "sent": "S025",
    "text": "visa processing",
    "occ": 1,
@@ -802,7 +830,22 @@
    "note": null
   },
   {
-   "id": "P24-EN-057",
+   "id": "P24-EN-059",
+   "sent": "S026",
+   "text": "other",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S016: the announced changes (giới hạn/chỉ thị 111 ở S018–S025)",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] quy chiếu so sánh: other = khác với các thay đổi đã mô tả; H&H §2.5; hai đầu đều liên câu (khác P21 khi EN cùng câu → [TC])",
+   "ref": "A"
+  },
+  {
+   "id": "P24-EN-060",
    "sent": "S026",
    "text": "changes",
    "occ": 1,
@@ -816,7 +859,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-058",
+   "id": "P24-EN-061",
    "sent": "S026",
    "text": "the student visa program",
    "occ": 1,
@@ -830,7 +873,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-059",
+   "id": "P24-EN-062",
    "sent": "S027",
    "text": "This",
    "occ": 1,
@@ -845,7 +888,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-060",
+   "id": "P24-EN-063",
    "sent": "S027",
    "text": "reforms",
    "occ": 1,
@@ -859,7 +902,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-061",
+   "id": "P24-EN-064",
    "sent": "S027",
    "text": "a student visa",
    "occ": 1,
@@ -873,7 +916,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-062",
+   "id": "P24-EN-065",
    "sent": "S027",
    "text": "temporary visa holders",
    "occ": 1,
@@ -887,7 +930,7 @@
    "note": "chuỗi 'temporary' + 'visa holders'"
   },
   {
-   "id": "P24-EN-063",
+   "id": "P24-EN-066",
    "sent": "S028",
    "text": "temporary graduate",
    "occ": 1,
@@ -901,7 +944,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-064",
+   "id": "P24-EN-067",
    "sent": "S028",
    "text": "apply",
    "occ": 1,
@@ -915,7 +958,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-065",
+   "id": "P24-EN-068",
    "sent": "S029",
    "text": "The full list",
    "occ": 1,
@@ -929,7 +972,7 @@
    "note": "mô tả lại danh sách hạn chế"
   },
   {
-   "id": "P24-EN-066",
+   "id": "P24-EN-069",
    "sent": "S030",
    "text": "Visa hopping",
    "occ": 1,
@@ -943,7 +986,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-067",
+   "id": "P24-EN-070",
    "sent": "S030",
    "text": "permanently temporary",
    "occ": 1,
@@ -957,7 +1000,7 @@
    "note": "biến thể của cụm then chốt"
   },
   {
-   "id": "P24-EN-068",
+   "id": "P24-EN-071",
    "sent": "S030",
    "text": "former international students",
    "occ": 1,
@@ -971,7 +1014,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-069",
+   "id": "P24-EN-072",
    "sent": "S030",
    "text": "the department",
    "occ": 1,
@@ -985,7 +1028,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-070",
+   "id": "P24-EN-073",
    "sent": "S031",
    "text": "These changes",
    "occ": 1,
@@ -1000,7 +1043,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-071",
+   "id": "P24-EN-074",
    "sent": "S031",
    "text": "this loophole",
    "occ": 1,
@@ -1015,7 +1058,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-072",
+   "id": "P24-EN-075",
    "sent": "S031",
    "text": "this practice",
    "occ": 1,
@@ -1030,7 +1073,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-073",
+   "id": "P24-EN-076",
    "sent": "S032",
    "text": "Also",
    "occ": 1,
@@ -1044,7 +1087,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-074",
+   "id": "P24-EN-077",
    "sent": "S032",
    "text": "international student visas",
    "occ": 1,
@@ -1058,7 +1101,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-075",
+   "id": "P24-EN-078",
    "sent": "S033",
    "text": "student and student guardian visa applicants",
    "occ": 1,
@@ -1072,7 +1115,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-076",
+   "id": "P24-EN-079",
    "sent": "S034",
    "text": "also",
    "occ": 1,
@@ -1086,7 +1129,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-077",
+   "id": "P24-EN-080",
    "sent": "S034",
    "text": "requirements",
    "occ": 1,
@@ -1100,7 +1143,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-078",
+   "id": "P24-EN-081",
    "sent": "S034",
    "text": "came into effect",
    "occ": 1,
@@ -1114,7 +1157,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-079",
+   "id": "P24-EN-082",
    "sent": "S035",
    "text": "Rizvi",
    "occ": 1,
@@ -1128,7 +1171,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-080",
+   "id": "P24-EN-083",
    "sent": "S035",
    "text": "the student visa policy changes",
    "occ": 1,
@@ -1142,7 +1185,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-081",
+   "id": "P24-EN-084",
    "sent": "S036",
    "text": "these",
    "occ": 1,
@@ -1157,7 +1200,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-082",
+   "id": "P24-EN-085",
    "sent": "S036",
    "text": "he",
    "occ": 4,
@@ -1172,7 +1215,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-083",
+   "id": "P24-EN-086",
    "sent": "S036",
    "text": "application rates",
    "occ": 1,
@@ -1186,7 +1229,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-084",
+   "id": "P24-EN-087",
    "sent": "S038",
    "text": "changes",
    "occ": 1,
@@ -1200,7 +1243,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-085",
+   "id": "P24-EN-088",
    "sent": "S038",
    "text": "came into effect",
    "occ": 1,
@@ -1214,7 +1257,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-086",
+   "id": "P24-EN-089",
+   "sent": "S038",
+   "text": "the length of stay",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S007: long-term temporary stays",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp hình vị stay (stays → the length of stay): nghĩa hẹp từ hiện tượng sang thông số thị thực (TNT §26 phép lặp từ vựng)"
+  },
+  {
+   "id": "P24-EN-090",
    "sent": "S038",
    "text": "Temporary Graduate visa (TGV) holders",
    "occ": 1,
@@ -1228,7 +1285,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-087",
+   "id": "P24-EN-091",
    "sent": "S038",
    "text": null,
    "occ": 1,
@@ -1244,7 +1301,7 @@
    "note": "[TC] and a new age limit ∅ imposed — tỉnh lược {was}"
   },
   {
-   "id": "P24-EN-088",
+   "id": "P24-EN-092",
    "sent": "S039",
    "text": "The Temporary Graduate Visa",
    "occ": 1,
@@ -1258,7 +1315,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-089",
+   "id": "P24-EN-093",
    "sent": "S039",
    "text": "streams",
    "occ": 1,
@@ -1272,7 +1329,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-090",
+   "id": "P24-EN-094",
    "sent": "S040",
    "text": "The age limit",
    "occ": 1,
@@ -1286,7 +1343,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-091",
+   "id": "P24-EN-095",
    "sent": "S041",
    "text": "Those",
    "occ": 1,
@@ -1300,7 +1357,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-092",
+   "id": "P24-EN-096",
    "sent": "S041",
    "text": "eligible",
    "occ": 1,
@@ -1314,7 +1371,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-093",
+   "id": "P24-EN-097",
    "sent": "S042",
    "text": "passport holders",
    "occ": 1,
@@ -1328,7 +1385,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-094",
+   "id": "P24-EN-098",
    "sent": "S042",
    "text": "still eligible until age 50",
    "occ": 1,
@@ -1342,7 +1399,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-095",
+   "id": "P24-EN-099",
    "sent": "S042",
    "text": "also",
    "occ": 1,
@@ -1356,7 +1413,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-096",
+   "id": "P24-EN-100",
    "sent": "S043",
    "text": "The length of stay",
    "occ": 1,
@@ -1370,7 +1427,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-097",
+   "id": "P24-EN-101",
    "sent": "S043",
    "text": "holders of a TGV",
    "occ": 1,
@@ -1384,7 +1441,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-098",
+   "id": "P24-EN-102",
    "sent": "S043",
    "text": "Post-Vocational Education Work stream",
    "occ": 1,
@@ -1398,7 +1455,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-099",
+   "id": "P24-EN-103",
    "sent": "S044",
    "text": "But",
    "occ": 1,
@@ -1412,7 +1469,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-100",
+   "id": "P24-EN-104",
    "sent": "S044",
    "text": "those",
    "occ": 1,
@@ -1426,7 +1483,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-101",
+   "id": "P24-EN-105",
    "sent": "S044",
    "text": "the Post-Higher Education Work stream",
    "occ": 1,
@@ -1440,7 +1497,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-102",
+   "id": "P24-EN-106",
    "sent": "S044",
    "text": "the length of stay",
    "occ": 1,
@@ -1454,7 +1511,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-103",
+   "id": "P24-EN-107",
    "sent": "S045",
    "text": "a master's degree by coursework",
    "occ": 1,
@@ -1468,7 +1525,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-104",
+   "id": "P24-EN-108",
    "sent": "S045",
    "text": "the maximum stay",
    "occ": 1,
@@ -1482,7 +1539,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-105",
+   "id": "P24-EN-109",
    "sent": "S045",
    "text": null,
    "occ": 1,
@@ -1498,7 +1555,7 @@
    "note": "[TC] or a PhD, ∅ three years — tỉnh lược {the maximum stay will be up to}"
   },
   {
-   "id": "P24-EN-106",
+   "id": "P24-EN-110",
    "sent": "S047",
    "text": "Watt",
    "occ": 1,
@@ -1512,7 +1569,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-107",
+   "id": "P24-EN-111",
    "sent": "S047",
    "text": "changes",
    "occ": 1,
@@ -1526,7 +1583,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-108",
+   "id": "P24-EN-112",
    "sent": "S047",
    "text": "employer-sponsored visas",
    "occ": 1,
@@ -1540,7 +1597,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-109",
+   "id": "P24-EN-113",
    "sent": "S048",
    "text": "The new visa",
    "occ": 1,
@@ -1554,7 +1611,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-110",
+   "id": "P24-EN-114",
    "sent": "S048",
    "text": "replaced",
    "occ": 1,
@@ -1568,7 +1625,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-111",
+   "id": "P24-EN-115",
    "sent": "S048",
    "text": "an employer to sponsor",
    "occ": 1,
@@ -1582,7 +1639,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-112",
+   "id": "P24-EN-116",
    "sent": "S048",
    "text": "eligible worker",
    "occ": 1,
@@ -1596,7 +1653,7 @@
    "note": "chuỗi 'eligible'"
   },
   {
-   "id": "P24-EN-113",
+   "id": "P24-EN-117",
    "sent": "S049",
    "text": "the SID",
    "occ": 1,
@@ -1610,7 +1667,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-114",
+   "id": "P24-EN-118",
    "sent": "S049",
    "text": "streams",
    "occ": 1,
@@ -1624,7 +1681,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-115",
+   "id": "P24-EN-119",
    "sent": "S049",
    "text": "took effect",
    "occ": 1,
@@ -1638,7 +1695,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-116",
+   "id": "P24-EN-120",
    "sent": "S050",
    "text": "Those who are eligible",
    "occ": 1,
@@ -1652,7 +1709,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-117",
+   "id": "P24-EN-121",
    "sent": "S050",
    "text": "the visa",
    "occ": 1,
@@ -1666,7 +1723,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-118",
+   "id": "P24-EN-122",
    "sent": "S050",
    "text": "Hong Kong passport holders",
    "occ": 1,
@@ -1680,7 +1737,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-119",
+   "id": "P24-EN-123",
    "sent": "S050",
    "text": "stay",
    "occ": 2,
@@ -1694,7 +1751,7 @@
    "note": "occ=2: can stay + may stay"
   },
   {
-   "id": "P24-EN-120",
+   "id": "P24-EN-124",
    "sent": "S051",
    "text": "The visa",
    "occ": 1,
@@ -1708,7 +1765,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-121",
+   "id": "P24-EN-125",
    "sent": "S051",
    "text": "streams",
    "occ": 1,
@@ -1722,7 +1779,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-122",
+   "id": "P24-EN-126",
    "sent": "S051",
    "text": "highly-skilled migrants",
    "occ": 1,
@@ -1736,7 +1793,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-123",
+   "id": "P24-EN-127",
    "sent": "S051",
    "text": "shortages",
    "occ": 1,
@@ -1750,7 +1807,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-124",
+   "id": "P24-EN-128",
    "sent": "S051",
    "text": "those",
    "occ": 1,
@@ -1764,7 +1821,7 @@
    "note": "[TC] those ← migrants"
   },
   {
-   "id": "P24-EN-125",
+   "id": "P24-EN-129",
    "sent": "S052",
    "text": "the core skills stream",
    "occ": 1,
@@ -1778,7 +1835,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-126",
+   "id": "P24-EN-130",
    "sent": "S052",
    "text": "eligible holders",
    "occ": 1,
@@ -1792,7 +1849,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-127",
+   "id": "P24-EN-131",
    "sent": "S052",
    "text": "sponsored",
    "occ": 1,
@@ -1806,7 +1863,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-128",
+   "id": "P24-EN-132",
    "sent": "S052",
    "text": "the government's",
    "occ": 1,
@@ -1820,7 +1877,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-129",
+   "id": "P24-EN-133",
    "sent": "S053",
    "text": "They",
    "occ": 1,
@@ -1835,7 +1892,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-130",
+   "id": "P24-EN-134",
    "sent": "S053",
    "text": "Core Skills Income Threshold",
    "occ": 1,
@@ -1849,7 +1906,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-131",
+   "id": "P24-EN-135",
    "sent": "S053",
    "text": "Temporary Skilled Migration Income Threshold",
    "occ": 1,
@@ -1863,7 +1920,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-132",
+   "id": "P24-EN-136",
    "sent": "S054",
    "text": "Applicants",
    "occ": 1,
@@ -1877,7 +1934,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-133",
+   "id": "P24-EN-137",
    "sent": "S054",
    "text": "the specialist skills stream",
    "occ": 1,
@@ -1891,7 +1948,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-134",
+   "id": "P24-EN-138",
    "sent": "S054",
    "text": "must meet",
    "occ": 1,
@@ -1905,7 +1962,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-135",
+   "id": "P24-EN-139",
    "sent": "S054",
    "text": "occupation",
    "occ": 1,
@@ -1919,7 +1976,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-136",
+   "id": "P24-EN-140",
    "sent": "S055",
    "text": "Income thresholds",
    "occ": 1,
@@ -1933,7 +1990,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-137",
+   "id": "P24-EN-141",
    "sent": "S056",
    "text": "The existing Labour Agreement stream",
    "occ": 1,
@@ -1947,7 +2004,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-138",
+   "id": "P24-EN-142",
    "sent": "S056",
    "text": "the TSS visa",
    "occ": 1,
@@ -1961,7 +2018,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-139",
+   "id": "P24-EN-143",
    "sent": "S056",
    "text": "the SID visa",
    "occ": 1,
@@ -1975,7 +2032,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-140",
+   "id": "P24-EN-144",
    "sent": "S056",
    "text": "Home Affairs department",
    "occ": 1,
@@ -1989,7 +2046,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-141",
+   "id": "P24-EN-145",
    "sent": "S058",
    "text": "Also",
    "occ": 1,
@@ -2003,7 +2060,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-142",
+   "id": "P24-EN-146",
    "sent": "S058",
    "text": "a National Innovation visa",
    "occ": 1,
@@ -2017,7 +2074,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-143",
+   "id": "P24-EN-147",
    "sent": "S058",
    "text": "replaced",
    "occ": 1,
@@ -2031,7 +2088,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-144",
+   "id": "P24-EN-148",
    "sent": "S058",
    "text": "the Global Talent stream",
    "occ": 1,
@@ -2045,7 +2102,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-145",
+   "id": "P24-EN-149",
    "sent": "S058",
    "text": "a permanent visa",
    "occ": 1,
@@ -2059,7 +2116,7 @@
    "note": "chuỗi 'permanent'"
   },
   {
-   "id": "P24-EN-146",
+   "id": "P24-EN-150",
    "sent": "S059",
    "text": "applicants",
    "occ": 1,
@@ -2073,7 +2130,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-147",
+   "id": "P24-EN-151",
    "sent": "S059",
    "text": "the Home Affairs department",
    "occ": 1,
@@ -2087,7 +2144,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-148",
+   "id": "P24-EN-152",
    "sent": "S060",
    "text": "Global Talent",
    "occ": 1,
@@ -2101,7 +2158,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-149",
+   "id": "P24-EN-153",
    "sent": "S060",
    "text": "applications",
    "occ": 1,
@@ -2115,7 +2172,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-150",
+   "id": "P24-EN-154",
    "sent": "S060",
    "text": "processed",
    "occ": 1,
@@ -2129,7 +2186,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-151",
+   "id": "P24-EN-155",
    "sent": "S060",
    "text": "priorities",
    "occ": 1,
@@ -2143,7 +2200,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-152",
+   "id": "P24-EN-156",
    "sent": "S061",
    "text": "Watt",
    "occ": 1,
@@ -2157,7 +2214,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-153",
+   "id": "P24-EN-157",
    "sent": "S061",
    "text": "the new visa",
    "occ": 1,
@@ -2171,7 +2228,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-154",
+   "id": "P24-EN-158",
    "sent": "S061",
    "text": "the previous visa",
    "occ": 1,
@@ -2186,7 +2243,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-155",
+   "id": "P24-EN-159",
    "sent": "S062",
    "text": "permanent visas",
    "occ": 1,
@@ -2200,7 +2257,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-156",
+   "id": "P24-EN-160",
    "sent": "S062",
    "text": "the same",
    "occ": 1,
@@ -2215,7 +2272,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-157",
+   "id": "P24-EN-161",
    "sent": "S064",
    "text": "The government",
    "occ": 1,
@@ -2229,7 +2286,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-158",
+   "id": "P24-EN-162",
    "sent": "S064",
    "text": "those",
    "occ": 1,
@@ -2243,7 +2300,7 @@
    "note": "[TC] those ← certain kinds of visas"
   },
   {
-   "id": "P24-EN-159",
+   "id": "P24-EN-163",
    "sent": "S065",
    "text": "ballot registrations",
    "occ": 1,
@@ -2257,7 +2314,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-160",
+   "id": "P24-EN-164",
    "sent": "S065",
    "text": "visa applicants",
    "occ": 1,
@@ -2271,7 +2328,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-161",
+   "id": "P24-EN-165",
    "sent": "S065",
    "text": "Work and Holiday",
    "occ": 1,
@@ -2285,7 +2342,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-162",
+   "id": "P24-EN-166",
    "sent": "S066",
    "text": "The department",
    "occ": 1,
@@ -2299,7 +2356,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-163",
+   "id": "P24-EN-167",
    "sent": "S066",
    "text": "the process",
    "occ": 1,
@@ -2313,7 +2370,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-164",
+   "id": "P24-EN-168",
    "sent": "S066",
    "text": "applicants",
    "occ": 1,
@@ -2327,7 +2384,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-165",
+   "id": "P24-EN-169",
    "sent": "S066",
    "text": "places",
    "occ": 1,
@@ -2341,7 +2398,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-166",
+   "id": "P24-EN-170",
    "sent": "S067",
    "text": "A ballot",
    "occ": 1,
@@ -2355,7 +2412,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-167",
+   "id": "P24-EN-171",
    "sent": "S067",
    "text": "also",
    "occ": 1,
@@ -2369,7 +2426,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-168",
+   "id": "P24-EN-172",
    "sent": "S067",
    "text": "a new temporary visa",
    "occ": 1,
@@ -2383,7 +2440,7 @@
    "note": "chuỗi 'temporary visa'"
   },
   {
-   "id": "P24-EN-169",
+   "id": "P24-EN-173",
    "sent": "S068",
    "text": "Indian",
    "occ": 1,
@@ -2397,7 +2454,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-170",
+   "id": "P24-EN-174",
    "sent": "S068",
    "text": "register",
    "occ": 1,
@@ -2411,7 +2468,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-171",
+   "id": "P24-EN-175",
    "sent": "S069",
    "text": "places will be allocated",
    "occ": 1,
@@ -2425,7 +2482,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-172",
+   "id": "P24-EN-176",
    "sent": "S070",
    "text": "ballot",
    "occ": 1,
@@ -2439,7 +2496,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-173",
+   "id": "P24-EN-177",
    "sent": "S070",
    "text": "registration",
    "occ": 1,
@@ -2453,7 +2510,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-174",
+   "id": "P24-EN-178",
    "sent": "S071",
    "text": "It",
    "occ": 1,
@@ -2468,7 +2525,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-175",
+   "id": "P24-EN-179",
    "sent": "S071",
    "text": "ballot",
    "occ": 1,
@@ -2482,7 +2539,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-176",
+   "id": "P24-EN-180",
    "sent": "S071",
    "text": "live and work in Australia",
    "occ": 1,
@@ -2496,7 +2553,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-177",
+   "id": "P24-EN-181",
    "sent": "S071",
    "text": "migrants",
    "occ": 1,
@@ -2510,7 +2567,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-178",
+   "id": "P24-EN-182",
    "sent": "S071",
    "text": "permanently",
    "occ": 1,
@@ -2524,7 +2581,7 @@
    "note": "chuỗi 'permanent'"
   },
   {
-   "id": "P24-EN-179",
+   "id": "P24-EN-183",
    "sent": "S072",
    "text": "Pacific",
    "occ": 1,
@@ -2538,7 +2595,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-180",
+   "id": "P24-EN-184",
    "sent": "S072",
    "text": "permanent places",
    "occ": 1,
@@ -2552,7 +2609,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-181",
+   "id": "P24-EN-185",
    "sent": "S072",
    "text": "the permanent migration program",
    "occ": 1,
@@ -2566,7 +2623,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-182",
+   "id": "P24-EN-186",
    "sent": "S073",
    "text": "the PEV",
    "occ": 1,
@@ -2580,7 +2637,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-183",
+   "id": "P24-EN-187",
    "sent": "S073",
    "text": "a ballot",
    "occ": 1,
@@ -2594,7 +2651,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-184",
+   "id": "P24-EN-188",
    "sent": "S075",
    "text": "The government",
    "occ": 1,
@@ -2608,7 +2665,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-185",
+   "id": "P24-EN-189",
    "sent": "S075",
    "text": "strategy",
    "occ": 1,
@@ -2622,7 +2679,7 @@
    "note": "tiền trạm nằm ở câu bị cắt phía VI"
   },
   {
-   "id": "P24-EN-186",
+   "id": "P24-EN-190",
    "sent": "S075",
    "text": "migration",
    "occ": 1,
@@ -2636,7 +2693,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-187",
+   "id": "P24-EN-191",
    "sent": "S076",
    "text": "pandemic",
    "occ": 1,
@@ -2650,7 +2707,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-188",
+   "id": "P24-EN-192",
    "sent": "S076",
    "text": "migration levels",
    "occ": 1,
@@ -2664,7 +2721,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-189",
+   "id": "P24-EN-193",
    "sent": "S077",
    "text": "NOM",
    "occ": 1,
@@ -2678,7 +2735,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-190",
+   "id": "P24-EN-194",
    "sent": "S077",
    "text": "migrants",
    "occ": 1,
@@ -2692,7 +2749,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-191",
+   "id": "P24-EN-195",
+   "sent": "S078",
+   "text": "reopening",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S076: prompted Australia to close its borders",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối close ↔ reopening (đóng ↔ mở cửa biên giới)"
+  },
+  {
+   "id": "P24-EN-196",
    "sent": "S078",
    "text": "borders",
    "occ": 1,
@@ -2706,7 +2777,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-192",
+   "id": "P24-EN-197",
+   "sent": "S078",
+   "text": "the return",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S075: help return migration to near pre-pandemic levels",
+   "conf": "med",
+   "alt": null,
+   "note": "lặp return (động từ S075 → danh từ S078)"
+  },
+  {
+   "id": "P24-EN-198",
    "sent": "S078",
    "text": "temporary and permanent migrants",
    "occ": 1,
@@ -2720,7 +2805,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-193",
+   "id": "P24-EN-199",
    "sent": "S079",
    "text": "Net migration",
    "occ": 1,
@@ -2734,7 +2819,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-194",
+   "id": "P24-EN-200",
    "sent": "S080",
    "text": "That",
    "occ": 1,
@@ -2749,7 +2834,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-195",
+   "id": "P24-EN-201",
    "sent": "S081",
    "text": "But",
    "occ": 1,
@@ -2763,7 +2848,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-196",
+   "id": "P24-EN-202",
    "sent": "S081",
    "text": "the level of migration",
    "occ": 1,
@@ -2777,7 +2862,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-197",
+   "id": "P24-EN-203",
    "sent": "S081",
    "text": "the same",
    "occ": 1,
@@ -2792,7 +2877,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-198",
+   "id": "P24-EN-204",
    "sent": "S081",
    "text": "you",
    "occ": 1,
@@ -2807,7 +2892,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-199",
+   "id": "P24-EN-205",
    "sent": "S082",
    "text": "It",
    "occ": 1,
@@ -2822,7 +2907,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-200",
+   "id": "P24-EN-206",
    "sent": "S083",
    "text": "The problem",
    "occ": 1,
@@ -2836,7 +2921,21 @@
    "note": "mô tả lại tình trạng"
   },
   {
-   "id": "P24-EN-201",
+   "id": "P24-EN-207",
+   "sent": "S083",
+   "text": "departures",
+   "occ": 1,
+   "cat": "L",
+   "sub": "antonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S078: a subsequent temporary rebound or \"catch-up\" of arrivals",
+   "conf": "med",
+   "alt": null,
+   "note": "phép đối arrivals ↔ departures (người đến ↔ người rời); chuỗi tiếp tục được đánh ở S087"
+  },
+  {
+   "id": "P24-EN-208",
    "sent": "S083",
    "text": "the government's",
    "occ": 1,
@@ -2850,7 +2949,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-202",
+   "id": "P24-EN-209",
    "sent": "S084",
    "text": "NOM",
    "occ": 1,
@@ -2864,7 +2963,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-203",
+   "id": "P24-EN-210",
    "sent": "S085",
    "text": "This",
    "occ": 1,
@@ -2879,7 +2978,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-204",
+   "id": "P24-EN-211",
    "sent": "S085",
    "text": "forecast",
    "occ": 1,
@@ -2893,7 +2992,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-205",
+   "id": "P24-EN-212",
    "sent": "S086",
    "text": "It",
    "occ": 1,
@@ -2908,7 +3007,21 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-206",
+   "id": "P24-EN-213",
+   "sent": "S086",
+   "text": "drop",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S084: annual NOM dropped",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp drop (dropped → the first annual drop)"
+  },
+  {
+   "id": "P24-EN-214",
    "sent": "S086",
    "text": "borders",
    "occ": 1,
@@ -2922,7 +3035,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-207",
+   "id": "P24-EN-215",
    "sent": "S087",
    "text": "Migrant arrivals",
    "occ": 1,
@@ -2936,7 +3049,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-208",
+   "id": "P24-EN-216",
+   "sent": "S087",
+   "text": "fell",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S086: the first annual drop",
+   "conf": "med",
+   "alt": null,
+   "note": "fell ≈ drop: mắt xích giữa dropped (S084) và this fall (S088 R)"
+  },
+  {
+   "id": "P24-EN-217",
    "sent": "S087",
    "text": "departures",
    "occ": 1,
@@ -2950,7 +3077,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-209",
+   "id": "P24-EN-218",
    "sent": "S088",
    "text": "Rizvi",
    "occ": 1,
@@ -2964,7 +3091,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-210",
+   "id": "P24-EN-219",
    "sent": "S088",
    "text": "this fall",
    "occ": 1,
@@ -2979,7 +3106,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-211",
+   "id": "P24-EN-220",
    "sent": "S088",
    "text": "the government's",
    "occ": 1,
@@ -2993,7 +3120,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-212",
+   "id": "P24-EN-221",
    "sent": "S088",
    "text": "changes",
    "occ": 1,
@@ -3007,7 +3134,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-213",
+   "id": "P24-EN-222",
    "sent": "S089",
    "text": "The government",
    "occ": 1,
@@ -3021,7 +3148,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-214",
+   "id": "P24-EN-223",
+   "sent": "S089",
+   "text": "drop",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S088: this fall (chuỗi dropped → drop → fell → this fall)",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp drop: NOM will drop to 260,000 — tiếp mạch mô tả sự giảm"
+  },
+  {
+   "id": "P24-EN-224",
    "sent": "S089",
    "text": "NOM",
    "occ": 1,
@@ -3035,7 +3176,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-215",
+   "id": "P24-EN-225",
    "sent": "S089",
    "text": "projected",
    "occ": 1,
@@ -3049,7 +3190,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-216",
+   "id": "P24-EN-226",
    "sent": "S090",
    "text": "Its",
    "occ": 1,
@@ -3064,7 +3205,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-217",
+   "id": "P24-EN-227",
    "sent": "S090",
    "text": "this figure",
    "occ": 1,
@@ -3079,7 +3220,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-218",
+   "id": "P24-EN-228",
    "sent": "S090",
    "text": "revised",
    "occ": 1,
@@ -3093,7 +3234,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-219",
+   "id": "P24-EN-229",
    "sent": "S091",
    "text": "The forecast",
    "occ": 1,
@@ -3107,7 +3248,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-220",
+   "id": "P24-EN-230",
    "sent": "S092",
    "text": "It's",
    "occ": 1,
@@ -3122,7 +3263,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-221",
+   "id": "P24-EN-231",
    "sent": "S092",
    "text": "it's",
    "occ": 1,
@@ -3137,7 +3278,21 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-222",
+   "id": "P24-EN-232",
+   "sent": "S092",
+   "text": "coming down",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S089: NOM will drop to 260,000",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp coming down (it's coming down ← will drop)"
+  },
+  {
+   "id": "P24-EN-233",
    "sent": "S093",
    "text": "And",
    "occ": 1,
@@ -3151,7 +3306,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-223",
+   "id": "P24-EN-234",
    "sent": "S093",
    "text": "we",
    "occ": 1,
@@ -3166,7 +3321,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-224",
+   "id": "P24-EN-235",
    "sent": "S093",
    "text": "it",
    "occ": 1,
@@ -3181,7 +3336,21 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-225",
+   "id": "P24-EN-236",
+   "sent": "S093",
+   "text": "come down",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S092: it's coming down",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp come down (it will come down ← it's coming down)"
+  },
+  {
+   "id": "P24-EN-237",
    "sent": "S093",
    "text": "panic",
    "occ": 1,
@@ -3195,7 +3364,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-226",
+   "id": "P24-EN-238",
    "sent": "S093",
    "text": "departures",
    "occ": 1,
@@ -3209,7 +3378,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-227",
+   "id": "P24-EN-239",
    "sent": "S094",
    "text": "we'll",
    "occ": 1,
@@ -3224,7 +3393,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-228",
+   "id": "P24-EN-240",
    "sent": "S094",
    "text": "back to normal",
    "occ": 1,
@@ -3238,7 +3407,7 @@
    "note": "normal ≈ mức trước đại dịch"
   },
   {
-   "id": "P24-EN-229",
+   "id": "P24-EN-241",
    "sent": "S094",
    "text": "McDonald",
    "occ": 1,
@@ -3252,7 +3421,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-230",
+   "id": "P24-EN-242",
    "sent": "S094",
    "text": "MYEFO",
    "occ": 1,
@@ -3266,7 +3435,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-231",
+   "id": "P24-EN-243",
+   "sent": "S096",
+   "text": "Opposition",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S019: the Opposition blocked the plan",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp Opposition (the Opposition → Opposition leader); tiền trạm gần nhất tuy xa (S019)"
+  },
+  {
+   "id": "P24-EN-244",
    "sent": "S096",
    "text": "Peter Dutton",
    "occ": 1,
@@ -3280,7 +3463,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-232",
+   "id": "P24-EN-245",
    "sent": "S096",
    "text": "permanent migration",
    "occ": 1,
@@ -3294,7 +3477,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-233",
+   "id": "P24-EN-246",
    "sent": "S097",
    "text": "he",
    "occ": 2,
@@ -3309,7 +3492,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-234",
+   "id": "P24-EN-247",
    "sent": "S097",
    "text": "also",
    "occ": 1,
@@ -3323,7 +3506,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-235",
+   "id": "P24-EN-248",
    "sent": "S097",
    "text": "pledged",
    "occ": 1,
@@ -3337,7 +3520,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-236",
+   "id": "P24-EN-249",
+   "sent": "S097",
+   "text": "cut",
+   "occ": 1,
+   "cat": "L",
+   "sub": "repetition",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S096: to cut permanent migration annually",
+   "conf": "high",
+   "alt": null,
+   "note": "lặp cut (cut permanent migration → cut net overseas migration)"
+  },
+  {
+   "id": "P24-EN-250",
    "sent": "S097",
    "text": "net overseas migration",
    "occ": 1,
@@ -3351,7 +3548,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-237",
+   "id": "P24-EN-251",
    "sent": "S098",
    "text": "Dutton",
    "occ": 1,
@@ -3365,7 +3562,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-238",
+   "id": "P24-EN-252",
    "sent": "S098",
    "text": "NOM",
    "occ": 1,
@@ -3379,7 +3576,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-239",
+   "id": "P24-EN-253",
    "sent": "S099",
    "text": "Instead",
    "occ": 1,
@@ -3393,7 +3590,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P24-EN-240",
+   "id": "P24-EN-254",
    "sent": "S099",
    "text": "he",
    "occ": 1,
@@ -3408,7 +3605,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-241",
+   "id": "P24-EN-255",
    "sent": "S099",
    "text": "permanent migration pledge",
    "occ": 1,
@@ -3422,7 +3619,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P24-EN-242",
+   "id": "P24-EN-256",
    "sent": "S100",
    "text": "we",
    "occ": 2,
@@ -3437,7 +3634,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-243",
+   "id": "P24-EN-257",
    "sent": "S101",
    "text": "And",
    "occ": 1,
@@ -3451,7 +3648,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-244",
+   "id": "P24-EN-258",
    "sent": "S101",
    "text": "we",
    "occ": 1,
@@ -3466,7 +3663,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-245",
+   "id": "P24-EN-259",
    "sent": "S101",
    "text": "the numbers",
    "occ": 1,
@@ -3480,7 +3677,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-246",
+   "id": "P24-EN-260",
    "sent": "S101",
    "text": "Dutton said",
    "occ": 1,
@@ -3494,7 +3691,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-247",
+   "id": "P24-EN-261",
    "sent": "S102",
    "text": "That's",
    "occ": 1,
@@ -3509,7 +3706,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-248",
+   "id": "P24-EN-262",
    "sent": "S102",
    "text": "our",
    "occ": 1,
@@ -3524,7 +3721,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-249",
+   "id": "P24-EN-263",
    "sent": "S103",
    "text": "Again",
    "occ": 1,
@@ -3538,7 +3735,7 @@
    "note": "khẳng định lại"
   },
   {
-   "id": "P24-EN-250",
+   "id": "P24-EN-264",
    "sent": "S103",
    "text": "we",
    "occ": 4,
@@ -3553,7 +3750,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-251",
+   "id": "P24-EN-265",
    "sent": "S103",
    "text": "the government",
    "occ": 1,
@@ -3567,7 +3764,7 @@
    "note": "'come into the government'"
   },
   {
-   "id": "P24-EN-252",
+   "id": "P24-EN-266",
    "sent": "S104",
    "text": "Dutton",
    "occ": 1,
@@ -3581,7 +3778,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P24-EN-253",
+   "id": "P24-EN-267",
    "sent": "S104",
    "text": "permanent and net migration",
    "occ": 1,
@@ -3595,7 +3792,7 @@
    "note": "câu cắt phía VI"
   },
   {
-   "id": "P24-EN-254",
+   "id": "P24-EN-268",
    "sent": "S105",
    "text": "I",
    "occ": 1,
@@ -3610,7 +3807,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-255",
+   "id": "P24-EN-269",
    "sent": "S105",
    "text": "he",
    "occ": 1,
@@ -3625,7 +3822,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-256",
+   "id": "P24-EN-270",
    "sent": "S105",
    "text": "that",
    "occ": 1,
@@ -3640,7 +3837,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-257",
+   "id": "P24-EN-271",
    "sent": "S105",
    "text": "they",
    "occ": 1,
@@ -3655,7 +3852,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-258",
+   "id": "P24-EN-272",
    "sent": "S106",
    "text": "Australians",
    "occ": 1,
@@ -3669,7 +3866,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-259",
+   "id": "P24-EN-273",
+   "sent": "S106",
+   "text": "the polls",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S095: A looming federal election (subhead)",
+   "conf": "med",
+   "alt": null,
+   "note": "polls ≈ election (head to the polls = đi bầu); dịch chuyển NTT (2020) §2: EN phân biệt ballot/polls, VI gộp bằng hình vị 'bỏ phiếu'"
+  },
+  {
+   "id": "P24-EN-274",
    "sent": "S108",
    "text": "the government",
    "occ": 1,
@@ -3683,7 +3894,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-260",
+   "id": "P24-EN-275",
    "sent": "S108",
    "text": "cap the number of international student enrolments",
    "occ": 1,
@@ -3697,7 +3908,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-261",
+   "id": "P24-EN-276",
    "sent": "S108",
    "text": "the sector",
    "occ": 1,
@@ -3711,7 +3922,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-262",
+   "id": "P24-EN-277",
    "sent": "S109",
    "text": "It",
    "occ": 1,
@@ -3726,7 +3937,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-263",
+   "id": "P24-EN-278",
    "sent": "S109",
    "text": "education providers",
    "occ": 1,
@@ -3740,7 +3951,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-264",
+   "id": "P24-EN-279",
    "sent": "S109",
    "text": "concerns",
    "occ": 1,
@@ -3754,7 +3965,21 @@
    "note": null
   },
   {
-   "id": "P24-EN-265",
+   "id": "P24-EN-280",
+   "sent": "S110",
+   "text": "the legislation",
+   "occ": 1,
+   "cat": "L",
+   "sub": "synonym",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S108: its plan to cap the number of international student enrolments",
+   "conf": "med",
+   "alt": "R: the",
+   "note": "the + rename: plan → legislation (đề xuất → đạo luật); H&H §2.4 mạo từ the xác định tham chiếu đã nêu"
+  },
+  {
+   "id": "P24-EN-281",
    "sent": "S110",
    "text": "the government",
    "occ": 1,
@@ -3768,7 +3993,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-266",
+   "id": "P24-EN-282",
    "sent": "S110",
    "text": "the Coalition",
    "occ": 1,
@@ -3782,7 +4007,7 @@
    "note": "tiền trạm nằm ở câu bị cắt phía VI"
   },
   {
-   "id": "P24-EN-267",
+   "id": "P24-EN-283",
    "sent": "S111",
    "text": "ministerial direction 111",
    "occ": 1,
@@ -3796,7 +4021,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-268",
+   "id": "P24-EN-284",
    "sent": "S111",
    "text": "this change",
    "occ": 1,
@@ -3811,7 +4036,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-269",
+   "id": "P24-EN-285",
    "sent": "S111",
    "text": "the current approach",
    "occ": 1,
@@ -3825,7 +4050,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-270",
+   "id": "P24-EN-286",
    "sent": "S111",
    "text": "our",
    "occ": 1,
@@ -3840,7 +4065,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-271",
+   "id": "P24-EN-287",
    "sent": "S111",
    "text": "international students",
    "occ": 1,
@@ -3854,7 +4079,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-272",
+   "id": "P24-EN-288",
    "sent": "S111",
    "text": "regional education providers",
    "occ": 1,
@@ -3868,7 +4093,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-273",
+   "id": "P24-EN-289",
    "sent": "S112",
    "text": "inner-city unis",
    "occ": 1,
@@ -3882,7 +4107,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-274",
+   "id": "P24-EN-290",
    "sent": "S112",
    "text": "international education",
    "occ": 1,
@@ -3896,7 +4121,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-275",
+   "id": "P24-EN-291",
    "sent": "S113",
    "text": "unis",
    "occ": 1,
@@ -3910,7 +4135,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-276",
+   "id": "P24-EN-292",
    "sent": "S113",
    "text": "benefit",
    "occ": 1,
@@ -3924,7 +4149,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-277",
+   "id": "P24-EN-293",
    "sent": "S113",
    "text": "too",
    "occ": 1,
@@ -3938,7 +4163,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-278",
+   "id": "P24-EN-294",
    "sent": "S113",
    "text": "this new approach",
    "occ": 1,
@@ -3953,7 +4178,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-279",
+   "id": "P24-EN-295",
    "sent": "S113",
    "text": "us",
    "occ": 1,
@@ -3968,7 +4193,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-280",
+   "id": "P24-EN-296",
    "sent": "S113",
    "text": "do that",
    "occ": 1,
@@ -3982,7 +4207,7 @@
    "note": "[TC] do that ← benefit"
   },
   {
-   "id": "P24-EN-281",
+   "id": "P24-EN-297",
    "sent": "S114",
    "text": "Rizvi",
    "occ": 1,
@@ -3996,7 +4221,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-282",
+   "id": "P24-EN-298",
    "sent": "S114",
    "text": "this",
    "occ": 1,
@@ -4011,7 +4236,22 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-283",
+   "id": "P24-EN-299",
+   "sent": "S114",
+   "text": "broader",
+   "occ": 1,
+   "cat": "R",
+   "sub": "comparative",
+   "dir": "ana",
+   "level": "LC",
+   "ante": "S109: It raised concerns among some education providers",
+   "conf": "med",
+   "alt": null,
+   "note": "[LC] so sánh số lượng (H&H §2.5): broader = rộng hơn các mối quan tâm đã nêu; 'issue' là danh từ tổng quát (H&H §6.1) nhưng tín hiệu liên kết chính là phép so sánh",
+   "ref": "A"
+  },
+  {
+   "id": "P24-EN-300",
    "sent": "S115",
    "text": "temporary graduates and students",
    "occ": 1,
@@ -4025,7 +4265,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-284",
+   "id": "P24-EN-301",
    "sent": "S115",
    "text": "a pathway to permanent residence",
    "occ": 1,
@@ -4039,7 +4279,7 @@
    "note": "chuỗi 'permanent'"
   },
   {
-   "id": "P24-EN-285",
+   "id": "P24-EN-302",
    "sent": "S115",
    "text": "one",
    "occ": 1,
@@ -4053,7 +4293,7 @@
    "note": "[TC] one ← a pathway"
   },
   {
-   "id": "P24-EN-286",
+   "id": "P24-EN-303",
    "sent": "S115",
    "text": "places",
    "occ": 1,
@@ -4067,7 +4307,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-287",
+   "id": "P24-EN-304",
    "sent": "S116",
    "text": "That's",
    "occ": 1,
@@ -4082,7 +4322,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-288",
+   "id": "P24-EN-305",
    "sent": "S117",
    "text": "Watt",
    "occ": 1,
@@ -4096,7 +4336,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-289",
+   "id": "P24-EN-306",
    "sent": "S117",
    "text": "We'll",
    "occ": 1,
@@ -4111,7 +4351,7 @@
    "ref": "E"
   },
   {
-   "id": "P24-EN-290",
+   "id": "P24-EN-307",
    "sent": "S117",
    "text": "what happens",
    "occ": 1,
@@ -4125,7 +4365,7 @@
    "note": null
   },
   {
-   "id": "P24-EN-291",
+   "id": "P24-EN-308",
    "sent": "S118",
    "text": "I",
    "occ": 1,
@@ -4140,7 +4380,7 @@
    "ref": "A"
   },
   {
-   "id": "P24-EN-292",
+   "id": "P24-EN-309",
    "sent": "S118",
    "text": "it",
    "occ": 1,

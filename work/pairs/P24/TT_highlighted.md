@@ -12,8 +12,8 @@ Chính phủ đã công bố một loạt cải cách vào năm 2024, chủ yế
 Đối với Ben Watt, một luật sư và đại diện di trú đã đăng ký, 🟪⟦chính quyền Albanese⟧ "đã nói những gì họ sẽ làm và họ đã thực hiện rất nhiều".
 "Việc chấm dứt 🟪⟦tính tạm thời vĩnh viễn⟧ là một động thái sáng suốt và 🟨⟦tôi⟧ nghĩ 🟪⟦những thay đổi⟧ mà 🟨⟦họ⟧ đã thực hiện là tốt", 🟪⟦ông Watt⟧ nói với SBS News.
 '🟪⟦Tính tạm thời vĩnh viễn⟧' ám chỉ đến việc lưu trú tạm thời dài hạn, thường do 'nhảy thị thực' - khi người ta ở lại Úc trong nhiều năm bằng cách chuyển đổi giữa các loại thị thực.
-🟪⟦Ông Watt⟧ cho rằng 🟪⟦các cải cách⟧ nhìn chung là tích cực, nhưng ông lập luận rằng một số cải cách sẽ hoạt động để "điều chỉnh" 🟪⟦hệ thống⟧ thay vì dẫn đến thay đổi lớn.
-"Cuối cùng, với tất cả 🟨⟦những cuộc thảo luận này⟧ ... số lượng 🟪⟦thị thực vĩnh viễn⟧ vẫn giữ nguyên", 🟨⟦ông⟧ nói.
+🟪⟦Ông Watt⟧ cho rằng 🟪⟦các cải cách⟧ nhìn chung là tích cực, nhưng ông lập luận rằng một số cải cách sẽ hoạt động để "điều chỉnh" 🟪⟦hệ thống⟧ thay vì dẫn đến 🟪⟦thay đổi lớn⟧.
+"🟧⟦Cuối cùng⟧, với tất cả 🟨⟦những cuộc thảo luận này⟧ ... số lượng 🟪⟦thị thực vĩnh viễn⟧ vẫn giữ nguyên", 🟨⟦ông⟧ nói.
 Abul Rizvi, cựu phó thư ký tại Bộ Di trú từ đầu những năm 1990 đến năm 2007, đồng ý rằng 🟨⟦đây⟧ là một mối quan tâm.
 Những thay đổi lớn nào về visa đã được công bố vào năm 2024?
 🟪⟦Chính phủ⟧ đã phân bổ 185.000 suất cho 🟪⟦chương trình di trú vĩnh viễn⟧ cho năm 2024-25, giảm so với 190.000 suất trong năm tài chính trước đó.
@@ -27,7 +27,7 @@ Chỉ thị mới 111 của bộ trưởng di trú sẽ giới thiệu hai loạ
 Tất cả 🟪⟦các nhà cung cấp giáo dục quốc tế⟧ sẽ được 🟪⟦ưu tiên cao⟧ lên đến 80% số lượng sinh viên quốc tế được phân bổ theo chỉ định của họ trong năm nay. Sau 80%, 🟨⟦họ⟧ sẽ được 🟪⟦ưu tiên tiêu chuẩn⟧.
 Khi công bố 🟨⟦thay đổi này⟧, Bộ trưởng Bộ Nội vụ Tony Burke cho biết: "Lựa chọn tốt nhất sẽ là 🟪⟦mức giới hạn⟧ đã bị Peter Dutton bác bỏ, nhưng 🟨⟦lựa chọn này⟧ vẫn cho phép 🟨⟦chúng tôi⟧ sử dụng một trong những đòn bẩy lớn nhất trong hệ thống di trú của mình".
 🟪⟦Chương trình mới⟧ sẽ thay thế 🟪⟦chỉ thị 107 của bộ trưởng⟧, được 🟪⟦chính phủ⟧ đưa ra vào năm ngoái nhằm giảm 🟪⟦số lượng sinh viên⟧ trong ngắn hạn, bằng cách làm chậm quá trình 🟪⟦xử lý thị thực⟧ cho các trường đại học nhỏ hơn và sinh viên từ các quốc gia được coi là có nhiều khả năng vi phạm các quy tắc visa.
-Có một số 🟪⟦thay đổi⟧ khác đối với 🟪⟦chương trình visa sinh viên⟧,
+Có một số 🟪⟦thay đổi⟧ 🟨⟦khác⟧ đối với 🟪⟦chương trình visa sinh viên⟧,
 bao gồm 🟦⟦∅⟧các 🟪⟦cải cách⟧ về điều kiện, với các hạn chế được đưa ra nhằm cấm một số người có 🟪⟦visa tạm thời⟧ nộp đơn xin 🟪⟦visa sinh viên⟧.
 Từ ngày 1 tháng 7 năm ngoái, những người có 🟪⟦visa tạm thời sau đại học⟧, du khách và thủy thủ đoàn hàng hải không thể xin 🟪⟦visa du học⟧ khi ở Úc. 🟪⟦Danh sách đầy đủ⟧ có sẵn trên trang web của Bộ Nội vụ.
 "🟪⟦Việc chuyển đổi visa⟧ đã góp phần làm tăng thêm nhóm 🟪⟦cựu sinh viên quốc tế⟧ '🟪⟦tạm thời vĩnh viễn⟧' đang sống tại Úc", 🟪⟦Bộ Nội vụ⟧ cho biết vào thời điểm đó.
@@ -37,7 +37,7 @@ Yêu cầu về năng lực tài chính - hay số tiền mà 🟪⟦người n�
 🟪⟦Rizvi⟧ cho biết rất nhiều 🟪⟦thay đổi⟧ về 🟪⟦chính sách visa sinh viên⟧ "cần phải được thực hiện".
 Mặc dù nhiều thay đổi trong 🟨⟦số này⟧ ảnh hưởng đến 🟪⟦tỷ lệ nộp đơn⟧, 🟨⟦ông⟧ cho biết tác động lớn nhất đến từ việc tăng tỷ lệ từ chối.
 Visa tạm thời sau đại học
-Theo 🟪⟦những thay đổi⟧ 🟪⟦có hiệu lực⟧ từ ngày 1 tháng 7, thời hạn lưu trú của người sở hữu 🟪⟦visa tạm thời sau đại học⟧ (TGV) đã được rút ngắn và 🟦⟦∅⟧áp dụng giới hạn độ tuổi mới.
+Theo 🟪⟦những thay đổi⟧ 🟪⟦có hiệu lực⟧ từ ngày 1 tháng 7, 🟪⟦thời hạn lưu trú⟧ của người sở hữu 🟪⟦visa tạm thời sau đại học⟧ (TGV) đã được rút ngắn và 🟦⟦∅⟧áp dụng giới hạn độ tuổi mới.
 🟪⟦Visa tạm thời sau đại học⟧ (458) đã được sắp xếp từ bốn thành ba 🟪⟦loại⟧: Post-Vocational Education Work, Post-Higher Education và Second Post-Higher Education Work.
 🟪⟦Giới hạn độ tuổi⟧ được giảm xuống còn 35 tuổi trở xuống. Những người theo học chương trình thạc sĩ hoặc tiến sĩ (PhD) vẫn 🟪⟦đủ điều kiện⟧ cho đến khi 50 tuổi.
 🟪⟦Người sở hữu⟧ hộ chiếu quốc gia Anh ở nước ngoài và Hồng Kông 🟪⟦vẫn đủ điều kiện cho đến khi 50 tuổi⟧.
@@ -74,33 +74,33 @@ Mức độ di cư của Úc - và việc trở lại "bình thường"
 🟪⟦Chính phủ⟧ kỳ vọng chiến lược sẽ giúp đưa 🟪⟦mức độ di trú⟧ trở lại "gần mức trước đại dịch" vào năm tài chính tiếp theo.
 🟪⟦Đại dịch⟧ COVID-19 đã khiến Úc đóng cửa biên giới vào năm 2020 và 🟪⟦mức độ di trú⟧ - đôi khi được gọi là di cư ròng ra nước ngoài hoặc NOM - đã thâm hụt.
 🟪⟦NOM⟧ đề cập đến sự khác biệt giữa những người nhập cảnh và rời khỏi Úc, bao gồm cả 🟪⟦người di cư⟧ và người Úc.
-Với việc mở cửa trở lại 🟪⟦biên giới⟧ vào năm 2021-22, những 🟪⟦di dân tạm thời và thường trú⟧ đã quay trở lại, và sau đó là sự phục hồi tạm thời hoặc "bắt kịp" lượng người đến.
+Với việc 🟪⟦mở cửa trở lại⟧ 🟪⟦biên giới⟧ vào năm 2021-22, những 🟪⟦di dân tạm thời và thường trú⟧ đã 🟪⟦quay trở lại⟧, và sau đó là sự phục hồi tạm thời hoặc "bắt kịp" lượng người đến.
 "Lượng 🟪⟦người di cư ròng⟧ đã vượt quá nửa triệu, đây là điều hoàn toàn chưa từng có trong lịch sử Úc. 🟨⟦Điều đó⟧ đã gây ra một chút hoảng loạn", Peter McDonald, giáo sư nhân khẩu học tại Đại học Quốc gia Úc cho biết.
 "🟧⟦Nhưng⟧ nếu 🟨⟦bạn⟧ lấy bốn năm, từ năm 2020 đến năm 2024, thì 🟪⟦mức độ di cư⟧ gần như tương đương với 🟨⟦mức trước đó⟧, tính trung bình. 🟦⟦∅⟧Chỉ là rất thấp trong một giai đoạn và rất cao trong giai đoạn khác".
-🟪⟦Vấn đề⟧ xuất phát từ việc ít người rời khỏi Úc trong năm đó - ước tính thấp hơn 55.000 người so với dự báo của 🟪⟦chính phủ⟧, theo McDonald.
+🟪⟦Vấn đề⟧ xuất phát từ việc ít người 🟪⟦rời khỏi⟧ Úc trong năm đó - ước tính thấp hơn 55.000 người so với dự báo của 🟪⟦chính phủ⟧, theo McDonald.
 Sau khi đạt đỉnh vào năm 2022-23, 🟪⟦NOM⟧ hàng năm đã giảm xuống còn 446.000 người vào năm 2023-24, theo dữ liệu do Nha Thống kê Úc công bố vào tháng 12.
 🟨⟦Con số này⟧ cao hơn khoảng 130.000 người so với 🟪⟦dự báo của chính phủ⟧ cho năm đó trong ngân sách 2023-24 (315.000 người) và cao hơn khoảng 51.000 người so với dự báo đã sửa đổi trong ngân sách 2024-25 là 395.000 người.
-🟨⟦Đây⟧ là lần giảm hàng năm đầu tiên kể từ khi 🟪⟦biên giới⟧ của Úc mở cửa trở lại. 🟪⟦Lượng người di cư đến⟧ giảm 10% trong khi 🟪⟦lượng người rời đi⟧ tăng 8% so với năm trước.
+🟨⟦Đây⟧ là lần 🟪⟦giảm⟧ hàng năm đầu tiên kể từ khi 🟪⟦biên giới⟧ của Úc mở cửa trở lại. 🟪⟦Lượng người di cư đến⟧ 🟪⟦giảm⟧ 10% trong khi 🟪⟦lượng người rời đi⟧ tăng 8% so với năm trước.
 🟪⟦Rizvi⟧ cho biết 🟨⟦sự sụt giảm này⟧ là "không thể tránh khỏi" do 🟪⟦chính phủ⟧ thắt chặt chính sách thông qua một "cơn bão" 🟪⟦thay đổi⟧.
-🟪⟦Chính phủ⟧ 🟪⟦dự kiến⟧ trong ngân sách năm ngoái rằng 🟪⟦NOM⟧ sẽ giảm xuống còn 260.000 vào năm 2024-25.
+🟪⟦Chính phủ⟧ 🟪⟦dự kiến⟧ trong ngân sách năm ngoái rằng 🟪⟦NOM⟧ sẽ 🟪⟦giảm xuống⟧ còn 260.000 vào năm 2024-25.
 Triển vọng kinh tế và tài chính giữa năm (MYEFO) 🟪⟦của chính phủ⟧ vào ngày 18 tháng 12 đã 🟪⟦điều chỉnh⟧ 🟨⟦con số này⟧ tăng thêm 80.000 lên 340.000.
 🟪⟦Dự báo⟧ cho năm 2025-26 vẫn giữ nguyên ở mức 255.000.
-"🟨⟦Con số này⟧ vẫn còn quá lớn, nhưng 🟦⟦∅⟧đang giảm xuống. 🟧⟦Và⟧ miễn là 🟨⟦chúng ta⟧ không 🟪⟦hoảng sợ⟧, 🟨⟦con số này⟧ sẽ giảm xuống khi 🟪⟦số lượng người rời đi⟧ bắt đầu tăng. Theo thời gian, 🟨⟦chúng ta⟧ sẽ 🟪⟦trở lại bình thường⟧", 🟪⟦McDonald⟧ đã nói trước khi cập nhật 🟪⟦MYEFO⟧.
+"🟨⟦Con số này⟧ vẫn còn quá lớn, nhưng 🟦⟦∅⟧🟪⟦đang giảm xuống⟧. 🟧⟦Và⟧ miễn là 🟨⟦chúng ta⟧ không 🟪⟦hoảng sợ⟧, 🟨⟦con số này⟧ sẽ 🟪⟦giảm xuống⟧ khi 🟪⟦số lượng người rời đi⟧ bắt đầu tăng. Theo thời gian, 🟨⟦chúng ta⟧ sẽ 🟪⟦trở lại bình thường⟧", 🟪⟦McDonald⟧ đã nói trước khi cập nhật 🟪⟦MYEFO⟧.
 Một cuộc bầu cử liên bang đang đến gần
-Trong bài trả lời về ngân sách hồi tháng 5 năm ngoái, lãnh đạo phe đối lập 🟪⟦Peter Dutton⟧ đã cam kết, nếu được bầu, sẽ cắt giảm 25% 🟪⟦lượng di cư vĩnh viễn⟧ hàng năm từ năm 2024-25 - từ 185.000 xuống 140.000 trong hai năm, sau đó tăng trở lại 160.000 trong hai năm tiếp theo.
-Trong các cuộc phỏng vấn với các đài phát thanh 3AW và 2GB vào ngày hôm sau, 🟨⟦ông⟧ 🟧⟦cũng⟧ 🟪⟦cam kết⟧ cắt giảm lượng 🟪⟦di cư ròng ra nước ngoài⟧ xuống còn khoảng 160.000.
+Trong bài trả lời về ngân sách hồi tháng 5 năm ngoái, lãnh đạo 🟪⟦phe đối lập⟧ 🟪⟦Peter Dutton⟧ đã cam kết, nếu được bầu, sẽ cắt giảm 25% 🟪⟦lượng di cư vĩnh viễn⟧ hàng năm từ năm 2024-25 - từ 185.000 xuống 140.000 trong hai năm, sau đó tăng trở lại 160.000 trong hai năm tiếp theo.
+Trong các cuộc phỏng vấn với các đài phát thanh 3AW và 2GB vào ngày hôm sau, 🟨⟦ông⟧ 🟧⟦cũng⟧ 🟪⟦cam kết⟧ 🟪⟦cắt giảm⟧ lượng 🟪⟦di cư ròng ra nước ngoài⟧ xuống còn khoảng 160.000.
 Phát biểu với Sky News vào ngày 8 tháng 12, 🟪⟦Dutton⟧ đã nhiều lần được hỏi liệu 160.000 có phải là mục tiêu 🟪⟦NOM⟧ của ông hay không.
 
 "Những gì chúng tôi đã nói là 🟨⟦chúng tôi⟧ muốn lượng di cư của mình giảm xuống trong hai năm đầu tiên, và sẽ tăng lên trong năm thứ ba và thứ tư. 🟧⟦Và⟧ 🟨⟦chúng tôi⟧ sẽ đưa 🟪⟦số lượng người đến⟧ thông qua chương trình nhân đạo và tị nạn trở lại mức trung bình dài hạn của con số đó", 🟪⟦Dutton cho biết⟧.
 "🟨⟦Đó⟧ là điều sẽ hiệu quả với đất nước 🟨⟦chúng ta⟧. 🟧⟦Một lần nữa⟧, chúng ta sẽ xem xét lại bối cảnh kinh tế của mình, như chúng ta đã nói vào thời điểm công bố chính sách, khi chúng ta vào 🟪⟦chính phủ⟧ để xác định chính xác mức độ thiệt hại mà Đảng Lao động đã gây ra và những gì 🟨⟦chúng ta⟧ cần phải làm."
 
-🟪⟦Người dân Úc⟧ sẽ đi bỏ phiếu trước giữa tháng 5 của năm nay.
+🟪⟦Người dân Úc⟧ sẽ đi 🟪⟦bỏ phiếu⟧ trước giữa tháng 5 của năm nay.
 Những thay đổi nào khác có thể xảy ra vào năm 2025?
 Khi 🟪⟦chính phủ⟧ công bố 🟪⟦kế hoạch hạn chế số lượng sinh viên quốc tế đăng ký⟧ vào năm 2024, người ta cho rằng biện pháp này sẽ đưa 🟨⟦lĩnh vực này⟧ vào thế bền vững hơn.
 🟨⟦Điều này⟧ đã gây ra 🟪⟦mối lo ngại⟧ trong số một số 🟪⟦nhà cung cấp giáo dục⟧.
-Một báo cáo của Thượng viện khuyến nghị rằng luật nên được thông qua tại quốc hội với các sửa đổi, tuy nhiên, 🟪⟦chính phủ⟧ đã thay đổi hướng đi sau khi vấp phải sự phản đối mạnh mẽ từ Liên đảng và Đảng Xanh.
+Một báo cáo của Thượng viện khuyến nghị rằng 🟪⟦luật⟧ nên được thông qua tại quốc hội với các sửa đổi, tuy nhiên, 🟪⟦chính phủ⟧ đã thay đổi hướng đi sau khi vấp phải sự phản đối mạnh mẽ từ Liên đảng và Đảng Xanh.
 Giải thích thêm về 🟪⟦chỉ thị của bộ trưởng 111⟧ thể hiện 🟨⟦sự thay đổi này⟧, Bộ trưởng Giáo dục Jason Clare cho biết: "Cải thiện 🟪⟦cách tiếp cận hiện tại⟧ sẽ tăng cường khả năng quản lý dòng 🟪⟦sinh viên quốc tế⟧ và hỗ trợ tốt hơn cho 🟪⟦các nhà cung cấp giáo dục khu vực⟧".
 "Không chỉ 🟪⟦các trường đại học lớn trong thành phố⟧ mới được hưởng lợi từ 🟪⟦giáo dục quốc tế⟧. Các trường TAFE, 🟪⟦trường đại học khu vực và ngoại ô⟧ 🟧⟦cũng⟧ sẽ 🟪⟦được hưởng lợi⟧ và 🟨⟦cách tiếp cận mới này⟧ sẽ giúp 🟨⟦chúng tôi⟧ thực hiện được 🟩⟦điều đó⟧".
-🟪⟦Rizvi⟧ nói rằng vấn đề phải đối mặt càng lớn hơn.
+🟪⟦Rizvi⟧ nói rằng 🟪⟦vấn đề⟧ phải đối mặt càng lớn hơn.
 "Điều gì sẽ xảy ra với tất cả 🟪⟦những sinh viên tốt nghiệp tạm thời⟧ và những sinh viên đang tìm kiếm 🟪⟦con đường trở thành thường trú nhân⟧ nhưng không có được 🟦⟦∅⟧vì không đủ 🟪⟦chỗ⟧? 🟨⟦Điều đó⟧ thực sự khó khăn".
 Nhìn về tương lai năm nay, 🟪⟦Watt⟧ cho biết: "🟨⟦Chúng ta⟧ hãy xem 🟪⟦điều gì sẽ xảy ra⟧. 🟨⟦Tôi⟧ muốn mọi việc diễn ra tốt đẹp".
