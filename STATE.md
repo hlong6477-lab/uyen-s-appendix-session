@@ -19,9 +19,9 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | prepare_input | ✅ | `work_input/prepared_input.md`, `work_input/repairs.json` |
 | ingest → P01..P20 → renumber → **P21..P40** | ✅ | Text NN ↔ PNN |
 | segment | ✅ | ST 801 câu / TT 731 câu |
-| Phân tích tay + tie table từng cặp | 18/20 ✅ | P24 + P27 còn lại — 2 cặp dài nhất |
-| annotate + render từng cặp | 18/20 PASS | |
-| build_appendix → export DOCX/PDF → validate | ⏳ | cần 20/20 PASS trước |
+| Phân tích tay + tie table từng cặp | 20/20 ✅ | P24 (292/267) + P27 (223/161) hoàn thành |
+| annotate + render từng cặp | 20/20 PASS | |
+| build_appendix → export DOCX/PDF → validate | ✅ | Appendix1.md/html/json + DOCX 179KB + PDF 775KB; validate 20/20 OK; markers EN 2114 / VI 1920 = 4034; coverage 100% |
 
 ## Bảng cặp (P21–P40)
 
@@ -30,10 +30,10 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P21 | Bunnings scam | 26/22 | ✅ | ✅ | ✅ | PASS/PASS (75/72) |
 | P22 | Kid screen time | 60/60 | ✅ | ✅ | ✅ | PASS/PASS (104/102) |
 | P23 | Shopping swap $4,000 | 41/45 | ✅ | ✅ | ✅ | PASS/PASS (108/122) |
-| P24 | Migration 2025 | 118/114 | ☐ | ☐ | ☐ | ☐ — **CHƯA BẮT ĐẦU** (dài nhất) |
+| P24 | Migration 2025 | 118/114 | ✅ | ✅ | ✅ | PASS/PASS (292/267) |
 | P25 | Inflation / RBA | 51/57 | ✅ | ✅ | ✅ | PASS/PASS (155/173) |
 | P26 | Fastest-growing jobs | 20/19 | ✅ | ✅ | ✅ | PASS/PASS (74/69) |
-| P27 | Overemployed | 105/84 | ☐ | ☐ | ☐ | ☐ — **CHƯA BẮT ĐẦU** (thứ 2 dài nhất) |
+| P27 | Overemployed | 105/84 | ✅ | ✅ | ✅ | PASS/PASS (223/161) |
 | P28 | New Year resolution | 72/70 | ✅ | ✅ | ✅ | PASS/PASS (168/170) |
 | P29 | Property prices | 27/21 | ✅ | ✅ | ✅ | PASS/PASS (86/65) |
 | P30 | Optimistic trends 2025 | 55/44 | ✅ | ✅ | ✅ | PASS/PASS (110/85) |
@@ -48,13 +48,14 @@ Sản phẩm: `out/appendix1/Appendix1.docx` + `.pdf` (bản giao: `/home/z/my-p
 | P39 | Bangladesh floods | 21/10 | ✅ | ✅ | ✅ | PASS/PASS (60/32) |
 | P40 | Pope funds | 7/6 | ✅ | ✅ | ✅ | PASS/PASS (17/20) |
 
-## Còn lại (ưu tiên)
+## TRẠNG THÁI: HOÀN THÀNH ✅
 
-1. **P24** (Migration 2025) — 118/114 câu, dài nhất toàn bộ. Dump: `python3 scripts/dump_pair.py P24 both`
-2. **P27** (Overemployed) — 105/84 câu. Dump: `python3 scripts/dump_pair.py P27 both`
-3. Khi 20/20 PASS: `python3 -m pipeline.build_appendix --work work --out out/appendix1` → `export_docx` → `export_pdf` → `validate`
-4. Copy sản phẩm sang `/home/z/my-project/download/`, commit + push cuối
-5. Báo cáo tổng: số tie mỗi cặp/tổng, coverage, kết quả QC/validate
+20/20 cặp PASS. Đã build_appendix (markers EN 2114 / VI 1920 = 4034, coverage 100%),
+export DOCX+PDF, validate 20/20 OK, copy sang `/home/z/my-project/download/appendix1/`.
+
+Tổng tie 20 cặp: **EN 2.114 / VI 1.920 = 4.034 hàng**.
+Phân loại EN: L 1.605 / R 386 (A 273 + E 113) / C 91 / S 17 / E 15.
+Phân loại VI: L 1.505 / R 304 (A 222 + E 82) / C 82 / S 6 / E 23.
 
 ## Lệnh chuẩn (chạy từ gốc repo này)
 
